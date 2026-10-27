@@ -1,0 +1,805 @@
+{
+  "version": 1,
+  "purpose": "User-selected primary motion-design taste references. Select relevant references for every motion brief; latest user direction takes priority. Study, not a production asset license.",
+  "references": [
+    {
+      "id": "REF-01",
+      "originalName": "video.0d33a27d.mp4",
+      "path": "assets/Reference Vid/REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "sha256": "0d33a27d6a801fb87c71d3af8a1c3a5c22b64341dc1b820749cd0dc378c9c633",
+      "bytes": 28940632,
+      "duration": 97.92,
+      "width": 1920,
+      "height": 982,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "5872",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "title": "AI data centre — power-to-chip 3D journey",
+      "tags": [
+        "technical explainer",
+        "3D",
+        "exploded view",
+        "macro-to-micro",
+        "camera journey"
+      ],
+      "study": "docs/reference-library/studies/REF-01.md",
+      "evidence": "docs/reference-library/evidence/REF-01",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-02",
+      "originalName": "video.1377563a.mp4",
+      "path": "assets/Reference Vid/REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "sha256": "1377563a6ceea51d39c183cab87a7fac45ec671c4af18425b563e25d924582a5",
+      "bytes": 2497458,
+      "duration": 10.112,
+      "width": 1920,
+      "height": 1078,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "604",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "title": "Dark UI — toggle, slider and keyboard relay",
+      "tags": [
+        "UI morph",
+        "dark mode",
+        "microinteraction",
+        "squash stretch",
+        "causal motion"
+      ],
+      "study": "docs/reference-library/studies/REF-02.md",
+      "evidence": "docs/reference-library/evidence/REF-02",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-03",
+      "originalName": "video.1d1039db.mp4",
+      "path": "assets/Reference Vid/REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "sha256": "1d1039db19d6bc52cd92d81fa7291fbd09fa4f515cc43d8e8a03be51521f3c68",
+      "bytes": 4776872,
+      "duration": 15.104,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "904",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "title": "Dub — growth dashboard and partner launch",
+      "tags": [
+        "SaaS launch",
+        "analytics",
+        "kinetic type",
+        "feature burst",
+        "CTA"
+      ],
+      "study": "docs/reference-library/studies/REF-03.md",
+      "evidence": "docs/reference-library/evidence/REF-03",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-04",
+      "originalName": "video.29e63674.mp4",
+      "path": "assets/Reference Vid/REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "sha256": "29e63674460c643d51e78dba3d80fcd6e75089ddd8b6baa80d987e8c1b0fa122",
+      "bytes": 8557159,
+      "duration": 13.955011,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "417",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "44100",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "title": "Sunset plane chase — painterly clouds and banking camera",
+      "tags": [
+        "cinematic 3D",
+        "painterly",
+        "camera roll",
+        "parallax",
+        "atmosphere"
+      ],
+      "study": "docs/reference-library/studies/REF-04.md",
+      "evidence": "docs/reference-library/evidence/REF-04",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-05",
+      "originalName": "video.2ab38476.mp4",
+      "path": "assets/Reference Vid/REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "sha256": "2ab384769328dc407b520245b5dfccd982f3d3b339022b6482cef721afaa90b4",
+      "bytes": 17435601,
+      "duration": 31.893,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "1910",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "title": "Kinetic type + acid chrome — double reel",
+      "tags": [
+        "showreel",
+        "kinetic typography",
+        "pattern",
+        "3D material",
+        "acid graphics"
+      ],
+      "study": "docs/reference-library/studies/REF-05.md",
+      "evidence": "docs/reference-library/evidence/REF-05",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-06",
+      "originalName": "video.2e2454eb.mp4",
+      "path": "assets/Reference Vid/REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "sha256": "2e2454ebeef6c636163085b9aa646f635439a18fafe3fa92e3c376dfdf8edd7a",
+      "bytes": 15972860,
+      "duration": 15.061,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "900",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "title": "Point → line → plane → volume → fluid",
+      "tags": [
+        "dimensional morph",
+        "Bauhaus",
+        "3D material",
+        "particle typography",
+        "loop"
+      ],
+      "study": "docs/reference-library/studies/REF-06.md",
+      "evidence": "docs/reference-library/evidence/REF-06",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-07",
+      "originalName": "video.3ebc4180.mp4",
+      "path": "assets/Reference Vid/REF-07-motionsites-launch-million-milestone.mp4",
+      "sha256": "3ebc4180bb4bb24413d2958a9728211ce0f5012d07a0f22812c39309f579f3c7",
+      "bytes": 13119613,
+      "duration": 54.3,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "1629",
+      "videoCodec": "h264",
+      "audio": null,
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-07-motionsites-launch-million-milestone.mp4",
+      "title": "Motionsites — launch and one-million milestone",
+      "tags": [
+        "website wall",
+        "social proof",
+        "milestone",
+        "terminal",
+        "community"
+      ],
+      "study": "docs/reference-library/studies/REF-07.md",
+      "evidence": "docs/reference-library/evidence/REF-07",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-08",
+      "originalName": "video.74e3b193.mp4",
+      "path": "assets/Reference Vid/REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "sha256": "74e3b193a3c497ae3d7fdb4775e00565ab42ed1f33ede216c5439171f78d6ab6",
+      "bytes": 3504812,
+      "duration": 15.061,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "449",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "title": "Blue dot — annotated animation principles lab",
+      "tags": [
+        "animation principles",
+        "kinetic type",
+        "easing",
+        "follow-through",
+        "educational"
+      ],
+      "study": "docs/reference-library/studies/REF-08.md",
+      "evidence": "docs/reference-library/evidence/REF-08",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-09",
+      "originalName": "video.7b6c0f2a.mp4",
+      "path": "assets/Reference Vid/REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "sha256": "7b6c0f2adc0b3e1fee655e2b772b170453943a5df04fa8888532c27bf6a5bf59",
+      "bytes": 10581423,
+      "duration": 29.077,
+      "width": 1440,
+      "height": 1440,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "1741",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "title": "Develop — gallery to phone to framed print",
+      "tags": [
+        "product story",
+        "iris",
+        "artwork continuity",
+        "device",
+        "physical reveal"
+      ],
+      "study": "docs/reference-library/studies/REF-09.md",
+      "evidence": "docs/reference-library/evidence/REF-09",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-10",
+      "originalName": "video.86605038.mp4",
+      "path": "assets/Reference Vid/REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "sha256": "866050388d924e61ba95cc391fbde3dbd23becc92dde3bb3d15a699c21ed7ae7",
+      "bytes": 6374918,
+      "duration": 15.061,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "900",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "title": "Red/blue — easing races and pattern-to-torus reel",
+      "tags": [
+        "easing",
+        "pattern morph",
+        "torus",
+        "kinetic type",
+        "logo loop"
+      ],
+      "study": "docs/reference-library/studies/REF-10.md",
+      "evidence": "docs/reference-library/evidence/REF-10",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-11",
+      "originalName": "video.86b30161.mp4",
+      "path": "assets/Reference Vid/REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "sha256": "86b3016105d84f9996f07def7021bcf02b9726c4f29ac377337eee370c8b32f9",
+      "bytes": 10381149,
+      "duration": 33.566667,
+      "width": 1280,
+      "height": 708,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "2014",
+      "videoCodec": "h264",
+      "audio": null,
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "title": "Vincent's Cats — journey inside Starry Night",
+      "tags": [
+        "painterly",
+        "immersive world",
+        "environment",
+        "camera journey",
+        "HUD"
+      ],
+      "study": "docs/reference-library/studies/REF-11.md",
+      "evidence": "docs/reference-library/evidence/REF-11",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-12",
+      "originalName": "video.912d0537.mp4",
+      "path": "assets/Reference Vid/REF-12-white-russian-hand-drawn-recipe.mp4",
+      "sha256": "912d053789a8d959f7523c7a0b945560992c8e93b6f15d356c96d0f3372ad192",
+      "bytes": 3267837,
+      "duration": 30.0,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "900",
+      "videoCodec": "h264",
+      "audio": null,
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-12-white-russian-hand-drawn-recipe.mp4",
+      "title": "White Russian — hand-drawn recipe sequence",
+      "tags": [
+        "hand drawn",
+        "process explainer",
+        "liquid",
+        "sequential state",
+        "editorial"
+      ],
+      "study": "docs/reference-library/studies/REF-12.md",
+      "evidence": "docs/reference-library/evidence/REF-12",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-13",
+      "originalName": "video.aab49a20.mp4",
+      "path": "assets/Reference Vid/REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "sha256": "aab49a200bde22ae0485779dec741aad06895d7931ec7c5d7c5e5ba262687af1",
+      "bytes": 5360486,
+      "duration": 15.061,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "449",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "title": "Enxovaly — lavender planner to furnished nursery",
+      "tags": [
+        "soft editorial",
+        "SaaS launch",
+        "phone",
+        "isometric room",
+        "selection"
+      ],
+      "study": "docs/reference-library/studies/REF-13.md",
+      "evidence": "docs/reference-library/evidence/REF-13",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-14",
+      "originalName": "video.aec5854d.mp4",
+      "path": "assets/Reference Vid/REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "sha256": "aec5854df2b077e88b703a3248dc3864b06fcb15ab14b7f8819ef7760addbe54",
+      "bytes": 28574962,
+      "duration": 153.552993,
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "4602",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "44100",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "title": "AI inner monologue — terminal and kinetic essay",
+      "tags": [
+        "vertical",
+        "kinetic typography",
+        "terminal",
+        "editorial serif",
+        "contrast pacing"
+      ],
+      "study": "docs/reference-library/studies/REF-14.md",
+      "evidence": "docs/reference-library/evidence/REF-14",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-15",
+      "originalName": "video.b5f7ea37.mp4",
+      "path": "assets/Reference Vid/REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "sha256": "b5f7ea37cfc173f2a95afb02e41069dedb441109a474ff8b4808a94697d038a8",
+      "bytes": 7851390,
+      "duration": 14.528,
+      "width": 1080,
+      "height": 1920,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "868",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "title": "Keep thinking — editorial cutout collage",
+      "tags": [
+        "mixed media",
+        "collage",
+        "archival cutout",
+        "editorial serif",
+        "match cut"
+      ],
+      "study": "docs/reference-library/studies/REF-15.md",
+      "evidence": "docs/reference-library/evidence/REF-15",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-16",
+      "originalName": "video.c0760fec.mp4",
+      "path": "assets/Reference Vid/REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "sha256": "c0760fec631745647bedba2be7e2e65a8a3433bfb2946e82bbacb7dec2179a3e",
+      "bytes": 1211453,
+      "duration": 34.5,
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "1035",
+      "videoCodec": "h264",
+      "audio": null,
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "title": "AI Superpowers — calm newsletter explainer",
+      "tags": [
+        "minimal",
+        "newsletter",
+        "three-step explainer",
+        "social proof",
+        "calm"
+      ],
+      "study": "docs/reference-library/studies/REF-16.md",
+      "evidence": "docs/reference-library/evidence/REF-16",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-17",
+      "originalName": "video.c1c2a37f.mp4",
+      "path": "assets/Reference Vid/REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "sha256": "c1c2a37f72647cbb92643fbe0c2670215759702a0926c67a9efd1cb4d8920cd5",
+      "bytes": 3937265,
+      "duration": 14.549,
+      "width": 1440,
+      "height": 1152,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "870",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "title": "Perspective website — flythrough and depth of field",
+      "tags": [
+        "website showcase",
+        "perspective",
+        "camera journey",
+        "depth of field",
+        "parallax"
+      ],
+      "study": "docs/reference-library/studies/REF-17.md",
+      "evidence": "docs/reference-library/evidence/REF-17",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-18",
+      "originalName": "video.c6d35570.mp4",
+      "path": "assets/Reference Vid/REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "sha256": "c6d3557090198695c0ccdde45865d581f7ceddb56c164424259cad2946b7c9ae",
+      "bytes": 18672277,
+      "duration": 15.161995,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "907",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "44100",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "title": "Drone Emprit — swarm, network and data spike",
+      "tags": [
+        "particles",
+        "data storytelling",
+        "network",
+        "swarm",
+        "logo formation"
+      ],
+      "study": "docs/reference-library/studies/REF-18.md",
+      "evidence": "docs/reference-library/evidence/REF-18",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-19",
+      "originalName": "video.e5fb6874.mp4",
+      "path": "assets/Reference Vid/REF-19-brand-identity-logo-to-application-montage.mp4",
+      "sha256": "e5fb68747bb7b2d5d1457d30923a1fe4b1c1f2fd2198f7b81d73fe5541ac84b2",
+      "bytes": 10622814,
+      "duration": 35.549002,
+      "width": 1920,
+      "height": 1068,
+      "fps": "30/1",
+      "rFrameRate": "30/1",
+      "declaredFrames": "1062",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "44100",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-19-brand-identity-logo-to-application-montage.mp4",
+      "title": "Brand identity — logo to application montage",
+      "tags": [
+        "brand identity",
+        "logo morph",
+        "editorial application",
+        "typography",
+        "rapid montage"
+      ],
+      "study": "docs/reference-library/studies/REF-19.md",
+      "evidence": "docs/reference-library/evidence/REF-19",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-20",
+      "originalName": "video.eb2ddbff.mp4",
+      "path": "assets/Reference Vid/REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "sha256": "eb2ddbff09563c739d8b9681ddc59dc366cc9c185ec02fad70fb391659ba9397",
+      "bytes": 9082458,
+      "duration": 15.061,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "900",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "title": "Orange/blue — motion systems, particles and data",
+      "tags": [
+        "showreel",
+        "kinetic type",
+        "procedural grid",
+        "particles",
+        "data",
+        "wipes"
+      ],
+      "study": "docs/reference-library/studies/REF-20.md",
+      "evidence": "docs/reference-library/evidence/REF-20",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-21",
+      "originalName": "video.eef090ae.mp4",
+      "path": "assets/Reference Vid/REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "sha256": "eef090aef84667ee4b7a9d5ab56e290cbade8ad03db19b346a17bf31376ba333",
+      "bytes": 1371953,
+      "duration": 14.058,
+      "width": 1440,
+      "height": 1440,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "840",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "48000",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "title": "Minimal light UI — generate, player, chart loop",
+      "tags": [
+        "UI morph",
+        "light mode",
+        "interaction",
+        "functional states",
+        "seamless loop"
+      ],
+      "study": "docs/reference-library/studies/REF-21.md",
+      "evidence": "docs/reference-library/evidence/REF-21",
+      "reviewDate": "2026-10-26"
+    },
+    {
+      "id": "REF-22",
+      "originalName": "video.f6307a0b.mp4",
+      "path": "assets/Reference Vid/REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "sha256": "f6307a0ba4f19bf17b85ca1e1789c45a196c9dbdf66e8fbc6d3dd5cb67cbc859",
+      "bytes": 10036919,
+      "duration": 40.053991,
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "rFrameRate": "60/1",
+      "declaredFrames": "2400",
+      "videoCodec": "h264",
+      "audio": {
+        "codec": "aac",
+        "rate": "44100",
+        "channels": 2
+      },
+      "metadata": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf60.3.100"
+      },
+      "name": "REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "title": "DistilBook — illustrated SaaS workflow launch",
+      "tags": [
+        "SaaS launch",
+        "logo-to-navigation",
+        "hand drawn",
+        "workflow",
+        "product proof"
+      ],
+      "study": "docs/reference-library/studies/REF-22.md",
+      "evidence": "docs/reference-library/evidence/REF-22",
+      "reviewDate": "2026-10-26"
+    }
+  ]
+}
