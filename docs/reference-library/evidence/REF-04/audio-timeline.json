@@ -1,0 +1,1027 @@
+{
+  "file": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.29e63674.mp4",
+  "video": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.29e63674.mp4",
+  "start": 0.0,
+  "end": 13.955,
+  "duration": 13.955,
+  "file_duration": 13.955,
+  "context": [
+    0.0,
+    13.955
+  ],
+  "has_audio": true,
+  "lossy": true,
+  "loudness": {
+    "integrated_lufs": -19.2,
+    "true_peak_dbtp": -5.9,
+    "digital_silence": false,
+    "max_momentary": {
+      "t": 11.1,
+      "lufs": -16.3
+    },
+    "momentary": {
+      "t0": 0.2,
+      "dt": 0.1,
+      "lufs": [
+        -38.5,
+        -30.2,
+        -28.5,
+        -28.4,
+        -28.3,
+        -31.4,
+        -29.9,
+        -29.1,
+        -29.1,
+        -29.1,
+        -32.6,
+        -32.0,
+        -29.0,
+        -28.3,
+        -28.4,
+        -29.6,
+        -30.4,
+        -29.3,
+        -29.1,
+        -29.2,
+        -31.2,
+        -35.5,
+        -38.2,
+        -38.9,
+        -41.6,
+        -42.6,
+        -42.6,
+        -39.6,
+        -32.2,
+        -31.1,
+        -30.7,
+        -30.7,
+        -34.3,
+        -36.3,
+        -37.7,
+        -39.2,
+        -39.9,
+        -26.7,
+        -23.1,
+        -21.0,
+        -19.8,
+        -19.7,
+        -19.7,
+        -19.7,
+        -19.6,
+        -19.5,
+        -19.5,
+        -19.5,
+        -19.1,
+        -18.7,
+        -17.7,
+        -17.0,
+        -16.6,
+        -16.5,
+        -17.1,
+        -17.9,
+        -18.8,
+        -19.3,
+        -19.5,
+        -19.1,
+        -19.0,
+        -18.8,
+        -18.4,
+        -17.6,
+        -17.0,
+        -16.5,
+        -16.5,
+        -17.2,
+        -18.0,
+        -18.9,
+        -19.3,
+        -19.6,
+        -20.0,
+        -20.1,
+        -19.9,
+        -19.5,
+        -18.8,
+        -17.8,
+        -17.2,
+        -16.7,
+        -16.8,
+        -17.6,
+        -18.5,
+        -19.5,
+        -19.8,
+        -20.0,
+        -20.1,
+        -20.3,
+        -20.4,
+        -20.2,
+        -20.0,
+        -19.7,
+        -18.9,
+        -18.6,
+        -18.6,
+        -18.6,
+        -19.5,
+        -19.8,
+        -19.6,
+        -19.5,
+        -19.4,
+        -19.7,
+        -19.8,
+        -19.5,
+        -19.1,
+        -18.7,
+        -17.6,
+        -17.0,
+        -16.5,
+        -16.3,
+        -16.8,
+        -17.5,
+        -17.9,
+        -18.3,
+        -18.6,
+        -19.1,
+        -19.7,
+        -19.8,
+        -19.5,
+        -19.1,
+        -18.3,
+        -17.4,
+        -17.0,
+        -16.7,
+        -17.0,
+        -17.7,
+        -18.2,
+        -18.8,
+        -19.3,
+        -20.0,
+        -21.1,
+        -22.5,
+        -24.0,
+        -26.2,
+        -29.3,
+        -33.0
+      ]
+    },
+    "max_short_term": {
+      "start": 10.0,
+      "end": 13.0,
+      "lufs": -18.2
+    },
+    "short_term": {
+      "t0": 1.5,
+      "dt": 0.5,
+      "lufs": [
+        -31.0,
+        -31.1,
+        -32.2,
+        -26.6,
+        -24.2,
+        -21.7,
+        -20.3,
+        -19.5,
+        -18.3,
+        -18.2,
+        -18.2,
+        -18.2,
+        -18.4,
+        -18.6,
+        -19.0,
+        -19.0,
+        -18.8,
+        -18.8,
+        -18.7,
+        -18.3,
+        -18.2,
+        -18.4
+      ]
+    },
+    "lra_lu": 12.4,
+    "silences": [
+      {
+        "start": 2.45,
+        "end": 3.05,
+        "dur": 0.6,
+        "kind": "drop",
+        "level_lufs": -43.1
+      },
+      {
+        "start": 3.65,
+        "end": 4.0,
+        "dur": 0.35,
+        "kind": "drop",
+        "level_lufs": -40.3
+      }
+    ],
+    "clipping": {
+      "samples": 0,
+      "runs": 0,
+      "times": []
+    }
+  },
+  "music": {
+    "tempo": 64.8,
+    "tempo_alt": null,
+    "beats": [
+      0.14,
+      1.05,
+      2.04,
+      3.08,
+      4.01,
+      4.94,
+      5.87,
+      6.77,
+      7.7,
+      8.61,
+      9.52,
+      10.47,
+      11.39,
+      12.36,
+      13.35
+    ],
+    "downbeats": [
+      0.14,
+      4.01,
+      7.7,
+      11.39
+    ],
+    "pulse_clarity": 0.15,
+    "beat_regularity": 0.041,
+    "confidence": "none",
+    "note": "beats at 10 ms resolution; downbeats are a guess (4/4 assumed); tempo may be half/double the felt tempo"
+  },
+  "events": [
+    {
+      "t": 0.148,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 46.7,
+      "z": 99.0,
+      "length_ms": 2000,
+      "prominence_db": 45.1,
+      "bed_db": -80.0,
+      "peak_dbfs": -21.0,
+      "local_lufs": -38.5,
+      "centroid_hz": 1093
+    },
+    {
+      "t": 0.185,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 51.0,
+      "z": 5.7,
+      "length_ms": 2000,
+      "prominence_db": 45.9,
+      "bed_db": -80.0,
+      "peak_dbfs": -20.4,
+      "local_lufs": -38.5,
+      "centroid_hz": 1193,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 3.06
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 1.92
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 1.88
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true
+    },
+    {
+      "t": 0.295,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 10.3,
+      "z": 3.6,
+      "length_ms": 2000,
+      "prominence_db": 35.7,
+      "bed_db": -68.9,
+      "peak_dbfs": -20.4,
+      "local_lufs": -30.7,
+      "centroid_hz": 738,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 3.08
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.1
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 1.79
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true
+    },
+    {
+      "t": 0.431,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 23.0,
+      "z": 17.1,
+      "length_ms": 220,
+      "prominence_db": 16.4,
+      "bed_db": -37.3,
+      "peak_dbfs": -20.4,
+      "local_lufs": -28.4,
+      "centroid_hz": 1639,
+      "tags": [
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.07
+        },
+        {
+          "tag": "glass clinking",
+          "kind": "FOLEY",
+          "z": 2.0
+        },
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.95
+        }
+      ],
+      "kind": "UI",
+      "label": "notification ding",
+      "exposed": true
+    },
+    {
+      "t": 0.893,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 12.5,
+      "z": 7.9,
+      "length_ms": 233,
+      "prominence_db": 11.6,
+      "bed_db": -34.9,
+      "peak_dbfs": -19.9,
+      "local_lufs": -29.1,
+      "centroid_hz": 1286,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.45
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 2.08
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.01
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false
+    },
+    {
+      "t": 1.47,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 21.0,
+      "z": 6.1,
+      "length_ms": 227,
+      "prominence_db": 14.4,
+      "bed_db": -35.4,
+      "peak_dbfs": -20.4,
+      "local_lufs": -28.4,
+      "centroid_hz": 1643,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.82
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 1.75
+        },
+        {
+          "tag": "glass clinking",
+          "kind": "FOLEY",
+          "z": 1.71
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true
+    },
+    {
+      "t": 1.821,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 10.5,
+      "z": 3.5,
+      "length_ms": 182,
+      "prominence_db": 0.0,
+      "bed_db": -30.1,
+      "peak_dbfs": -20.2,
+      "local_lufs": -30.1,
+      "centroid_hz": 561
+    },
+    {
+      "t": 1.932,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 13.4,
+      "z": 11.4,
+      "length_ms": 230,
+      "prominence_db": 12.0,
+      "bed_db": -35.1,
+      "peak_dbfs": -20.2,
+      "local_lufs": -29.2,
+      "centroid_hz": 1297,
+      "tags": [
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.01
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 1.81
+        },
+        {
+          "tag": "a piano note",
+          "kind": "NOTE",
+          "z": 1.69
+        }
+      ],
+      "kind": "UI",
+      "label": "notification ding",
+      "exposed": true
+    },
+    {
+      "t": 2.085,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.0,
+      "z": 4.1,
+      "length_ms": 26,
+      "prominence_db": 3.5,
+      "bed_db": -32.9,
+      "peak_dbfs": -26.3,
+      "local_lufs": -29.1,
+      "centroid_hz": 970
+    },
+    {
+      "t": 2.516,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.5,
+      "z": 3.3,
+      "length_ms": 25,
+      "prominence_db": 0.0,
+      "bed_db": -37.5,
+      "peak_dbfs": -37.1,
+      "local_lufs": -39.3,
+      "centroid_hz": 811
+    },
+    {
+      "t": 2.944,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 6.7,
+      "z": 3.1,
+      "length_ms": 2000,
+      "prominence_db": 0.0,
+      "bed_db": -41.1,
+      "peak_dbfs": -20.2,
+      "local_lufs": -34.0,
+      "centroid_hz": 1209
+    },
+    {
+      "t": 3.088,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 24.7,
+      "z": 31.8,
+      "length_ms": 2000,
+      "prominence_db": 19.3,
+      "bed_db": -42.8,
+      "peak_dbfs": -20.2,
+      "local_lufs": -31.2,
+      "centroid_hz": 1151,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.87
+        },
+        {
+          "tag": "an orchestral stab",
+          "kind": "NOTE",
+          "z": 1.99
+        },
+        {
+          "tag": "a piano note",
+          "kind": "NOTE",
+          "z": 1.73
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true
+    },
+    {
+      "t": 4.014,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 44.4,
+      "z": 46.9,
+      "length_ms": 2000,
+      "prominence_db": 23.3,
+      "bed_db": -40.1,
+      "peak_dbfs": -9.4,
+      "local_lufs": -22.7,
+      "centroid_hz": 206,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.53
+        },
+        {
+          "tag": "an orchestral stab",
+          "kind": "NOTE",
+          "z": 2.38
+        },
+        {
+          "tag": "a celesta note",
+          "kind": "NOTE",
+          "z": 2.0
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true
+    },
+    {
+      "t": 4.909,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 5.3,
+      "z": 5.5,
+      "length_ms": 2000,
+      "prominence_db": 1.4,
+      "bed_db": -19.0,
+      "peak_dbfs": -9.1,
+      "local_lufs": -19.4,
+      "centroid_hz": 356
+    },
+    {
+      "t": 5.089,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 10.2,
+      "z": 3.2,
+      "length_ms": 2000,
+      "prominence_db": 2.8,
+      "bed_db": -19.0,
+      "peak_dbfs": -6.9,
+      "local_lufs": -18.7,
+      "centroid_hz": 351
+    },
+    {
+      "t": 5.3,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 15.0,
+      "z": 9.7,
+      "length_ms": 350,
+      "prominence_db": 3.8,
+      "bed_db": -17.8,
+      "peak_dbfs": -5.9,
+      "local_lufs": -17.0,
+      "centroid_hz": 178
+    },
+    {
+      "t": 6.585,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 20.7,
+      "z": 16.3,
+      "length_ms": 281,
+      "prominence_db": 4.1,
+      "bed_db": -17.7,
+      "peak_dbfs": -8.0,
+      "local_lufs": -17.1,
+      "centroid_hz": 398,
+      "tags": [
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 2.08
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.03
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.91
+        }
+      ],
+      "kind": "UI",
+      "label": "chat message pop",
+      "exposed": false
+    },
+    {
+      "t": 7.278,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 8.7,
+      "z": 3.4,
+      "length_ms": 2000,
+      "prominence_db": 1.5,
+      "bed_db": -18.7,
+      "peak_dbfs": -10.1,
+      "local_lufs": -19.6,
+      "centroid_hz": 408
+    },
+    {
+      "t": 7.718,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.5,
+      "z": 4.1,
+      "length_ms": 1306,
+      "prominence_db": 4.0,
+      "bed_db": -19.8,
+      "peak_dbfs": -9.2,
+      "local_lufs": -19.4,
+      "centroid_hz": 309,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.56
+        },
+        {
+          "tag": "a piano note",
+          "kind": "NOTE",
+          "z": 2.34
+        },
+        {
+          "tag": "a celesta note",
+          "kind": "NOTE",
+          "z": 1.86
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false
+    },
+    {
+      "t": 7.953,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 21.6,
+      "z": 18.7,
+      "length_ms": 554,
+      "prominence_db": 3.8,
+      "bed_db": -18.3,
+      "peak_dbfs": -7.1,
+      "local_lufs": -17.4,
+      "centroid_hz": 444
+    },
+    {
+      "t": 8.228,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 7.8,
+      "z": 3.3,
+      "length_ms": 85,
+      "prominence_db": 2.1,
+      "bed_db": -16.1,
+      "peak_dbfs": -7.6,
+      "local_lufs": -17.0,
+      "centroid_hz": 271
+    },
+    {
+      "t": 8.509,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 7.5,
+      "z": 3.2,
+      "length_ms": 1741,
+      "prominence_db": 0.4,
+      "bed_db": -18.3,
+      "peak_dbfs": -10.5,
+      "local_lufs": -19.6,
+      "centroid_hz": 326
+    },
+    {
+      "t": 9.525,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 25.2,
+      "z": 13.3,
+      "length_ms": 321,
+      "prominence_db": 4.5,
+      "bed_db": -19.2,
+      "peak_dbfs": -7.3,
+      "local_lufs": -18.6,
+      "centroid_hz": 411
+    },
+    {
+      "t": 10.922,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 25.9,
+      "z": 19.1,
+      "length_ms": 741,
+      "prominence_db": 5.1,
+      "bed_db": -18.0,
+      "peak_dbfs": -6.7,
+      "local_lufs": -16.9,
+      "centroid_hz": 358,
+      "tags": [
+        {
+          "tag": "a piano note",
+          "kind": "NOTE",
+          "z": 2.17
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.09
+        },
+        {
+          "tag": "a celesta note",
+          "kind": "NOTE",
+          "z": 1.67
+        }
+      ],
+      "kind": "NOTE",
+      "label": "piano note",
+      "exposed": false
+    },
+    {
+      "t": 12.051,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 9.2,
+      "z": 3.1,
+      "length_ms": 1093,
+      "prominence_db": 4.3,
+      "bed_db": -19.6,
+      "peak_dbfs": -9.8,
+      "local_lufs": -19.3,
+      "centroid_hz": 301
+    },
+    {
+      "t": 12.361,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 23.3,
+      "z": 18.9,
+      "length_ms": 735,
+      "prominence_db": 5.0,
+      "bed_db": -18.1,
+      "peak_dbfs": -6.8,
+      "local_lufs": -17.1,
+      "centroid_hz": 365,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.35
+        },
+        {
+          "tag": "a piano note",
+          "kind": "NOTE",
+          "z": 1.77
+        },
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.51
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false
+    },
+    {
+      "t": 13.378,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.4,
+      "z": 11.5,
+      "length_ms": 52,
+      "prominence_db": 0.0,
+      "bed_db": -20.8,
+      "peak_dbfs": -14.8,
+      "local_lufs": -23.7,
+      "centroid_hz": 322
+    },
+    {
+      "t": 13.419,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 6.2,
+      "z": 9.1,
+      "length_ms": 120,
+      "prominence_db": 0.0,
+      "bed_db": -21.4,
+      "peak_dbfs": -18.0,
+      "local_lufs": -24.3,
+      "centroid_hz": 338
+    },
+    {
+      "t": 13.504,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 6.3,
+      "z": 16.4,
+      "length_ms": 4,
+      "prominence_db": 0.0,
+      "bed_db": -22.7,
+      "peak_dbfs": -21.8,
+      "local_lufs": -26.3,
+      "centroid_hz": 302
+    },
+    {
+      "t": 13.558,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.9,
+      "z": 11.7,
+      "length_ms": 16,
+      "prominence_db": 0.0,
+      "bed_db": -23.8,
+      "peak_dbfs": -21.7,
+      "local_lufs": -28.0,
+      "centroid_hz": 258
+    },
+    {
+      "t": 13.606,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 15.9,
+      "z": 50.8,
+      "length_ms": 2,
+      "prominence_db": 0.0,
+      "bed_db": -25.0,
+      "peak_dbfs": -21.5,
+      "local_lufs": -29.5,
+      "centroid_hz": 263
+    },
+    {
+      "t": 13.865,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 10.4,
+      "z": 23.8,
+      "length_ms": 1,
+      "prominence_db": 0.0,
+      "bed_db": -34.8,
+      "peak_dbfs": -37.8,
+      "local_lufs": -34.8,
+      "centroid_hz": 280
+    },
+    {
+      "t": 13.924,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.2,
+      "z": 17.4,
+      "length_ms": 31,
+      "prominence_db": 0.0,
+      "bed_db": -39.0,
+      "peak_dbfs": -47.4,
+      "local_lufs": -34.8,
+      "centroid_hz": 1355
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 13.96,
+      "windows": 4,
+      "coherence": 0.932,
+      "music_genre": [
+        {
+          "tag": "solo piano music",
+          "cat": "music_genre",
+          "z": 2.88,
+          "cos": 0.324
+        },
+        {
+          "tag": "playful children's piano music",
+          "cat": "music_genre",
+          "z": 2.51,
+          "cos": 0.283
+        }
+      ],
+      "music_mood": [
+        {
+          "tag": "sad and melancholic music",
+          "cat": "music_mood",
+          "z": 2.92,
+          "cos": 0.329
+        },
+        {
+          "tag": "romantic music",
+          "cat": "music_mood",
+          "z": 2.6,
+          "cos": 0.292
+        }
+      ],
+      "instruments": [
+        {
+          "tag": "an electric piano",
+          "cat": "instruments",
+          "z": 2.31,
+          "cos": 0.26
+        },
+        {
+          "tag": "a vocal chop",
+          "cat": "instruments",
+          "z": 2.18,
+          "cos": 0.245
+        }
+      ],
+      "ambience": [
+        {
+          "tag": "a crackling fire",
+          "cat": "ambience",
+          "z": 0.85,
+          "cos": 0.097
+        },
+        {
+          "tag": "rain on a window",
+          "cat": "ambience",
+          "z": 0.45,
+          "cos": 0.053
+        }
+      ],
+      "voice": [
+        {
+          "tag": "singing vocals",
+          "cat": "voice",
+          "z": 1.03,
+          "cos": 0.117
+        },
+        {
+          "tag": "a voice-over narration",
+          "cat": "voice",
+          "z": 0.28,
+          "cos": 0.033
+        }
+      ],
+      "lufs": -19.2,
+      "digital_silence": false,
+      "label": "solo piano music, electric piano, sad and melancholic"
+    }
+  ],
+  "sync": {},
+  "cuts": [],
+  "cut_method": "frame difference (earshot.video.cuts)",
+  "fps": 30.0,
+  "model_calls": {
+    "clap_event_windows": 12,
+    "ast_event_windows": 0,
+    "clap_section_windows": 4,
+    "ast_section_windows": 0
+  },
+  "timing_s": {
+    "decode_s": 0.12,
+    "loudness_s": 0.32,
+    "events_s": 0.25,
+    "beats_s": 0.19,
+    "cuts_s": 0.49,
+    "tag_events_s": 6.34,
+    "sections_s": 1.95,
+    "total_s": 9.65
+  },
+  "detail": "low",
+  "summary": "video.29e63674.mp4: 0:00.00-0:13.96 (14.0 s). Loudness -19.2 LUFS integrated, true peak -5.9 dBTP, LRA 12.4 LU; loudest 0:10.00-0:13.00 (-18.2 LUFS short-term). 2 stop-down(s)/gap(s): 0:02.45 0.6 s drop, 0:03.65 0.3 s drop. No steady beat grid (pulse clarity 0.15 < 0.15). 1 section(s): 0:00.00-0:13.96 solo piano music, electric piano, sad and melancholic. 33 events (2.4/s); 12 tagged (9 note, 3 ui; tags are hints). Strongest accents over a running bed: 0:04.01 +23 dB (glockenspiel note), 0:03.09 +19 dB (glockenspiel note), 0:00.43 +16 dB (notification ding).",
+  "text": "video.29e63674.mp4: 0:00.00-0:13.96 (14.0 s). Loudness -19.2 LUFS integrated, true peak -5.9 dBTP, LRA 12.4 LU; loudest 0:10.00-0:13.00 (-18.2 LUFS short-term). 2 stop-down(s)/gap(s): 0:02.45 0.6 s drop, 0:03.65 0.3 s drop. No steady beat grid (pulse clarity 0.15 < 0.15). 1 section(s): 0:00.00-0:13.96 solo piano music, electric piano, sad and melancholic. 33 events (2.4/s); 12 tagged (9 note, 3 ui; tags are hints). Strongest accents over a running bed: 0:04.01 +23 dB (glockenspiel note), 0:03.09 +19 dB (glockenspiel note), 0:00.43 +16 dB (notification ding).\n\nSECTIONS\n  0:00.00-0:13.96  solo piano music, electric piano, sad and melancholic  -19 LUFS\n\nTRANSCRIPT   time  kind   what (CLAP tag / runner-up)                     peak  over bed  length  centroid  | sync\n== 0:00.00-0:13.96  solo piano music, electric piano, sad and melancholic  (+21 untagged onsets, 1.5/s)\n 0:00.18  NOTE   glockenspiel note / notification ding           -20.4 dBFS   silent  2000 ms  1.2 kHz\n 0:00.29  NOTE   glockenspiel note / notification ding           -20.4 dBFS   silent  2000 ms   738 Hz\n 0:00.43  UI     notification ding / glass clinking              -20.4 dBFS +16.4 dB   220 ms  1.6 kHz  | strong accent (summary)\n 0:00.89  NOTE?  glockenspiel note / notification ding           -19.9 dBFS +11.6 dB   233 ms  1.3 kHz\n 0:01.47  NOTE   glockenspiel note / notification ding           -20.4 dBFS +14.4 dB   227 ms  1.6 kHz\n 0:01.93  UI     notification ding / bell chime                  -20.2 dBFS +12.0 dB   230 ms  1.3 kHz\n 0:02.45  GAP    drop 0.60 s (-43 LUFS)\n 0:03.09  NOTE   glockenspiel note                               -20.2 dBFS +19.3 dB  2000 ms  1.2 kHz  | strong accent (summary)\n 0:03.65  GAP    drop 0.35 s (-40 LUFS)\n 0:04.01  NOTE   glockenspiel note                                -9.4 dBFS +23.3 dB  2000 ms   206 Hz  | strong accent (summary)\n 0:06.58  UI?    chat message pop / glockenspiel note             -8.0 dBFS  +4.1 dB   281 ms   398 Hz\n 0:07.72  NOTE?  glockenspiel note                                -9.2 dBFS  +4.0 dB  1306 ms   309 Hz\n 0:10.92  NOTE?  piano note                                       -6.7 dBFS  +5.1 dB   741 ms   358 Hz\n 0:12.36  NOTE?  glockenspiel note / chat message pop             -6.8 dBFS  +5.0 dB   735 ms   365 Hz\n\nNOTES  times, levels, loudness and sync offsets are measurements. Event kinds / tags are CLAP guesses: '?' = the event is less than 12 dB over its bed, so its excerpt is mostly bed and the tag a weak hint (right kind about 1 in 4 on the tuning mixes, 1 in 2 for exposed events; often wrong on music and voice). Where AST ran, its speech overrides the kind with VOICE. Section genres marked ? are weak. 'over bed' = how far the event rises over the level just before it; 'silent' = that bed was below -60 (after a gap the rise means nothing). Full data: --json.",
+  "cached": false
+}

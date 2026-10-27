@@ -1,0 +1,787 @@
+{
+  "duration": 60,
+  "keep_audio": false,
+  "music_ref": "src/projects/style-showreel-v2/assets/audio/music-edit.wav",
+  "base_audio": [
+    "src/projects/style-showreel-v2/assets/audio/music-edit.wav"
+  ],
+  "cues": [
+    {
+      "t": 0.8,
+      "frame": 48,
+      "label": "Opening / camera sweep",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-long_1.wav",
+      "role": "whoosh",
+      "gain_db": -13,
+      "anchor": "peak",
+      "max_dur": 1.2
+    },
+    {
+      "t": 1.25,
+      "frame": 75,
+      "label": "BEYOND / title lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -10,
+      "anchor": "start"
+    },
+    {
+      "t": 3.316666666666667,
+      "frame": 199,
+      "label": "THE FRAME / title lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -10,
+      "anchor": "start"
+    },
+    {
+      "t": 4.483333333333333,
+      "frame": 269,
+      "label": "particles / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav",
+      "role": "whoosh",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 6.566666666666666,
+      "frame": 394,
+      "label": "liquid / liquid handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav",
+      "role": "water",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 9.033333333333333,
+      "frame": 542,
+      "label": "hologram / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/holo-shimmer.wav",
+      "role": "glass",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 11.266666666666667,
+      "frame": 676,
+      "label": "neon / whip handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/neon-chirp.wav",
+      "role": "glitch",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 13.35,
+      "frame": 801,
+      "label": "wire / shutter handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wire-latch.wav",
+      "role": "camera",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 15.566666666666666,
+      "frame": 934,
+      "label": "glass / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/glass-touch.wav",
+      "role": "glass",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 16.066666666666666,
+      "frame": 964,
+      "label": "Glass / pane settles",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "glass",
+      "gain_db": -10,
+      "anchor": "start"
+    },
+    {
+      "t": 18.216666666666665,
+      "frame": 1093,
+      "label": "kinetic / whip handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav",
+      "role": "whoosh",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 18.616666666666667,
+      "frame": 1117,
+      "label": "Type / word 1",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -12,
+      "anchor": "start"
+    },
+    {
+      "t": 19.083333333333332,
+      "frame": 1145,
+      "label": "Type / word 2",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -12,
+      "anchor": "start"
+    },
+    {
+      "t": 19.55,
+      "frame": 1173,
+      "label": "Type / word 3",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -12,
+      "anchor": "start"
+    },
+    {
+      "t": 20.233333333333334,
+      "frame": 1214,
+      "label": "iso / paper handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -8,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.55
+      ],
+      "max_dur": 0.55,
+      "highpass": 180
+    },
+    {
+      "t": 20.683333333333334,
+      "frame": 1241,
+      "label": "City / path contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "start"
+    },
+    {
+      "t": 21.133333333333333,
+      "frame": 1268,
+      "label": "City / path contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "start"
+    },
+    {
+      "t": 21.583333333333332,
+      "frame": 1295,
+      "label": "City / path contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "start"
+    },
+    {
+      "t": 22.033333333333335,
+      "frame": 1322,
+      "label": "City / path contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "start"
+    },
+    {
+      "t": 23.066666666666666,
+      "frame": 1384,
+      "label": "clay / liquid handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/clay-contact.wav",
+      "role": "foley",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 23.833333333333332,
+      "frame": 1430,
+      "label": "Clay / floor contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "thump",
+      "gain_db": -9,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.45
+      ],
+      "fade_in": 0.002,
+      "fade_out": 0.04,
+      "highpass": 150
+    },
+    {
+      "t": 24.6,
+      "frame": 1476,
+      "label": "Clay / floor contact",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "thump",
+      "gain_db": -9,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.45
+      ],
+      "fade_in": 0.002,
+      "fade_out": 0.04,
+      "highpass": 150
+    },
+    {
+      "t": 25.116666666666667,
+      "frame": 1507,
+      "label": "ascii / shutter handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/ascii-data.wav",
+      "role": "glitch",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 25.166666666666668,
+      "frame": 1510,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/keyboard.mp3",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.14
+      ],
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.25,
+      "frame": 1515,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_2.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.35,
+      "frame": 1521,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_3.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.433333333333334,
+      "frame": 1526,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_4.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.533333333333335,
+      "frame": 1532,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_5.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.616666666666667,
+      "frame": 1537,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_6.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 25.7,
+      "frame": 1542,
+      "label": "ASCII / characters compile",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/key_7.wav",
+      "role": "typing",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.14
+    },
+    {
+      "t": 27.583333333333332,
+      "frame": 1655,
+      "label": "mesh / liquid handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 30.016666666666666,
+      "frame": 1801,
+      "label": "comic / paper handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -8,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.55
+      ],
+      "max_dur": 0.55,
+      "highpass": 180
+    },
+    {
+      "t": 30.333333333333332,
+      "frame": 1820,
+      "label": "Comic / burst punches",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "role": "hit",
+      "gain_db": -9,
+      "anchor": "start"
+    },
+    {
+      "t": 32.38333333333333,
+      "frame": 1943,
+      "label": "flap / shutter handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav",
+      "role": "camera",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 32.4,
+      "frame": 1944,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.46666666666667,
+      "frame": 1948,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.53333333333333,
+      "frame": 1952,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.6,
+      "frame": 1956,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.666666666666664,
+      "frame": 1960,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.733333333333334,
+      "frame": 1964,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.8,
+      "frame": 1968,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.86666666666667,
+      "frame": 1972,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.916666666666664,
+      "frame": 1975,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 32.983333333333334,
+      "frame": 1979,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 33.05,
+      "frame": 1983,
+      "label": "Split flap / mechanical plate",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.08
+    },
+    {
+      "t": 34.483333333333334,
+      "frame": 2069,
+      "label": "vhs / whip handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tape-burst.wav",
+      "role": "glitch",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 36.75,
+      "frame": 2205,
+      "label": "halftone / paper handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -8,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.55
+      ],
+      "max_dur": 0.55,
+      "highpass": 180
+    },
+    {
+      "t": 39.016666666666666,
+      "frame": 2341,
+      "label": "bauhaus / shutter handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/shape-swish.wav",
+      "role": "whoosh",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 39.13333333333333,
+      "frame": 2348,
+      "label": "Bauhaus / shape lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.4
+      ],
+      "highpass": 200,
+      "max_dur": 0.2
+    },
+    {
+      "t": 39.31666666666667,
+      "frame": 2359,
+      "label": "Bauhaus / shape lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.4
+      ],
+      "highpass": 200,
+      "max_dur": 0.2
+    },
+    {
+      "t": 39.5,
+      "frame": 2370,
+      "label": "Bauhaus / shape lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.4
+      ],
+      "highpass": 200,
+      "max_dur": 0.2
+    },
+    {
+      "t": 39.68333333333333,
+      "frame": 2381,
+      "label": "Bauhaus / shape lands",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.4
+      ],
+      "highpass": 200,
+      "max_dur": 0.2
+    },
+    {
+      "t": 41.25,
+      "frame": 2475,
+      "label": "pixel / shutter handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pixel-rise.wav",
+      "role": "coin",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 42.31666666666667,
+      "frame": 2539,
+      "label": "Pixel / coin pickup",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_2.wav",
+      "role": "coin",
+      "gain_db": -8,
+      "anchor": "start",
+      "max_dur": 0.3
+    },
+    {
+      "t": 43.13333333333333,
+      "frame": 2588,
+      "label": "Pixel / coin pickup",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/pop_2.wav",
+      "role": "coin",
+      "gain_db": -8,
+      "anchor": "start",
+      "max_dur": 0.3
+    },
+    {
+      "t": 43.46666666666667,
+      "frame": 2608,
+      "label": "blueprint / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/aperture-servo.wav",
+      "role": "riser",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 44.36666666666667,
+      "frame": 2662,
+      "label": "Blueprint / aperture opens",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -11,
+      "anchor": "start"
+    },
+    {
+      "t": 46.11666666666667,
+      "frame": 2767,
+      "label": "deco / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/deco-shimmer.wav",
+      "role": "glass",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 49.88333333333333,
+      "frame": 2993,
+      "label": "brutal / whip handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav",
+      "role": "hit",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 50,
+      "frame": 3000,
+      "label": "Brutal / block slam",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "role": "hit",
+      "gain_db": -13,
+      "anchor": "start",
+      "max_dur": 0.35
+    },
+    {
+      "t": 50.333333333333336,
+      "frame": 3020,
+      "label": "Brutal / block slam",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "role": "hit",
+      "gain_db": -13,
+      "anchor": "start",
+      "max_dur": 0.35
+    },
+    {
+      "t": 50.666666666666664,
+      "frame": 3040,
+      "label": "Brutal / block slam",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "role": "hit",
+      "gain_db": -13,
+      "anchor": "start",
+      "max_dur": 0.35
+    },
+    {
+      "t": 53.25,
+      "frame": 3195,
+      "label": "outro / portal handoff",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav",
+      "role": "whoosh",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 1.5
+    },
+    {
+      "t": 53.6,
+      "frame": 3216,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 53.81666666666667,
+      "frame": 3229,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 54.03333333333333,
+      "frame": 3242,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 54.266666666666666,
+      "frame": 3256,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 54.483333333333334,
+      "frame": 3269,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 54.7,
+      "frame": 3282,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 54.916666666666664,
+      "frame": 3295,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 55.13333333333333,
+      "frame": 3308,
+      "label": "Closing / chrome fragments",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "start",
+      "max_dur": 0.12
+    },
+    {
+      "t": 55.6,
+      "frame": 3336,
+      "label": "Closing / monogram seals",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -10,
+      "anchor": "start"
+    },
+    {
+      "t": 55.6,
+      "frame": 3336,
+      "label": "Closing / signature shimmer",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/bell_E5.wav",
+      "role": "glass",
+      "gain_db": -17,
+      "anchor": "start",
+      "max_dur": 1.5
+    },
+    {
+      "t": 56.15,
+      "frame": 3369,
+      "label": "Closing / name settles",
+      "file": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -14,
+      "anchor": "start"
+    }
+  ]
+}

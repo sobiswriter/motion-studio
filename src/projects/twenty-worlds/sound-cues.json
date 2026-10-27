@@ -1,0 +1,600 @@
+{
+  "duration": 60,
+  "keep_audio": false,
+  "music_ref": "src/projects/twenty-worlds/assets/audio/music-edit.wav",
+  "base_audio": [
+    "src/projects/twenty-worlds/assets/audio/music-edit.wav"
+  ],
+  "cues": [
+    {
+      "t": 0.36666666666666664,
+      "frame": 22,
+      "label": "Opening / signal catches the corner",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 0.6,
+      "frame": 36,
+      "label": "ONE / type settles",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 1.0333333333333334,
+      "frame": 62,
+      "label": "IDEA / type settles",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 2.1,
+      "frame": 126,
+      "label": "TWENTY / lateral handoff",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_1.wav",
+      "role": "whoosh",
+      "gain_db": -12,
+      "anchor": "peak"
+    },
+    {
+      "t": 2.55,
+      "frame": 153,
+      "label": "WORLDS / type lands",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -8,
+      "anchor": "peak"
+    },
+    {
+      "t": 4.2,
+      "frame": 252,
+      "label": "Particles / camera enters the aperture",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/particle-breath.wav",
+      "role": "whoosh",
+      "gain_db": -9,
+      "anchor": "peak",
+      "max_dur": 1.3,
+      "fade_out": 0.12
+    },
+    {
+      "t": 6.583333333333333,
+      "frame": 395,
+      "label": "Liquid / gathered particle becomes drop",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/liquid-bubble.wav",
+      "role": "water",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 9.666666666666666,
+      "frame": 580,
+      "label": "Bauhaus / flat surface arrives",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_1.wav",
+      "role": "whoosh",
+      "gain_db": -12,
+      "anchor": "peak"
+    },
+    {
+      "t": 9.783333333333333,
+      "frame": 587,
+      "label": "Bauhaus / primary shape contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -5,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.45
+      ],
+      "highpass": 180,
+      "fade_out": 0.04
+    },
+    {
+      "t": 10.033333333333333,
+      "frame": 602,
+      "label": "Bauhaus / primary shape contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -5,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.45
+      ],
+      "highpass": 180,
+      "fade_out": 0.04
+    },
+    {
+      "t": 10.233333333333333,
+      "frame": 614,
+      "label": "Bauhaus / primary shape contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "role": "click",
+      "gain_db": -5,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.45
+      ],
+      "highpass": 180,
+      "fade_out": 0.04
+    },
+    {
+      "t": 12.283333333333333,
+      "frame": 737,
+      "label": "Clay / camera parts meet",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 12.75,
+      "frame": 765,
+      "label": "Clay / signal meets lens",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "role": "thump",
+      "gain_db": -5,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.7
+      ],
+      "highpass": 150,
+      "fade_out": 0.04
+    },
+    {
+      "t": 15.283333333333333,
+      "frame": 917,
+      "label": "Blueprint / scan travels over material",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/shape-swish.wav",
+      "role": "whoosh",
+      "gain_db": -11,
+      "anchor": "peak",
+      "max_dur": 0.65,
+      "fade_out": 0.06
+    },
+    {
+      "t": 15.95,
+      "frame": 957,
+      "label": "Blueprint / optical group separates",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wire-latch.wav",
+      "role": "camera",
+      "gain_db": -8,
+      "anchor": "peak"
+    },
+    {
+      "t": 18.25,
+      "frame": 1095,
+      "label": "Wireframe / mesh connects",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/wire-latch.wav",
+      "role": "camera",
+      "gain_db": -7,
+      "anchor": "peak"
+    },
+    {
+      "t": 20.633333333333333,
+      "frame": 1238,
+      "label": "Studio / enter the set",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_2.wav",
+      "role": "whoosh",
+      "gain_db": -11,
+      "anchor": "peak"
+    },
+    {
+      "t": 20.9,
+      "frame": 1254,
+      "label": "Studio / set and light contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak"
+    },
+    {
+      "t": 21.2,
+      "frame": 1272,
+      "label": "Studio / set and light contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pop_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak"
+    },
+    {
+      "t": 21.533333333333335,
+      "frame": 1292,
+      "label": "Studio / set and light contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pop_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak"
+    },
+    {
+      "t": 21.883333333333333,
+      "frame": 1313,
+      "label": "Studio / set and light contact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pop_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak"
+    },
+    {
+      "t": 23.716666666666665,
+      "frame": 1423,
+      "label": "Glass / player container expands",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/glass-touch.wav",
+      "role": "glass",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 24.7,
+      "frame": 1482,
+      "label": "Glass / playback state changes",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/keyboard.mp3",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.2
+      ],
+      "fade_out": 0.03
+    },
+    {
+      "t": 25.7,
+      "frame": 1542,
+      "label": "Hologram / spectral pane passes",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/holo-shimmer.wav",
+      "role": "glass",
+      "gain_db": -10,
+      "anchor": "peak",
+      "max_dur": 1.7,
+      "fade_out": 0.2
+    },
+    {
+      "t": 28.15,
+      "frame": 1689,
+      "label": "Mesh / light becomes flowing colour",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -9,
+      "anchor": "peak",
+      "max_dur": 1.2,
+      "fade_out": 0.18
+    },
+    {
+      "t": 31.583333333333332,
+      "frame": 1895,
+      "label": "Deco / marquee reaches symmetry",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/deco-shimmer.wav",
+      "role": "glass",
+      "gain_db": -16,
+      "anchor": "peak",
+      "max_dur": 1.1,
+      "fade_out": 0.2
+    },
+    {
+      "t": 33.6,
+      "frame": 2016,
+      "label": "Print / registration resolves",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -7,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.85
+      ],
+      "highpass": 180,
+      "fade_out": 0.07
+    },
+    {
+      "t": 35.25,
+      "frame": 2115,
+      "label": "Comic / page fold",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -8,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.8
+      ],
+      "fade_out": 0.07
+    },
+    {
+      "t": 36.03333333333333,
+      "frame": 2162,
+      "label": "Comic / shutter snaps",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/shutter.mp3",
+      "role": "camera",
+      "gain_db": -5,
+      "anchor": "peak",
+      "fade_in": 0.005,
+      "fade_out": 0.04
+    },
+    {
+      "t": 38.233333333333334,
+      "frame": 2294,
+      "label": "Brutal / poster impact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 38.46666666666667,
+      "frame": 2308,
+      "label": "Brutal / poster impact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 38.7,
+      "frame": 2322,
+      "label": "Brutal / poster impact",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 40.85,
+      "frame": 2451,
+      "label": "Pixel / MOVE letter pickup",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "role": "coin",
+      "gain_db": -7,
+      "anchor": "peak",
+      "pitch": 0,
+      "max_dur": 0.35,
+      "fade_out": 0.035
+    },
+    {
+      "t": 41.166666666666664,
+      "frame": 2470,
+      "label": "Pixel / MOVE letter pickup",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "role": "coin",
+      "gain_db": -7,
+      "anchor": "peak",
+      "pitch": 0.5,
+      "max_dur": 0.35,
+      "fade_out": 0.035
+    },
+    {
+      "t": 41.483333333333334,
+      "frame": 2489,
+      "label": "Pixel / MOVE letter pickup",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "role": "coin",
+      "gain_db": -7,
+      "anchor": "peak",
+      "pitch": 1,
+      "max_dur": 0.35,
+      "fade_out": 0.035
+    },
+    {
+      "t": 41.81666666666667,
+      "frame": 2509,
+      "label": "Pixel / MOVE letter pickup",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "role": "coin",
+      "gain_db": -7,
+      "anchor": "peak",
+      "pitch": 1.5,
+      "max_dur": 0.35,
+      "fade_out": 0.035
+    },
+    {
+      "t": 42.7,
+      "frame": 2562,
+      "label": "VHS / tracking engages",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tape-burst.wav",
+      "role": "glitch",
+      "gain_db": -4,
+      "anchor": "peak",
+      "max_dur": 0.7,
+      "fade_out": 0.04
+    },
+    {
+      "t": 44.7,
+      "frame": 2682,
+      "label": "ASCII / characters draw the camera",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/keyboard.mp3",
+      "role": "typing",
+      "gain_db": -5,
+      "anchor": "start",
+      "slice": [
+        0,
+        0.96
+      ],
+      "fade_out": 0.04
+    },
+    {
+      "t": 47.2,
+      "frame": 2832,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.31666666666667,
+      "frame": 2839,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.416666666666664,
+      "frame": 2845,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.53333333333333,
+      "frame": 2852,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.63333333333333,
+      "frame": 2858,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.75,
+      "frame": 2865,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.86666666666667,
+      "frame": 2872,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 47.96666666666667,
+      "frame": 2878,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 48.083333333333336,
+      "frame": 2885,
+      "label": "Split flap / hinged plate",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.18,
+      "fade_out": 0.025
+    },
+    {
+      "t": 49.86666666666667,
+      "frame": 2992,
+      "label": "Neon / circuit ignites",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/neon-chirp.wav",
+      "role": "glitch",
+      "gain_db": -7,
+      "anchor": "peak",
+      "max_dur": 0.5,
+      "fade_out": 0.04
+    },
+    {
+      "t": 52.25,
+      "frame": 3135,
+      "label": "MAKE / type accent",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/type-flick.wav",
+      "role": "hit",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 52.93333333333333,
+      "frame": 3176,
+      "label": "IT / type accent",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 53.53333333333333,
+      "frame": 3212,
+      "label": "MATTER / punctuation settles",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/block-punch.wav",
+      "role": "hit",
+      "gain_db": -5,
+      "anchor": "peak"
+    },
+    {
+      "t": 54.7,
+      "frame": 3282,
+      "label": "Recap / period opens the contact sheet",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/flap-curtain.wav",
+      "role": "whoosh",
+      "gain_db": -12,
+      "anchor": "peak",
+      "max_dur": 1.1,
+      "fade_out": 0.12
+    },
+    {
+      "t": 56.15,
+      "frame": 3369,
+      "label": "Signature / frames fold into one mark",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 57.25,
+      "frame": 3435,
+      "label": "MOTION / identity settles",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/glass-touch.wav",
+      "role": "glass",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 57.95,
+      "frame": 3477,
+      "label": "STUDIO / musical resolution",
+      "file": "src/projects/twenty-worlds/assets/audio/effects/signature-swell.wav",
+      "role": "whoosh",
+      "gain_db": -14,
+      "anchor": "peak",
+      "max_dur": 1.5,
+      "fade_out": 0.18
+    }
+  ]
+}

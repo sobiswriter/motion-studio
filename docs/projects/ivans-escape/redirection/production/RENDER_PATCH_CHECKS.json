@@ -1,0 +1,15 @@
+{
+  "composition": "IvansEscape",
+  "frames": [
+    1270,
+    1295,
+    1320,
+    1345
+  ],
+  "scale": 0.3333333333333333,
+  "graphics": "ANGLE",
+  "backwardSampling": true,
+  "deterministicFrame": 1270,
+  "browserErrors": [],
+  "fullVideoExported": false
+}

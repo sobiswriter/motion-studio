@@ -1,0 +1,1590 @@
+{
+  "version": 1,
+  "historyId": "cdd75d55-4abb-4628-a016-6baa8a521239",
+  "currentRevision": "f10c7b82-10b6-4fc8-ae19-ad94773a884b",
+  "pendingChanges": false,
+  "files": {
+    "artwork.mjs": {
+      "hash": "b1fe05f3cfc5f5141135cf50fcfa3d924cf71a5f5d21771f3e6ce4a418a570db",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b1\\b1fe05f3cfc5f5141135cf50fcfa3d924cf71a5f5d21771f3e6ce4a418a570db"
+    },
+    "assets/director.js": {
+      "hash": "9941d3981f13ad08f7872702e5d1efb17e1b3e2a5877041abbd0d8d2170a181b",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\99\\9941d3981f13ad08f7872702e5d1efb17e1b3e2a5877041abbd0d8d2170a181b"
+    },
+    "assets/fonts/EBGaramond-OFL.txt": {
+      "hash": "0985066662eb755ed3683ae5482a81a9195b49ce3f7e165cc2388b3dbece7dd7",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\09\\0985066662eb755ed3683ae5482a81a9195b49ce3f7e165cc2388b3dbece7dd7"
+    },
+    "assets/fonts/EBGaramond.ttf": {
+      "hash": "ef9512f92f6d579e5dc75af59a5a4b1b8b47d2eda89e00b954d44520e5369027",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ef\\ef9512f92f6d579e5dc75af59a5a4b1b8b47d2eda89e00b954d44520e5369027"
+    },
+    "assets/fonts/IBMPlexMono-OFL.txt": {
+      "hash": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\7e\\7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    "assets/fonts/IBMPlexMono-Regular.ttf": {
+      "hash": "6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\6a\\6a3412f058c7d8dfd9170c41e85ade48e5156ecb89356110ca57a0a27734af46"
+    },
+    "assets/fonts/SpaceGrotesk-OFL.txt": {
+      "hash": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\56\\564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+    },
+    "assets/fonts/SpaceGrotesk.ttf": {
+      "hash": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ac\\acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+    },
+    "assets/vendor/LICENSE-three.txt": {
+      "hash": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\8b\\8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    "assets/vendor/gsap.min.js": {
+      "hash": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c1\\c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+    },
+    "hyperframes.json": {
+      "hash": "afd343dad727b1bb702c164bc6b2133f2ebdaa398fb26ec6948a8dfdb3f1abe4",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\af\\afd343dad727b1bb702c164bc6b2133f2ebdaa398fb26ec6948a8dfdb3f1abe4"
+    },
+    "index.html": {
+      "hash": "c4c21b7c538708515ecb6adda83a96d9b9c4cd61784dca9fcd8373e7b4435481",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c4\\c4c21b7c538708515ecb6adda83a96d9b9c4cd61784dca9fcd8373e7b4435481"
+    },
+    "meta.json": {
+      "hash": "087f2c87b4103405ad3407f950ff0112a74d6fb8a13ab1975b277be293846777",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\08\\087f2c87b4103405ad3407f950ff0112a74d6fb8a13ab1975b277be293846777"
+    },
+    "sequence.mjs": {
+      "hash": "b51a2ed0c69066328e0c8ace18e5473db88111d212aeb5f3d27d93636e26d9e5",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b5\\b51a2ed0c69066328e0c8ace18e5473db88111d212aeb5f3d27d93636e26d9e5"
+    },
+    "stage3d.mjs": {
+      "hash": "725209d51c0af5ded49ff1c5f1c75aab6c9d90dfe3b11492c135ba6fad3ba6fb",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\72\\725209d51c0af5ded49ff1c5f1c75aab6c9d90dfe3b11492c135ba6fad3ba6fb"
+    },
+    "assets/audio/master.wav": {
+      "hash": "000f053e6a295a4c1607f07c0858f35963cf30f902e643184a1dde2cd70c4844",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\00\\000f053e6a295a4c1607f07c0858f35963cf30f902e643184a1dde2cd70c4844"
+    },
+    "assets/audio/music-edit.wav": {
+      "hash": "e1247360af64b407595890c13668d1ee4be5d9e323118e7daec6904423dce87e",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\e1\\e1247360af64b407595890c13668d1ee4be5d9e323118e7daec6904423dce87e"
+    },
+    "REVIEW.md": {
+      "hash": "9ac0ef626837dccbd317aff9c998859ba53d3872228cc4b3961c896005f72bb2",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\9a\\9ac0ef626837dccbd317aff9c998859ba53d3872228cc4b3961c896005f72bb2"
+    },
+    "assets/audio/effects/deco-shimmer.wav": {
+      "hash": "18cc6267d73659d55b6e477e61ce5230727917ed01bb8e36700ead30b23cbc3c",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\18\\18cc6267d73659d55b6e477e61ce5230727917ed01bb8e36700ead30b23cbc3c"
+    },
+    "assets/audio/effects/glass-touch.wav": {
+      "hash": "bd1f1aede14368ec83351bad456752b6b69d50f5d60da85a2f87fd62177ef851",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\bd\\bd1f1aede14368ec83351bad456752b6b69d50f5d60da85a2f87fd62177ef851"
+    },
+    "assets/audio/effects/hit_1.wav": {
+      "hash": "18b57c7baf72a10f32ac9b0ae5bfd1598dc88d4a9d27699b9f516e123a527476",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\18\\18b57c7baf72a10f32ac9b0ae5bfd1598dc88d4a9d27699b9f516e123a527476"
+    },
+    "assets/audio/effects/holo-shimmer.wav": {
+      "hash": "3515ba192cc7688a61b855eb799a3b56630033f1438ed712b94827ad1f50aaeb",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\35\\3515ba192cc7688a61b855eb799a3b56630033f1438ed712b94827ad1f50aaeb"
+    },
+    "assets/audio/effects/keyboard.mp3": {
+      "hash": "01e80663374497f5314b58385888d9d03fcac57fa9812c963e06d16683c734a1",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\01\\01e80663374497f5314b58385888d9d03fcac57fa9812c963e06d16683c734a1"
+    },
+    "assets/audio/effects/land-light_1.wav": {
+      "hash": "048b95205c63bc291e6d1ead329c51c4fa71d670fb7f7f332a11e5d09f9bff77",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\04\\048b95205c63bc291e6d1ead329c51c4fa71d670fb7f7f332a11e5d09f9bff77"
+    },
+    "assets/audio/effects/land-light_2.wav": {
+      "hash": "0b1d40705f1337db6d49b10440b4ad6f790e5da54f41a45e3d5685252e589f04",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0b\\0b1d40705f1337db6d49b10440b4ad6f790e5da54f41a45e3d5685252e589f04"
+    },
+    "assets/audio/effects/liquid-bubble.wav": {
+      "hash": "0fc8c259459b8a43fb62232533a771f35bda4153f3871bb4695c9110298a3e6d",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0f\\0fc8c259459b8a43fb62232533a771f35bda4153f3871bb4695c9110298a3e6d"
+    },
+    "assets/audio/effects/mesh-swell.wav": {
+      "hash": "4f2c2534b244bb8b6771ddc0e4f98d2ac26b33bd4b5a80779faaf8e0731d3a48",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4f\\4f2c2534b244bb8b6771ddc0e4f98d2ac26b33bd4b5a80779faaf8e0731d3a48"
+    },
+    "assets/audio/effects/neon-chirp.wav": {
+      "hash": "db7390cb814cfe771789d1cbd26d8d5d5ceebe00de12c1e86ae4f1ce848ae8f1",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\db\\db7390cb814cfe771789d1cbd26d8d5d5ceebe00de12c1e86ae4f1ce848ae8f1"
+    },
+    "assets/audio/effects/paper.mp3": {
+      "hash": "6628dd00330194cbb308d337206019ffe4fa075240b4c69f1650f1136317fd90",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\66\\6628dd00330194cbb308d337206019ffe4fa075240b4c69f1650f1136317fd90"
+    },
+    "assets/audio/effects/pixel-rise.wav": {
+      "hash": "2e56cee532fafd67aa842e6fd1fb62170f33472f72548408de4e1328ad1e27d5",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2e\\2e56cee532fafd67aa842e6fd1fb62170f33472f72548408de4e1328ad1e27d5"
+    },
+    "assets/audio/effects/pop_1.wav": {
+      "hash": "3d6450ede89904adac497d88c601fd36882814dce85ad612f512aeb02d799b4b",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\3d\\3d6450ede89904adac497d88c601fd36882814dce85ad612f512aeb02d799b4b"
+    },
+    "assets/audio/effects/pop_2.wav": {
+      "hash": "9320b983578425b9b2225791a318723719fc0035a8c1927c3d2c9bca473d8bd9",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\93\\9320b983578425b9b2225791a318723719fc0035a8c1927c3d2c9bca473d8bd9"
+    },
+    "assets/audio/effects/shutter.mp3": {
+      "hash": "d989c83c8065da2f25f1a34b2eb89515d455d1d8ce24a5acd50892bdcf89fe6a",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\d9\\d989c83c8065da2f25f1a34b2eb89515d455d1d8ce24a5acd50892bdcf89fe6a"
+    },
+    "assets/audio/effects/signature-swell.wav": {
+      "hash": "d7a342ea0e6d7b2c56c3ba155e5663f9f099053a2f02989f6724578b3fe4c999",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\d7\\d7a342ea0e6d7b2c56c3ba155e5663f9f099053a2f02989f6724578b3fe4c999"
+    },
+    "assets/audio/effects/tape-burst.wav": {
+      "hash": "5a10fc073bae4e235b2a52ccc698a4462b72aace4087a12e178ec7236d8387d0",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\5a\\5a10fc073bae4e235b2a52ccc698a4462b72aace4087a12e178ec7236d8387d0"
+    },
+    "assets/audio/effects/tock_1.wav": {
+      "hash": "6ee3ec76bcab599b4b8d275d488b73970fdb6c167b091a21520b4ec3f71fbaca",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\6e\\6ee3ec76bcab599b4b8d275d488b73970fdb6c167b091a21520b4ec3f71fbaca"
+    },
+    "assets/audio/effects/tock_2.wav": {
+      "hash": "130865a88513a5076bf8b6c932d49c27e8dd1bd40b956a8594adfdedf21d6522",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\13\\130865a88513a5076bf8b6c932d49c27e8dd1bd40b956a8594adfdedf21d6522"
+    },
+    "assets/audio/effects/tock_3.wav": {
+      "hash": "c88e0f66a4f9b034764fc649725f4cb8734757baceedae890364713580c7b185",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c8\\c88e0f66a4f9b034764fc649725f4cb8734757baceedae890364713580c7b185"
+    },
+    "assets/audio/effects/whoosh-short_1.wav": {
+      "hash": "a0ef5c735a8a4cdb16a8e765c5285ec0c41e48a30f412b61fa88318aac849de0",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\a0\\a0ef5c735a8a4cdb16a8e765c5285ec0c41e48a30f412b61fa88318aac849de0"
+    },
+    "assets/audio/effects/whoosh-short_2.wav": {
+      "hash": "4ce92b356591bd24e9e926f0e5b883a7f23bc6843afc968510fae975df700120",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4c\\4ce92b356591bd24e9e926f0e5b883a7f23bc6843afc968510fae975df700120"
+    },
+    "assets/audio/effects/whoosh-short_3.wav": {
+      "hash": "b653ea2427b2da75492f4d2dd25d50862cd653022df628c3badaf2aa5fb8adb0",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b6\\b653ea2427b2da75492f4d2dd25d50862cd653022df628c3badaf2aa5fb8adb0"
+    },
+    "assets/audio/effects/wire-latch.wav": {
+      "hash": "62545e5a190e20c4e65b86574eddae0ba35fd42e4c296895b1b1d4393b946850",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\62\\62545e5a190e20c4e65b86574eddae0ba35fd42e4c296895b1b1d4393b946850"
+    },
+    "assets/audio/effects/wood.mp3": {
+      "hash": "e1635813031d126a04d8db80ab8bf95c61299e4891241695aada36d8508910d9",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\e1\\e1635813031d126a04d8db80ab8bf95c61299e4891241695aada36d8508910d9"
+    },
+    "audio-provenance.json": {
+      "hash": "3f69b0134407ced8234cbaf25c0d389dcd7642608007828864d3dbcae4143b07",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\3f\\3f69b0134407ced8234cbaf25c0d389dcd7642608007828864d3dbcae4143b07"
+    },
+    "material-accents.json": {
+      "hash": "60fc0e6ed91870c43ec1fe41c39f68097b04c90c5dc2e8fd435d7ae64854cc4e",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\60\\60fc0e6ed91870c43ec1fe41c39f68097b04c90c5dc2e8fd435d7ae64854cc4e"
+    },
+    "music-edit.json": {
+      "hash": "b6a78eae7cc9b1ca79734e2670b85e17e82b68ed78b3c2f7d2189787739e3c99",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b6\\b6a78eae7cc9b1ca79734e2670b85e17e82b68ed78b3c2f7d2189787739e3c99"
+    },
+    "sound-cues.json": {
+      "hash": "ee210de44d01805f89d4018898168cadd35721905c8278fd0e2c5d5d2f8b59e7",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ee\\ee210de44d01805f89d4018898168cadd35721905c8278fd0e2c5d5d2f8b59e7"
+    },
+    "CREDITS.md": {
+      "hash": "2b1f0af0deb272fd4a0b1524609a19fcdd8b6d8d26876a3aaa417a83c0a3b783",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2b\\2b1f0af0deb272fd4a0b1524609a19fcdd8b6d8d26876a3aaa417a83c0a3b783"
+    },
+    "project.md": {
+      "hash": "a695322740adcdf53f9dc3321c068310cd9b106daf6c3412670fc2ec46f77c6c",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\a6\\a695322740adcdf53f9dc3321c068310cd9b106daf6c3412670fc2ec46f77c6c"
+    },
+    "README.md": {
+      "hash": "68d5316b02b31289f84f682b7758c0afa0addad93d9e4752ad275d386c44b838",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\68\\68d5316b02b31289f84f682b7758c0afa0addad93d9e4752ad275d386c44b838"
+    },
+    "assets/audio/effects/block-punch.wav": {
+      "hash": "89d4a78b62322bd6acfddfdce54852c5938a5accaf6ab805b829994f0017f3d7",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\89\\89d4a78b62322bd6acfddfdce54852c5938a5accaf6ab805b829994f0017f3d7"
+    },
+    "assets/audio/effects/flap-curtain.wav": {
+      "hash": "2c3fbef18fc763c300e093e9732fdcc62c63701e338cc8466fe0a6ed71de58f2",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2c\\2c3fbef18fc763c300e093e9732fdcc62c63701e338cc8466fe0a6ed71de58f2"
+    },
+    "assets/audio/effects/particle-breath.wav": {
+      "hash": "8cec271260abc0283074997fe1ec6cb54062955877252ae5e9156b0d617766ae",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\8c\\8cec271260abc0283074997fe1ec6cb54062955877252ae5e9156b0d617766ae"
+    },
+    "assets/audio/effects/shape-swish.wav": {
+      "hash": "0d923044715a1bf2c3a2a141cabbfe04531a4d44116d7320190bc88528e95c6c",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0d\\0d923044715a1bf2c3a2a141cabbfe04531a4d44116d7320190bc88528e95c6c"
+    },
+    "assets/audio/effects/type-flick.wav": {
+      "hash": "127fc35b48b1f9afaedea6a97473885601e03ef43e5319c019283c99cefb9527",
+      "content": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\12\\127fc35b48b1f9afaedea6a97473885601e03ef43e5319c019283c99cefb9527"
+    }
+  },
+  "revisions": {
+    "50801891-ae89-489d-af00-146831ec5535": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793010925284,
+      "endedAt": 1793010927309,
+      "files": {
+        "REVIEW.md": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\6a\\6a80961c907ff8d967a59f0b5c622ad3e9c1c0c6820d6d2496fb4932ffc090fd"
+        },
+        "stage3d.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\65\\6517ab07bac607148621ffe0f50660c03a9f495a1129a55866747d0fe7f577f8",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ee\\eeaef17ac3f9c5fb3faf6e197832c7cad9665426f08713dfea8ef552af88ceb7"
+        }
+      }
+    },
+    "1c627e6a-20b3-41df-b847-d844991f7f39": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793011304771,
+      "endedAt": 1793011306003,
+      "files": {
+        "assets/director.js": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\52\\528200074c1d56a5459687db797a16199d9f3d5913ba13d33ee49232b1ec81fb",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\de\\decd2127349233e50f81edf57a8536d35c2381816cf0fe865758962c8479f288"
+        },
+        "index.html": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4f\\4f6932928ccd4c8c5088ce896df95f4ed1e6a0e892a71b96ccabae2871b30cbf",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c4\\c4c21b7c538708515ecb6adda83a96d9b9c4cd61784dca9fcd8373e7b4435481"
+        }
+      }
+    },
+    "9e9fc479-ff87-4492-ad5c-01a016c8c4a6": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793011364464,
+      "endedAt": 1793011367217,
+      "files": {
+        "artwork.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\48\\48d9eceadbacd29bb73175acbacacb590ab32ff3675ebdfb9783de1fc4664609",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\f1\\f1dc6e660d6e7bd0b90c1a09b7da9482c8141aa6428f80e03f3c587d01abb637"
+        },
+        "assets/director.js": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\de\\decd2127349233e50f81edf57a8536d35c2381816cf0fe865758962c8479f288",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\80\\80c17b03bea166de1ec9952b2fb45636a8a0759b3270976fd73625f5e7c16dc0"
+        }
+      }
+    },
+    "6a3b85aa-955d-4595-9f71-b65651a88e6e": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793011943487,
+      "endedAt": 1793011945500,
+      "files": {
+        "artwork.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\f1\\f1dc6e660d6e7bd0b90c1a09b7da9482c8141aa6428f80e03f3c587d01abb637",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ea\\eacb28b69828d58886efee66974135253feed8b218e58a1134156cee2f8ea681"
+        },
+        "stage3d.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ee\\eeaef17ac3f9c5fb3faf6e197832c7cad9665426f08713dfea8ef552af88ceb7",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\f3\\f397759ce82327478d402fa6f15c7611577374719c6840187df848f3a43ddda9"
+        }
+      }
+    },
+    "6eecf405-6108-4ee0-9198-130125ffa272": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012106335,
+      "endedAt": 1793012107914,
+      "files": {
+        "assets/director.js": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\80\\80c17b03bea166de1ec9952b2fb45636a8a0759b3270976fd73625f5e7c16dc0",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\8d\\8d98338501e4e1095d1cd9e12c0fcd5d14238d1882391e16b2d7e6062281456a"
+        }
+      }
+    },
+    "429a1f32-b62d-4c36-bbe9-433b63c911bf": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012366123,
+      "endedAt": 1793012369091,
+      "files": {
+        "artwork.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ea\\eacb28b69828d58886efee66974135253feed8b218e58a1134156cee2f8ea681",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4e\\4eab573111cdaaaa21f8917ec75c457e75c5175eff4bdfe7bd9f454f41edc3c8"
+        },
+        "assets/audio/effects/deco-shimmer.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\18\\18cc6267d73659d55b6e477e61ce5230727917ed01bb8e36700ead30b23cbc3c"
+        },
+        "assets/audio/effects/glass-touch.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\bd\\bd1f1aede14368ec83351bad456752b6b69d50f5d60da85a2f87fd62177ef851"
+        },
+        "assets/audio/effects/hit_1.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\18\\18b57c7baf72a10f32ac9b0ae5bfd1598dc88d4a9d27699b9f516e123a527476"
+        },
+        "assets/audio/effects/holo-shimmer.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\35\\3515ba192cc7688a61b855eb799a3b56630033f1438ed712b94827ad1f50aaeb"
+        },
+        "assets/audio/effects/keyboard.mp3": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\01\\01e80663374497f5314b58385888d9d03fcac57fa9812c963e06d16683c734a1"
+        },
+        "assets/audio/effects/land-light_1.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\04\\048b95205c63bc291e6d1ead329c51c4fa71d670fb7f7f332a11e5d09f9bff77"
+        },
+        "assets/audio/effects/land-light_2.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0b\\0b1d40705f1337db6d49b10440b4ad6f790e5da54f41a45e3d5685252e589f04"
+        },
+        "assets/audio/effects/liquid-bubble.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0f\\0fc8c259459b8a43fb62232533a771f35bda4153f3871bb4695c9110298a3e6d"
+        },
+        "assets/audio/effects/mesh-swell.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4f\\4f2c2534b244bb8b6771ddc0e4f98d2ac26b33bd4b5a80779faaf8e0731d3a48"
+        },
+        "assets/audio/effects/neon-chirp.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\db\\db7390cb814cfe771789d1cbd26d8d5d5ceebe00de12c1e86ae4f1ce848ae8f1"
+        },
+        "assets/audio/effects/paper.mp3": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\66\\6628dd00330194cbb308d337206019ffe4fa075240b4c69f1650f1136317fd90"
+        },
+        "assets/audio/effects/pixel-rise.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2e\\2e56cee532fafd67aa842e6fd1fb62170f33472f72548408de4e1328ad1e27d5"
+        },
+        "assets/audio/effects/pop_1.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\3d\\3d6450ede89904adac497d88c601fd36882814dce85ad612f512aeb02d799b4b"
+        },
+        "assets/audio/effects/pop_2.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\93\\9320b983578425b9b2225791a318723719fc0035a8c1927c3d2c9bca473d8bd9"
+        },
+        "assets/audio/effects/shutter.mp3": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\d9\\d989c83c8065da2f25f1a34b2eb89515d455d1d8ce24a5acd50892bdcf89fe6a"
+        },
+        "assets/audio/effects/signature-swell.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\d7\\d7a342ea0e6d7b2c56c3ba155e5663f9f099053a2f02989f6724578b3fe4c999"
+        },
+        "assets/audio/effects/tape-burst.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\5a\\5a10fc073bae4e235b2a52ccc698a4462b72aace4087a12e178ec7236d8387d0"
+        },
+        "assets/audio/effects/tock_1.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\6e\\6ee3ec76bcab599b4b8d275d488b73970fdb6c167b091a21520b4ec3f71fbaca"
+        },
+        "assets/audio/effects/tock_2.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\13\\130865a88513a5076bf8b6c932d49c27e8dd1bd40b956a8594adfdedf21d6522"
+        },
+        "assets/audio/effects/tock_3.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c8\\c88e0f66a4f9b034764fc649725f4cb8734757baceedae890364713580c7b185"
+        },
+        "assets/audio/effects/whoosh-short_1.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\a0\\a0ef5c735a8a4cdb16a8e765c5285ec0c41e48a30f412b61fa88318aac849de0"
+        },
+        "assets/audio/effects/whoosh-short_2.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4c\\4ce92b356591bd24e9e926f0e5b883a7f23bc6843afc968510fae975df700120"
+        },
+        "assets/audio/effects/whoosh-short_3.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b6\\b653ea2427b2da75492f4d2dd25d50862cd653022df628c3badaf2aa5fb8adb0"
+        },
+        "assets/audio/effects/wire-latch.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\62\\62545e5a190e20c4e65b86574eddae0ba35fd42e4c296895b1b1d4393b946850"
+        },
+        "assets/audio/effects/wood.mp3": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\e1\\e1635813031d126a04d8db80ab8bf95c61299e4891241695aada36d8508910d9"
+        },
+        "audio-provenance.json": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\3f\\3f69b0134407ced8234cbaf25c0d389dcd7642608007828864d3dbcae4143b07"
+        },
+        "material-accents.json": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\60\\60fc0e6ed91870c43ec1fe41c39f68097b04c90c5dc2e8fd435d7ae64854cc4e"
+        },
+        "music-edit.json": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b6\\b6a78eae7cc9b1ca79734e2670b85e17e82b68ed78b3c2f7d2189787739e3c99"
+        },
+        "sound-cues.json": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\69\\696cfc24fdc861b7b261bec82a66c930ae6639b2dde152fc3297ed91c2142f04"
+        },
+        "stage3d.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\f3\\f397759ce82327478d402fa6f15c7611577374719c6840187df848f3a43ddda9",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c5\\c52a55cc4b9e36b7308155b9cd314ced01b0882cf629b92e13b0d6f0bba98bac"
+        }
+      }
+    },
+    "f4aafcbc-d1be-4148-b07e-382b3d73481c": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012377889,
+      "endedAt": 1793012379889,
+      "files": {
+        "assets/audio/master.wav": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\e1\\e1247360af64b407595890c13668d1ee4be5d9e323118e7daec6904423dce87e",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b7\\b7a3e933ba6f8fc9142ef7d276642abb415cabc711d074a00a2ad132dc747a15"
+        }
+      }
+    },
+    "24d935a0-e022-487f-81e0-4fcd68cfd491": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012493774,
+      "endedAt": 1793012495783,
+      "files": {
+        "CREDITS.md": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2b\\2b1f0af0deb272fd4a0b1524609a19fcdd8b6d8d26876a3aaa417a83c0a3b783"
+        },
+        "project.md": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\a6\\a695322740adcdf53f9dc3321c068310cd9b106daf6c3412670fc2ec46f77c6c"
+        },
+        "README.md": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\7f\\7f2c96415195fc602546a500b7145cfbacaf1226adcdbdc6ff934555b268ed41"
+        }
+      }
+    },
+    "f399e893-a0a5-4574-9f6d-4acc408df381": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012520552,
+      "endedAt": 1793012522563,
+      "files": {
+        "assets/director.js": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\8d\\8d98338501e4e1095d1cd9e12c0fcd5d14238d1882391e16b2d7e6062281456a",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\20\\20bcce64aab5f78d11b39af138cfcd1e10f6b8e36b9d39be075a2ee5e897adf6"
+        }
+      }
+    },
+    "490b7c66-9df3-4261-ab93-a0f3663690c5": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793012643785,
+      "endedAt": 1793012645801,
+      "files": {
+        "artwork.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\4e\\4eab573111cdaaaa21f8917ec75c457e75c5175eff4bdfe7bd9f454f41edc3c8",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b1\\b1fe05f3cfc5f5141135cf50fcfa3d924cf71a5f5d21771f3e6ce4a418a570db"
+        },
+        "stage3d.mjs": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\c5\\c52a55cc4b9e36b7308155b9cd314ced01b0882cf629b92e13b0d6f0bba98bac",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\72\\725209d51c0af5ded49ff1c5f1c75aab6c9d90dfe3b11492c135ba6fad3ba6fb"
+        }
+      }
+    },
+    "9636d4ac-75f0-4e0a-8587-b2eabd6a6be4": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793016273386,
+      "endedAt": 1793016273487,
+      "files": {
+        "assets/audio/effects/block-punch.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\89\\89d4a78b62322bd6acfddfdce54852c5938a5accaf6ab805b829994f0017f3d7"
+        },
+        "assets/audio/effects/flap-curtain.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\2c\\2c3fbef18fc763c300e093e9732fdcc62c63701e338cc8466fe0a6ed71de58f2"
+        },
+        "assets/audio/effects/particle-breath.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\8c\\8cec271260abc0283074997fe1ec6cb54062955877252ae5e9156b0d617766ae"
+        },
+        "assets/audio/effects/shape-swish.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\0d\\0d923044715a1bf2c3a2a141cabbfe04531a4d44116d7320190bc88528e95c6c"
+        },
+        "assets/audio/effects/type-flick.wav": {
+          "before": null,
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\12\\127fc35b48b1f9afaedea6a97473885601e03ef43e5319c019283c99cefb9527"
+        },
+        "assets/audio/master.wav": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\b7\\b7a3e933ba6f8fc9142ef7d276642abb415cabc711d074a00a2ad132dc747a15",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\00\\000f053e6a295a4c1607f07c0858f35963cf30f902e643184a1dde2cd70c4844"
+        },
+        "assets/director.js": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\20\\20bcce64aab5f78d11b39af138cfcd1e10f6b8e36b9d39be075a2ee5e897adf6",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\99\\9941d3981f13ad08f7872702e5d1efb17e1b3e2a5877041abbd0d8d2170a181b"
+        },
+        "sound-cues.json": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\69\\696cfc24fdc861b7b261bec82a66c930ae6639b2dde152fc3297ed91c2142f04",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\ee\\ee210de44d01805f89d4018898168cadd35721905c8278fd0e2c5d5d2f8b59e7"
+        }
+      }
+    },
+    "f10c7b82-10b6-4fc8-ae19-ad94773a884b": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793016543586,
+      "endedAt": 1793016543602,
+      "files": {
+        "README.md": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\7f\\7f2c96415195fc602546a500b7145cfbacaf1226adcdbdc6ff934555b268ed41",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\68\\68d5316b02b31289f84f682b7758c0afa0addad93d9e4752ad275d386c44b838"
+        },
+        "REVIEW.md": {
+          "before": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\6a\\6a80961c907ff8d967a59f0b5c622ad3e9c1c0c6820d6d2496fb4932ffc090fd",
+          "after": "C:\\Users\\soura\\.cache\\hyperframes\\history\\cdd75d55-4abb-4628-a016-6baa8a521239\\blobs\\9a\\9ac0ef626837dccbd317aff9c998859ba53d3872228cc4b3961c896005f72bb2"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": {
+      "revision": "9636d4ac-75f0-4e0a-8587-b2eabd6a6be4",
+      "id": "b3cf5b41-8b94-4841-9ab5-9c4f259cd37c"
+    },
+    "revisions": {
+      "9e9fc479-ff87-4492-ad5c-01a016c8c4a6": [
+        {
+          "id": "db6711dd-8709-4c72-b3f6-5cca1990528c",
+          "scope": "project",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1793011905652,
+          "contentHash": "7160f6b7daf8ac043edc7296828ccebaa58534fc8c3f634713b32665e9a0ba44",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision",
+          "status": "cleaned",
+          "cleanedAfterRender": "a8c03b25-052b-411b-821c-d664a7c4a186"
+        }
+      ],
+      "9636d4ac-75f0-4e0a-8587-b2eabd6a6be4": [
+        {
+          "id": "b3cf5b41-8b94-4841-9ab5-9c4f259cd37c",
+          "scope": "project",
+          "report": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\src\\projects\\twenty-worlds\\.hyperframes\\artifacts\\checks\\b3cf5b41-8b94-4841-9ab5-9c4f259cd37c.json",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 3000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1793016324428,
+          "contentHash": "6f8f38adc0c4eec74a1b00b2d6fbaa6827ea46ab49ec53d9315a3a15a8c2154a",
+          "revision": "9636d4ac-75f0-4e0a-8587-b2eabd6a6be4",
+          "inputFingerprint": "850863cadb3b9fa0e3dcf37b2ea80fe8c8715d2ce27acd89a3b0209c605a55f6",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": {
+      "revision": "f10c7b82-10b6-4fc8-ae19-ad94773a884b",
+      "id": "984e2e81-1e5a-45df-8534-d488772116e1-2"
+    },
+    "revisions": {
+      "1c627e6a-20b3-41df-b847-d844991f7f39": [],
+      "9e9fc479-ff87-4492-ad5c-01a016c8c4a6": [
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-0",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-00-at-1.3s.png",
+          "time": 1.3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377697,
+          "contentHash": "b3c2f98a3f7a9c5f996cbd0431e3f3ebce30d27f4f15bf8429e855cf0975c791",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-1",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-01-at-3s.png",
+          "time": 3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377704,
+          "contentHash": "5d6f12627e1b0a7b0fdd6ad79046425bce8f2496dcce80cef79bd55e39f1a607",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-2",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-02-at-5s.png",
+          "time": 5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377708,
+          "contentHash": "4a117a00cc5daf014dc2f14b9c588879e04f0d537de3b3e856dc14470bd25099",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-3",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-03-at-8s.png",
+          "time": 8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377711,
+          "contentHash": "854bce2d240a2ddcbdc8be2134f870b26939e2a7107a26e9e5a16ff185e5125c",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-4",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-04-at-10.8s.png",
+          "time": 10.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377718,
+          "contentHash": "353e0d09aa8f75dedccc2855790b5ea7cacc547b4b8a3a3e74fcdf775dd28bd1",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-5",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-05-at-13.4s.png",
+          "time": 13.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377721,
+          "contentHash": "ee81e5b19b4a3663c6956d15ecc7f5c6cd856634fc956dfbfba82b71a65a42ed",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-6",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-06-at-16.2s.png",
+          "time": 16.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377727,
+          "contentHash": "6550443f88adf68ca4c8bc46189167880e10f712a05071d32dfe7e5f1bd17eb3",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-7",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-07-at-19.3s.png",
+          "time": 19.3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377729,
+          "contentHash": "11351bdaaeb06ff2a76c2c554a02b7ba9a87ae0713d60a83bfa17ae39cd57322",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-8",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-08-at-21.8s.png",
+          "time": 21.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377731,
+          "contentHash": "a3376e51e3e5b86f67c55246db7eb377733b9ef51e0d647bc41126d7a2f54679",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-9",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-09-at-24.7s.png",
+          "time": 24.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377733,
+          "contentHash": "6a5aabed56b684a5dd3a548364e9b50abafc7ad4b9b832e2bcd4ffdb4577b6fe",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-10",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-10-at-26.6s.png",
+          "time": 26.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377735,
+          "contentHash": "7cf3d8d9305cac660d82706199d9d347dfd8c5c06021642d4df112004bf25b71",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-11",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-11-at-29.4s.png",
+          "time": 29.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377736,
+          "contentHash": "cc18ea98d8544a6d5b684f9e62128b536ad84d95b6a7f56d95badd72af94ad5e",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-12",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-12-at-31.8s.png",
+          "time": 31.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377739,
+          "contentHash": "2b7fb8bba4cf4a44c30bdb80781e1ba7080427972cb4b769a3b9d2a58b68d795",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-13",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-13-at-34s.png",
+          "time": 34,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377743,
+          "contentHash": "e008952324cb12a81798a2fa650cf2f80a2a599af75090c0d5636a9c4e256f98",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-14",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-14-at-36.7s.png",
+          "time": 36.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377745,
+          "contentHash": "d2db8b6105ad6358a7fa50c2fd0b5166e3b143b9f26bfc4c619128c6d9c51ee8",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-15",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-15-at-39.3s.png",
+          "time": 39.3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377747,
+          "contentHash": "fc7e215cbfcfaff5a08bc032cf7e4371ad681acfc3e7806fefcc546e53b747f7",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-16",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-16-at-41.5s.png",
+          "time": 41.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377750,
+          "contentHash": "fdf847a072487f3d60bd7fe1b608afae826c1333cc7eb3038af663d0af3738d8",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-17",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-17-at-43.5s.png",
+          "time": 43.5,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377752,
+          "contentHash": "e3335506913d26715958c9bff71ecf38702994229ff1b35f970fc8056f72379d",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-18",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-18-at-45.8s.png",
+          "time": 45.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377754,
+          "contentHash": "72e293d643daca7f14d6718381861eab01177b00145aa76d76b92cc780494392",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-19",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-19-at-48.7s.png",
+          "time": 48.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377755,
+          "contentHash": "a153e11a84793d04d94be1f28cca12932593a9513a32e2549219a792740b6bfd",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-20",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-20-at-51s.png",
+          "time": 51,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377759,
+          "contentHash": "f930771cdc6395a7b6fa493c07e13d2ca281e866ca65cee5f5ebc0c28f829e52",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-21",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-21-at-53.9s.png",
+          "time": 53.9,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377763,
+          "contentHash": "3ac1ee868a1643c62df5066e74104394725d8fb878cbefdf492ada6afd2872f7",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-22",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-22-at-55.2s.png",
+          "time": 55.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377765,
+          "contentHash": "53bbf27436e1813cdd57417fd5402b3a7aa0406d71c9582d7ba5e04878bd4aeb",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "8c3e1297-e1d9-4623-b033-3948461c2af6-23",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-2\\frame-23-at-58.8s.png",
+          "time": 58.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793011377766,
+          "contentHash": "8c3215be8b93e30faeb54f254d2c89ff691c4fe79d2dcb0c25adf20bd1d78dd6",
+          "revision": "9e9fc479-ff87-4492-ad5c-01a016c8c4a6",
+          "inputFingerprint": "301dfa2cd48b7709baaaf026e6ad4d37b1318693d4cfb9353a9cc8b64cfb6629",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "6eecf405-6108-4ee0-9198-130125ffa272": [
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-0",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-00-at-5.3s.png",
+          "time": 5.3,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116117,
+          "contentHash": "d3a136b2b804580dba3de05b58fb078aa97f7672e910d0ff413d9f730dcbcb6b",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-1",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-01-at-8.7s.png",
+          "time": 8.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116119,
+          "contentHash": "9306c4207bb5359676d4b4759838c84f51eaaf5fd38ca7e3f81636d2f2ca7a5b",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-2",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-02-at-16.2s.png",
+          "time": 16.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116122,
+          "contentHash": "f62e0ace09da81dff5359f96325ac105cb30c27b9060492040f6a844664f3dea",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-3",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-03-at-36.6s.png",
+          "time": 36.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116124,
+          "contentHash": "573b33724220ddbd326f1df29f8f1dfbf7cbb16806dddaa30259d382152258fe",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-4",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-04-at-48.7s.png",
+          "time": 48.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116126,
+          "contentHash": "a153e11a84793d04d94be1f28cca12932593a9513a32e2549219a792740b6bfd",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "a65da593-a685-4637-85c9-c2af4b807a3b-5",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-proof\\frame-05-at-58.8s.png",
+          "time": 58.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012116128,
+          "contentHash": "b4162d3ae4d0bbdcc2f9bda34288140618112365659dc3578619b2b524edd450",
+          "revision": "6eecf405-6108-4ee0-9198-130125ffa272",
+          "inputFingerprint": "4b45d4eeac6c1c5165f3d85407a47b210efe75244f75bb6258e4ed329dc59e01",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "490b7c66-9df3-4261-ab93-a0f3663690c5": [
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-0",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-00-at-8.7s.png",
+          "time": 8.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718424,
+          "contentHash": "42684b13e8780f83461e53b7dcb86b6512054b85de801980c39799ecb5abfe53",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-1",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-01-at-15.2s.png",
+          "time": 15.2,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718427,
+          "contentHash": "57f1d853750df871548e9963dbc2460a818e8309d32a3398c56a06855a205e1c",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-2",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-02-at-23.4s.png",
+          "time": 23.4,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718430,
+          "contentHash": "46ad1ddd13d958b6da6bfd425631469f4feaf20e03bc73ff9988b6202504ea4b",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-3",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-03-at-36.6s.png",
+          "time": 36.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718433,
+          "contentHash": "573b33724220ddbd326f1df29f8f1dfbf7cbb16806dddaa30259d382152258fe",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-4",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-04-at-56.8s.png",
+          "time": 56.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718435,
+          "contentHash": "cb2b5b44ae4f52f88f4b05a22624d0c9cd065afc19018475042f7a5e40ac8e60",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "e258207c-0f12-4d7d-8302-76e52627b401-5",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\round-3-closeups\\frame-05-at-58.8s.png",
+          "time": 58.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793012718438,
+          "contentHash": "bc07383dee23d205266375669c8dad5cceff0ee60e708089c2607a118f71ac5c",
+          "revision": "490b7c66-9df3-4261-ab93-a0f3663690c5",
+          "inputFingerprint": "8ad5ba0ff7fbe0bb56dacd19b46c148a2b230331462812167c18168220a852d7",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "f10c7b82-10b6-4fc8-ae19-ad94773a884b": [
+        {
+          "scope": "full",
+          "id": "984e2e81-1e5a-45df-8534-d488772116e1-0",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\seek-proof\\frame-00-at-58.8s.png",
+          "time": 58.8,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "hardware",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793016555466,
+          "contentHash": "bc07383dee23d205266375669c8dad5cceff0ee60e708089c2607a118f71ac5c",
+          "revision": "f10c7b82-10b6-4fc8-ae19-ad94773a884b",
+          "inputFingerprint": "72ba14fab3a1c03ce0a8e8beb19ae5eae1fbef18414b685b061a9c70ddc2ef5e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "984e2e81-1e5a-45df-8534-d488772116e1-1",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\seek-proof\\frame-01-at-8.7s.png",
+          "time": 8.7,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "hardware",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793016555471,
+          "contentHash": "42684b13e8780f83461e53b7dcb86b6512054b85de801980c39799ecb5abfe53",
+          "revision": "f10c7b82-10b6-4fc8-ae19-ad94773a884b",
+          "inputFingerprint": "72ba14fab3a1c03ce0a8e8beb19ae5eae1fbef18414b685b061a9c70ddc2ef5e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "984e2e81-1e5a-45df-8534-d488772116e1-2",
+          "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\seek-proof\\frame-02-at-36.6s.png",
+          "time": 36.6,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "hardware",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793016555475,
+          "contentHash": "573b33724220ddbd326f1df29f8f1dfbf7cbb16806dddaa30259d382152258fe",
+          "revision": "f10c7b82-10b6-4fc8-ae19-ad94773a884b",
+          "inputFingerprint": "72ba14fab3a1c03ce0a8e8beb19ae5eae1fbef18414b685b061a9c70ddc2ef5e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": [
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-0",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-00-at-13.4s.png",
+        "time": 13.4,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792563,
+        "contentHash": "0b41c7dab07ae034b65a976789599eb9f06b45660abf00948ccbff0c793e46a5",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-1",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-01-at-16.2s.png",
+        "time": 16.2,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792563,
+        "contentHash": "9cf4052d0f2536e8bffc88052649504f01aba5c7c767d68a940c10a69f850044",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-2",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-02-at-19.3s.png",
+        "time": 19.3,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792564,
+        "contentHash": "027d61551f9d36b435da44e01aa739e98e4a5de013008db5458207fce083f146",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-3",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-03-at-21.8s.png",
+        "time": 21.8,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792564,
+        "contentHash": "7824a6d194e074635c54a6916d97cdc9fffd8667d60a7eda72a5cf2919ed3c80",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-4",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-04-at-26.5s.png",
+        "time": 26.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792565,
+        "contentHash": "01c1dedccb6ee032d2cbeacf435261dc8c957945b11182ab4dc7c7ff1cfd674e",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "aa9e412d-3bef-4448-af21-78ae8a690760-5",
+        "image": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\proof-stage\\frame-05-at-48.7s.png",
+        "time": 48.7,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793010792565,
+        "contentHash": "63e1947852327488fbf25af2f397a0253d979075c04b6fc0c8e8fca9023d350d",
+        "revision": null,
+        "inputFingerprint": "70f8ebab5256f6a244296156d18bee4342e2d649a8a67d4cfaedc4b68b66a0c7",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "renders": {
+    "latest": {
+      "id": "00285d0a-fe9f-46b9-a4fb-67e5fcd5a899",
+      "completedAt": 1793016475867,
+      "output": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\out\\twenty-worlds\\Motion-Studio-One-Idea-Twenty-Worlds.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": [
+      "f399e893-a0a5-4574-9f6d-4acc408df381"
+    ]
+  },
+  "pendingArtifactCleanup": []
+}

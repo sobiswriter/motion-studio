@@ -1,0 +1,17 @@
+# Beyond the Frame — revision 2
+
+Goal: demonstrate directed motion, material craft and editorial rhythm in one 60-second showreel. 1920×1080, 60 fps, 3600 frames. Identity: Motion Studio. No narration. The user's supplied **The_Golden_Hour_Rise.mp3** is the sole music bed. Ivan Is Loading is explicitly excluded. The full source has a measured ~107 BPM pulse; the trackers disagree after the arrangement edit, and Real SFX's automatic grid failed its kick check. No untrusted fixed grid is used. Boundaries follow measured attacks in the edited song, rounded to integer frames; see music-boundaries.json and music-edit.json.
+
+Opening frames 0–268: a real bevelled chrome M in a lit studio, a macro-to-wide camera move, two typographic hits, then a dive into particles. Closing frames 3195–3599: chrome fragments converge into the M; the studio name and “Ideas, given motion.” land by frame 3410 and hold through the finish. Twenty styles occupy the middle, with deliberately varied framing, material, timing and scale. See STORYBOARD.md for exact ranges. Style identifiers belong in the shot plan, rather than repeated numbered cards in the film.
+
+The M is the visual thread. The material scenes use Three.js physical materials, a generated local softbox environment, real geometry and a perspective camera. Metal roughness .18–.4, clay roughness .88, glass transmission .96 and thickness .6. Liquid is a 56³ marching-cubes field with 32 metaballs changing from a blob into the M. No unseeded simulation. Particles are 12,000 points sampled from the M silhouette. All motion derives from seek time.
+
+Type: Space Grotesk 700, IBM Plex Mono 400, EB Garamond 500. Hero type 130–300 px; required labels 34 px. Essential text stays in the 80% title-safe box. Three colors per scene except the explicit holographic, mesh and Bauhaus style requirements. Primary palette charcoal #101211, warm white #F4F1E7, acid #D7FF3F; warm terracotta and deep forest connect the print studies.
+
+Handoffs: five physical transition families (camera portal, matched-direction whip, staggered mechanical shutter, paper fold, organic ink spread). Full-frame transitions include type and labels. 20–30 frames per handoff, with overlap, variable staggering and directional smear. Each hero has anticipation, a primary action and a readable settle; no generic persistent left-title/right-object arrangement.
+
+Audio: supplied music first, reduced 4 dB for headroom without changing pitch. A 60-second arrangement joins three sections with 40 ms equal-power crossfades. Reuse recorded keyboard, paper and a newly sourced CC0 wood knock where they match the material; coherent earshot whooshes and tactile accents fill gaps only. No replacement procedural music. Effects are mixed once through Real SFX; retain a separate stem and provenance.
+
+Banned: the old uniform six-beat specimen, repeating torus/sphere placeholders, flat pretend glass, simulated chrome drawn as a radial gradient, identical scene entrances, descriptive slogans on every shot, covering weak art with labels, invented skills/tool claims, externally fetched render-time assets.
+
+QA: 4 rounds: (1) material and scene midpoints with independent review, (2) every boundary and phone-size read, (3) full motion draft sampled at 0.5 seconds, (4) final H.264 decode, 3600 frames, 48 kHz stereo audio, loudness/peak measurement, first/last frame and backward seek. Document actual limitations rather than declaring taste proven by automated tests.

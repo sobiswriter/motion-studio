@@ -1,0 +1,990 @@
+<template>
+<style>@font-face{font-family:"Space Grotesk";src:url("assets/fonts/SpaceGrotesk.ttf");font-weight:300 700}
+@font-face{font-family:"IBM Plex Mono";src:url("assets/fonts/IBMPlexMono-Regular.ttf");font-weight:400}
+#root{position:absolute;inset:0;overflow:hidden;color:#C7E4BF;font-family:"Space Grotesk"}
+.stage{position:absolute;inset:0;background:#132018;overflow:hidden}
+.art{position:absolute;inset:0;width:100%;height:100%}
+.label{position:absolute;left:192px;top:112px;font:500 34px "IBM Plex Mono";letter-spacing:2px;}
+.copy{position:absolute;left:192px;top:250px;max-width:1536px}
+.copy h1{margin:0;font-size:86px;font-weight:700;line-height:.91;letter-spacing:-8px;font-family:"IBM Plex Mono"}
+.copy h1 em{font-weight:400}.copy.bottom{left:192px;top:auto;bottom:170px}.copy.bottom h1{letter-spacing:-3px}
+.copy.center{left:192px;right:192px;top:370px;text-align:center}.copy.center h1{letter-spacing:-4px;font-weight:500;line-height:1}
+.copy.comic{left:490px;top:335px}.copy.comic h1{font-style:italic;letter-spacing:-18px;transform:rotate(-8deg)}
+.copy.kinetic{top:215px}.copy.kinetic .word{display:block}.copy.kinetic .word:nth-child(2){margin-left:300px}.copy.kinetic .word:nth-child(3){margin-left:590px}
+.copy.bauhaus{left:1110px;top:280px;max-width:620px}.copy.pixel{top:210px}.copy.final{top:255px}.signature{position:absolute;left:200px;top:790px;font:700 91px "Space Grotesk";letter-spacing:-3px}
+.footer{position:absolute;left:200px;top:915px;font:28px "IBM Plex Mono";letter-spacing:1px}
+</style>
+<div id="root" data-composition-id="style10" data-width="1920" data-height="1080">
+ <div id="style10-stage" class="stage" data-layout-allow-occlusion>
+  <canvas id="style10-art" class="art" width="1920" height="1080" data-layout-ignore></canvas>
+  <div class="label">10 / ASCII ART</div>
+  <div id="style10-copy" class="copy bottom"><h1>CODE HAS CHARACTER.</h1></div>
+  
+  
+ </div>
+</div>
+<script>
+(()=>{const draw=(function artwork(canvas, index, palette) {
+  const c = canvas.getContext("2d");
+  const W = 1920,
+    H = 1080,
+    TAU = Math.PI * 2;
+  const { bg, ink, accent } = palette;
+  const clamp = (v, a = 0, b = 1) => Math.max(a, Math.min(b, v));
+  const smooth = (v) => {
+    v = clamp(v);
+    return v * v * (3 - 2 * v);
+  };
+  const hash = (n) => {
+    const v = Math.sin(n * 127.1 + 31.7) * 43758.5453;
+    return v - Math.floor(v);
+  };
+  const circle = (x, y, r, color) => {
+    c.beginPath();
+    c.arc(x, y, Math.max(0.01, r), 0, TAU);
+    c.fillStyle = color;
+    c.fill();
+  };
+  const line = (points, color, width = 2, close = false, fill = false) => {
+    c.beginPath();
+    points.forEach(([x, y], i) => (i ? c.lineTo(x, y) : c.moveTo(x, y)));
+    if (close) c.closePath();
+    c.strokeStyle = color;
+    c.lineWidth = width;
+    if (fill) {
+      c.fillStyle = color;
+      c.fill();
+    } else c.stroke();
+  };
+  const rounded = (x, y, w, h, r, color) => {
+    c.fillStyle = color;
+    c.beginPath();
+    c.roundRect(x, y, w, h, r);
+    c.fill();
+  };
+  const sphere = (x, y, r, color) => {
+    c.save();
+    c.shadowColor = "#3D292B35";
+    c.shadowBlur = 42;
+    c.shadowOffsetY = 22;
+    const rgb = [1, 3, 5].map((i) => parseInt(color.slice(i, i + 2), 16));
+    const shade = (v) =>
+      `rgb(${rgb.map((a) => Math.min(255, Math.round(a * v))).join(",")})`;
+    const g = c.createRadialGradient(
+      x - r * 0.4,
+      y - r * 0.4,
+      r * 0.1,
+      x,
+      y,
+      r * 1.3,
+    );
+    g.addColorStop(0, shade(1.22));
+    g.addColorStop(0.5, color);
+    g.addColorStop(1, shade(0.7));
+    circle(x, y, r, g);
+    c.shadowBlur = 0;
+    c.beginPath();
+    c.arc(x, y, r, 0, TAU);
+    c.clip();
+    c.globalAlpha = 0.08;
+    for (let i = 0; i < 180; i++)
+      circle(
+        x + (hash(i + 7) * 2 - 1) * r,
+        y + (hash(i + 995) * 2 - 1) * r,
+        1.3,
+        ink,
+      );
+    c.restore();
+  };
+  const project = (x, y, z, t, scale = 470) => {
+    const a = t * 0.62,
+      b = 0.45 + Math.sin(t * 0.4) * 0.2;
+    const u = x * Math.cos(a) - z * Math.sin(a),
+      v = x * Math.sin(a) + z * Math.cos(a);
+    const yy = y * Math.cos(b) - v * Math.sin(b),
+      zz = y * Math.sin(b) + v * Math.cos(b);
+    const d = 3.7 / (3.7 + zz);
+    return [1255 + u * scale * d, 515 + yy * scale * d, zz];
+  };
+  const grain = Array.from({ length: 500 }, (_, i) => [
+    hash(i + 10) * W,
+    hash(i + 2100) * H,
+    hash(i + 4500),
+  ]);
+  const particles = Array.from({ length: 2100 }, (_, i) => [
+    hash(i + 13),
+    hash(i + 551),
+    hash(i + 2077),
+    hash(i + 4001),
+  ]);
+
+  return function draw(t) {
+    c.setTransform(1, 0, 0, 1, 0, 0);
+    c.globalAlpha = 1;
+    c.globalCompositeOperation = "source-over";
+    c.fillStyle = bg;
+    c.fillRect(0, 0, W, H);
+    const beat = Math.exp(-((t % 0.5) * 12));
+    c.save();
+    if (index === 0) {
+      for (const [a, b, d, e] of particles) {
+        const angle = a * TAU * 3 + t * (0.4 + d * 0.25),
+          rad = 85 + Math.pow(b, 0.5) * 470;
+        const x =
+            1260 + Math.cos(angle) * rad * (0.55 + 0.25 * Math.sin(t * 0.5)),
+          y = 535 + Math.sin(angle) * rad;
+        const z = (Math.sin(angle + d * TAU) + 1) / 2;
+        c.globalAlpha = 0.15 + z * 0.8;
+        circle(x, y, 1 + z * 3.3, d > 0.83 ? ink : accent);
+        if (e > 0.94) {
+          c.globalAlpha = 0.15;
+          line(
+            [
+              [x - 12, y + 7],
+              [x + 12, y - 7],
+            ],
+            accent,
+            1,
+          );
+        }
+      }
+      c.globalAlpha = 1;
+      circle(1260, 535, 22 + beat * 4, accent);
+      c.strokeStyle = accent;
+      c.lineWidth = 2;
+      c.beginPath();
+      c.arc(1260, 535, 245 + t * 20, -1.4, 1.5);
+      c.stroke();
+    } else if (index === 1) {
+      c.translate(1280, 535);
+      c.rotate(-0.2 + t * 0.15);
+      for (let k = 0; k < 3; k++) {
+        c.save();
+        c.translate(20 * k, -20 * k);
+        c.beginPath();
+        for (let j = 0; j <= 180; j++) {
+          const a = (j / 180) * TAU,
+            r =
+              300 +
+              38 * Math.sin(a * 3 + t * 2.4) +
+              24 * Math.sin(a * 5 - t * 2);
+          const x = Math.cos(a) * r * (1 + 0.1 * Math.sin(t * 2)),
+            y = Math.sin(a) * r;
+          if (j) c.lineTo(x, y);
+          else c.moveTo(x, y);
+        }
+        c.closePath();
+        const g = c.createLinearGradient(-300, -300, 250, 300);
+        g.addColorStop(0, k === 0 ? "#FFF3D4" : "#F2906A");
+        g.addColorStop(0.45, k === 0 ? "#EDB195" : "#E97045");
+        g.addColorStop(1, accent);
+        c.fillStyle = g;
+        c.shadowColor = "#6F160B55";
+        c.shadowBlur = 30;
+        c.shadowOffsetY = 25;
+        c.fill();
+        c.restore();
+      }
+      c.globalAlpha = 0.5;
+      c.strokeStyle = ink;
+      c.lineWidth = 3;
+      c.beginPath();
+      c.ellipse(-60, -100, 170, 80, -0.7, 0, Math.PI);
+      c.stroke();
+    } else if (index === 2) {
+      c.translate(-290, -45);
+      const faces = [];
+      const surface = (u, v) => {
+        const r = 0.98 + 0.3 * Math.cos(v);
+        return project(
+          r * Math.cos(u),
+          0.28 * Math.sin(v) + 0.2 * Math.sin(u * 3 + t),
+          r * Math.sin(u),
+          t,
+          340,
+        );
+      };
+      for (let k = 0; k < 72; k++)
+        for (let j = 0; j < 20; j++) {
+          const u = (k / 72) * TAU,
+            v = (j / 20) * TAU,
+            pts = [
+              surface(u, v),
+              surface(u + TAU / 72, v),
+              surface(u + TAU / 72, v + TAU / 20),
+              surface(u, v + TAU / 20),
+            ];
+          faces.push({ pts, z: pts.reduce((s, a) => s + a[2], 0) / 4, u, v });
+        }
+      faces.sort((a, b) => b.z - a.z);
+      for (const f of faces) {
+        const light =
+          48 + 24 * Math.pow(Math.max(0, Math.sin(f.v + f.u - t)), 4);
+        line(
+          f.pts,
+          `hsl(${185 + 90 * Math.sin(f.u * 0.7 + f.v + t * 0.7)},70%,${light}%)`,
+          1,
+          true,
+          true,
+        );
+      }
+      c.globalAlpha = 1;
+      for (let i = 0; i < 10; i++)
+        circle(
+          1255 + Math.cos(i * 2.4 + t) * 520,
+          500 + Math.sin(i * 2.4 + t) * 310,
+          2,
+          ink,
+        );
+    } else if (index === 3) {
+      c.translate(-260, -95);
+      const pts = [];
+      for (let j = 0; j < 260; j++) {
+        const a = (j / 259) * TAU * 1.8 + t * 0.38;
+        const r = 85 + j * 1.3;
+        pts.push([1250 + Math.cos(a) * r, 535 + Math.sin(a) * r * 0.86]);
+      }
+      c.shadowColor = accent;
+      c.shadowBlur = 35;
+      c.globalAlpha = 0.22;
+      line(pts, accent, 28);
+      c.globalAlpha = 0.8;
+      line(pts, accent, 7);
+      c.shadowBlur = 10;
+      line(pts, ink, 2);
+      c.shadowBlur = 0;
+      const h = pts[Math.floor(((t / 3) * 0.7 + 0.15) * 259) % 260];
+      circle(h[0], h[1], 14, ink);
+    } else if (index === 4) {
+      c.globalAlpha = index === 17 ? 0.15 : 0.1;
+      for (let j = 0; j < 20; j++)
+        line(
+          [
+            [850 + j * 60, 150],
+            [850 + j * 60, 900],
+          ],
+          ink,
+          1,
+        );
+      for (let j = 0; j < 13; j++)
+        line(
+          [
+            [830, 150 + j * 60],
+            [1770, 150 + j * 60],
+          ],
+          ink,
+          1,
+        );
+      c.globalAlpha = 1;
+      const rings = index === 17 ? 8 : 30;
+      for (let k = 0; k < rings; k++) {
+        const pts = [];
+        for (let j = 0; j <= 100; j++) {
+          const a = (k / rings) * TAU,
+            b = (j / 100) * TAU;
+          const r = index === 17 ? 1.1 : 0.75 + 0.22 * Math.cos(a * 3 + b * 2);
+          pts.push(
+            project(
+              (r + 0.26 * Math.cos(b)) * Math.cos(a),
+              0.26 * Math.sin(b),
+              (r + 0.26 * Math.cos(b)) * Math.sin(a),
+              t + (index === 17 ? 1 : 0),
+              325,
+            ),
+          );
+        }
+        line(pts, k % 5 === 0 ? accent : ink, k % 5 === 0 ? 2.5 : 1.3);
+      }
+      for (let k = 0; k < 12; k++) {
+        const pts = [];
+        for (let j = 0; j <= 160; j++) {
+          const a = (j / 160) * TAU,
+            b = (k / 12) * TAU,
+            r = index === 17 ? 1.1 : 0.75 + 0.22 * Math.cos(a * 3 + b * 2);
+          pts.push(
+            project(
+              (r + 0.26 * Math.cos(b)) * Math.cos(a),
+              0.26 * Math.sin(b),
+              (r + 0.26 * Math.cos(b)) * Math.sin(a),
+              t + (index === 17 ? 1 : 0),
+              325,
+            ),
+          );
+        }
+        line(pts, ink, 1);
+      }
+      if (index === 17) {
+        line(
+          [
+            [955, 865],
+            [1600, 865],
+          ],
+          ink,
+          2,
+        );
+        line(
+          [
+            [955, 850],
+            [955, 880],
+          ],
+          ink,
+          2,
+        );
+        line(
+          [
+            [1600, 850],
+            [1600, 880],
+          ],
+          ink,
+          2,
+        );
+        c.font = '28px "IBM Plex Mono"';
+        c.fillStyle = ink;
+        c.fillText(
+          "ROTATION / " +
+            Math.round(t * 60)
+              .toString()
+              .padStart(3, "0") +
+            "°",
+          1030,
+          920,
+        );
+        c.setLineDash([10, 10]);
+        line(
+          [
+            [1255, 150],
+            [1255, 820],
+          ],
+          ink,
+          1,
+        );
+        c.setLineDash([]);
+      }
+    } else if (index === 5) {
+      const g = c.createRadialGradient(1290, 540, 5, 1290, 540, 600);
+      g.addColorStop(0, "#729CDC");
+      g.addColorStop(1, bg);
+      circle(1290, 540, 590, g);
+      circle(1260 + Math.sin(t) * 100, 470, 240, "#91AEE0");
+      circle(1480, 730 + Math.sin(t) * 70, 180, "#7FACC1");
+      for (let k = 2; k >= 0; k--) {
+        c.save();
+        c.translate(1270 + k * 65, 500 - k * 60);
+        c.rotate(-0.15 + k * 0.13 + Math.sin(t) * 0.035);
+        c.shadowBlur = 30;
+        c.shadowOffsetY = 25;
+        c.shadowColor = "#27416625";
+        rounded(
+          -280,
+          -240,
+          560,
+          480,
+          40,
+          `rgba(244,250,255,${0.16 + k * 0.08})`,
+        );
+        c.shadowBlur = 0;
+        c.strokeStyle = "#FFFFFF99";
+        c.lineWidth = 2;
+        c.stroke();
+        c.fillStyle = ink;
+        c.globalAlpha = 0.4 + k * 0.2;
+        c.font = '140px "EB Garamond"';
+        c.fillText(k === 0 ? "Aa" : k === 1 ? "Bb" : "Cc", -195, 45);
+        line(
+          [
+            [-195, 130],
+            [150, 130],
+          ],
+          "#FFFFFF99",
+          2,
+        );
+        circle(195, -160, 9, "#FFFFFFAA");
+        c.restore();
+      }
+    } else if (index === 6) {
+      c.fillStyle = accent;
+      const s = smooth((t - 0.3) / 0.6),
+        r = 150 + 160 * s;
+      c.save();
+      c.translate(1490, 540);
+      c.rotate(t * 0.9);
+      c.fillRect(-r / 2, -r / 2, r, r);
+      c.restore();
+      for (let i = 0; i < 6; i++) {
+        c.globalAlpha = 0.08;
+        line(
+          [
+            [1320 + i * 30, 180],
+            [980 + i * 30, 920],
+          ],
+          ink,
+          2,
+        );
+      }
+    } else if (index === 7) {
+      c.translate(220, 190);
+      c.scale(0.78, 0.78);
+      const iso = (x, z, h) => [960 + (x - z) * 155, 430 + (x + z) * 78 - h];
+      c.translate(0, -30);
+      const cube = (x, z, h, color) => {
+        const a = iso(x, z, 0),
+          b = iso(x + 1, z, 0),
+          d = iso(x, z + 1, 0),
+          e = iso(x + 1, z + 1, 0);
+        line(
+          [a, b, [b[0], b[1] - h], [a[0], a[1] - h]],
+          "#9AB19E",
+          1,
+          true,
+          true,
+        );
+        line(
+          [b, e, [e[0], e[1] - h], [b[0], b[1] - h]],
+          "#608A7A",
+          1,
+          true,
+          true,
+        );
+        line(
+          [
+            [a[0], a[1] - h],
+            [b[0], b[1] - h],
+            [e[0], e[1] - h],
+            [d[0], d[1] - h],
+          ],
+          color,
+          1,
+          true,
+          true,
+        );
+      };
+      for (let x = -3; x <= 2; x++)
+        for (let z = -2; z <= 2; z++) {
+          const h =
+            x === 0 || z === 0
+              ? 22
+              : 55 +
+                hash(x * 9 + z * 31 + 90) *
+                  200 *
+                  smooth(t * 1.6 - (x + z + 5) * 0.06);
+          cube(x, z, h, x === 0 || z === 0 ? "#DFD7B7" : "#D4DFC1");
+        }
+      const at = iso(
+        -2 + 4 * clamp(t / 2.7),
+        0,
+        65 + Math.abs(Math.sin(t * 6)) * 18,
+      );
+      c.shadowColor = "#9D3D1833";
+      c.shadowBlur = 20;
+      circle(at[0], at[1], 35, accent);
+      c.shadowBlur = 0;
+    } else if (index === 8) {
+      c.translate(-270, -60);
+      const y = 600 - Math.abs(Math.sin(t * Math.PI * 1.5)) * 190;
+      c.save();
+      c.translate(1290, 760);
+      c.scale(1, 0.16);
+      circle(0, 0, 250 - 60 * Math.abs(Math.sin(t * 4)), "#79625935");
+      c.restore();
+      c.save();
+      c.translate(1270, y);
+      c.scale(1 + 0.16 * Math.cos(t * 9), 1 - 0.13 * Math.cos(t * 9));
+      sphere(0, 0, 210, accent);
+      c.restore();
+      c.save();
+      c.translate(1530, 540 + Math.sin(t * 3) * 80);
+      c.rotate(t * 0.7);
+      c.strokeStyle = "#9A9783";
+      c.lineWidth = 60;
+      c.shadowColor = "#594E3F33";
+      c.shadowBlur = 18;
+      c.beginPath();
+      c.ellipse(0, 0, 112, 154, 0.4, 0, TAU);
+      c.stroke();
+      c.restore();
+      sphere(1075, 650 + Math.sin(t * 4) * 55, 75, "#A99E7C");
+      c.globalAlpha = 0.18;
+      for (const [x, y] of grain) circle(x, y, 1.5, "#8A5748");
+    } else if (index === 9) {
+      c.translate(-260, -80);
+      c.font = '22px "IBM Plex Mono"';
+      c.textAlign = "center";
+      const chars = " .:+*#%@";
+      for (let y = 0; y < 34; y++)
+        for (let x = 0; x < 46; x++) {
+          const u = (x - 23) / 18,
+            v = (y - 17) / 15,
+            a = Math.atan2(v, u),
+            r = Math.hypot(u, v);
+          const d = Math.sin(r * 17 - a * 3 - t * 4) * 0.5 + 0.5;
+          if (r < 1.1 + 0.12 * Math.sin(a * 5 + t * 3)) {
+            c.globalAlpha = 0.25 + 0.75 * d;
+            c.fillStyle = d > 0.8 ? accent : ink;
+            c.fillText(chars[Math.floor(d * 7)], 900 + x * 19, 215 + y * 20);
+          }
+        }
+      c.textAlign = "left";
+      c.globalAlpha = 1;
+    } else if (index === 10) {
+      const cols = ["#D9E7A6", "#D38765", "#AAC9C2", "#E5CCAC"];
+      for (let i = 0; i < 4; i++) {
+        const x = 300 + i * 440 + Math.sin(t * 0.8 + i) * 220,
+          y = 440 + Math.cos(t * 0.6 + i * 2) * 300;
+        const g = c.createRadialGradient(x, y, 0, x, y, 780);
+        g.addColorStop(0, cols[i]);
+        g.addColorStop(1, cols[i] + "00");
+        c.fillStyle = g;
+        c.fillRect(0, 0, W, H);
+      }
+      c.globalAlpha = 0.07;
+      for (const [x, y] of grain) circle(x, y, 1, ink);
+    } else if (index === 11) {
+      const cx = 1000,
+        cy = 510;
+      for (let i = 0; i < 32; i++) {
+        const a = (i / 32) * TAU + t * 0.02;
+        line(
+          [
+            [cx + Math.cos(a) * 130, cy + Math.sin(a) * 130],
+            [cx + Math.cos(a + 0.023) * 1400, cy + Math.sin(a + 0.023) * 1400],
+          ],
+          i % 2 ? ink : accent,
+          18,
+        );
+      }
+      c.globalAlpha = 0.3;
+      for (let y = 0; y < 1080; y += 24)
+        for (let x = 0; x < 1920; x += 24) circle(x, y, 3, ink);
+      c.globalAlpha = 1;
+      const pts = [];
+      for (let i = 0; i < 24; i++) {
+        const a = (i / 24) * TAU,
+          r = i % 2 ? 265 : 490;
+        pts.push([cx + Math.cos(a) * r, cy + Math.sin(a) * r * 0.78]);
+      }
+      line(pts, "#FFF5D6", 10, true, true);
+      line(pts, ink, 8, true);
+      rounded(200, 785, 520, 100, 0, "#FFF5D6");
+      c.strokeStyle = ink;
+      c.lineWidth = 4;
+      c.strokeRect(200, 785, 520, 100);
+      c.fillStyle = ink;
+      c.font = 'bold 54px "Space Grotesk"';
+      c.fillText("ACTION SPEAKS.", 225, 852);
+    } else if (index === 12) {
+      const second = t > 1.6,
+        rows = second ? ["ALWAYS", "INPLAY"] : ["MOTION", "STUDIO"],
+        alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+      for (let y = 0; y < 2; y++)
+        for (let x = 0; x < 6; x++) {
+          const xx = 300 + x * 223,
+            yy = 295 + y * 235;
+          c.save();
+          c.translate(xx, yy);
+          c.shadowColor = "#00000025";
+          c.shadowBlur = 15;
+          c.shadowOffsetY = 15;
+          rounded(0, 0, 205, 215, 12, ink);
+          c.shadowBlur = 0;
+          const delay = x * 0.045 + y * 0.12,
+            local = second ? t - 1.6 : t,
+            land = 0.65 + delay;
+          const char =
+            local < land
+              ? alphabet[(Math.floor((local + delay) * 18) + x * 7) % 36]
+              : rows[y][x];
+          c.fillStyle = "#E7E7DC";
+          c.textAlign = "center";
+          c.font = 'bold 151px "IBM Plex Mono"';
+          c.fillText(char, 103, 158);
+          c.fillStyle = "#00000080";
+          c.fillRect(0, 103, 205, 6);
+          if (local < land) {
+            const f = ((local + delay) * 12) % 1;
+            c.fillStyle = "#3A3E39";
+            c.fillRect(0, 107, 205, 104 * Math.sin(f * Math.PI));
+          }
+          circle(8, 106, 4, "#A4A596");
+          circle(197, 106, 4, "#A4A596");
+          c.restore();
+        }
+      c.textAlign = "left";
+      rounded(860, 830, 200 + Math.sin(t) * 10, 14, 3, accent);
+    } else if (index === 13) {
+      for (let k = 0; k < 8; k++) {
+        c.globalAlpha = 0.06;
+        line(
+          [
+            [0, 200 + k * 100],
+            [W, 250 + k * 100],
+          ],
+          accent,
+          40,
+        );
+      }
+      c.globalAlpha = 0.28;
+      c.save();
+      c.translate(1490 + Math.sin(t * 2) * 30, 520);
+      c.rotate(-0.07);
+      line(
+        [
+          [-175, -220],
+          [230, 0],
+          [-175, 220],
+        ],
+        accent,
+        1,
+        true,
+        true,
+      );
+      c.restore();
+      for (let y = 0; y < H; y += 5) {
+        c.fillStyle = "#00000020";
+        c.fillRect(0, y, W, 2);
+      }
+      for (let k = 0; k < 4; k++) {
+        const y = hash(Math.floor(t * 7) + k * 12) * H;
+        c.fillStyle = "#F3DEC82A";
+        c.fillRect(0, y, W, 3 + hash(k + Math.floor(t * 10)) * 5);
+      }
+      c.fillStyle = ink;
+      c.font = '32px "IBM Plex Mono"';
+      c.fillText(
+        "PLAY  ▷    00:" + String(39 + Math.floor(t)).padStart(2, "0"),
+        200,
+        920,
+      );
+    } else if (index === 14) {
+      const cx = 1320,
+        cy = 530;
+      c.save();
+      c.translate(cx, cy);
+      c.rotate(-0.15 + t * 0.12);
+      circle(20, 12, 315, accent);
+      c.beginPath();
+      c.arc(0, 0, 315, 0, TAU);
+      c.clip();
+      for (let y = -350; y < 350; y += 16)
+        for (let x = -350; x < 350; x += 16) {
+          const r = 2 + 3.5 * (Math.sin(x * 0.014 + y * 0.005 + t) * 0.5 + 0.5);
+          circle(x, y, r, ink);
+        }
+      c.restore();
+      c.lineWidth = 4;
+      c.strokeStyle = ink;
+      c.beginPath();
+      c.arc(cx - 12, cy - 15, 325, 0, TAU);
+      c.stroke();
+      c.globalAlpha = 0.13;
+      line(
+        [
+          [1015, 860],
+          [1650, 190],
+        ],
+        accent,
+        80,
+      );
+    } else if (index === 15) {
+      c.translate(-560, 0);
+      const x = 1250,
+        y = 540;
+      c.save();
+      c.translate(x, y);
+      c.rotate(-0.1 + Math.sin(t * 0.7) * 0.08);
+      const colors = ["#E9BF3E", "#3A6B9C", accent];
+      for (let i = 0; i < 3; i++) {
+        c.save();
+        c.translate((i - 1) * 190, (i % 2 ? 1 : -1) * 180);
+        c.rotate(smooth(t * 0.9 - i * 0.08) * 0.6 + i * 0.25);
+        if (i === 0) circle(0, 0, 185, colors[i]);
+        else if (i === 1) {
+          c.fillStyle = colors[i];
+          c.fillRect(-170, -170, 340, 340);
+        } else
+          line(
+            [
+              [-185, 170],
+              [185, 170],
+              [0, -180],
+            ],
+            colors[i],
+            1,
+            true,
+            true,
+          );
+        c.restore();
+      }
+      c.restore();
+      line(
+        [
+          [890, 760],
+          [1710, 760],
+        ],
+        ink,
+        8,
+      );
+      circle(1210 + Math.sin(t * 2) * 320, 800, 40, ink);
+    } else if (index === 16) {
+      const grid = 28,
+        ox = 210,
+        oy = 310;
+      c.imageSmoothingEnabled = false;
+      for (let x = 0; x < 56; x++) {
+        const h = 1 + Math.floor(hash(x + 16) * 3) + Math.floor(x / 14);
+        c.fillStyle = "#344653";
+        c.fillRect(ox + x * grid, oy + grid * (19 - h), grid - 3, grid * h);
+        c.fillStyle = accent;
+        c.fillRect(ox + x * grid, oy + grid * (18 - h), grid - 3, 6);
+      }
+      const px = 360 + Math.min(t / 2.6, 1) * 1000;
+      const column = Math.floor((px - ox + 96) / grid);
+      const ground =
+        oy +
+        grid *
+          (18 -
+            1 -
+            Math.floor(hash(column + 16) * 3) -
+            Math.floor(column / 14));
+      const py = ground - 192 - Math.abs(Math.sin(t * 4.3)) * 100;
+      const pattern = [
+        "00111100",
+        "01111110",
+        "11100111",
+        "11000011",
+        "11000011",
+        "11100111",
+        "01111110",
+        "00111100",
+      ];
+      for (let y = 0; y < 8; y++)
+        for (let x = 0; x < 8; x++)
+          if (pattern[y][x] === "1") {
+            c.fillStyle = accent;
+            c.fillRect(
+              Math.round(px / 24) * 24 + x * 24,
+              Math.round(py / 24) * 24 + y * 24,
+              24,
+              24,
+            );
+          }
+      for (let i = 0; i < 5; i++) {
+        const x = 600 + i * 180;
+        c.globalAlpha = px > x ? 0.15 : 1;
+        c.fillStyle = ink;
+        c.fillRect(x, 340 + (i % 2) * 84, 28, 28);
+      }
+      c.globalAlpha = 1;
+    } else if (index === 17) {
+      c.globalAlpha = 0.14;
+      for (let x = 960; x < 1790; x += 55)
+        line(
+          [
+            [x, 200],
+            [x, 875],
+          ],
+          ink,
+          1,
+        );
+      for (let y = 200; y < 875; y += 55)
+        line(
+          [
+            [960, y],
+            [1790, y],
+          ],
+          ink,
+          1,
+        );
+      c.globalAlpha = 1;
+      const ox = 1300,
+        oy = 530,
+        spread = 55 + 70 * smooth(t / 2);
+      const ring = (z, r) => {
+        const pts = [];
+        for (let i = 0; i <= 64; i++) {
+          const a = (i / 64) * TAU;
+          pts.push([ox + z + Math.cos(a) * r * 0.42, oy + Math.sin(a) * r]);
+        }
+        line(pts, ink, 2);
+      };
+      for (let k = 0; k < 4; k++) {
+        const z = (k - 1.5) * spread;
+        ring(z, 220);
+        ring(z + 12, 220);
+        line(
+          [
+            [ox + z, oy - 220],
+            [ox + z + 12, oy - 220],
+          ],
+          accent,
+          2,
+        );
+        line(
+          [
+            [ox + z, oy + 220],
+            [ox + z + 12, oy + 220],
+          ],
+          accent,
+          2,
+        );
+      }
+      const cube = [
+        [1120, 280],
+        [1470, 360],
+        [1470, 750],
+        [1120, 670],
+        [1240, 210],
+        [1590, 290],
+        [1590, 680],
+        [1240, 600],
+      ];
+      for (const [a, b] of [
+        [0, 1],
+        [1, 2],
+        [2, 3],
+        [3, 0],
+        [4, 5],
+        [5, 6],
+        [6, 7],
+        [7, 4],
+        [0, 4],
+        [1, 5],
+        [2, 6],
+        [3, 7],
+      ])
+        line([cube[a], cube[b]], accent, 2);
+      c.setLineDash([8, 8]);
+      line(
+        [
+          [1030, 530],
+          [1730, 530],
+        ],
+        ink,
+        1,
+      );
+      c.setLineDash([]);
+      line(
+        [
+          [1120, 865],
+          [1590, 865],
+        ],
+        ink,
+        2,
+      );
+      for (const x of [1120, 1590])
+        line(
+          [
+            [x, 850],
+            [x, 880],
+          ],
+          ink,
+          2,
+        );
+      c.font = '28px "IBM Plex Mono"';
+      c.fillStyle = ink;
+      c.fillText("EXPLODED / 04 ELEMENTS", 1120, 920);
+    } else if (index === 18) {
+      c.save();
+      c.translate(960, 585);
+      for (let i = 0; i < 51; i++) {
+        const a = Math.PI + (i / 50) * Math.PI,
+          r = 690 + Math.sin(t * 0.7) * 20;
+        line(
+          [
+            [Math.cos(a) * 150, Math.sin(a) * 150],
+            [Math.cos(a) * r, Math.sin(a) * r],
+          ],
+          i % 5 ? accent : ink,
+          i % 5 ? 1.5 : 4,
+        );
+      }
+      for (let r = 180; r < 770; r += 85) {
+        c.strokeStyle = accent;
+        c.lineWidth = 1.5;
+        c.beginPath();
+        c.arc(0, 0, r, Math.PI, TAU);
+        c.stroke();
+      }
+      c.restore();
+      line(
+        [
+          [180, 950],
+          [180, 130],
+          [1740, 130],
+          [1740, 950],
+        ],
+        accent,
+        2,
+      );
+      line(
+        [
+          [200, 930],
+          [200, 150],
+          [1720, 150],
+          [1720, 930],
+        ],
+        accent,
+        1,
+      );
+      c.fillStyle = bg;
+      c.fillRect(350, 395, 1220, 375);
+      line(
+        [
+          [550, 825],
+          [1370, 825],
+        ],
+        accent,
+        2,
+      );
+      circle(960, 825, 8, ink);
+    } else if (index === 19) {
+      c.save();
+      c.translate(1450, 370);
+      c.rotate(0.1 + Math.sin(t * 1.3) * 0.12);
+      c.fillStyle = ink;
+      c.fillRect(-145 + 28, -145 + 28, 290, 290);
+      c.fillStyle = accent;
+      c.fillRect(-145, -145, 290, 290);
+      c.strokeStyle = ink;
+      c.lineWidth = 8;
+      c.strokeRect(-145, -145, 290, 290);
+      line(
+        [
+          [-90, 70],
+          [-90, -70],
+          [0, 20],
+          [90, -70],
+          [90, 70],
+        ],
+        ink,
+        18,
+      );
+      c.restore();
+      c.save();
+      c.translate(1480, 780);
+      c.rotate(-0.12);
+      c.strokeStyle = ink;
+      c.lineWidth = 8;
+      c.beginPath();
+      c.arc(0, 0, 115, 0, TAU);
+      c.stroke();
+      c.fillStyle = ink;
+      c.font = 'bold 74px "Space Grotesk"';
+      c.textAlign = "center";
+      c.fillText("20", 0, 25);
+      c.restore();
+      c.textAlign = "left";
+    }
+    c.restore();
+    c.globalAlpha = 1;
+    c.shadowBlur = 0;
+    c.shadowOffsetY = 0;
+  };
+})(document.getElementById("style10-art"),9,{"name":"ASCII Art","title":"CODE HAS CHARACTER.","bg":"#132018","ink":"#C7E4BF","accent":"#D5FF6A","layout":"bottom","font":"mono","size":86});
+const clock={t:0};draw(0);const tl=gsap.timeline({paused:true});
+tl.to(clock,{t:3.3,duration:3.3,ease:"none",onUpdate:()=>draw(clock.t)},0);
+tl.fromTo("#style10-stage",{clipPath:"circle(0% at 65% 50%)"},{clipPath:"circle(150% at 65% 50%)",duration:.32,ease:"power3.inOut"},0);
+tl.fromTo("#style10-copy",{y:80,scale:0.98,rotation:0},{y:0,scale:1,rotation:0,duration:.56,ease:"expo.out"},.18);
+
+
+window.__timelines["style10"]=tl;})();
+</script></template>

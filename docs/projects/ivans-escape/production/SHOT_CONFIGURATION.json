@@ -1,0 +1,8022 @@
+[
+  {
+    "id": "SH01",
+    "startFrame": 0,
+    "duration": 60,
+    "mode": "flat-2d",
+    "layers": [],
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 540
+        }
+      },
+      {
+        "frame": 59,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 540
+        }
+      }
+    ]
+  },
+  {
+    "id": "SH02",
+    "startFrame": 60,
+    "duration": 120,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 300
+        },
+        "easing": "smooth"
+      },
+      {
+        "frame": 119,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.25,
+          "pivotX": 960,
+          "pivotY": 300
+        }
+      }
+    ],
+    "layers": [
+      {
+        "id": "env01-clean",
+        "assetId": "env01-clean",
+        "type": "environment",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.08,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "city-sky",
+        "assetId": "city-sky",
+        "type": "environment",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.08
+      },
+      {
+        "id": "city-distant",
+        "assetId": "city-distant",
+        "type": "environment",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.3
+      },
+      {
+        "id": "city-road",
+        "assetId": "city-road",
+        "type": "environment",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1
+      },
+      {
+        "id": "city-mid",
+        "assetId": "city-mid",
+        "type": "environment",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.65
+      },
+      {
+        "id": "city-near",
+        "assetId": "city-near",
+        "type": "foreground",
+        "x": -480,
+        "y": -44,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.1
+      }
+    ]
+  },
+  {
+    "id": "SH03",
+    "startFrame": 180,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 380
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 50,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 380
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env02-clean",
+        "assetId": "env02-clean",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.35,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "street-ground",
+        "assetId": "street-ground",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.8
+      },
+      {
+        "id": "commuter-0",
+        "assetId": "commuter-1",
+        "type": "character",
+        "x": 270,
+        "y": 820,
+        "width": 320,
+        "height": 480,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-1",
+        "assetId": "commuter-2",
+        "type": "character",
+        "x": 1420,
+        "y": 790,
+        "width": 280,
+        "height": 420,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.74,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-2",
+        "assetId": "commuter-3",
+        "type": "character",
+        "x": 520,
+        "y": 680,
+        "width": 200,
+        "height": 300,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7799999999999999,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-3",
+        "assetId": "commuter-4",
+        "type": "character",
+        "x": 1190,
+        "y": 650,
+        "width": 163.33333333333334,
+        "height": 245,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.82,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "ivan-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 960,
+        "y": 962,
+        "width": 330,
+        "height": 41.25,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.55,
+        "parallax": 0,
+        "cameraFollow": true
+      },
+      {
+        "id": "ivan-walking",
+        "assetId": "ch01-walk-a",
+        "type": "character",
+        "x": 960,
+        "y": 960,
+        "width": 473.3333333333333,
+        "height": 710,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "cels": [
+          {
+            "frame": 0,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 12,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 24,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 36,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 48,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 60,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 72,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 84,
+            "assetId": "ch02-walk-b"
+          }
+        ],
+        "cameraFollow": true
+      },
+      {
+        "id": "street-near",
+        "assetId": "street-near",
+        "type": "foreground",
+        "x": -350,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.4
+      },
+      {
+        "id": "street-object",
+        "assetId": "street-bollard",
+        "type": "foreground",
+        "x": 120,
+        "y": 1140,
+        "width": 406.6666666666667,
+        "height": 610,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 1.7
+      }
+    ]
+  },
+  {
+    "id": "SH04",
+    "startFrame": 270,
+    "duration": 90,
+    "mode": "flat-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 540
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.08,
+          "pivotX": 960,
+          "pivotY": 540
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": []
+  },
+  {
+    "id": "SH05",
+    "startFrame": 360,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 440
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.08,
+          "pivotX": 960,
+          "pivotY": 440
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env03-glass",
+        "assetId": "env03-glass",
+        "type": "environment",
+        "x": -192,
+        "y": -108,
+        "width": 2304,
+        "height": 1296,
+        "parallax": 0.4,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "reflection",
+        "assetId": "ch03-r-reflection",
+        "type": "character",
+        "x": 1150,
+        "y": 825,
+        "width": 393.3333333333333,
+        "height": 590,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.44,
+        "cels": [
+          {
+            "frame": 0,
+            "assetId": "ch03-r-reflection"
+          },
+          {
+            "frame": 46,
+            "assetId": "ch04-r-reflection"
+          }
+        ],
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 46,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 47,
+            "value": {
+              "x": 16,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 49,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "commuter-glass0",
+        "assetId": "commuter-1",
+        "type": "character",
+        "x": 1380,
+        "y": 790,
+        "width": 192,
+        "height": 288,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.6,
+        "opacity": 0.2,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-glass1",
+        "assetId": "commuter-2",
+        "type": "character",
+        "x": 1300,
+        "y": 730,
+        "width": 168,
+        "height": 252,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.6,
+        "opacity": 0.2,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-glass2",
+        "assetId": "commuter-3",
+        "type": "character",
+        "x": 1220,
+        "y": 670,
+        "width": 120,
+        "height": 180,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.6,
+        "opacity": 0.2,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-glass3",
+        "assetId": "commuter-4",
+        "type": "character",
+        "x": 1140,
+        "y": 610,
+        "width": 98,
+        "height": 147,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.6,
+        "opacity": 0.2,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "glass-frame",
+        "assetId": "glass-frame",
+        "type": "foreground",
+        "x": -192,
+        "y": -108,
+        "width": 2304,
+        "height": 1296,
+        "parallax": 0.4
+      },
+      {
+        "id": "ivan-glass-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 740,
+        "y": 1060,
+        "width": 350,
+        "height": 43.75,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.55,
+        "parallax": 0.9
+      },
+      {
+        "id": "real-ivan",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 740,
+        "y": 1060,
+        "width": 566.6666666666666,
+        "height": 850,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.9,
+        "cels": [
+          {
+            "frame": 0,
+            "assetId": "ch03-rear"
+          },
+          {
+            "frame": 38,
+            "assetId": "ch04-turn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH06",
+    "startFrame": 450,
+    "duration": 90,
+    "mode": "flat-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 1200,
+          "pivotY": 800
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.18,
+          "pivotX": 1200,
+          "pivotY": 800
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env02-street",
+        "assetId": "env02-street",
+        "type": "environment",
+        "x": -3200,
+        "y": -3450,
+        "width": 8320,
+        "height": 4680,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "foot-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 650,
+        "y": 846,
+        "width": 820,
+        "height": 102.5,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.55,
+        "parallax": 0,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 44,
+            "value": {
+              "x": 200,
+              "y": 0,
+              "scale": 0.9,
+              "rotation": 0,
+              "opacity": 0.65
+            }
+          },
+          {
+            "frame": 59,
+            "value": {
+              "x": 400,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 400,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "white-path-on-pavement",
+        "assetId": "path-boundary",
+        "type": "environment",
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "id": "foot",
+        "assetId": "ch06-foot",
+        "type": "character",
+        "x": 650,
+        "y": 840,
+        "width": 1000,
+        "height": 562.5,
+        "anchor": [
+          0.5,
+          0.8888888888888888
+        ],
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 44,
+            "value": {
+              "x": 200,
+              "y": -30,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 59,
+            "value": {
+              "x": 400,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 400,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH07",
+    "startFrame": 540,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 380
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 22,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 380
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env02-clean",
+        "assetId": "env02-clean",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.35,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "street-ground",
+        "assetId": "street-ground",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.8
+      },
+      {
+        "id": "commuter-0",
+        "assetId": "commuter-1",
+        "type": "character",
+        "x": 270,
+        "y": 820,
+        "width": 320,
+        "height": 480,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-1",
+        "assetId": "commuter-2",
+        "type": "character",
+        "x": 1420,
+        "y": 790,
+        "width": 280,
+        "height": 420,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.74,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-2",
+        "assetId": "commuter-3",
+        "type": "character",
+        "x": 520,
+        "y": 680,
+        "width": 200,
+        "height": 300,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7799999999999999,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-3",
+        "assetId": "commuter-4",
+        "type": "character",
+        "x": 1190,
+        "y": 650,
+        "width": 163.33333333333334,
+        "height": 245,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.82,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "ivan-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 960,
+        "y": 962,
+        "width": 330,
+        "height": 41.25,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.55,
+        "parallax": 0,
+        "cameraFollow": true
+      },
+      {
+        "id": "ivan-walking",
+        "assetId": "ch01-walk-a",
+        "type": "character",
+        "x": 960,
+        "y": 960,
+        "width": 473.3333333333333,
+        "height": 710,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "cels": [
+          {
+            "frame": 0,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 12,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 24,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 36,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 48,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 60,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 72,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 84,
+            "assetId": "ch02-walk-b"
+          }
+        ],
+        "cameraFollow": true,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 40,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 41,
+            "value": {
+              "x": 12,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 43,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "street-near",
+        "assetId": "street-near",
+        "type": "foreground",
+        "x": -350,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.4
+      },
+      {
+        "id": "street-object",
+        "assetId": "street-bollard",
+        "type": "foreground",
+        "x": 120,
+        "y": 1140,
+        "width": 406.6666666666667,
+        "height": 610,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 1.7
+      },
+      {
+        "id": "real-ivan-foreground",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1580,
+        "y": 1180,
+        "width": 700,
+        "height": 1050,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "cameraFollow": true,
+        "opacity": 0.94
+      }
+    ]
+  },
+  {
+    "id": "SH08",
+    "startFrame": 630,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 380
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 40,
+          "y": 0,
+          "zoom": 1.02,
+          "pivotX": 960,
+          "pivotY": 380
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env02-clean",
+        "assetId": "env02-clean",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.35,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "street-ground",
+        "assetId": "street-ground",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.8
+      },
+      {
+        "id": "commuter-0",
+        "assetId": "commuter-1",
+        "type": "character",
+        "x": 270,
+        "y": 820,
+        "width": 320,
+        "height": 480,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-1",
+        "assetId": "commuter-2",
+        "type": "character",
+        "x": 1420,
+        "y": 790,
+        "width": 280,
+        "height": 420,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.74,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-2",
+        "assetId": "commuter-3",
+        "type": "character",
+        "x": 520,
+        "y": 680,
+        "width": 200,
+        "height": 300,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.7799999999999999,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "commuter-3",
+        "assetId": "commuter-4",
+        "type": "character",
+        "x": 1190,
+        "y": 650,
+        "width": 163.33333333333334,
+        "height": 245,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.7,
+        "opacity": 0.82,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -70,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "ivan-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 960,
+        "y": 962,
+        "width": 330,
+        "height": 41.25,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.55,
+        "parallax": 0,
+        "cameraFollow": true
+      },
+      {
+        "id": "ivan-walking",
+        "assetId": "ch01-walk-a",
+        "type": "character",
+        "x": 960,
+        "y": 960,
+        "width": 473.3333333333333,
+        "height": 710,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "cels": [
+          {
+            "frame": 0,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 12,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 24,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 36,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 48,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 60,
+            "assetId": "ch02-walk-b"
+          },
+          {
+            "frame": 72,
+            "assetId": "ch01-walk-a"
+          },
+          {
+            "frame": 84,
+            "assetId": "ch02-walk-b"
+          }
+        ],
+        "cameraFollow": true
+      },
+      {
+        "id": "street-near",
+        "assetId": "street-near",
+        "type": "foreground",
+        "x": -350,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.4
+      },
+      {
+        "id": "street-object",
+        "assetId": "street-bollard",
+        "type": "foreground",
+        "x": 120,
+        "y": 1140,
+        "width": 406.6666666666667,
+        "height": 610,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 1.7
+      },
+      {
+        "id": "localized-facade-shift",
+        "assetId": "street-strip",
+        "type": "environment",
+        "x": -480,
+        "y": -480,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.35,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 31,
+            "value": {
+              "x": 20,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 33,
+            "value": {
+              "x": 20,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 34,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH09",
+    "startFrame": 720,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 450
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 95,
+          "y": 0,
+          "zoom": 1.1,
+          "pivotX": 960,
+          "pivotY": 450
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "wireframe",
+        "assetId": "wireframe",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.5,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "corridor-ground",
+        "assetId": "corridor-ground",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1
+      },
+      {
+        "id": "corridor-far",
+        "assetId": "corridor-far",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.2
+      },
+      {
+        "id": "facade-peel-0",
+        "assetId": "facade-0",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 45,
+            "value": {
+              "x": -100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-1",
+        "assetId": "facade-1",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 3,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 48,
+            "value": {
+              "x": -124,
+              "y": -10,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-2",
+        "assetId": "facade-2",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 6,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 51,
+            "value": {
+              "x": -148,
+              "y": -20,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-3",
+        "assetId": "facade-3",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 9,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": -172,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-4",
+        "assetId": "facade-4",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 12,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 57,
+            "value": {
+              "x": -196,
+              "y": -10,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-5",
+        "assetId": "facade-5",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 15,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 60,
+            "value": {
+              "x": -220,
+              "y": -20,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-6",
+        "assetId": "facade-6",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 18,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 63,
+            "value": {
+              "x": 100,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-7",
+        "assetId": "facade-7",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 21,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 66,
+            "value": {
+              "x": 124,
+              "y": -10,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-8",
+        "assetId": "facade-8",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 24,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 69,
+            "value": {
+              "x": 148,
+              "y": -20,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-9",
+        "assetId": "facade-9",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 27,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 72,
+            "value": {
+              "x": 172,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-10",
+        "assetId": "facade-10",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 30,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 75,
+            "value": {
+              "x": 196,
+              "y": -10,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "facade-peel-11",
+        "assetId": "facade-11",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.7,
+        "motion": [
+          {
+            "frame": 33,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 78,
+            "value": {
+              "x": 220,
+              "y": -20,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.85
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "running-ivan",
+        "assetId": "ch07-run",
+        "type": "character",
+        "x": 650,
+        "y": 960,
+        "width": 453.3333333333333,
+        "height": 680,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "cameraFollow": true,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 440,
+              "y": -45,
+              "scale": 0.88,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH10",
+    "startFrame": 810,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 605
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.1,
+          "pivotX": 960,
+          "pivotY": 605
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env05-void",
+        "assetId": "env05-void",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.25,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "boundary-road",
+        "assetId": "boundary-road",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1
+      },
+      {
+        "id": "boundary-left",
+        "assetId": "boundary-left",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.2
+      },
+      {
+        "id": "boundary-right",
+        "assetId": "boundary-right",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.2
+      },
+      {
+        "id": "ivan-approach",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 1000,
+        "width": 453.3333333333333,
+        "height": 680,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 70,
+            "value": {
+              "x": 0,
+              "y": -170,
+              "scale": 0.65,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH11",
+    "startFrame": 900,
+    "duration": 90,
+    "mode": "flat-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 440
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.07,
+          "pivotX": 960,
+          "pivotY": 440
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env03-glass",
+        "assetId": "env03-glass",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "opacity": 0.3,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "portrait-real",
+        "assetId": "ch05-closeup",
+        "type": "character",
+        "x": 250,
+        "y": 100,
+        "width": 930,
+        "height": 930,
+        "anchor": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "portrait-double",
+        "assetId": "ch05-closeup",
+        "type": "character",
+        "x": 930,
+        "y": 100,
+        "width": 930,
+        "height": 930,
+        "anchor": [
+          0,
+          0
+        ],
+        "opacity": 0.52,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 36,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 105,
+              "y": -15,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH12",
+    "startFrame": 990,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 550
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": -20,
+          "zoom": 1.08,
+          "pivotX": 960,
+          "pivotY": 550
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env05-void",
+        "assetId": "env05-void",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.25,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "boundary-road",
+        "assetId": "boundary-road",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1
+      },
+      {
+        "id": "boundary-left",
+        "assetId": "boundary-left",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.2
+      },
+      {
+        "id": "boundary-right",
+        "assetId": "boundary-right",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 1.2
+      },
+      {
+        "id": "ivan-refuses",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 840,
+        "width": 306.6666666666667,
+        "height": 460,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": -105,
+              "scale": 0.8,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH13",
+    "startFrame": 1080,
+    "duration": 90,
+    "mode": "image-plane-3d",
+    "projection": "perspective",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "z": 1158,
+          "targetX": 0,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 24,
+          "z": 1030,
+          "targetX": 0,
+          "targetY": 12,
+          "targetZ": 0,
+          "zoom": 1
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env05-void",
+        "assetId": "env05-void",
+        "type": "environment",
+        "x": -2469.637305699482,
+        "y": -1389.1709844559587,
+        "width": 6859.274611398964,
+        "height": 3858.3419689119173,
+        "depth": -1600
+      },
+      {
+        "id": "road-0-0",
+        "assetId": "road-0-0",
+        "type": "environment",
+        "x": 589,
+        "y": 666.5,
+        "width": 304,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 16,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 17,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-1",
+        "assetId": "road-0-1",
+        "type": "environment",
+        "x": 678.5,
+        "y": 666.5,
+        "width": 251,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 12,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 13,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-2",
+        "assetId": "road-0-2",
+        "type": "environment",
+        "x": 767.5,
+        "y": 666.5,
+        "width": 197,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 8,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 9,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-3",
+        "assetId": "road-0-3",
+        "type": "environment",
+        "x": 857,
+        "y": 666.5,
+        "width": 144,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 4,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-4",
+        "assetId": "road-0-4",
+        "type": "environment",
+        "x": 960,
+        "y": 666.5,
+        "width": 118,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-5",
+        "assetId": "road-0-5",
+        "type": "environment",
+        "x": 1063,
+        "y": 666.5,
+        "width": 144,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 4,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 5,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-6",
+        "assetId": "road-0-6",
+        "type": "environment",
+        "x": 1152.5,
+        "y": 666.5,
+        "width": 197,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 8,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 9,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-7",
+        "assetId": "road-0-7",
+        "type": "environment",
+        "x": 1241.5,
+        "y": 666.5,
+        "width": 251,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 12,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 13,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-0-8",
+        "assetId": "road-0-8",
+        "type": "environment",
+        "x": 1331,
+        "y": 666.5,
+        "width": 304,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 16,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": -76,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 17,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-0",
+        "assetId": "road-1-0",
+        "type": "environment",
+        "x": 375.5,
+        "y": 791.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 21,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 22,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-1",
+        "assetId": "road-1-1",
+        "type": "environment",
+        "x": 518.5,
+        "y": 791.5,
+        "width": 303,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 17,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 18,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-2",
+        "assetId": "road-1-2",
+        "type": "environment",
+        "x": 661,
+        "y": 791.5,
+        "width": 250,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 13,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 14,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-3",
+        "assetId": "road-1-3",
+        "type": "environment",
+        "x": 803.5,
+        "y": 791.5,
+        "width": 197,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 9,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 10,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-4",
+        "assetId": "road-1-4",
+        "type": "environment",
+        "x": 960,
+        "y": 791.5,
+        "width": 170,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 5,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 6,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-5",
+        "assetId": "road-1-5",
+        "type": "environment",
+        "x": 1116.5,
+        "y": 791.5,
+        "width": 197,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 9,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 10,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-6",
+        "assetId": "road-1-6",
+        "type": "environment",
+        "x": 1259,
+        "y": 791.5,
+        "width": 250,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 13,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 14,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-7",
+        "assetId": "road-1-7",
+        "type": "environment",
+        "x": 1401.5,
+        "y": 791.5,
+        "width": 303,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 17,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 18,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-1-8",
+        "assetId": "road-1-8",
+        "type": "environment",
+        "x": 1544.5,
+        "y": 791.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 21,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": -38,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 22,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-0",
+        "assetId": "road-2-0",
+        "type": "environment",
+        "x": 162.5,
+        "y": 915.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 26,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 27,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-1",
+        "assetId": "road-2-1",
+        "type": "environment",
+        "x": 358.5,
+        "y": 915.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 22,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 23,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-2",
+        "assetId": "road-2-2",
+        "type": "environment",
+        "x": 554.5,
+        "y": 915.5,
+        "width": 303,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 18,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 19,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-3",
+        "assetId": "road-2-3",
+        "type": "environment",
+        "x": 750.5,
+        "y": 915.5,
+        "width": 251,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 14,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 15,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-4",
+        "assetId": "road-2-4",
+        "type": "environment",
+        "x": 960,
+        "y": 915.5,
+        "width": 224,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 10,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 11,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-5",
+        "assetId": "road-2-5",
+        "type": "environment",
+        "x": 1169.5,
+        "y": 915.5,
+        "width": 251,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 14,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 15,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-6",
+        "assetId": "road-2-6",
+        "type": "environment",
+        "x": 1365.5,
+        "y": 915.5,
+        "width": 303,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 18,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 19,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-7",
+        "assetId": "road-2-7",
+        "type": "environment",
+        "x": 1561.5,
+        "y": 915.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 22,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 23,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-2-8",
+        "assetId": "road-2-8",
+        "type": "environment",
+        "x": 1757.5,
+        "y": 915.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 26,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": 0,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 27,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-0",
+        "assetId": "road-3-0",
+        "type": "environment",
+        "x": -51,
+        "y": 1039.5,
+        "width": 464,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 31,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 32,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-1",
+        "assetId": "road-3-1",
+        "type": "environment",
+        "x": 198.5,
+        "y": 1039.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 27,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 28,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-2",
+        "assetId": "road-3-2",
+        "type": "environment",
+        "x": 447.5,
+        "y": 1039.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 23,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 24,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-3",
+        "assetId": "road-3-3",
+        "type": "environment",
+        "x": 697,
+        "y": 1039.5,
+        "width": 304,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 19,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 20,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-4",
+        "assetId": "road-3-4",
+        "type": "environment",
+        "x": 960,
+        "y": 1039.5,
+        "width": 278,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 15,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 16,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-5",
+        "assetId": "road-3-5",
+        "type": "environment",
+        "x": 1223,
+        "y": 1039.5,
+        "width": 304,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 19,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 20,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-6",
+        "assetId": "road-3-6",
+        "type": "environment",
+        "x": 1472.5,
+        "y": 1039.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 23,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 24,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-7",
+        "assetId": "road-3-7",
+        "type": "environment",
+        "x": 1721.5,
+        "y": 1039.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 27,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 28,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-3-8",
+        "assetId": "road-3-8",
+        "type": "environment",
+        "x": 1971,
+        "y": 1039.5,
+        "width": 464,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 31,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": 38,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 32,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-0",
+        "assetId": "road-4-0",
+        "type": "environment",
+        "x": -243,
+        "y": 1163.5,
+        "width": 474,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 36,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 37,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-1",
+        "assetId": "road-4-1",
+        "type": "environment",
+        "x": 38.5,
+        "y": 1163.5,
+        "width": 463,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 32,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 33,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-2",
+        "assetId": "road-4-2",
+        "type": "environment",
+        "x": 341,
+        "y": 1163.5,
+        "width": 410,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 28,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 29,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-3",
+        "assetId": "road-4-3",
+        "type": "environment",
+        "x": 643.5,
+        "y": 1163.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 24,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 25,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-4",
+        "assetId": "road-4-4",
+        "type": "environment",
+        "x": 960,
+        "y": 1163.5,
+        "width": 330,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 20,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 21,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-5",
+        "assetId": "road-4-5",
+        "type": "environment",
+        "x": 1276.5,
+        "y": 1163.5,
+        "width": 357,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 24,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 25,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-6",
+        "assetId": "road-4-6",
+        "type": "environment",
+        "x": 1579,
+        "y": 1163.5,
+        "width": 410,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 28,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 29,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-7",
+        "assetId": "road-4-7",
+        "type": "environment",
+        "x": 1881.5,
+        "y": 1163.5,
+        "width": 463,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 32,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 33,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-4-8",
+        "assetId": "road-4-8",
+        "type": "environment",
+        "x": 2163,
+        "y": 1163.5,
+        "width": 474,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 36,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": 76,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 37,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-0",
+        "assetId": "road-5-0",
+        "type": "environment",
+        "x": -336,
+        "y": 1287.5,
+        "width": 288,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 41,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -168,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": -10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 42,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-1",
+        "assetId": "road-5-1",
+        "type": "environment",
+        "x": -121.5,
+        "y": 1287.5,
+        "width": 517,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 37,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -126,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": -7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 38,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-2",
+        "assetId": "road-5-2",
+        "type": "environment",
+        "x": 234.5,
+        "y": 1287.5,
+        "width": 463,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 33,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -84,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": -5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 34,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-3",
+        "assetId": "road-5-3",
+        "type": "environment",
+        "x": 590.5,
+        "y": 1287.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 29,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -42,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": -2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-4",
+        "assetId": "road-5-4",
+        "type": "environment",
+        "x": 960,
+        "y": 1287.5,
+        "width": 384,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 25,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 26,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -90
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-5",
+        "assetId": "road-5-5",
+        "type": "environment",
+        "x": 1329.5,
+        "y": 1287.5,
+        "width": 411,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 29,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 42,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": 2.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -440
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-6",
+        "assetId": "road-5-6",
+        "type": "environment",
+        "x": 1685.5,
+        "y": 1287.5,
+        "width": 463,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 33,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 84,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": 5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 34,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -530
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-7",
+        "assetId": "road-5-7",
+        "type": "environment",
+        "x": 2041.5,
+        "y": 1287.5,
+        "width": 517,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 37,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 126,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": 7.5,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 38,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -620
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "road-5-8",
+        "assetId": "road-5-8",
+        "type": "environment",
+        "x": 2256,
+        "y": 1287.5,
+        "width": 288,
+        "height": 125,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "depth": 0,
+        "motion": [
+          {
+            "frame": 41,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 168,
+              "y": 114,
+              "scale": 0.94,
+              "rotation": 10,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "depthMotion": [
+          {
+            "frame": 0,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 42,
+            "value": {
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "z": -710
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "ivan-grid",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 768.566493955095,
+        "width": 263.73056994818654,
+        "height": 395.59585492227984,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "depth": 140
+      }
+    ]
+  },
+  {
+    "id": "SH14",
+    "startFrame": 1170,
+    "duration": 90,
+    "mode": "image-plane-3d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "z": 1158,
+          "targetX": 0,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 35,
+          "y": 0,
+          "z": 1250,
+          "targetX": 12,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env06-outside",
+        "assetId": "env06-outside",
+        "type": "environment",
+        "x": -2469.637305699482,
+        "y": -1389.1709844559587,
+        "width": 6859.274611398964,
+        "height": 3858.3419689119173,
+        "depth": -1600
+      },
+      {
+        "id": "fracture-left",
+        "assetId": "corridor-left",
+        "type": "environment",
+        "x": -666.5284974093265,
+        "y": -374.92227979274617,
+        "width": 3253.056994818653,
+        "height": 1829.8445595854923,
+        "depth": -150,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -670,
+              "y": 0,
+              "scale": 1,
+              "rotation": -8,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "rotation3D": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": -16,
+              "z": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "fracture-right",
+        "assetId": "corridor-right",
+        "type": "environment",
+        "x": -604.3523316062176,
+        "y": -339.94818652849744,
+        "width": 3128.704663212435,
+        "height": 1759.896373056995,
+        "depth": -100,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 670,
+              "y": 0,
+              "scale": 1,
+              "rotation": 8,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "rotation3D": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 16,
+              "z": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": "ivan-fracture",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 882.8497409326426,
+        "width": 363.36211859527924,
+        "height": 545.0431778929188,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "depth": 140
+      }
+    ]
+  },
+  {
+    "id": "SH15",
+    "startFrame": 1260,
+    "duration": 90,
+    "mode": "flat-2d",
+    "template": "montage",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 540
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 540
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": []
+  },
+  {
+    "id": "SH16",
+    "startFrame": 1350,
+    "duration": 90,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.12,
+          "pivotX": 960,
+          "pivotY": 480
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 0.84,
+          "pivotX": 960,
+          "pivotY": 480
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env05-void",
+        "assetId": "env05-void",
+        "type": "environment",
+        "x": -720,
+        "y": -405,
+        "width": 3360,
+        "height": 1890,
+        "parallax": 0.2,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "infinite-0",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 350,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-1",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 594,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-2",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 838,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-3",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1082,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-4",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1326,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 6,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-5",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1570,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 9,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-6",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 410,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 12,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-7",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 654,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 15,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-8",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 898,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 18,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-9",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1142,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 21,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-10",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1386,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 24,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-11",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1630,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 27,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-12",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 350,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 30,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-13",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 594,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 33,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-14",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 838,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 36,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-15",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1082,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 39,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-16",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1326,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 42,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "infinite-17",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 1570,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "opacity": 1,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 45,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0.06
+            }
+          }
+        ]
+      },
+      {
+        "id": "outline-0",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 350,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-1",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 594,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-2",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 838,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-3",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1082,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-4",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1326,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-5",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1570,
+        "y": 650,
+        "width": 193.33333333333334,
+        "height": 290,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.25,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-6",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 410,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-7",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 654,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-8",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 898,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-9",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1142,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-10",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1386,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-11",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1630,
+        "y": 835,
+        "width": 313.3333333333333,
+        "height": 470,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.55,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-12",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 350,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-13",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 594,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-14",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 838,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-15",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1082,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-16",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1326,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outline-17",
+        "assetId": "ch03-outline",
+        "type": "character",
+        "x": 1570,
+        "y": 1020,
+        "width": 433.3333333333333,
+        "height": 650,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 0.85,
+        "motion": [
+          {
+            "frame": 54,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH17",
+    "startFrame": 1440,
+    "duration": 90,
+    "mode": "image-plane-3d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "z": 1158,
+          "targetX": 0,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 75,
+          "y": 20,
+          "z": 1250,
+          "targetX": 10,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env05-void",
+        "assetId": "env05-void",
+        "type": "environment",
+        "x": -2718.3419689119173,
+        "y": -1529.0673575129535,
+        "width": 7356.683937823835,
+        "height": 4138.134715025907,
+        "depth": -1800
+      },
+      {
+        "id": "collapse-city",
+        "assetId": "city-near",
+        "type": "environment",
+        "x": -664.1968911917099,
+        "y": -353.93782383419693,
+        "width": 2900.891191709845,
+        "height": 1631.7512953367875,
+        "depth": -300,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -480,
+              "y": -120,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "rotation3D": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 7,
+              "y": -22,
+              "z": 5
+            }
+          }
+        ]
+      },
+      {
+        "id": "collapse-corridor",
+        "assetId": "corridor-left",
+        "type": "environment",
+        "x": 112.64248704663214,
+        "y": -339.94818652849744,
+        "width": 3128.704663212435,
+        "height": 1759.896373056995,
+        "depth": -100,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -460,
+              "y": 140,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "rotation3D": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": -8,
+              "y": 24,
+              "z": -8
+            }
+          }
+        ]
+      },
+      {
+        "id": "collapse-boundary",
+        "assetId": "boundary-right",
+        "type": "environment",
+        "x": -399.13644214162355,
+        "y": -148.87737478411054,
+        "width": 2681.036269430052,
+        "height": 1508.082901554404,
+        "depth": 80,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 340,
+              "y": -90,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ],
+        "rotation3D": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          },
+          {
+            "frame": 89,
+            "value": {
+              "x": 12,
+              "y": -16,
+              "z": 6
+            }
+          }
+        ]
+      },
+      {
+        "id": "ivan-collapse",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 985.3367875647668,
+        "y": 894.7150259067357,
+        "width": 349.0846286701209,
+        "height": 523.6269430051814,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "depth": 180
+      }
+    ]
+  },
+  {
+    "id": "SH18",
+    "startFrame": 1530,
+    "duration": 90,
+    "mode": "image-plane-3d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "z": 1158,
+          "targetX": 0,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        }
+      },
+      {
+        "frame": 89,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "z": 1120,
+          "targetX": 0,
+          "targetY": 0,
+          "targetZ": 0,
+          "zoom": 1
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env06-outside",
+        "assetId": "env06-outside",
+        "type": "environment",
+        "x": -2220.932642487047,
+        "y": -1249.2746113989638,
+        "width": 6361.865284974094,
+        "height": 3578.5492227979275,
+        "depth": -1400
+      },
+      {
+        "id": "ivan-exit",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 920,
+        "width": 400,
+        "height": 600,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "depth": 0
+      },
+      {
+        "id": "opening-left",
+        "assetId": "exit-left",
+        "type": "environment",
+        "x": -293.4715025906735,
+        "y": -165.07772020725383,
+        "width": 2506.943005181347,
+        "height": 1410.1554404145077,
+        "depth": 150,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 82,
+            "value": {
+              "x": -1850,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "opening-right",
+        "assetId": "exit-right",
+        "type": "environment",
+        "x": -281.0362694300518,
+        "y": -158.0829015544042,
+        "width": 2482.0725388601036,
+        "height": 1396.1658031088084,
+        "depth": 160,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 82,
+            "value": {
+              "x": 1850,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "SH19",
+    "startFrame": 1620,
+    "duration": 180,
+    "mode": "multiplane-2d",
+    "camera": [
+      {
+        "frame": 0,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1.1,
+          "pivotX": 960,
+          "pivotY": 580
+        }
+      },
+      {
+        "frame": 179,
+        "value": {
+          "x": 0,
+          "y": 0,
+          "zoom": 1,
+          "pivotX": 960,
+          "pivotY": 580
+        },
+        "easing": "smooth"
+      }
+    ],
+    "layers": [
+      {
+        "id": "env06-outside",
+        "assetId": "env06-outside",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.1,
+        "cropSafe": {
+          "inset": 24
+        }
+      },
+      {
+        "id": "outside-sky",
+        "assetId": "outside-sky",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.08,
+        "motion": [
+          {
+            "frame": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            }
+          },
+          {
+            "frame": 179,
+            "value": {
+              "x": 8,
+              "y": 0,
+              "scale": 1,
+              "rotation": 0,
+              "opacity": 1
+            },
+            "easing": "smooth"
+          }
+        ]
+      },
+      {
+        "id": "outside-ground",
+        "assetId": "outside-ground",
+        "type": "environment",
+        "x": -480,
+        "y": -270,
+        "width": 2880,
+        "height": 1620,
+        "parallax": 0.3
+      },
+      {
+        "id": "outside-contact",
+        "assetId": "contact-shadow",
+        "type": "environment",
+        "x": 960,
+        "y": 852,
+        "width": 170,
+        "height": 21.25,
+        "anchor": [
+          0.5,
+          0.5
+        ],
+        "opacity": 0.22,
+        "parallax": 1
+      },
+      {
+        "id": "ivan-outside",
+        "assetId": "ch03-rear",
+        "type": "character",
+        "x": 960,
+        "y": 850,
+        "width": 273.3333333333333,
+        "height": 410,
+        "anchor": [
+          0.5,
+          0.9333333333333333
+        ],
+        "parallax": 1
+      }
+    ]
+  }
+]

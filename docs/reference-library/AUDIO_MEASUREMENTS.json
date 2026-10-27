@@ -1,0 +1,312 @@
+{
+  "method": "earshot timeline(detail=low), local CPU, all 18 audio-bearing clips. Nearest detected event is a measurement comparison, not a sync pass. Four clips have no audio stream.",
+  "references": [
+    {
+      "id": "REF-01",
+      "hasAudioStream": true,
+      "integratedLufs": -38.2,
+      "truePeakDbtp": -24.3,
+      "eventCount": 248,
+      "tempoEstimate": null,
+      "pulseClarity": 0.079,
+      "pulseConfidence": "none",
+      "visualAnchor": {
+        "frame": 1343,
+        "pts": 22.383333,
+        "nearestDetectedEvent": 22.345,
+        "offsetMsAudioMinusVisual": -38.3
+      },
+      "rejectedTempoEstimate": 105.2
+    },
+    {
+      "id": "REF-02",
+      "hasAudioStream": true,
+      "integratedLufs": -18.9,
+      "truePeakDbtp": -3.8,
+      "eventCount": 50,
+      "tempoEstimate": 119.7,
+      "pulseClarity": 0.257,
+      "pulseConfidence": "weak",
+      "visualAnchor": {
+        "frame": 32,
+        "pts": 0.533333,
+        "nearestDetectedEvent": 0.582,
+        "offsetMsAudioMinusVisual": 48.7
+      }
+    },
+    {
+      "id": "REF-03",
+      "hasAudioStream": true,
+      "integratedLufs": -13.6,
+      "truePeakDbtp": -0.4,
+      "eventCount": 73,
+      "tempoEstimate": 120.0,
+      "pulseClarity": 0.728,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 272,
+        "pts": 4.533333,
+        "nearestDetectedEvent": 4.584,
+        "offsetMsAudioMinusVisual": 50.7
+      }
+    },
+    {
+      "id": "REF-04",
+      "hasAudioStream": true,
+      "integratedLufs": -19.2,
+      "truePeakDbtp": -5.9,
+      "eventCount": 33,
+      "tempoEstimate": null,
+      "pulseClarity": 0.15,
+      "pulseConfidence": "none",
+      "visualAnchor": {
+        "frame": 210,
+        "pts": 7.0,
+        "nearestDetectedEvent": 7.278,
+        "offsetMsAudioMinusVisual": 278.0
+      },
+      "rejectedTempoEstimate": 64.8
+    },
+    {
+      "id": "REF-05",
+      "hasAudioStream": true,
+      "integratedLufs": -14.3,
+      "truePeakDbtp": -0.3,
+      "eventCount": 209,
+      "tempoEstimate": 143.6,
+      "pulseClarity": 0.5,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 408,
+        "pts": 6.8,
+        "nearestDetectedEvent": 6.818,
+        "offsetMsAudioMinusVisual": 18.0
+      }
+    },
+    {
+      "id": "REF-06",
+      "hasAudioStream": true,
+      "integratedLufs": -12.4,
+      "truePeakDbtp": -0.6,
+      "eventCount": 70,
+      "tempoEstimate": 127.8,
+      "pulseClarity": 0.414,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 339,
+        "pts": 5.65,
+        "nearestDetectedEvent": 5.667,
+        "offsetMsAudioMinusVisual": 17.0
+      }
+    },
+    {
+      "id": "REF-07",
+      "hasAudioStream": false
+    },
+    {
+      "id": "REF-08",
+      "hasAudioStream": true,
+      "integratedLufs": -11.7,
+      "truePeakDbtp": -0.0,
+      "eventCount": 63,
+      "tempoEstimate": 127.7,
+      "pulseClarity": 0.673,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 154,
+        "pts": 5.133333,
+        "nearestDetectedEvent": 5.197,
+        "offsetMsAudioMinusVisual": 63.7
+      }
+    },
+    {
+      "id": "REF-09",
+      "hasAudioStream": true,
+      "integratedLufs": -14.1,
+      "truePeakDbtp": -0.4,
+      "eventCount": 159,
+      "tempoEstimate": 119.9,
+      "pulseClarity": 0.502,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 1303,
+        "pts": 21.716667,
+        "nearestDetectedEvent": 21.866,
+        "offsetMsAudioMinusVisual": 149.3
+      }
+    },
+    {
+      "id": "REF-10",
+      "hasAudioStream": true,
+      "integratedLufs": -13.1,
+      "truePeakDbtp": -1.4,
+      "eventCount": 82,
+      "tempoEstimate": 127.7,
+      "pulseClarity": 0.61,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 600,
+        "pts": 10.0,
+        "nearestDetectedEvent": 10.29,
+        "offsetMsAudioMinusVisual": 290.0
+      }
+    },
+    {
+      "id": "REF-11",
+      "hasAudioStream": false
+    },
+    {
+      "id": "REF-12",
+      "hasAudioStream": false
+    },
+    {
+      "id": "REF-13",
+      "hasAudioStream": true,
+      "integratedLufs": -11.6,
+      "truePeakDbtp": -1.4,
+      "eventCount": 82,
+      "tempoEstimate": 120.0,
+      "pulseClarity": 0.352,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 109,
+        "pts": 3.633333,
+        "nearestDetectedEvent": 4.064,
+        "offsetMsAudioMinusVisual": 430.7
+      }
+    },
+    {
+      "id": "REF-14",
+      "hasAudioStream": true,
+      "integratedLufs": -14.4,
+      "truePeakDbtp": -1.4,
+      "eventCount": 960,
+      "tempoEstimate": 120.0,
+      "pulseClarity": 0.165,
+      "pulseConfidence": "weak",
+      "visualAnchor": {
+        "frame": 3177,
+        "pts": 105.9,
+        "nearestDetectedEvent": 105.979,
+        "offsetMsAudioMinusVisual": 79.0
+      }
+    },
+    {
+      "id": "REF-15",
+      "hasAudioStream": true,
+      "integratedLufs": -14.3,
+      "truePeakDbtp": 0.2,
+      "eventCount": 139,
+      "tempoEstimate": null,
+      "pulseClarity": 0.08,
+      "pulseConfidence": "none",
+      "visualAnchor": {
+        "frame": 330,
+        "pts": 5.5,
+        "nearestDetectedEvent": 5.509,
+        "offsetMsAudioMinusVisual": 9.0
+      },
+      "rejectedTempoEstimate": 100.2
+    },
+    {
+      "id": "REF-16",
+      "hasAudioStream": false
+    },
+    {
+      "id": "REF-17",
+      "hasAudioStream": true,
+      "integratedLufs": -13.9,
+      "truePeakDbtp": -2.5,
+      "eventCount": 79,
+      "tempoEstimate": 130.2,
+      "pulseClarity": 0.345,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 583,
+        "pts": 9.716667,
+        "nearestDetectedEvent": 9.809,
+        "offsetMsAudioMinusVisual": 92.3
+      }
+    },
+    {
+      "id": "REF-18",
+      "hasAudioStream": true,
+      "integratedLufs": -10.8,
+      "truePeakDbtp": -0.1,
+      "eventCount": 127,
+      "tempoEstimate": 120.0,
+      "pulseClarity": 0.672,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 399,
+        "pts": 6.65,
+        "nearestDetectedEvent": 6.632,
+        "offsetMsAudioMinusVisual": -18.0
+      }
+    },
+    {
+      "id": "REF-19",
+      "hasAudioStream": true,
+      "integratedLufs": -9.6,
+      "truePeakDbtp": 1.0,
+      "eventCount": 231,
+      "tempoEstimate": 96.9,
+      "pulseClarity": 0.283,
+      "pulseConfidence": "weak",
+      "visualAnchor": {
+        "frame": 513,
+        "pts": 17.1,
+        "nearestDetectedEvent": 17.068,
+        "offsetMsAudioMinusVisual": -32.0
+      }
+    },
+    {
+      "id": "REF-20",
+      "hasAudioStream": true,
+      "integratedLufs": -11.4,
+      "truePeakDbtp": -0.1,
+      "eventCount": 89,
+      "tempoEstimate": 128.1,
+      "pulseClarity": 0.661,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 547,
+        "pts": 9.116667,
+        "nearestDetectedEvent": 9.162,
+        "offsetMsAudioMinusVisual": 45.3
+      }
+    },
+    {
+      "id": "REF-21",
+      "hasAudioStream": true,
+      "integratedLufs": -14.1,
+      "truePeakDbtp": -0.6,
+      "eventCount": 78,
+      "tempoEstimate": 119.9,
+      "pulseClarity": 0.439,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 107,
+        "pts": 1.783333,
+        "nearestDetectedEvent": 1.87,
+        "offsetMsAudioMinusVisual": 86.7
+      }
+    },
+    {
+      "id": "REF-22",
+      "hasAudioStream": true,
+      "integratedLufs": -12.2,
+      "truePeakDbtp": -0.3,
+      "eventCount": 242,
+      "tempoEstimate": 120.0,
+      "pulseClarity": 0.338,
+      "pulseConfidence": "clear",
+      "visualAnchor": {
+        "frame": 238,
+        "pts": 3.966667,
+        "nearestDetectedEvent": 3.95,
+        "offsetMsAudioMinusVisual": -16.7
+      }
+    }
+  ]
+}

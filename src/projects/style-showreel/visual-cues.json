@@ -1,0 +1,205 @@
+{
+  "fps": 60,
+  "events": [
+    {
+      "f": 0,
+      "kind": "style-change",
+      "id": "1"
+    },
+    {
+      "f": 180,
+      "kind": "style-change",
+      "id": "2"
+    },
+    {
+      "f": 360,
+      "kind": "style-change",
+      "id": "3"
+    },
+    {
+      "f": 540,
+      "kind": "style-change",
+      "id": "4"
+    },
+    {
+      "f": 720,
+      "kind": "style-change",
+      "id": "5"
+    },
+    {
+      "f": 900,
+      "kind": "style-change",
+      "id": "6"
+    },
+    {
+      "f": 1080,
+      "kind": "style-change",
+      "id": "7"
+    },
+    {
+      "f": 1260,
+      "kind": "style-change",
+      "id": "8"
+    },
+    {
+      "f": 1440,
+      "kind": "style-change",
+      "id": "9"
+    },
+    {
+      "f": 1620,
+      "kind": "style-change",
+      "id": "10"
+    },
+    {
+      "f": 1800,
+      "kind": "style-change",
+      "id": "11"
+    },
+    {
+      "f": 1980,
+      "kind": "style-change",
+      "id": "12"
+    },
+    {
+      "f": 2160,
+      "kind": "style-change",
+      "id": "13"
+    },
+    {
+      "f": 2340,
+      "kind": "style-change",
+      "id": "14"
+    },
+    {
+      "f": 2520,
+      "kind": "style-change",
+      "id": "15"
+    },
+    {
+      "f": 2700,
+      "kind": "style-change",
+      "id": "16"
+    },
+    {
+      "f": 2880,
+      "kind": "style-change",
+      "id": "17"
+    },
+    {
+      "f": 3060,
+      "kind": "style-change",
+      "id": "18"
+    },
+    {
+      "f": 3240,
+      "kind": "style-change",
+      "id": "19"
+    },
+    {
+      "f": 3420,
+      "kind": "style-change",
+      "id": "20"
+    },
+    {
+      "f": 12,
+      "kind": "material-accent",
+      "id": "1"
+    },
+    {
+      "f": 192,
+      "kind": "material-accent",
+      "id": "2"
+    },
+    {
+      "f": 372,
+      "kind": "material-accent",
+      "id": "3"
+    },
+    {
+      "f": 552,
+      "kind": "material-accent",
+      "id": "4"
+    },
+    {
+      "f": 732,
+      "kind": "material-accent",
+      "id": "5"
+    },
+    {
+      "f": 912,
+      "kind": "material-accent",
+      "id": "6"
+    },
+    {
+      "f": 1092,
+      "kind": "material-accent",
+      "id": "7"
+    },
+    {
+      "f": 1272,
+      "kind": "material-accent",
+      "id": "8"
+    },
+    {
+      "f": 1452,
+      "kind": "material-accent",
+      "id": "9"
+    },
+    {
+      "f": 1632,
+      "kind": "material-accent",
+      "id": "10"
+    },
+    {
+      "f": 1812,
+      "kind": "material-accent",
+      "id": "11"
+    },
+    {
+      "f": 1992,
+      "kind": "material-accent",
+      "id": "12"
+    },
+    {
+      "f": 2172,
+      "kind": "material-accent",
+      "id": "13"
+    },
+    {
+      "f": 2352,
+      "kind": "material-accent",
+      "id": "14"
+    },
+    {
+      "f": 2532,
+      "kind": "material-accent",
+      "id": "15"
+    },
+    {
+      "f": 2712,
+      "kind": "material-accent",
+      "id": "16"
+    },
+    {
+      "f": 2892,
+      "kind": "material-accent",
+      "id": "17"
+    },
+    {
+      "f": 3072,
+      "kind": "material-accent",
+      "id": "18"
+    },
+    {
+      "f": 3252,
+      "kind": "material-accent",
+      "id": "19"
+    },
+    {
+      "f": 3432,
+      "kind": "material-accent",
+      "id": "20"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "music": {
+    "source": "assets/Music/A_Pale_Blue_Stillness.mp3",
+    "duration": 120,
+    "fps": 60,
+    "segments": [
+      {
+        "source": [
+          0,
+          13.2
+        ],
+        "output": [
+          0,
+          13.2
+        ]
+      },
+      {
+        "source": [
+          25.9,
+          122.7
+        ],
+        "output": [
+          11.2,
+          108
+        ]
+      },
+      {
+        "source": [
+          147.37,
+          161.37
+        ],
+        "output": [
+          106,
+          120
+        ]
+      }
+    ],
+    "crossfades": {
+      "seconds": 2,
+      "curves": [
+        "qsin",
+        "qsin"
+      ]
+    },
+    "gainDb": -4.5,
+    "fadeInSeconds": 0.015,
+    "fadeOut": [
+      118.5,
+      120
+    ],
+    "rawFootageAudio": "Dropped: user-selected music replaces the recorded website ambience; no voiceover.",
+    "excludedSources": [
+      "Ivan_Is_Loading.mp3",
+      "The_Golden_Hour_Rise.mp3"
+    ],
+    "note": "Only the supplied track is arranged. No generated music. Original MP3 unchanged."
+  },
+  "recordings": [
+    {
+      "id": "sfx_001",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_001.mp3",
+      "source": "search",
+      "description": "MECH-KEYBOARD-01.wav",
+      "duration": 1.3,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "mechanical keyboard click",
+        "openverse_id": "617f5e28-0291-421e-a196-a4f00f84ce05",
+        "license": "cc0",
+        "credit": "\"MECH-KEYBOARD-01.wav\" by newagesoup is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+        "source_url": "https://freesound.org/people/newagesoup/sounds/348239"
+      }
+    },
+    {
+      "id": "sfx_002",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_002.mp3",
+      "source": "search",
+      "description": "Page Turn - Please Turn Over (PTO) - paper_turn_over.wav",
+      "duration": 1,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "paper page flip",
+        "openverse_id": "ec2e245c-465b-4ba7-9ea4-620f3555b291",
+        "license": "by",
+        "credit": "\"Page Turn - Please Turn Over (PTO) - paper_turn_over.wav\" by flag2 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+        "source_url": "https://freesound.org/people/flag2/sounds/63318"
+      }
+    },
+    {
+      "id": "sfx_003",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_003.mp3",
+      "source": "search",
+      "description": "Wood Knock",
+      "duration": 0.9,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "wood knock",
+        "openverse_id": "19380888-f422-44d9-aad1-d2b7d788871f",
+        "license": "cc0",
+        "credit": "\"Wood Knock\" by Mrguff is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+        "source_url": "https://freesound.org/people/Mrguff/sounds/369710"
+      }
+    }
+  ],
+  "generated": "Selected existing measured earshot effects only; no generated music. Older local launch-kit files retain their kit provenance at src/projects/style-showreel-v2/assets/audio/effects/source-kit.lock.json.",
+  "materialEffects": [
+    {
+      "name": "particle-breath",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav: reverse_swell/breath seed 261026: 1.240 s, onset 0.115 s, peak at 0.707 s, end 1.153 s, -1.0 dBFS, -14.8 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav",
+      "meta": {
+        "id": "reverse_swell/breath",
+        "seed": 261026,
+        "sr": 48000,
+        "onset_s": 0.1152,
+        "peak_s": 0.7065,
+        "end_s": 1.153,
+        "dur_s": 1.24,
+        "peak_db": -1,
+        "lufs_m_max": -14.85,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "reverse_swell/breath: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -140.5,
+            "ring_z": 4,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 1.5,
+            "attack_ms": 10,
+            "t40_ms": 370,
+            "crest_db": 10.6,
+            "res_db": 2.6,
+            "res_hz": 2296,
+            "peak_dbfs": -1,
+            "live_ms": 893.5
+          },
+          "glide": {
+            "tonal_share": 0.6,
+            "rise_st": 1.9,
+            "from_s": 0.791,
+            "to_s": 0.826
+          },
+          "layers": {
+            "attacks": [
+              0.698
+            ],
+            "count": 1,
+            "pre_swell_ms": 475
+          },
+          "context": {
+            "category": "reverse_swell",
+            "sound": "reverse_swell/breath"
+          }
+        }
+      }
+    },
+    {
+      "name": "liquid-bubble",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav: drip/bubble seed 261027: 0.277 s, onset 0.000 s, peak at 0.013 s, end 0.215 s, -1.0 dBFS, -14.8 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav",
+      "meta": {
+        "id": "drip/bubble",
+        "seed": 261027,
+        "sr": 48000,
+        "onset_s": 0,
+        "peak_s": 0.0135,
+        "end_s": 0.215,
+        "dur_s": 0.2772,
+        "peak_db": -1,
+        "lufs_m_max": -14.75,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "drip/bubble: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -124.8,
+            "ring_z": 3.2,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 0,
+            "attack_ms": 6.75,
+            "t40_ms": 160,
+            "crest_db": 7.2,
+            "res_db": 12.6,
+            "res_hz": 1345,
+            "peak_dbfs": -1,
+            "live_ms": 159.75
+          },
+          "glide": {
+            "tonal_share": 0.96,
+            "rise_st": 0.2,
+            "from_s": 0.046,
+            "to_s": 0.071
+          },
+          "layers": {
+            "attacks": [
+              0.022
+            ],
+            "count": 1,
+            "pre_swell_ms": 0
+          },
+          "context": {
+            "category": "drip",
+            "sound": "drip/bubble"
+          }
+        }
+      }
+    },
+    {
+      "name": "type-flick",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav: swish/flick seed 261032: 0.310 s, onset 0.003 s, peak at 0.111 s, end 0.246 s, -1.0 dBFS, -19.5 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav",
+      "meta": {
+        "id": "swish/flick",
+        "seed": 261032,
+        "sr": 48000,
+        "onset_s": 0.0032,
+        "peak_s": 0.1105,
+        "end_s": 0.246,
+        "dur_s": 0.31,
+        "peak_db": -1,
+        "lufs_m_max": -19.48,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "swish/flick: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -114.1,
+            "ring_z": 7.9,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 0,
+            "attack_ms": 9.5,
+            "t40_ms": 110,
+            "crest_db": 12.7,
+            "res_db": 6,
+            "res_hz": 3064,
+            "peak_dbfs": -1,
+            "live_ms": 191
+          },
+          "glide": {
+            "tonal_share": 0.1,
+            "rise_st": 0,
+            "from_s": null,
+            "to_s": null
+          },
+          "layers": {
+            "attacks": [
+              0.113
+            ],
+            "count": 1,
+            "pre_swell_ms": 85
+          },
+          "context": {
+            "category": "swish",
+            "sound": "swish/flick"
+          }
+        }
+      }
+    },
+    {
+      "name": "mesh-swell",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav: reverse_swell/dark seed 261035: 0.919 s, onset 0.030 s, peak at 0.546 s, end 0.880 s, -1.0 dBFS, -15.3 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav",
+      "meta": {
+        "id": "reverse_swell/dark",
+        "seed": 261035,
+        "sr": 48000,
+        "onset_s": 0.0305,
+        "peak_s": 0.5465,
+        "end_s": 0.88,
+        "dur_s": 0.9189,
+        "peak_db": -1,
+        "lufs_m_max": -15.28,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "reverse_swell/dark: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -116.9,
+            "ring_z": 4.2,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 1.1,
+            "attack_ms": 5.75,
+            "t40_ms": 280,
+            "crest_db": 9.3,
+            "res_db": 4.4,
+            "res_hz": 1671,
+            "peak_dbfs": -1,
+            "live_ms": 675.75
+          },
+          "glide": {
+            "tonal_share": 0.61,
+            "rise_st": 5.6,
+            "from_s": 0.651,
+            "to_s": 0.686
+          },
+          "layers": {
+            "attacks": [
+              0.547
+            ],
+            "count": 1,
+            "pre_swell_ms": 485
+          },
+          "context": {
+            "category": "reverse_swell",
+            "sound": "reverse_swell/dark"
+          }
+        }
+      }
+    },
+    {
+      "name": "flap-curtain",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav: shutter/film seed 261036: 0.282 s, onset 0.000 s, peak at 0.099 s, end 0.238 s, -1.0 dBFS, -20.5 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav",
+      "meta": {
+        "id": "shutter/film",
+        "seed": 261036,
+        "sr": 48000,
+        "onset_s": 0,
+        "peak_s": 0.0985,
+        "end_s": 0.238,
+        "dur_s": 0.2824,
+        "peak_db": -1,
+        "lufs_m_max": -20.48,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "shutter/film: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -102.1,
+            "ring_z": 6.1,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 0,
+            "attack_ms": 1.5,
+            "t40_ms": 130,
+            "crest_db": 13.5,
+            "res_db": 6,
+            "res_hz": 692,
+            "peak_dbfs": -1,
+            "live_ms": 192
+          },
+          "glide": {
+            "tonal_share": 0.53,
+            "rise_st": 0.9,
+            "from_s": 0.156,
+            "to_s": 0.176
+          },
+          "layers": {
+            "attacks": [
+              0.107
+            ],
+            "count": 1,
+            "pre_swell_ms": 75
+          },
+          "context": {
+            "category": "shutter",
+            "sound": "shutter/film"
+          }
+        }
+      }
+    },
+    {
+      "name": "block-punch",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav: cut_hit/punch seed 261042: 0.282 s, onset 0.000 s, peak at 0.061 s, end 0.278 s, -1.0 dBFS, -14.3 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav",
+      "meta": {
+        "id": "cut_hit/punch",
+        "seed": 261042,
+        "sr": 48000,
+        "onset_s": 0,
+        "peak_s": 0.0615,
+        "end_s": 0.278,
+        "dur_s": 0.2823,
+        "peak_db": -1,
+        "lufs_m_max": -14.29,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "cut_hit/punch: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -110,
+            "ring_z": 3.8,
+            "trunc_db": -48.6,
+            "silence_ms": 0,
+            "bump_db": 0.1,
+            "attack_ms": 34.25,
+            "t40_ms": 210,
+            "crest_db": 7.1,
+            "res_db": 3.7,
+            "res_hz": 608,
+            "peak_dbfs": -1,
+            "live_ms": 222.5
+          },
+          "glide": {
+            "tonal_share": 0.46,
+            "rise_st": 0,
+            "from_s": null,
+            "to_s": null
+          },
+          "layers": {
+            "attacks": [
+              0.052
+            ],
+            "count": 1,
+            "pre_swell_ms": 15
+          },
+          "context": {
+            "category": "cut_hit",
+            "sound": "cut_hit/punch"
+          }
+        }
+      }
+    },
+    {
+      "name": "signature-swell",
+      "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav: reverse_swell/ring seed 261043: 1.745 s, onset 0.174 s, peak at 0.679 s, end 1.583 s, -1.0 dBFS, -15.5 LUFS momentary max; checks: clean",
+      "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav",
+      "meta": {
+        "id": "reverse_swell/ring",
+        "seed": 261043,
+        "sr": 48000,
+        "onset_s": 0.174,
+        "peak_s": 0.6795,
+        "end_s": 1.583,
+        "dur_s": 1.745,
+        "peak_db": -1,
+        "lufs_m_max": -15.52,
+        "edits": {},
+        "checks": {
+          "ok": true,
+          "warnings": [],
+          "notes": [],
+          "summary": "reverse_swell/ring: clean",
+          "measures": {
+            "clicks": 0,
+            "edge_db": -240,
+            "clip_runs": 0,
+            "overs": 0,
+            "dc_db": -194.9,
+            "ring_z": 5,
+            "trunc_db": null,
+            "silence_ms": 0,
+            "bump_db": 5.8,
+            "attack_ms": 30.75,
+            "t40_ms": 700,
+            "crest_db": 9.8,
+            "res_db": 11.8,
+            "res_hz": 4726,
+            "peak_dbfs": -1,
+            "live_ms": 1195
+          },
+          "glide": {
+            "tonal_share": 0.02,
+            "rise_st": 0,
+            "from_s": null,
+            "to_s": null
+          },
+          "layers": {
+            "attacks": [
+              0.688
+            ],
+            "count": 1,
+            "pre_swell_ms": 320
+          },
+          "context": {
+            "category": "reverse_swell",
+            "sound": "reverse_swell/ring"
+          }
+        }
+      }
+    }
+  ],
+  "candidateReview": {
+    "paper": {
+      "report": "out/portfolio-film/audio-paper-candidate.json",
+      "query": "a single paper page turn",
+      "z": 6.27,
+      "trim": [
+        0,
+        0.952
+      ],
+      "note": "Strong match; full recording release retained."
+    },
+    "whoosh": {
+      "report": "out/portfolio-film/audio-whoosh-rank.json",
+      "selected": "mesh-swell.wav",
+      "query": "a smooth soft air whoosh",
+      "z": 3.17,
+      "note": "Also matches a fast whoosh at z +4.9. Used for broad handoffs."
+    },
+    "rejected": {
+      "report": "out/portfolio-film/audio-swish-candidate.json",
+      "file": "shape-swish.wav",
+      "z": 1,
+      "note": "No whoosh match; snare-like model reading. Removed from broad handoffs."
+    },
+    "typeContact": {
+      "report": "out/portfolio-film/audio-type-candidate.json",
+      "query": "short dry paper flick and swish",
+      "z": 2,
+      "note": "Weak variant match, closest vocabulary box-lid/impact/quick swipe; retained only as a short stylized glyph contact, not a broad air move."
+    }
+  },
+  "sourceAudio": "The recording has quiet website ambience. Replaced by the user-selected supplied song; no voiceover added.",
+  "mix": "One Real SFX post-mix path; explicit files, zero automatic source selection."
+}

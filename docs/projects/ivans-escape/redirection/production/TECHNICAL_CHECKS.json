@@ -1,0 +1,23 @@
+{
+  "shots": 40,
+  "internalCuts": 39,
+  "durationInFrames": 1800,
+  "fps": 30,
+  "pilotFrames": 540,
+  "packetFrames": 180,
+  "modes": [
+    "flat-2d",
+    "multiplane-2d",
+    "image-plane-3d"
+  ],
+  "reflectionLagFrames": 8,
+  "roadRegions": 54,
+  "captionPhrases": 14,
+  "captionAlignment": "local small.en token DTW; wording corrected from supplied lyric notes; human timing review pending",
+  "shoeToeBefore": 1178.9383333333333,
+  "shoeToeAfter": 1473.36,
+  "originalAudioSha256": "bd039dc8b6d650c129d94627ea15d227ef579ca00f37927f3b788fb12622fca4",
+  "engineChanged": false,
+  "opaqueWipeVerifiedAtFrame": 309,
+  "protectedEngineTemplateArchiveFiles": 29
+}

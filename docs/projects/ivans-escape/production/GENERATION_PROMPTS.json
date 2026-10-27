@@ -1,0 +1,91 @@
+[
+  {
+    "id": "ch01-walk-a",
+    "transparent": true,
+    "prompt": "Use case: illustration-story. Production asset CH01 for the short film Ivan's Escape. A single full-body young adult man walking toward screen right, exact side profile, restrained expression, short slightly unkempt black hair, lean ordinary realistic stylized proportions, faded burnt-orange work jacket color #C76A4B open over plain charcoal shirt, dark straight trousers, worn off-white low-top sneakers. Left leg forward right leg behind, arms natural counterbalance. Entire figure including shoes fully visible with generous transparent margin. Contemporary psychological dystopian sci-fi matte-painting illustration, hand-painted textured fabric, fine painterly edge control, serious cinematic graphic novel, not anime, not photorealistic, no outlines, no armor, no accessories, no backpack, no lettering. Soft cool overcast light from upper left; muted blue-gray shadows #172330. Isolated on genuinely transparent background, no ground, no cast shadow. This image establishes the one canonical Ivan identity for all later pose edits. Portrait canvas 2:3."
+  },
+  {
+    "id": "env01-city",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. An elevated oblique aerial view along an absolutely straight central road disappearing into fog at the central vanishing point x50% y35%. Identical austere monolithic apartment blocks in stepped rows on either side. Near blocks occupy outer left and right edges, leaving the middle road entirely unobstructed to the bottom. A pale blue-gray misty sky in upper quarter. The roadway widens in foreground. Strong controlled oppressive symmetry. Buildings rectangular windows and weather stains, no decorative sci-fi gadgets."
+  },
+  {
+    "id": "env02-street",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. Eye-level empty everyday city street. Repeating tall concrete facades on both sides, sidewalks, a broad flat asphalt ground filling lower half, horizon and vanishing point centered x50% y35%. Minimal white road edge line, no road text. Near building pillars at extreme left and right; pedestrian space in center foreground unobstructed. No trees or furnishings in center. Same lived-in oppressive city, realistic architectural scale."
+  },
+  {
+    "id": "env03-glass",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. Frontal eye-level view of a very large dark reflective glass window set in a worn brutalist concrete wall. Glass fills x22% to78%, y9% to89%, with straight rectangular mullions at outer edges only, no crossbars in center. Glass shows very faint empty opposing facades, no people or faces. Side concrete piers, ground sidewalk below, cool soft reflections, restrained diagonal surface streaks. Window is deliberately empty so character reflections can be composited separately."
+  },
+  {
+    "id": "env04-corridor",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. Deep monumental narrow exterior concrete passage, perfectly centered one-point perspective. Flat distant end at x50% y37%, repeating tall left and right concrete piers and recessed wall panels forming a long corridor, broad dark ground lower half, no door at center. Extreme near left and right walls dark. Concrete slab seams converge into central distance. All geometry solid illustrated surfaces. Pale fog at far end."
+  },
+  {
+    "id": "env05-boundary",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. A straight elevated concrete road in a dark empty brutalist architectural void. Road at center follows one-point perspective x50% y34%, with a clearly visible abrupt straight termination across middle distance around y48%: beyond is a dark foggy abyss, no continuation, no bridge, no railing crossing the gap. Large plain monolithic architectural walls at far left and right framing it. Road widens toward bottom with subtle concrete slab lines, no cracks yet, no broken flying debris. Lower foreground roadway intact. No glowing portal."
+  },
+  {
+    "id": "env06-outside",
+    "transparent": false,
+    "prompt": "Use case: illustration-story. Asset type: separable environment master painting. Cinematic hand-painted matte illustration for the psychological dystopian film Ivan's Escape. Detailed weathered concrete textures, large brutalist masses, muted cold palette #0B1018 #172330 #586A79 #B5C3C9 #E6E9E6. Soft overcast upper-left light, deep restrained shadows, light atmospheric fog, painterly brush texture rather than photographic rendering. Clean architectural perspective, strict repeated symmetry. No humans, no vehicles, no text, no icons, no logos, no UI, no neon, no visible primitive geometry. Wide 16:9 landscape, generous image overscan. A vast almost empty pale outside landscape after escape: warm desaturated gray ground #D5CEC1 across lower third, pale foggy cream-white sky upper two thirds, distant low flat horizon at y50%, extremely subtle dry-ground texture and light atmospheric mist. No city, buildings, roads, vegetation, objects, mountains, people, text or sun disk. Expansive quiet negative space, painterly tonal texture. Ground must extend fully to all bottom edges."
+  },
+  {
+    "id": "ch02-walk-b",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body strict side profile facing screen right, opposite walking step from the reference: right leg forward, left leg behind, opposite arms. Keep head and body height and clothing identical. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch03-rear",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body rear view standing quietly facing away, feet shoulder width, arms relaxed at sides. Head neutral slightly forward. Absolutely same jacket length, hair and sneakers. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch04-turn",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body rear three-quarter view, torso still facing away and head turned over his LEFT shoulder toward camera, face partly visible. Feet stay still and arms relaxed. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch03-r-reflection",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body frontal view of the same Ivan standing neutral, arms relaxed, feet same width as rear standing view, looking straight toward viewer, subdued expression, jacket front open. A physically matched reflection view. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch04-r-reflection",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body frontal three-quarter view of same Ivan, head turning toward screen right with face at three-quarter angle, body remains frontal, arms relaxed. Matched reflection of head-turn view, restrained expression. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch05-closeup",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Tight frontal head-and-shoulders portrait of exact same Ivan. Entire hair head neck shoulders visible, serious quietly unsettled expression, looking straight into camera, naturally lit eyes, orange jacket collar at bottom. Square1:1 transparent canvas.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch06-foot",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Close-up only of one worn off-white low-top sneaker and dark trouser cuff of exact same Ivan. Side view pointing screen right, entire sneaker ankle and short trouser cuff isolated, foot horizontal ready to step. Transparent landscape16:9. No extra foot or body.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "ch07-run",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Full body side profile facing screen right in a restrained running stride, forward leaning torso, left knee forward raised, back leg extending, arms bent. Exact same face proportions clothing and shoes as reference. Entire silhouette with generous transparent margin. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  },
+  {
+    "id": "crowd",
+    "transparent": true,
+    "prompt": "Use case: identity-preserve. Input image 1 is the canonical Ivan identity and clothing reference. Preserve this exact young man's face, hair silhouette, lean proportions, faded burnt-orange jacket, charcoal shirt, dark trousers, off-white worn sneakers and the same cool light and painterly fabric rendering. Single character isolated with actual transparent background, entire requested form within canvas with generous margins, no ground or shadows, no text, no extra person, no props. Use reference for matte painting style only, NOT identity or clothing. Single anonymous dark charcoal-coated commuter full body side profile walking screen right, subdued neutral face mostly obscured, plain dark clothing, no orange, no bags, no accessories. Distant supporting silhouette rather than hero detail. Genuine transparent background. Portrait2:3.",
+    "reference": "ch01-walk-a"
+  }
+]

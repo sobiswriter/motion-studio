@@ -1,0 +1,253 @@
+{
+  "id": "REF-16",
+  "sha256": "c0760fec631745647bedba2be7e2e65a8a3433bfb2946e82bbacb7dec2179a3e",
+  "decodedFrames": 1035,
+  "firstPts": 0.0,
+  "lastPts": 34.466667,
+  "nativePtsIndexed": true,
+  "fullDecodePassed": true,
+  "chronologicalSheets": [
+    "docs/reference-library/evidence/REF-16/all-frames/page-001.jpg",
+    "docs/reference-library/evidence/REF-16/all-frames/page-002.jpg",
+    "docs/reference-library/evidence/REF-16/all-frames/page-003.jpg",
+    "docs/reference-library/evidence/REF-16/all-frames/page-004.jpg",
+    "docs/reference-library/evidence/REF-16/all-frames/page-005.jpg"
+  ],
+  "frameMetrics": "docs/reference-library/evidence/REF-16/frames.csv",
+  "thumbnail": {
+    "width": 120,
+    "height": 68,
+    "framesPerSheet": 240
+  },
+  "exactScaledFrameRepeats": 77,
+  "approxPalette": [
+    {
+      "approxRgb": [
+        240,
+        240,
+        240
+      ],
+      "fraction": 0.9386
+    },
+    {
+      "approxRgb": [
+        208,
+        208,
+        208
+      ],
+      "fraction": 0.0062
+    },
+    {
+      "approxRgb": [
+        208,
+        240,
+        240
+      ],
+      "fraction": 0.0062
+    },
+    {
+      "approxRgb": [
+        144,
+        176,
+        240
+      ],
+      "fraction": 0.0049
+    },
+    {
+      "approxRgb": [
+        176,
+        176,
+        176
+      ],
+      "fraction": 0.0049
+    },
+    {
+      "approxRgb": [
+        144,
+        176,
+        208
+      ],
+      "fraction": 0.0035
+    },
+    {
+      "approxRgb": [
+        208,
+        208,
+        240
+      ],
+      "fraction": 0.0033
+    },
+    {
+      "approxRgb": [
+        176,
+        208,
+        240
+      ],
+      "fraction": 0.0029
+    }
+  ],
+  "changePeaksNotConfirmedCuts": [
+    {
+      "frame": 103,
+      "t": 3.433333,
+      "delta": 1.2405,
+      "histTV": 0.01104,
+      "score": 1.6821
+    },
+    {
+      "frame": 114,
+      "t": 3.8,
+      "delta": 1.9278,
+      "histTV": 0.02625,
+      "score": 2.9778
+    },
+    {
+      "frame": 127,
+      "t": 4.233333,
+      "delta": 0.7264,
+      "histTV": 0.02771,
+      "score": 1.8347
+    },
+    {
+      "frame": 138,
+      "t": 4.6,
+      "delta": 0.4557,
+      "histTV": 0.00681,
+      "score": 0.7279
+    },
+    {
+      "frame": 163,
+      "t": 5.433333,
+      "delta": 0.4659,
+      "histTV": 0.02472,
+      "score": 1.4548
+    },
+    {
+      "frame": 283,
+      "t": 9.433333,
+      "delta": 0.6173,
+      "histTV": 0.01486,
+      "score": 1.2117
+    },
+    {
+      "frame": 296,
+      "t": 9.866667,
+      "delta": 0.6145,
+      "histTV": 0.04007,
+      "score": 2.2172
+    },
+    {
+      "frame": 319,
+      "t": 10.633333,
+      "delta": 0.705,
+      "histTV": 0.03729,
+      "score": 2.1966
+    },
+    {
+      "frame": 349,
+      "t": 11.633333,
+      "delta": 0.1581,
+      "histTV": 0.01125,
+      "score": 0.6081
+    },
+    {
+      "frame": 465,
+      "t": 15.5,
+      "delta": 0.4487,
+      "histTV": 0.02403,
+      "score": 1.4098
+    },
+    {
+      "frame": 476,
+      "t": 15.866667,
+      "delta": 0.4504,
+      "histTV": 0.03618,
+      "score": 1.8976
+    },
+    {
+      "frame": 509,
+      "t": 16.966667,
+      "delta": 0.5575,
+      "histTV": 0.00465,
+      "score": 0.7436
+    },
+    {
+      "frame": 556,
+      "t": 18.533333,
+      "delta": 0.5095,
+      "histTV": 0.01125,
+      "score": 0.9595
+    },
+    {
+      "frame": 604,
+      "t": 20.133333,
+      "delta": 0.5733,
+      "histTV": 0.00507,
+      "score": 0.776
+    },
+    {
+      "frame": 705,
+      "t": 23.5,
+      "delta": 0.4751,
+      "histTV": 0.01014,
+      "score": 0.8807
+    },
+    {
+      "frame": 716,
+      "t": 23.866667,
+      "delta": 0.4957,
+      "histTV": 0.02125,
+      "score": 1.3457
+    },
+    {
+      "frame": 739,
+      "t": 24.633333,
+      "delta": 4.1387,
+      "histTV": 0.00847,
+      "score": 4.4776
+    },
+    {
+      "frame": 754,
+      "t": 25.133333,
+      "delta": 2.5427,
+      "histTV": 0.0059,
+      "score": 2.7788
+    },
+    {
+      "frame": 772,
+      "t": 25.733333,
+      "delta": 1.6497,
+      "histTV": 0.00396,
+      "score": 1.808
+    },
+    {
+      "frame": 853,
+      "t": 28.433333,
+      "delta": 0.5174,
+      "histTV": 0.02167,
+      "score": 1.3841
+    },
+    {
+      "frame": 866,
+      "t": 28.866667,
+      "delta": 0.5266,
+      "histTV": 0.02687,
+      "score": 1.6016
+    },
+    {
+      "frame": 889,
+      "t": 29.633333,
+      "delta": 0.5718,
+      "histTV": 0.03271,
+      "score": 1.8801
+    },
+    {
+      "frame": 902,
+      "t": 30.066667,
+      "delta": 0.2546,
+      "histTV": 0.01868,
+      "score": 1.0018
+    }
+  ],
+  "visualReview": "All chronological thumbnail pages visually inspected; 12-sample overview and one enlarged 36-consecutive-frame strip inspected; see VISUAL_REVIEW.json. No full-resolution-every-frame or human-listening claim."
+}

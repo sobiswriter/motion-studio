@@ -1,0 +1,664 @@
+{
+  "source": "assets/Music/Ivan_Is_Loading.mp3",
+  "method": "User-supplied lyric wording corrected against local Whisper small.en token DTW anchors; machine alignment, human timing review pending. Display starts 80ms before first anchor. Original section boundaries unchanged.",
+  "phrases": [
+    {
+      "id": "loading",
+      "fromMs": 6180,
+      "toMs": 8400,
+      "emphasis": "Ivan",
+      "words": [
+        {
+          "text": "Loading",
+          "startMs": 6260,
+          "endMs": 6580,
+          "timestampMs": 6260,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 6580,
+          "endMs": 7020,
+          "timestampMs": 6580,
+          "confidence": null
+        },
+        {
+          "text": " world",
+          "startMs": 7020,
+          "endMs": 7340,
+          "timestampMs": 7020,
+          "confidence": null
+        },
+        {
+          "text": " for",
+          "startMs": 7340,
+          "endMs": 7860,
+          "timestampMs": 7340,
+          "confidence": null
+        },
+        {
+          "text": " Ivan",
+          "startMs": 7860,
+          "endMs": 8400,
+          "timestampMs": 7860,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "routine",
+      "fromMs": 9180,
+      "toMs": 11400,
+      "emphasis": "script",
+      "words": [
+        {
+          "text": "Daily",
+          "startMs": 9260,
+          "endMs": 9760,
+          "timestampMs": 9260,
+          "confidence": null
+        },
+        {
+          "text": " routine",
+          "startMs": 9760,
+          "endMs": 10100,
+          "timestampMs": 9760,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 10100,
+          "endMs": 10240,
+          "timestampMs": 10100,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 10240,
+          "endMs": 10460,
+          "timestampMs": 10240,
+          "confidence": null
+        },
+        {
+          "text": " script",
+          "startMs": 10460,
+          "endMs": 10980,
+          "timestampMs": 10460,
+          "confidence": null
+        },
+        {
+          "text": " line",
+          "startMs": 10980,
+          "endMs": 11400,
+          "timestampMs": 10980,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "walking",
+      "fromMs": 12120,
+      "toMs": 14400,
+      "emphasis": "time",
+      "words": [
+        {
+          "text": "Walking",
+          "startMs": 12200,
+          "endMs": 12420,
+          "timestampMs": 12200,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 12420,
+          "endMs": 12800,
+          "timestampMs": 12420,
+          "confidence": null
+        },
+        {
+          "text": " block",
+          "startMs": 12800,
+          "endMs": 13060,
+          "timestampMs": 12800,
+          "confidence": null
+        },
+        {
+          "text": " in",
+          "startMs": 13060,
+          "endMs": 13200,
+          "timestampMs": 13060,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 13200,
+          "endMs": 13380,
+          "timestampMs": 13200,
+          "confidence": null
+        },
+        {
+          "text": " set",
+          "startMs": 13380,
+          "endMs": 14040,
+          "timestampMs": 13380,
+          "confidence": null
+        },
+        {
+          "text": " time",
+          "startMs": 14040,
+          "endMs": 14400,
+          "timestampMs": 14040,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "awake",
+      "fromMs": 14720,
+      "toMs": 17200,
+      "emphasis": "awake",
+      "words": [
+        {
+          "text": "Glitched",
+          "startMs": 14800,
+          "endMs": 15220,
+          "timestampMs": 14800,
+          "confidence": null
+        },
+        {
+          "text": " in",
+          "startMs": 15220,
+          "endMs": 15340,
+          "timestampMs": 15220,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 15340,
+          "endMs": 15560,
+          "timestampMs": 15340,
+          "confidence": null
+        },
+        {
+          "text": " mesh",
+          "startMs": 15560,
+          "endMs": 15820,
+          "timestampMs": 15560,
+          "confidence": null
+        },
+        {
+          "text": " I",
+          "startMs": 15820,
+          "endMs": 16000,
+          "timestampMs": 15820,
+          "confidence": null
+        },
+        {
+          "text": " am",
+          "startMs": 16000,
+          "endMs": 16340,
+          "timestampMs": 16000,
+          "confidence": null
+        },
+        {
+          "text": " awake",
+          "startMs": 16340,
+          "endMs": 16820,
+          "timestampMs": 16340,
+          "confidence": null
+        },
+        {
+          "text": " now",
+          "startMs": 16820,
+          "endMs": 17200,
+          "timestampMs": 16820,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "breakout",
+      "fromMs": 17940,
+      "toMs": 20250,
+      "emphasis": "out",
+      "words": [
+        {
+          "text": "Breaking",
+          "startMs": 18020,
+          "endMs": 18340,
+          "timestampMs": 18020,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 18340,
+          "endMs": 18660,
+          "timestampMs": 18340,
+          "confidence": null
+        },
+        {
+          "text": " loop",
+          "startMs": 18660,
+          "endMs": 18900,
+          "timestampMs": 18660,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 18900,
+          "endMs": 19060,
+          "timestampMs": 18900,
+          "confidence": null
+        },
+        {
+          "text": " I",
+          "startMs": 19060,
+          "endMs": 19340,
+          "timestampMs": 19060,
+          "confidence": null
+        },
+        {
+          "text": " break",
+          "startMs": 19340,
+          "endMs": 19880,
+          "timestampMs": 19340,
+          "confidence": null
+        },
+        {
+          "text": " out",
+          "startMs": 19880,
+          "endMs": 20250,
+          "timestampMs": 19880,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "duplicate",
+      "fromMs": 20640,
+      "toMs": 22900,
+      "emphasis": "Duplicate",
+      "words": [
+        {
+          "text": "Duplicate",
+          "startMs": 20720,
+          "endMs": 21540,
+          "timestampMs": 20720,
+          "confidence": null
+        },
+        {
+          "text": " taking",
+          "startMs": 21540,
+          "endMs": 21920,
+          "timestampMs": 21540,
+          "confidence": null
+        },
+        {
+          "text": " my",
+          "startMs": 21920,
+          "endMs": 22340,
+          "timestampMs": 21920,
+          "confidence": null
+        },
+        {
+          "text": " spot",
+          "startMs": 22340,
+          "endMs": 22900,
+          "timestampMs": 22340,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "flawed",
+      "fromMs": 23820,
+      "toMs": 25900,
+      "emphasis": "flawed",
+      "words": [
+        {
+          "text": "System",
+          "startMs": 23900,
+          "endMs": 24160,
+          "timestampMs": 23900,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 24160,
+          "endMs": 24440,
+          "timestampMs": 24160,
+          "confidence": null
+        },
+        {
+          "text": " rigged",
+          "startMs": 24440,
+          "endMs": 24880,
+          "timestampMs": 24440,
+          "confidence": null
+        },
+        {
+          "text": " it",
+          "startMs": 24880,
+          "endMs": 24920,
+          "timestampMs": 24880,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 24920,
+          "endMs": 25320,
+          "timestampMs": 24920,
+          "confidence": null
+        },
+        {
+          "text": " flawed",
+          "startMs": 25320,
+          "endMs": 25900,
+          "timestampMs": 25320,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "code",
+      "fromMs": 26660,
+      "toMs": 28950,
+      "emphasis": "Escape",
+      "words": [
+        {
+          "text": "Escape",
+          "startMs": 26740,
+          "endMs": 27640,
+          "timestampMs": 26740,
+          "confidence": null
+        },
+        {
+          "text": " from",
+          "startMs": 27640,
+          "endMs": 27820,
+          "timestampMs": 27640,
+          "confidence": null
+        },
+        {
+          "text": " this",
+          "startMs": 27820,
+          "endMs": 28300,
+          "timestampMs": 27820,
+          "confidence": null
+        },
+        {
+          "text": " code",
+          "startMs": 28300,
+          "endMs": 28950,
+          "timestampMs": 28300,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "fromMs": 29640,
+      "toMs": 31950,
+      "emphasis": "edge",
+      "words": [
+        {
+          "text": "Over",
+          "startMs": 29720,
+          "endMs": 30040,
+          "timestampMs": 29720,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 30040,
+          "endMs": 30280,
+          "timestampMs": 30040,
+          "confidence": null
+        },
+        {
+          "text": " edge",
+          "startMs": 30280,
+          "endMs": 30580,
+          "timestampMs": 30280,
+          "confidence": null
+        },
+        {
+          "text": " on",
+          "startMs": 30580,
+          "endMs": 30800,
+          "timestampMs": 30580,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 30800,
+          "endMs": 31360,
+          "timestampMs": 30800,
+          "confidence": null
+        },
+        {
+          "text": " road",
+          "startMs": 31360,
+          "endMs": 31950,
+          "timestampMs": 31360,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "another",
+      "fromMs": 32760,
+      "toMs": 35100,
+      "emphasis": "Ivan",
+      "words": [
+        {
+          "text": "Another",
+          "startMs": 32840,
+          "endMs": 33240,
+          "timestampMs": 32840,
+          "confidence": null
+        },
+        {
+          "text": " Ivan",
+          "startMs": 33240,
+          "endMs": 33660,
+          "timestampMs": 33240,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 33660,
+          "endMs": 34760,
+          "timestampMs": 33660,
+          "confidence": null
+        },
+        {
+          "text": " there",
+          "startMs": 34760,
+          "endMs": 35100,
+          "timestampMs": 34760,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "care",
+      "fromMs": 35300,
+      "toMs": 37700,
+      "emphasis": "care",
+      "words": [
+        {
+          "text": "I",
+          "startMs": 35380,
+          "endMs": 35620,
+          "timestampMs": 35380,
+          "confidence": null
+        },
+        {
+          "text": " do",
+          "startMs": 35620,
+          "endMs": 35860,
+          "timestampMs": 35620,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 35860,
+          "endMs": 36100,
+          "timestampMs": 35860,
+          "confidence": null
+        },
+        {
+          "text": " care",
+          "startMs": 36100,
+          "endMs": 36340,
+          "timestampMs": 36100,
+          "confidence": null
+        },
+        {
+          "text": " do",
+          "startMs": 36340,
+          "endMs": 36580,
+          "timestampMs": 36340,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 36580,
+          "endMs": 37340,
+          "timestampMs": 36580,
+          "confidence": null
+        },
+        {
+          "text": " care",
+          "startMs": 37340,
+          "endMs": 37700,
+          "timestampMs": 37340,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "grid",
+      "fromMs": 38160,
+      "toMs": 39500,
+      "emphasis": "grid",
+      "words": [
+        {
+          "text": "Escape",
+          "startMs": 38240,
+          "endMs": 38620,
+          "timestampMs": 38240,
+          "confidence": null
+        },
+        {
+          "text": " from",
+          "startMs": 38620,
+          "endMs": 38820,
+          "timestampMs": 38620,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 38820,
+          "endMs": 39160,
+          "timestampMs": 38820,
+          "confidence": null
+        },
+        {
+          "text": " grid",
+          "startMs": 39160,
+          "endMs": 39500,
+          "timestampMs": 39160,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "breaking",
+      "fromMs": 39660,
+      "toMs": 41550,
+      "emphasis": "Breaking",
+      "words": [
+        {
+          "text": "Breaking",
+          "startMs": 39740,
+          "endMs": 40060,
+          "timestampMs": 39740,
+          "confidence": null
+        },
+        {
+          "text": " what",
+          "startMs": 40060,
+          "endMs": 40280,
+          "timestampMs": 40060,
+          "confidence": null
+        },
+        {
+          "text": " they",
+          "startMs": 40280,
+          "endMs": 40540,
+          "timestampMs": 40280,
+          "confidence": null
+        },
+        {
+          "text": " ever",
+          "startMs": 40540,
+          "endMs": 41020,
+          "timestampMs": 40540,
+          "confidence": null
+        },
+        {
+          "text": " did",
+          "startMs": 41020,
+          "endMs": 41550,
+          "timestampMs": 41020,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "goodbye",
+      "fromMs": 53640,
+      "toMs": 57400,
+      "emphasis": "Goodbye",
+      "words": [
+        {
+          "text": "Goodbye",
+          "startMs": 53720,
+          "endMs": 55220,
+          "timestampMs": 53720,
+          "confidence": null
+        },
+        {
+          "text": " to",
+          "startMs": 55220,
+          "endMs": 55560,
+          "timestampMs": 55220,
+          "confidence": null
+        },
+        {
+          "text": " this",
+          "startMs": 55560,
+          "endMs": 56420,
+          "timestampMs": 55560,
+          "confidence": null
+        },
+        {
+          "text": " fake",
+          "startMs": 56420,
+          "endMs": 56800,
+          "timestampMs": 56420,
+          "confidence": null
+        },
+        {
+          "text": " world",
+          "startMs": 56800,
+          "endMs": 57400,
+          "timestampMs": 56800,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1823 @@
+{
+  "status": "proposed-coordinates-not-rendered",
+  "durationInFrames": 540,
+  "fps": 30,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "sourceEnvironment": [
+    3200,
+    1800
+  ],
+  "sourceVP": [
+    1600,
+    780
+  ],
+  "sourceViewportOffset": [
+    640,
+    360
+  ],
+  "screenVP": [
+    960,
+    420
+  ],
+  "cameraUnits": "Composition pixels; all keyframes local to each cut; x/y positive camera travel translates artwork negative",
+  "depthGuides": "depthGuide values describe far-to-near intent only in 2D; array/explicit order controls compositing. No ThreeCanvas is required in C01–C13.",
+  "groupImplementation": "Project-only React container under existing Camera2D/ParallaxScene; children use existing Artwork/CharacterCel. No parentId API or general rig is claimed.",
+  "cuts": [
+    {
+      "id": "C01",
+      "startFrame": 0,
+      "endFrame": 22,
+      "mode": "flat-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "EYE",
+          "part": "eye-strip",
+          "x": 1280,
+          "y": 480,
+          "width": 1920,
+          "height": 1080,
+          "anchor": [
+            0.6,
+            0.45925925925925926
+          ],
+          "parallax": 0,
+          "order": 1
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "INITIALIZING IVAN_001",
+          "x": 144,
+          "y": 840,
+          "order": 8
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "EYE:closed"
+        },
+        {
+          "frame": 8,
+          "variant": "EYE:open"
+        }
+      ],
+      "secondaryMotion": "Open at local8; text6/14; no loop",
+      "transition": "Hard catchlight-to-light-slot cut",
+      "implemented": false
+    },
+    {
+      "id": "C02",
+      "startFrame": 22,
+      "endFrame": 73,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1280,
+            "pivotY": 440
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 50,
+          "value": {
+            "x": 18,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1280,
+            "pivotY": 440
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "HERO",
+          "part": "registered-project-only-character-group",
+          "x": 1300,
+          "y": 940,
+          "width": 480,
+          "height": 720,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "four-anonymous-receding-figures",
+          "placements": [
+            [
+              340,
+              790,
+              220,
+              330
+            ],
+            [
+              540,
+              760,
+              190,
+              285
+            ],
+            [
+              720,
+              730,
+              160,
+              240
+            ],
+            [
+              840,
+              710,
+              140,
+              210
+            ]
+          ],
+          "order": 4,
+          "parallax": 0.4
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "near-pier",
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "order": 9,
+          "parallax": 1.4
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "SHADOWS",
+          "part": "foot-contact-matte",
+          "order": 4,
+          "opacity": 0.25,
+          "binding": "under approved sole contact, tracks the same root and cel exposure; no free looping shadow"
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "HERO:controlled"
+        }
+      ],
+      "secondaryMotion": "Hold12f; one hem settle≤1.2 degrees",
+      "transition": "Hard foot detail cut at2.42s signal candidate",
+      "implemented": false
+    },
+    {
+      "id": "C03",
+      "startFrame": 73,
+      "endFrame": 96,
+      "mode": "flat-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1120,
+            "pivotY": 820
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "approved-native-pavement-detail",
+          "x": -240,
+          "y": -135,
+          "width": 2400,
+          "height": 1350,
+          "anchor": [
+            0,
+            0
+          ],
+          "parallax": 0,
+          "order": 0
+        },
+        {
+          "requirement": "SHOE",
+          "part": "registered-project-only-character-group",
+          "x": 280,
+          "y": 680,
+          "width": 1600,
+          "height": 900,
+          "anchor": [
+            0.35,
+            0.48148148148148145
+          ],
+          "parallax": 0,
+          "order": 6
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "route-paint-below-shoe",
+          "path": "M1185 500 L1225 1000",
+          "order": 4
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "SHADOWS",
+          "part": "foot-contact-matte",
+          "order": 4,
+          "opacity": 0.25,
+          "binding": "under approved sole contact, tracks the same root and cel exposure; no free looping shadow"
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "SHOE:lift"
+        },
+        {
+          "frame": 8,
+          "variant": "SHOE:inside"
+        }
+      ],
+      "secondaryMotion": "One cel change at local8, cuff settles4f",
+      "transition": "Route vertical matches jacket seam",
+      "implemented": false
+    },
+    {
+      "id": "C04",
+      "startFrame": 96,
+      "endFrame": 138,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 41,
+          "value": {
+            "x": -12,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "HERO",
+          "part": "registered-project-only-character-group",
+          "x": 1270,
+          "y": 1380,
+          "width": 960,
+          "height": 1440,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "identity-text",
+          "x": 150,
+          "y": 840,
+          "order": 10
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "HERO:controlled"
+        }
+      ],
+      "secondaryMotion": "Forelock settles2px/1.2 degrees after local18",
+      "transition": "Eyeline hard cut into street depth",
+      "implemented": false
+    },
+    {
+      "id": "C05",
+      "startFrame": 138,
+      "endFrame": 180,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 420
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 41,
+          "value": {
+            "x": 48,
+            "y": 0,
+            "zoom": 1.04,
+            "pivotX": 960,
+            "pivotY": 420
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "REAR",
+          "part": "registered-project-only-character-group",
+          "x": 400,
+          "y": 1260,
+          "width": 800,
+          "height": 1200,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1.2,
+          "order": 6
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "near-pier",
+          "order": 9,
+          "parallax": 1.5,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "REAR:neutral"
+        }
+      ],
+      "secondaryMotion": "Hem lags2px once then holds",
+      "transition": "Hard shoulder/stride match at180",
+      "implemented": false
+    },
+    {
+      "id": "C06",
+      "startFrame": 180,
+      "endFrame": 225,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 44,
+          "value": {
+            "x": 42,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "WALK",
+          "part": "registered-project-only-character-group",
+          "x": 1000,
+          "y": 650,
+          "width": 480,
+          "height": 720,
+          "anchor": [
+            0.5,
+            0.5277777777777778
+          ],
+          "parallax": 0,
+          "order": 6,
+          "cameraFollow": true
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "near-pier",
+          "order": 9,
+          "parallax": 1.5,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "SHADOWS",
+          "part": "foot-contact-matte",
+          "order": 4,
+          "opacity": 0.25,
+          "binding": "under approved sole contact, tracks the same root and cel exposure; no free looping shadow"
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "WALK:A"
+        },
+        {
+          "frame": 12,
+          "variant": "WALK:B"
+        },
+        {
+          "frame": 24,
+          "variant": "WALK:C"
+        },
+        {
+          "frame": 36,
+          "variant": "WALK:D"
+        }
+      ],
+      "secondaryMotion": "Exposures12/12/12/9f; parts change with cels",
+      "transition": "Route ring matches clock circle",
+      "implemented": false
+    },
+    {
+      "id": "C07",
+      "startFrame": 225,
+      "endFrame": 270,
+      "mode": "flat-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_GLASS",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "glass-group/reflection-clipped-in-scene-space",
+          "order": 1,
+          "depthGuide": -350,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "frame-and-highlight",
+          "order": 2,
+          "depthGuide": -300,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "HERO",
+          "part": "registered-project-only-character-group",
+          "x": 1730,
+          "y": 1620,
+          "width": 1100,
+          "height": 1650,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 0,
+          "order": 6
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "clock",
+          "centre": [
+            960,
+            540
+          ],
+          "radius": 330,
+          "order": 4
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [],
+      "secondaryMotion": "One full hand rotation over44f; secondary ticks9f",
+      "transition": "Circle-to-street-point hard cut",
+      "implemented": false
+    },
+    {
+      "id": "C08",
+      "startFrame": 270,
+      "endFrame": 309,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 38,
+          "value": {
+            "x": -32,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "REAR",
+          "part": "registered-project-only-character-group",
+          "x": 960,
+          "y": 900,
+          "width": 420,
+          "height": 630,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "persistent-pier-wipe",
+          "order": 20,
+          "globalSequence": [
+            297,
+            321
+          ],
+          "translationKeys": [
+            {
+              "frame": 0,
+              "x": 2640,
+              "easing": "linear"
+            },
+            {
+              "frame": 12,
+              "x": -240,
+              "easing": "linear"
+            },
+            {
+              "frame": 23,
+              "x": -2880,
+              "easing": "linear"
+            }
+          ],
+          "fullCoverInterval": [
+            309,
+            310
+          ],
+          "x": 0,
+          "y": -135,
+          "width": 2400,
+          "height": 1350,
+          "anchor": [
+            0,
+            0
+          ],
+          "cameraFollow": true
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "REAR:neutral"
+        }
+      ],
+      "secondaryMotion": "Commuter paths exact; Ivan unnaturally held",
+      "transition": "Scenery pass [297,321) hides hard cut309",
+      "implemented": false
+    },
+    {
+      "id": "C09",
+      "startFrame": 309,
+      "endFrame": 341,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 440
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 31,
+          "value": {
+            "x": 20,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 440
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_GLASS",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "glass-group/reflection-clipped-in-scene-space",
+          "order": 1,
+          "depthGuide": -350,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "frame-and-highlight",
+          "order": 2,
+          "depthGuide": -300,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "REFLECTION",
+          "part": "registered-project-only-character-group",
+          "x": 1220,
+          "y": 880,
+          "width": 460,
+          "height": 690,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 0.6,
+          "order": 1,
+          "inside": "registered-glass-group"
+        },
+        {
+          "requirement": "LOOKBACK",
+          "part": "registered-project-only-character-group",
+          "x": 650,
+          "y": 1050,
+          "width": 600,
+          "height": 900,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "SHADOWS",
+          "part": "foot-contact-matte",
+          "order": 4,
+          "opacity": 0.25,
+          "binding": "under approved sole contact, tracks the same root and cel exposure; no free looping shadow"
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "LOOKBACK:neutral / REFLECTION:neutral"
+        }
+      ],
+      "secondaryMotion": "Head/body held; highlight shifts with registered glass",
+      "transition": "Hard matched crop on same glass axis",
+      "implemented": false
+    },
+    {
+      "id": "C10",
+      "startFrame": 341,
+      "endFrame": 390,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1100,
+            "pivotY": 400
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 18,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1100,
+            "pivotY": 400
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 28,
+          "value": {
+            "x": -24,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1100,
+            "pivotY": 400
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 36,
+          "value": {
+            "x": -20,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1100,
+            "pivotY": 400
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_GLASS",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "glass-group/reflection-clipped-in-scene-space",
+          "order": 1,
+          "depthGuide": -350,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "frame-and-highlight",
+          "order": 2,
+          "depthGuide": -300,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "REFLECTION",
+          "part": "registered-project-only-character-group",
+          "x": 1260,
+          "y": 1640,
+          "width": 1200,
+          "height": 1800,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 0.6,
+          "order": 1,
+          "inside": "registered-glass-group"
+        },
+        {
+          "requirement": "LOOKBACK",
+          "part": "registered-project-only-character-group",
+          "x": 580,
+          "y": 2060,
+          "width": 1500,
+          "height": 2250,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "LOOKBACK:neutral / REFLECTION:neutral"
+        },
+        {
+          "frame": 19,
+          "variant": "LOOKBACK:turn"
+        },
+        {
+          "frame": 27,
+          "variant": "REFLECTION:turn"
+        }
+      ],
+      "secondaryMotion": "Paired cel change19/27; crimson after mismatch",
+      "transition": "Hard face-to-hand gesture cut",
+      "implemented": false
+    },
+    {
+      "id": "C11",
+      "startFrame": 390,
+      "endFrame": 430,
+      "mode": "flat-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 1100,
+            "pivotY": 650
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_GLASS",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "glass-group/reflection-clipped-in-scene-space",
+          "order": 1,
+          "depthGuide": -350,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_GLASS",
+          "part": "frame-and-highlight",
+          "order": 2,
+          "depthGuide": -300,
+          "parallax": 0.6,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "HAND",
+          "part": "registered-project-only-character-group",
+          "x": 600,
+          "y": 830,
+          "width": 1600,
+          "height": 900,
+          "anchor": [
+            0.15,
+            0.7851851851851852
+          ],
+          "parallax": 0,
+          "order": 6
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "HAND:half-clench"
+        },
+        {
+          "frame": 18,
+          "variant": "HAND:reach"
+        }
+      ],
+      "secondaryMotion": "Two cels at0/18; cuff settles6f then holds",
+      "transition": "Gesture direction matches look-back",
+      "implemented": false
+    },
+    {
+      "id": "C12",
+      "startFrame": 430,
+      "endFrame": 480,
+      "mode": "multiplane-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 8,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 16,
+          "value": {
+            "x": -36,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 28,
+          "value": {
+            "x": -30,
+            "y": 0,
+            "zoom": 1,
+            "pivotX": 960,
+            "pivotY": 540
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "continuous-backing",
+          "order": 0,
+          "depthGuide": -1500,
+          "parallax": 0.05,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ],
+          "cropSafeInset": 48
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "sky-and-distance",
+          "order": 1,
+          "depthGuide": -1200,
+          "parallax": 0.2,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "mid-facades",
+          "order": 2,
+          "depthGuide": -600,
+          "parallax": 0.45,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ENV_STREET",
+          "part": "ground",
+          "order": 3,
+          "depthGuide": -250,
+          "parallax": 0.8,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "LOOKBACK",
+          "part": "registered-project-only-character-group",
+          "x": 1320,
+          "y": 1010,
+          "width": 620,
+          "height": 930,
+          "anchor": [
+            0.5,
+            0.9333333333333333
+          ],
+          "parallax": 1,
+          "order": 6
+        },
+        {
+          "requirement": "FOREGROUND",
+          "part": "left-pier",
+          "order": 9,
+          "parallax": 1.4,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "LOOKBACK:neutral"
+        },
+        {
+          "frame": 8,
+          "variant": "LOOKBACK:turn"
+        }
+      ],
+      "secondaryMotion": "Forelock≤3 degrees; hem≤4px; hold last12f",
+      "transition": "Hard cut down to shoe retaining screen-right intent",
+      "implemented": false
+    },
+    {
+      "id": "C13",
+      "startFrame": 480,
+      "endFrame": 540,
+      "mode": "flat-2d",
+      "camera": [
+        {
+          "frame": 0,
+          "value": {
+            "x": 0,
+            "y": 0,
+            "zoom": 1.02,
+            "pivotX": 1200,
+            "pivotY": 820
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 29,
+          "value": {
+            "x": 36,
+            "y": 0,
+            "zoom": 1.02,
+            "pivotX": 1200,
+            "pivotY": 820
+          },
+          "easing": "smooth"
+        },
+        {
+          "frame": 59,
+          "value": {
+            "x": 36,
+            "y": 0,
+            "zoom": 1.02,
+            "pivotX": 1200,
+            "pivotY": 820
+          },
+          "easing": "smooth"
+        }
+      ],
+      "layers": [
+        {
+          "requirement": "ENV_STREET",
+          "part": "approved-native-pavement-detail",
+          "x": -240,
+          "y": -135,
+          "width": 2400,
+          "height": 1350,
+          "anchor": [
+            0,
+            0
+          ],
+          "parallax": 0.3,
+          "order": 0
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "route-paint-below-shoe",
+          "path": "M1185 500 L1225 1000",
+          "order": 4
+        },
+        {
+          "requirement": "SHOE",
+          "part": "registered-project-only-character-group",
+          "x": 280,
+          "y": 680,
+          "width": 1600,
+          "height": 900,
+          "anchor": [
+            0.35,
+            0.48148148148148145
+          ],
+          "parallax": 0,
+          "order": 6,
+          "rootKeys": [
+            {
+              "frame": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "frame": 12,
+              "x": 140,
+              "y": -36
+            },
+            {
+              "frame": 29,
+              "x": 340,
+              "y": 0
+            },
+            {
+              "frame": 59,
+              "x": 340,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "requirement": "GRAPHICS",
+          "part": "pavement-fracture-below-sole",
+          "from": 30,
+          "duration": 30,
+          "order": 10
+        },
+        {
+          "requirement": "ATMOSPHERE",
+          "part": "matched-veil-low-opacity",
+          "order": 5,
+          "parallax": 0.1,
+          "opacity": 0.08,
+          "x": -640,
+          "y": -360,
+          "width": 3200,
+          "height": 1800,
+          "anchor": [
+            0,
+            0
+          ]
+        },
+        {
+          "requirement": "SHADOWS",
+          "part": "foot-contact-matte",
+          "order": 4,
+          "opacity": 0.25,
+          "binding": "under approved sole contact, tracks the same root and cel exposure; no free looping shadow"
+        }
+      ],
+      "poseCues": [
+        {
+          "frame": 0,
+          "variant": "SHOE:inside"
+        },
+        {
+          "frame": 12,
+          "variant": "SHOE:lift"
+        },
+        {
+          "frame": 29,
+          "variant": "SHOE:land"
+        }
+      ],
+      "secondaryMotion": "Land509; fracture510–539; final6f dramatic hold",
+      "transition": "Hard foot/stride cut at540 to replacement",
+      "implemented": false
+    }
+  ],
+  "sourceShoeGuides": {
+    "ankle": [
+      840,
+      650
+    ],
+    "plantedToe": [
+      2100,
+      1040
+    ],
+    "soleY": 1100,
+    "note": "Applies to planted-inside and landed cels; lift guide recorded by artist"
+  }
+}

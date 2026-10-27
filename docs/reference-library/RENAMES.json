@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-26",
+  "operation": "Filename changes only; original bytes retained",
+  "status": "completed",
+  "files": [
+    {
+      "id": "REF-01",
+      "originalName": "video.0d33a27d.mp4",
+      "newName": "REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "originalPath": "assets/Reference Vid/video.0d33a27d.mp4",
+      "newPath": "assets/Reference Vid/REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "sha256": "0d33a27d6a801fb87c71d3af8a1c3a5c22b64341dc1b820749cd0dc378c9c633",
+      "bytes": 28940632
+    },
+    {
+      "id": "REF-02",
+      "originalName": "video.1377563a.mp4",
+      "newName": "REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "originalPath": "assets/Reference Vid/video.1377563a.mp4",
+      "newPath": "assets/Reference Vid/REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "sha256": "1377563a6ceea51d39c183cab87a7fac45ec671c4af18425b563e25d924582a5",
+      "bytes": 2497458
+    },
+    {
+      "id": "REF-03",
+      "originalName": "video.1d1039db.mp4",
+      "newName": "REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "originalPath": "assets/Reference Vid/video.1d1039db.mp4",
+      "newPath": "assets/Reference Vid/REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "sha256": "1d1039db19d6bc52cd92d81fa7291fbd09fa4f515cc43d8e8a03be51521f3c68",
+      "bytes": 4776872
+    },
+    {
+      "id": "REF-04",
+      "originalName": "video.29e63674.mp4",
+      "newName": "REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "originalPath": "assets/Reference Vid/video.29e63674.mp4",
+      "newPath": "assets/Reference Vid/REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "sha256": "29e63674460c643d51e78dba3d80fcd6e75089ddd8b6baa80d987e8c1b0fa122",
+      "bytes": 8557159
+    },
+    {
+      "id": "REF-05",
+      "originalName": "video.2ab38476.mp4",
+      "newName": "REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "originalPath": "assets/Reference Vid/video.2ab38476.mp4",
+      "newPath": "assets/Reference Vid/REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "sha256": "2ab384769328dc407b520245b5dfccd982f3d3b339022b6482cef721afaa90b4",
+      "bytes": 17435601
+    },
+    {
+      "id": "REF-06",
+      "originalName": "video.2e2454eb.mp4",
+      "newName": "REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "originalPath": "assets/Reference Vid/video.2e2454eb.mp4",
+      "newPath": "assets/Reference Vid/REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "sha256": "2e2454ebeef6c636163085b9aa646f635439a18fafe3fa92e3c376dfdf8edd7a",
+      "bytes": 15972860
+    },
+    {
+      "id": "REF-07",
+      "originalName": "video.3ebc4180.mp4",
+      "newName": "REF-07-motionsites-launch-million-milestone.mp4",
+      "originalPath": "assets/Reference Vid/video.3ebc4180.mp4",
+      "newPath": "assets/Reference Vid/REF-07-motionsites-launch-million-milestone.mp4",
+      "sha256": "3ebc4180bb4bb24413d2958a9728211ce0f5012d07a0f22812c39309f579f3c7",
+      "bytes": 13119613
+    },
+    {
+      "id": "REF-08",
+      "originalName": "video.74e3b193.mp4",
+      "newName": "REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "originalPath": "assets/Reference Vid/video.74e3b193.mp4",
+      "newPath": "assets/Reference Vid/REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "sha256": "74e3b193a3c497ae3d7fdb4775e00565ab42ed1f33ede216c5439171f78d6ab6",
+      "bytes": 3504812
+    },
+    {
+      "id": "REF-09",
+      "originalName": "video.7b6c0f2a.mp4",
+      "newName": "REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "originalPath": "assets/Reference Vid/video.7b6c0f2a.mp4",
+      "newPath": "assets/Reference Vid/REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "sha256": "7b6c0f2adc0b3e1fee655e2b772b170453943a5df04fa8888532c27bf6a5bf59",
+      "bytes": 10581423
+    },
+    {
+      "id": "REF-10",
+      "originalName": "video.86605038.mp4",
+      "newName": "REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "originalPath": "assets/Reference Vid/video.86605038.mp4",
+      "newPath": "assets/Reference Vid/REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "sha256": "866050388d924e61ba95cc391fbde3dbd23becc92dde3bb3d15a699c21ed7ae7",
+      "bytes": 6374918
+    },
+    {
+      "id": "REF-11",
+      "originalName": "video.86b30161.mp4",
+      "newName": "REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "originalPath": "assets/Reference Vid/video.86b30161.mp4",
+      "newPath": "assets/Reference Vid/REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "sha256": "86b3016105d84f9996f07def7021bcf02b9726c4f29ac377337eee370c8b32f9",
+      "bytes": 10381149
+    },
+    {
+      "id": "REF-12",
+      "originalName": "video.912d0537.mp4",
+      "newName": "REF-12-white-russian-hand-drawn-recipe.mp4",
+      "originalPath": "assets/Reference Vid/video.912d0537.mp4",
+      "newPath": "assets/Reference Vid/REF-12-white-russian-hand-drawn-recipe.mp4",
+      "sha256": "912d053789a8d959f7523c7a0b945560992c8e93b6f15d356c96d0f3372ad192",
+      "bytes": 3267837
+    },
+    {
+      "id": "REF-13",
+      "originalName": "video.aab49a20.mp4",
+      "newName": "REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "originalPath": "assets/Reference Vid/video.aab49a20.mp4",
+      "newPath": "assets/Reference Vid/REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "sha256": "aab49a200bde22ae0485779dec741aad06895d7931ec7c5d7c5e5ba262687af1",
+      "bytes": 5360486
+    },
+    {
+      "id": "REF-14",
+      "originalName": "video.aec5854d.mp4",
+      "newName": "REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "originalPath": "assets/Reference Vid/video.aec5854d.mp4",
+      "newPath": "assets/Reference Vid/REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "sha256": "aec5854df2b077e88b703a3248dc3864b06fcb15ab14b7f8819ef7760addbe54",
+      "bytes": 28574962
+    },
+    {
+      "id": "REF-15",
+      "originalName": "video.b5f7ea37.mp4",
+      "newName": "REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "originalPath": "assets/Reference Vid/video.b5f7ea37.mp4",
+      "newPath": "assets/Reference Vid/REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "sha256": "b5f7ea37cfc173f2a95afb02e41069dedb441109a474ff8b4808a94697d038a8",
+      "bytes": 7851390
+    },
+    {
+      "id": "REF-16",
+      "originalName": "video.c0760fec.mp4",
+      "newName": "REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "originalPath": "assets/Reference Vid/video.c0760fec.mp4",
+      "newPath": "assets/Reference Vid/REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "sha256": "c0760fec631745647bedba2be7e2e65a8a3433bfb2946e82bbacb7dec2179a3e",
+      "bytes": 1211453
+    },
+    {
+      "id": "REF-17",
+      "originalName": "video.c1c2a37f.mp4",
+      "newName": "REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "originalPath": "assets/Reference Vid/video.c1c2a37f.mp4",
+      "newPath": "assets/Reference Vid/REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "sha256": "c1c2a37f72647cbb92643fbe0c2670215759702a0926c67a9efd1cb4d8920cd5",
+      "bytes": 3937265
+    },
+    {
+      "id": "REF-18",
+      "originalName": "video.c6d35570.mp4",
+      "newName": "REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "originalPath": "assets/Reference Vid/video.c6d35570.mp4",
+      "newPath": "assets/Reference Vid/REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "sha256": "c6d3557090198695c0ccdde45865d581f7ceddb56c164424259cad2946b7c9ae",
+      "bytes": 18672277
+    },
+    {
+      "id": "REF-19",
+      "originalName": "video.e5fb6874.mp4",
+      "newName": "REF-19-brand-identity-logo-to-application-montage.mp4",
+      "originalPath": "assets/Reference Vid/video.e5fb6874.mp4",
+      "newPath": "assets/Reference Vid/REF-19-brand-identity-logo-to-application-montage.mp4",
+      "sha256": "e5fb68747bb7b2d5d1457d30923a1fe4b1c1f2fd2198f7b81d73fe5541ac84b2",
+      "bytes": 10622814
+    },
+    {
+      "id": "REF-20",
+      "originalName": "video.eb2ddbff.mp4",
+      "newName": "REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "originalPath": "assets/Reference Vid/video.eb2ddbff.mp4",
+      "newPath": "assets/Reference Vid/REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "sha256": "eb2ddbff09563c739d8b9681ddc59dc366cc9c185ec02fad70fb391659ba9397",
+      "bytes": 9082458
+    },
+    {
+      "id": "REF-21",
+      "originalName": "video.eef090ae.mp4",
+      "newName": "REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "originalPath": "assets/Reference Vid/video.eef090ae.mp4",
+      "newPath": "assets/Reference Vid/REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "sha256": "eef090aef84667ee4b7a9d5ab56e290cbade8ad03db19b346a17bf31376ba333",
+      "bytes": 1371953
+    },
+    {
+      "id": "REF-22",
+      "originalName": "video.f6307a0b.mp4",
+      "newName": "REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "originalPath": "assets/Reference Vid/video.f6307a0b.mp4",
+      "newPath": "assets/Reference Vid/REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "sha256": "f6307a0ba4f19bf17b85ca1e1789c45a196c9dbdf66e8fbc6d3dd5cb67cbc859",
+      "bytes": 10036919
+    }
+  ]
+}

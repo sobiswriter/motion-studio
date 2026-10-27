@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "noEmit": false,
+    "outDir": ".cache",
+    "rootDir": "."
+  },
+  "include": ["scripts/**/*.ts"],
+  "exclude": ["node_modules", ".cache"]
+}

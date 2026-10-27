@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-26",
+  "references": 22,
+  "unchangedSourceHashes": 22,
+  "nativeFramesIndexed": 32173,
+  "chronologicalPagesInspected": 168,
+  "enlargedStripsInspected": 22,
+  "audioMeasured": 18,
+  "noAudioStream": 4,
+  "localMarkdownLinksChecked": 429,
+  "missingLinks": 0,
+  "masterStylesPreserved": 20,
+  "storyboardPreferencePreserved": true,
+  "limitations": [
+    "Thumbnail inspection of all frames, enlarged selected windows; not full-resolution inspection of every frame.",
+    "No human listening or real-time playback claim.",
+    "Source authorship and media reuse rights not established."
+  ]
+}

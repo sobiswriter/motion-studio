@@ -1,0 +1,128 @@
+[
+  {
+    "id": "particles",
+    "frame": 269,
+    "onset": 4.488,
+    "roundingMs": -5
+  },
+  {
+    "id": "liquid",
+    "frame": 394,
+    "onset": 6.568,
+    "roundingMs": -1
+  },
+  {
+    "id": "hologram",
+    "frame": 542,
+    "onset": 9.032,
+    "roundingMs": 1
+  },
+  {
+    "id": "neon",
+    "frame": 676,
+    "onset": 11.266,
+    "roundingMs": 1
+  },
+  {
+    "id": "wire",
+    "frame": 801,
+    "onset": 13.347,
+    "roundingMs": 3
+  },
+  {
+    "id": "glass",
+    "frame": 934,
+    "onset": 15.567,
+    "roundingMs": 0
+  },
+  {
+    "id": "kinetic",
+    "frame": 1093,
+    "onset": 18.222,
+    "roundingMs": -5
+  },
+  {
+    "id": "iso",
+    "frame": 1214,
+    "onset": 20.238,
+    "roundingMs": -5
+  },
+  {
+    "id": "clay",
+    "frame": 1384,
+    "onset": 23.066,
+    "roundingMs": 1
+  },
+  {
+    "id": "ascii",
+    "frame": 1507,
+    "onset": 25.118,
+    "roundingMs": -1
+  },
+  {
+    "id": "mesh",
+    "frame": 1655,
+    "onset": 27.589,
+    "roundingMs": -6
+  },
+  {
+    "id": "comic",
+    "frame": 1801,
+    "onset": 30.013,
+    "roundingMs": 4
+  },
+  {
+    "id": "flap",
+    "frame": 1943,
+    "onset": 32.39,
+    "roundingMs": -7
+  },
+  {
+    "id": "vhs",
+    "frame": 2069,
+    "onset": 34.481,
+    "roundingMs": 2
+  },
+  {
+    "id": "halftone",
+    "frame": 2205,
+    "onset": 36.749,
+    "roundingMs": 1
+  },
+  {
+    "id": "bauhaus",
+    "frame": 2341,
+    "onset": 39.012,
+    "roundingMs": 5
+  },
+  {
+    "id": "pixel",
+    "frame": 2475,
+    "onset": 41.253,
+    "roundingMs": -3
+  },
+  {
+    "id": "blueprint",
+    "frame": 2608,
+    "onset": 43.465,
+    "roundingMs": 2
+  },
+  {
+    "id": "deco",
+    "frame": 2767,
+    "onset": 46.122,
+    "roundingMs": -5
+  },
+  {
+    "id": "brutal",
+    "frame": 2993,
+    "onset": 49.879,
+    "roundingMs": 4
+  },
+  {
+    "id": "outro",
+    "frame": 3195,
+    "onset": 53.245,
+    "roundingMs": 5
+  }
+]

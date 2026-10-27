@@ -1,0 +1,291 @@
+{
+  "id": "REF-14",
+  "sha256": "aec5854df2b077e88b703a3248dc3864b06fcb15ab14b7f8819ef7760addbe54",
+  "decodedFrames": 4602,
+  "firstPts": 0.0,
+  "lastPts": 153.366667,
+  "nativePtsIndexed": true,
+  "fullDecodePassed": true,
+  "chronologicalSheets": [
+    "docs/reference-library/evidence/REF-14/all-frames/page-001.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-002.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-003.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-004.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-005.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-006.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-007.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-008.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-009.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-010.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-011.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-012.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-013.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-014.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-015.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-016.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-017.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-018.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-019.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-020.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-021.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-022.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-023.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-024.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-025.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-026.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-027.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-028.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-029.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-030.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-031.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-032.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-033.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-034.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-035.jpg",
+    "docs/reference-library/evidence/REF-14/all-frames/page-036.jpg"
+  ],
+  "frameMetrics": "docs/reference-library/evidence/REF-14/frames.csv",
+  "thumbnail": {
+    "width": 68,
+    "height": 120,
+    "framesPerSheet": 128
+  },
+  "exactScaledFrameRepeats": 0,
+  "approxPalette": [
+    {
+      "approxRgb": [
+        16,
+        16,
+        16
+      ],
+      "fraction": 0.7831
+    },
+    {
+      "approxRgb": [
+        176,
+        176,
+        176
+      ],
+      "fraction": 0.0286
+    },
+    {
+      "approxRgb": [
+        208,
+        208,
+        208
+      ],
+      "fraction": 0.0271
+    },
+    {
+      "approxRgb": [
+        208,
+        208,
+        176
+      ],
+      "fraction": 0.0224
+    },
+    {
+      "approxRgb": [
+        48,
+        48,
+        48
+      ],
+      "fraction": 0.0149
+    },
+    {
+      "approxRgb": [
+        176,
+        176,
+        144
+      ],
+      "fraction": 0.0127
+    },
+    {
+      "approxRgb": [
+        144,
+        144,
+        144
+      ],
+      "fraction": 0.0124
+    },
+    {
+      "approxRgb": [
+        208,
+        112,
+        80
+      ],
+      "fraction": 0.01
+    }
+  ],
+  "changePeaksNotConfirmedCuts": [
+    {
+      "frame": 20,
+      "t": 0.666667,
+      "delta": 155.2868,
+      "histTV": 0.99986,
+      "score": 195.2812
+    },
+    {
+      "frame": 118,
+      "t": 3.933333,
+      "delta": 170.5121,
+      "histTV": 0.93604,
+      "score": 207.9537
+    },
+    {
+      "frame": 300,
+      "t": 10.0,
+      "delta": 96.88,
+      "histTV": 1.0,
+      "score": 136.88
+    },
+    {
+      "frame": 559,
+      "t": 18.633333,
+      "delta": 193.3577,
+      "histTV": 1.0,
+      "score": 233.3577
+    },
+    {
+      "frame": 602,
+      "t": 20.066667,
+      "delta": 179.1598,
+      "histTV": 0.97326,
+      "score": 218.0903
+    },
+    {
+      "frame": 1066,
+      "t": 35.533333,
+      "delta": 134.3604,
+      "histTV": 0.78417,
+      "score": 165.7271
+    },
+    {
+      "frame": 2071,
+      "t": 69.033333,
+      "delta": 184.2532,
+      "histTV": 0.99951,
+      "score": 224.2338
+    },
+    {
+      "frame": 2901,
+      "t": 96.7,
+      "delta": 177.8066,
+      "histTV": 0.86097,
+      "score": 212.2455
+    },
+    {
+      "frame": 2925,
+      "t": 97.5,
+      "delta": 150.3577,
+      "histTV": 0.99965,
+      "score": 190.3438
+    },
+    {
+      "frame": 3177,
+      "t": 105.9,
+      "delta": 172.0226,
+      "histTV": 0.99049,
+      "score": 211.6421
+    },
+    {
+      "frame": 3202,
+      "t": 106.733333,
+      "delta": 151.2395,
+      "histTV": 1.0,
+      "score": 191.2395
+    },
+    {
+      "frame": 3215,
+      "t": 107.166667,
+      "delta": 166.5066,
+      "histTV": 0.94417,
+      "score": 204.2733
+    },
+    {
+      "frame": 3230,
+      "t": 107.666667,
+      "delta": 148.2205,
+      "histTV": 0.8666,
+      "score": 182.8844
+    },
+    {
+      "frame": 3275,
+      "t": 109.166667,
+      "delta": 139.6408,
+      "histTV": 0.77542,
+      "score": 170.6575
+    },
+    {
+      "frame": 3297,
+      "t": 109.9,
+      "delta": 152.9386,
+      "histTV": 0.99993,
+      "score": 192.9358
+    },
+    {
+      "frame": 3320,
+      "t": 110.666667,
+      "delta": 141.3368,
+      "histTV": 0.82188,
+      "score": 174.2118
+    },
+    {
+      "frame": 3350,
+      "t": 111.666667,
+      "delta": 163.1145,
+      "histTV": 0.90681,
+      "score": 199.3867
+    },
+    {
+      "frame": 3372,
+      "t": 112.4,
+      "delta": 168.31,
+      "histTV": 0.95347,
+      "score": 206.4489
+    },
+    {
+      "frame": 3387,
+      "t": 112.9,
+      "delta": 159.796,
+      "histTV": 0.77438,
+      "score": 190.771
+    },
+    {
+      "frame": 3402,
+      "t": 113.4,
+      "delta": 147.5629,
+      "histTV": 0.99993,
+      "score": 187.5601
+    },
+    {
+      "frame": 3421,
+      "t": 114.033333,
+      "delta": 162.8564,
+      "histTV": 0.94194,
+      "score": 200.5341
+    },
+    {
+      "frame": 3444,
+      "t": 114.8,
+      "delta": 160.7243,
+      "histTV": 0.9984,
+      "score": 200.6604
+    },
+    {
+      "frame": 3455,
+      "t": 115.166667,
+      "delta": 167.35,
+      "histTV": 0.84438,
+      "score": 201.125
+    },
+    {
+      "frame": 3470,
+      "t": 115.666667,
+      "delta": 176.5728,
+      "histTV": 0.97708,
+      "score": 215.6562
+    }
+  ],
+  "visualReview": "All chronological thumbnail pages visually inspected; 12-sample overview and one enlarged 36-consecutive-frame strip inspected; see VISUAL_REVIEW.json. No full-resolution-every-frame or human-listening claim."
+}

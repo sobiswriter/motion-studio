@@ -1,0 +1,82 @@
+[
+  {
+    "name": "assigned",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/assigned.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "1584337ce34bad56eb775c00882285cd2f91097ae14568ccb50fa006a6d3924d",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "awakening",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/awakening.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "2db08f5e44e6bc63b88c5e51d1786e5ad9a919244c00955de248a1000045c42c",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "sprint",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/sprint.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "23f2186bbc950f5f7d0297529e42954e84f0e2eb3bbfc1a46de88c310eb97fb7",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "edge",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/edge.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "55a12c87cebb59db3353f4e23b7d0a0183672b9cb5e8f0b7a0789d6cc068c272",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "leap-hero",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/leap-hero.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "ac7ecdcaaad1ff5a2fd7bd7a9fc30f5ea5aebc2d2cbed8c0344f107784bc2064",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "outside-hero",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/outside-hero.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "ae740bdf06aa0b510ccfc468c2b19a035a42997a418352f3489042d90a45cda5",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "street",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/street.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "0b95fc96b04bb4213a5205f69d874d6f23d7ebeeac065022ed742621ef971698",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "corridor",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/corridor.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "120057357b3d14b6a1974e195423fb21d97cbfdc8cc604330841a9d6e57783f4",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "boundary",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/boundary.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "b7a26436112ad6eef4001ac4461a757d40ff526936dc98a875594efb301724d9",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  },
+  {
+    "name": "outside",
+    "path": "public/projects/ivans-escape/illustrated/pass02/source/outside.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "sha256": "4615e7a21a3c6aeda64ac78d09ec8616695c7c7d5c7a66312d4f62b7e67d7620",
+    "note": "Built-in imagegen, original project inputs only; runtime normalization is not added source detail."
+  }
+]

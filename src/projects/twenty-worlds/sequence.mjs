@@ -1,0 +1,10 @@
+import proposal from '../../../docs/storyboards/20-styles-remake.json' with { type: 'json' };
+const ids=['intro','particles','liquid','bauhaus','clay','blueprint','wire','iso','glass','holo','mesh','deco','halftone','comic','brutal','pixel','vhs','ascii','flap','neon','kinetic','outro'];
+const transitions=['none','iris','liquid','bars','lift','scan','scan','iris','billboard','panes','ribbon','fan','dots','fold','panel','pixels','crt','tracking','cells','seams','stroke','period'];
+export const shots=proposal.scenes.map((s,i)=>({...s,id:ids[i],frame:Math.round(s.start*60),endFrame:Math.round(s.end*60),transition:transitions[i]}));
+export const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+export const smooth=x=>{x=clamp(x);return x*x*(3-2*x)};
+export const out=x=>1-(1-clamp(x))**4;
+export const inout=x=>x<.5?8*clamp(x)**4:1-(-2*clamp(x)+2)**4/2;
+export const hash=n=>{const x=Math.sin(n*127.1+31.7)*43758.5453;return x-Math.floor(x)};
+export const P={ink:'#14151b',paper:'#f4eee3',orange:'#f06535',blue:'#244ee9',yellow:'#efc843',pink:'#e67cae',cyan:'#86e2df',gold:'#d7b774'};

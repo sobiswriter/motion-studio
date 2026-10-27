@@ -1,0 +1,23 @@
+[
+  {
+    "id": "StudioPreflight",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 120
+  },
+  {
+    "id": "IvansEscape",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 1800
+  },
+  {
+    "id": "IvansEscapePacket01",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "durationInFrames": 180
+  }
+]

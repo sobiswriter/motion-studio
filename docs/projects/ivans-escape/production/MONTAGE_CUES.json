@@ -1,0 +1,16 @@
+{
+  "source": "Original supplied audio, pooled stereo RMS20ms bins",
+  "cuts": [
+    1260,
+    1286,
+    1302,
+    1330,
+    1350
+  ],
+  "measuredRisesSeconds": [
+    42.86,
+    43.4,
+    44.32
+  ],
+  "lyricOnsetsVerified": false
+}

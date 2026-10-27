@@ -1,0 +1,280 @@
+{
+  "id": "REF-01",
+  "sha256": "0d33a27d6a801fb87c71d3af8a1c3a5c22b64341dc1b820749cd0dc378c9c633",
+  "decodedFrames": 5872,
+  "firstPts": 0.0,
+  "lastPts": 97.85,
+  "nativePtsIndexed": true,
+  "fullDecodePassed": true,
+  "chronologicalSheets": [
+    "docs/reference-library/evidence/REF-01/all-frames/page-001.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-002.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-003.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-004.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-005.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-006.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-007.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-008.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-009.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-010.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-011.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-012.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-013.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-014.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-015.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-016.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-017.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-018.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-019.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-020.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-021.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-022.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-023.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-024.jpg",
+    "docs/reference-library/evidence/REF-01/all-frames/page-025.jpg"
+  ],
+  "frameMetrics": "docs/reference-library/evidence/REF-01/frames.csv",
+  "thumbnail": {
+    "width": 120,
+    "height": 61,
+    "framesPerSheet": 240
+  },
+  "exactScaledFrameRepeats": 0,
+  "approxPalette": [
+    {
+      "approxRgb": [
+        208,
+        208,
+        208
+      ],
+      "fraction": 0.3539
+    },
+    {
+      "approxRgb": [
+        240,
+        240,
+        240
+      ],
+      "fraction": 0.2608
+    },
+    {
+      "approxRgb": [
+        208,
+        240,
+        240
+      ],
+      "fraction": 0.0713
+    },
+    {
+      "approxRgb": [
+        176,
+        176,
+        176
+      ],
+      "fraction": 0.0405
+    },
+    {
+      "approxRgb": [
+        48,
+        48,
+        48
+      ],
+      "fraction": 0.0385
+    },
+    {
+      "approxRgb": [
+        144,
+        144,
+        144
+      ],
+      "fraction": 0.0276
+    },
+    {
+      "approxRgb": [
+        208,
+        208,
+        240
+      ],
+      "fraction": 0.0258
+    },
+    {
+      "approxRgb": [
+        112,
+        112,
+        112
+      ],
+      "fraction": 0.0228
+    }
+  ],
+  "changePeaksNotConfirmedCuts": [
+    {
+      "frame": 440,
+      "t": 7.333333,
+      "delta": 2.3281,
+      "histTV": 0.26601,
+      "score": 12.9683
+    },
+    {
+      "frame": 464,
+      "t": 7.733333,
+      "delta": 1.0987,
+      "histTV": 0.17538,
+      "score": 8.114
+    },
+    {
+      "frame": 1027,
+      "t": 17.116667,
+      "delta": 6.7744,
+      "histTV": 0.01982,
+      "score": 7.5671
+    },
+    {
+      "frame": 1343,
+      "t": 22.383333,
+      "delta": 20.5758,
+      "histTV": 0.75777,
+      "score": 50.8868
+    },
+    {
+      "frame": 1574,
+      "t": 26.233333,
+      "delta": 7.9178,
+      "histTV": 0.03849,
+      "score": 9.4574
+    },
+    {
+      "frame": 1719,
+      "t": 28.65,
+      "delta": 100.5187,
+      "histTV": 0.61875,
+      "score": 125.2687
+    },
+    {
+      "frame": 2282,
+      "t": 38.033333,
+      "delta": 15.0391,
+      "histTV": 0.05915,
+      "score": 17.405
+    },
+    {
+      "frame": 2590,
+      "t": 43.166667,
+      "delta": 1.5502,
+      "histTV": 0.4263,
+      "score": 18.6021
+    },
+    {
+      "frame": 2910,
+      "t": 48.5,
+      "delta": 52.582,
+      "histTV": 0.39345,
+      "score": 68.3198
+    },
+    {
+      "frame": 3017,
+      "t": 50.283333,
+      "delta": 11.8022,
+      "histTV": 0.20076,
+      "score": 19.8326
+    },
+    {
+      "frame": 3038,
+      "t": 50.633333,
+      "delta": 1.7862,
+      "histTV": 0.37248,
+      "score": 16.6856
+    },
+    {
+      "frame": 3165,
+      "t": 52.75,
+      "delta": 22.6106,
+      "histTV": 0.29992,
+      "score": 34.6075
+    },
+    {
+      "frame": 3537,
+      "t": 58.95,
+      "delta": 45.507,
+      "histTV": 0.41593,
+      "score": 62.1442
+    },
+    {
+      "frame": 3877,
+      "t": 64.616667,
+      "delta": 6.8622,
+      "histTV": 0.02881,
+      "score": 8.0147
+    },
+    {
+      "frame": 3927,
+      "t": 65.45,
+      "delta": 1.338,
+      "histTV": 0.17088,
+      "score": 8.1734
+    },
+    {
+      "frame": 3951,
+      "t": 65.85,
+      "delta": 0.9097,
+      "histTV": 0.1702,
+      "score": 7.7176
+    },
+    {
+      "frame": 4165,
+      "t": 69.416667,
+      "delta": 12.2013,
+      "histTV": 0.14771,
+      "score": 18.1098
+    },
+    {
+      "frame": 4338,
+      "t": 72.3,
+      "delta": 1.8831,
+      "histTV": 0.14627,
+      "score": 7.7337
+    },
+    {
+      "frame": 4365,
+      "t": 72.75,
+      "delta": 1.2955,
+      "histTV": 0.23293,
+      "score": 10.6126
+    },
+    {
+      "frame": 4607,
+      "t": 76.783333,
+      "delta": 24.2806,
+      "histTV": 0.14223,
+      "score": 29.9696
+    },
+    {
+      "frame": 4826,
+      "t": 80.433333,
+      "delta": 33.3858,
+      "histTV": 0.47706,
+      "score": 52.4681
+    },
+    {
+      "frame": 5489,
+      "t": 91.483333,
+      "delta": 23.0158,
+      "histTV": 0.08559,
+      "score": 26.4395
+    },
+    {
+      "frame": 5738,
+      "t": 95.633333,
+      "delta": 1.0286,
+      "histTV": 0.17088,
+      "score": 7.864
+    },
+    {
+      "frame": 5768,
+      "t": 96.133333,
+      "delta": 1.7528,
+      "histTV": 0.13895,
+      "score": 7.3107
+    }
+  ],
+  "visualReview": "All chronological thumbnail pages visually inspected; 12-sample overview and one enlarged 36-consecutive-frame strip inspected; see VISUAL_REVIEW.json. No full-resolution-every-frame or human-listening claim."
+}

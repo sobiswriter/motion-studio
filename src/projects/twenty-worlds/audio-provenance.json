@@ -1,0 +1,70 @@
+{
+  "music": "User-supplied The_Golden_Hour_Rise.mp3; arrangement in music-edit.json. No new music generated.",
+  "recordings": [
+    {
+      "id": "sfx_001",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_001.mp3",
+      "source": "search",
+      "description": "MECH-KEYBOARD-01.wav",
+      "duration": 1.3,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "mechanical keyboard click",
+        "openverse_id": "617f5e28-0291-421e-a196-a4f00f84ce05",
+        "license": "cc0",
+        "credit": "\"MECH-KEYBOARD-01.wav\" by newagesoup is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+        "source_url": "https://freesound.org/people/newagesoup/sounds/348239"
+      }
+    },
+    {
+      "id": "sfx_002",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_002.mp3",
+      "source": "search",
+      "description": "Page Turn - Please Turn Over (PTO) - paper_turn_over.wav",
+      "duration": 1,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "paper page flip",
+        "openverse_id": "ec2e245c-465b-4ba7-9ea4-620f3555b291",
+        "license": "by",
+        "credit": "\"Page Turn - Please Turn Over (PTO) - paper_turn_over.wav\" by flag2 is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.",
+        "source_url": "https://freesound.org/people/flag2/sounds/63318"
+      }
+    },
+    {
+      "id": "sfx_003",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_003.mp3",
+      "source": "search",
+      "description": "Wood Knock",
+      "duration": 0.9,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "wood knock",
+        "openverse_id": "19380888-f422-44d9-aad1-d2b7d788871f",
+        "license": "cc0",
+        "credit": "\"Wood Knock\" by Mrguff is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+        "source_url": "https://freesound.org/people/Mrguff/sounds/369710"
+      }
+    },
+    {
+      "id": "sfx_004",
+      "type": "sfx",
+      "path": ".media/audio/sfx/sfx_004.mp3",
+      "source": "search",
+      "description": "Kodak Brownie Shutter Sound",
+      "duration": 1,
+      "provenance": {
+        "provider": "openverse.audio",
+        "prompt": "short camera shutter click",
+        "openverse_id": "5eef3749-df00-443d-acc7-100a05690a37",
+        "license": "cc0",
+        "credit": "\"Kodak Brownie Shutter Sound\" by caculo is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+        "source_url": "https://freesound.org/people/caculo/sounds/368177"
+      }
+    }
+  ],
+  "generated": "Selected existing earshot launch-kit effects and material accents, reused as effects only. No generated music."
+}

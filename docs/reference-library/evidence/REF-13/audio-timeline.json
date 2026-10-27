@@ -1,0 +1,1941 @@
+{
+  "file": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.aab49a20.mp4",
+  "video": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.aab49a20.mp4",
+  "start": 0.0,
+  "end": 15.061,
+  "duration": 15.061,
+  "file_duration": 15.061,
+  "context": [
+    0.0,
+    15.061
+  ],
+  "has_audio": true,
+  "lossy": true,
+  "loudness": {
+    "integrated_lufs": -11.6,
+    "true_peak_dbtp": -1.4,
+    "digital_silence": false,
+    "max_momentary": {
+      "t": 9.0,
+      "lufs": -8.1
+    },
+    "momentary": {
+      "t0": 0.2,
+      "dt": 0.1,
+      "lufs": [
+        -12.9,
+        -12.3,
+        -12.7,
+        -13.8,
+        -15.0,
+        -15.4,
+        -16.6,
+        -15.1,
+        -14.8,
+        -15.1,
+        -14.9,
+        -17.4,
+        -16.3,
+        -15.5,
+        -15.7,
+        -15.0,
+        -16.3,
+        -14.5,
+        -14.2,
+        -14.4,
+        -13.9,
+        -15.1,
+        -13.7,
+        -12.3,
+        -11.6,
+        -10.7,
+        -9.9,
+        -10.4,
+        -11.4,
+        -13.3,
+        -20.2,
+        -53.1,
+        -41.2,
+        -32.9,
+        -27.0,
+        -21.8,
+        -18.4,
+        -14.3,
+        -11.8,
+        -10.5,
+        -9.8,
+        -9.9,
+        -10.2,
+        -10.5,
+        -10.6,
+        -10.6,
+        -10.8,
+        -10.9,
+        -11.0,
+        -11.3,
+        -11.7,
+        -12.4,
+        -13.2,
+        -14.0,
+        -14.5,
+        -14.0,
+        -13.7,
+        -12.8,
+        -12.1,
+        -12.1,
+        -11.7,
+        -11.9,
+        -11.6,
+        -11.6,
+        -11.8,
+        -11.2,
+        -11.3,
+        -10.9,
+        -10.6,
+        -11.0,
+        -11.4,
+        -12.8,
+        -14.3,
+        -16.4,
+        -18.6,
+        -18.9,
+        -19.0,
+        -16.3,
+        -15.2,
+        -14.6,
+        -14.0,
+        -14.7,
+        -14.0,
+        -12.9,
+        -11.9,
+        -10.1,
+        -9.2,
+        -8.5,
+        -8.1,
+        -8.3,
+        -8.9,
+        -10.0,
+        -11.4,
+        -13.5,
+        -15.5,
+        -16.7,
+        -17.7,
+        -16.2,
+        -14.2,
+        -13.1,
+        -12.0,
+        -11.2,
+        -10.7,
+        -10.1,
+        -9.8,
+        -9.6,
+        -9.2,
+        -9.0,
+        -8.8,
+        -8.9,
+        -8.9,
+        -8.9,
+        -9.1,
+        -9.6,
+        -10.5,
+        -11.9,
+        -13.7,
+        -12.4,
+        -10.2,
+        -9.0,
+        -8.2,
+        -8.4,
+        -9.2,
+        -9.7,
+        -10.1,
+        -10.3,
+        -10.5,
+        -11.2,
+        -11.7,
+        -12.4,
+        -12.8,
+        -12.5,
+        -11.4,
+        -10.7,
+        -10.3,
+        -10.4,
+        -11.1,
+        -10.6,
+        -9.6,
+        -8.9,
+        -8.3,
+        -8.5,
+        -9.1,
+        -9.9,
+        -11.1,
+        -12.9,
+        -15.8
+      ]
+    },
+    "max_short_term": {
+      "start": 10.0,
+      "end": 13.0,
+      "lufs": -10.0
+    },
+    "short_term": {
+      "t0": 1.5,
+      "dt": 0.5,
+      "lufs": [
+        -13.5,
+        -14.2,
+        -14.5,
+        -13.2,
+        -12.4,
+        -12.2,
+        -12.9,
+        -12.1,
+        -11.4,
+        -11.9,
+        -12.7,
+        -13.1,
+        -12.2,
+        -11.7,
+        -12.3,
+        -12.2,
+        -11.1,
+        -10.3,
+        -10.8,
+        -10.5,
+        -10.0,
+        -10.1,
+        -10.3,
+        -10.2,
+        -10.3
+      ]
+    },
+    "lra_lu": 3.4,
+    "silences": [
+      {
+        "start": 3.05,
+        "end": 3.6,
+        "dur": 0.55,
+        "kind": "drop",
+        "level_lufs": -55.5
+      }
+    ],
+    "clipping": {
+      "samples": 0,
+      "runs": 0,
+      "times": []
+    }
+  },
+  "music": {
+    "tempo": 120.0,
+    "tempo_alt": null,
+    "beats": [
+      0.13,
+      0.54,
+      1.04,
+      1.54,
+      2.04,
+      2.54,
+      3.08,
+      3.56,
+      4.04,
+      4.54,
+      5.04,
+      5.54,
+      6.04,
+      6.54,
+      7.04,
+      7.54,
+      8.04,
+      8.54,
+      9.04,
+      9.54,
+      10.04,
+      10.54,
+      11.04,
+      11.54,
+      12.04,
+      12.53,
+      13.02,
+      13.53,
+      14.04,
+      14.54,
+      15.04
+    ],
+    "downbeats": [
+      0.13,
+      2.04,
+      4.04,
+      6.04,
+      8.04,
+      10.04,
+      12.04,
+      14.04
+    ],
+    "pulse_clarity": 0.352,
+    "beat_regularity": 0.038,
+    "confidence": "clear",
+    "note": "beats at 10 ms resolution; downbeats are a guess (4/4 assumed); tempo may be half/double the felt tempo"
+  },
+  "events": [
+    {
+      "t": 0.043,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 60.0,
+      "z": 0.0,
+      "length_ms": 2000,
+      "starts_file": true,
+      "prominence_db": 61.8,
+      "bed_db": -80.0,
+      "peak_dbfs": -4.5,
+      "local_lufs": -12.9,
+      "centroid_hz": 65,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.65
+        },
+        {
+          "tag": "a sub bass drop",
+          "kind": "HIT",
+          "z": 2.4
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.07
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true,
+      "beat_offset_ms": -87.0
+    },
+    {
+      "t": 0.076,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 6.9,
+      "z": 35.2,
+      "length_ms": 1326,
+      "prominence_db": 72.2,
+      "bed_db": -80.0,
+      "peak_dbfs": -4.5,
+      "local_lufs": -12.9,
+      "centroid_hz": 758,
+      "tags": [
+        {
+          "tag": "a sub bass drop",
+          "kind": "HIT",
+          "z": 2.39
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.3
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.1
+        }
+      ],
+      "kind": "HIT",
+      "label": "sub bass drop",
+      "exposed": true,
+      "beat_offset_ms": -54.0
+    },
+    {
+      "t": 0.14,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 60.0,
+      "z": 99.0,
+      "length_ms": 2000,
+      "prominence_db": 14.2,
+      "bed_db": -22.0,
+      "peak_dbfs": -4.5,
+      "local_lufs": -12.9,
+      "centroid_hz": 1023,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.32
+        },
+        {
+          "tag": "a sub bass drop",
+          "kind": "HIT",
+          "z": 2.29
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.19
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true,
+      "beat_offset_ms": 10.0
+    },
+    {
+      "t": 0.296,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.4,
+      "z": 26.5,
+      "length_ms": 42,
+      "prominence_db": 1.8,
+      "bed_db": -11.7,
+      "peak_dbfs": -6.9,
+      "local_lufs": -12.4,
+      "centroid_hz": 599,
+      "beat_offset_ms": 166.0
+    },
+    {
+      "t": 0.413,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.3,
+      "z": 14.1,
+      "length_ms": 5,
+      "prominence_db": 0.0,
+      "bed_db": -10.7,
+      "peak_dbfs": -8.6,
+      "local_lufs": -12.9,
+      "centroid_hz": 671,
+      "beat_offset_ms": -127.0
+    },
+    {
+      "t": 0.542,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 19.7,
+      "z": 28.9,
+      "length_ms": 49,
+      "prominence_db": 3.5,
+      "bed_db": -12.9,
+      "peak_dbfs": -4.9,
+      "local_lufs": -14.4,
+      "centroid_hz": 212,
+      "beat_offset_ms": 2.0
+    },
+    {
+      "t": 0.668,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.6,
+      "z": 13.8,
+      "length_ms": 51,
+      "prominence_db": 1.1,
+      "bed_db": -14.1,
+      "peak_dbfs": -7.6,
+      "local_lufs": -15.2,
+      "centroid_hz": 181,
+      "beat_offset_ms": 128.0
+    },
+    {
+      "t": 0.794,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 16.7,
+      "z": 15.1,
+      "length_ms": 440,
+      "prominence_db": 2.8,
+      "bed_db": -15.2,
+      "peak_dbfs": -2.8,
+      "local_lufs": -16.5,
+      "centroid_hz": 414,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 0.85,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.9,
+      "z": 4.2,
+      "length_ms": 384,
+      "prominence_db": 0.0,
+      "bed_db": -15.0,
+      "peak_dbfs": -2.8,
+      "local_lufs": -16.1,
+      "centroid_hz": 794,
+      "beat_offset_ms": -190.0
+    },
+    {
+      "t": 0.918,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 13.9,
+      "z": 5.6,
+      "length_ms": 195,
+      "prominence_db": 2.0,
+      "bed_db": -16.4,
+      "peak_dbfs": -2.8,
+      "local_lufs": -15.0,
+      "centroid_hz": 2600,
+      "beat_offset_ms": -122.0
+    },
+    {
+      "t": 1.049,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 13.5,
+      "z": 6.2,
+      "length_ms": 353,
+      "prominence_db": 8.5,
+      "bed_db": -16.5,
+      "peak_dbfs": -2.8,
+      "local_lufs": -15.0,
+      "centroid_hz": 95,
+      "beat_offset_ms": 9.0
+    },
+    {
+      "t": 1.195,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 5.2,
+      "z": 6.5,
+      "length_ms": 5,
+      "prominence_db": 0.5,
+      "bed_db": -15.4,
+      "peak_dbfs": -8.7,
+      "local_lufs": -14.9,
+      "centroid_hz": 310,
+      "beat_offset_ms": 155.0
+    },
+    {
+      "t": 1.294,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 13.1,
+      "z": 20.1,
+      "length_ms": 59,
+      "prominence_db": 1.8,
+      "bed_db": -14.4,
+      "peak_dbfs": -7.1,
+      "local_lufs": -17.2,
+      "centroid_hz": 353,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 1.418,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.7,
+      "z": 21.3,
+      "length_ms": 50,
+      "prominence_db": 0.0,
+      "bed_db": -16.9,
+      "peak_dbfs": -11.4,
+      "local_lufs": -16.0,
+      "centroid_hz": 759,
+      "beat_offset_ms": -122.0
+    },
+    {
+      "t": 1.544,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 21.0,
+      "z": 22.1,
+      "length_ms": 1501,
+      "prominence_db": 10.6,
+      "bed_db": -18.7,
+      "peak_dbfs": -5.2,
+      "local_lufs": -15.8,
+      "centroid_hz": 100,
+      "tags": [
+        {
+          "tag": "an orchestral stab",
+          "kind": "NOTE",
+          "z": 1.97
+        },
+        {
+          "tag": "a reverse cymbal swell",
+          "kind": "RISER",
+          "z": 1.79
+        },
+        {
+          "tag": "a short swish",
+          "kind": "WHOOSH",
+          "z": 1.61
+        }
+      ],
+      "kind": "NOTE",
+      "label": "orchestral stab",
+      "exposed": false,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 1.67,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 15.3,
+      "z": 8.6,
+      "length_ms": 45,
+      "prominence_db": 4.3,
+      "bed_db": -17.8,
+      "peak_dbfs": -8.3,
+      "local_lufs": -15.1,
+      "centroid_hz": 342,
+      "beat_offset_ms": 130.0
+    },
+    {
+      "t": 1.794,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 21.6,
+      "z": 14.2,
+      "length_ms": 61,
+      "prominence_db": 3.5,
+      "bed_db": -15.4,
+      "peak_dbfs": -6.2,
+      "local_lufs": -16.2,
+      "centroid_hz": 628,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 1.914,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 13.5,
+      "z": 6.4,
+      "length_ms": 208,
+      "prominence_db": 0.8,
+      "bed_db": -16.1,
+      "peak_dbfs": -3.2,
+      "local_lufs": -14.5,
+      "centroid_hz": 2514,
+      "beat_offset_ms": -126.0
+    },
+    {
+      "t": 2.071,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 15.6,
+      "z": 7.7,
+      "length_ms": 116,
+      "prominence_db": 8.8,
+      "bed_db": -16.2,
+      "peak_dbfs": -4.3,
+      "local_lufs": -14.4,
+      "centroid_hz": 207,
+      "tags": [
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.86
+        },
+        {
+          "tag": "a kick drum",
+          "kind": "DRUM",
+          "z": 1.64
+        },
+        {
+          "tag": "a snare drum hit",
+          "kind": "DRUM",
+          "z": 1.56
+        }
+      ],
+      "kind": "UI",
+      "label": "chat message pop",
+      "exposed": false,
+      "beat_offset_ms": 31.0
+    },
+    {
+      "t": 2.169,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.4,
+      "z": 12.4,
+      "length_ms": 11,
+      "prominence_db": 4.8,
+      "bed_db": -16.1,
+      "peak_dbfs": -7.3,
+      "local_lufs": -14.0,
+      "centroid_hz": 1068,
+      "beat_offset_ms": 129.0
+    },
+    {
+      "t": 2.286,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.2,
+      "z": 10.5,
+      "length_ms": 752,
+      "prominence_db": 3.3,
+      "bed_db": -14.5,
+      "peak_dbfs": -3.0,
+      "local_lufs": -14.7,
+      "centroid_hz": 313,
+      "beat_offset_ms": 246.0
+    },
+    {
+      "t": 2.419,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.2,
+      "z": 9.1,
+      "length_ms": 615,
+      "prominence_db": 6.1,
+      "bed_db": -15.9,
+      "peak_dbfs": -3.0,
+      "local_lufs": -13.5,
+      "centroid_hz": 1031,
+      "beat_offset_ms": -121.0
+    },
+    {
+      "t": 2.566,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 12.0,
+      "z": 7.1,
+      "length_ms": 250,
+      "prominence_db": 6.9,
+      "bed_db": -14.5,
+      "peak_dbfs": -3.6,
+      "local_lufs": -11.8,
+      "centroid_hz": 252,
+      "beat_offset_ms": 26.0
+    },
+    {
+      "t": 2.686,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.5,
+      "z": 7.2,
+      "length_ms": 343,
+      "prominence_db": 2.5,
+      "bed_db": -11.4,
+      "peak_dbfs": -2.7,
+      "local_lufs": -10.9,
+      "centroid_hz": 1353,
+      "beat_offset_ms": 146.0
+    },
+    {
+      "t": 2.838,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.4,
+      "z": 8.8,
+      "length_ms": 187,
+      "prominence_db": 3.6,
+      "bed_db": -10.2,
+      "peak_dbfs": -2.7,
+      "local_lufs": -9.8,
+      "centroid_hz": 4895,
+      "beat_offset_ms": -242.0
+    },
+    {
+      "t": 2.918,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.3,
+      "z": 6.9,
+      "length_ms": 103,
+      "prominence_db": 3.6,
+      "bed_db": -9.8,
+      "peak_dbfs": -2.7,
+      "local_lufs": -10.5,
+      "centroid_hz": 4621,
+      "beat_offset_ms": -162.0
+    },
+    {
+      "t": 4.064,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 21.8,
+      "z": 12.3,
+      "length_ms": 2000,
+      "prominence_db": 7.9,
+      "bed_db": -15.2,
+      "peak_dbfs": -4.1,
+      "local_lufs": -10.9,
+      "centroid_hz": 1068,
+      "beat_offset_ms": 24.0
+    },
+    {
+      "t": 4.454,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 11.0,
+      "z": 5.2,
+      "length_ms": 2000,
+      "prominence_db": 0.0,
+      "bed_db": -9.2,
+      "peak_dbfs": -4.2,
+      "local_lufs": -10.4,
+      "centroid_hz": 903,
+      "beat_offset_ms": -86.0
+    },
+    {
+      "t": 4.59,
+      "shape": "swell",
+      "band": "full",
+      "contrast_db": 66.7,
+      "prominence_db": 66.7,
+      "bed_db": -80.0,
+      "z": 0.0,
+      "rise_ms": 1430,
+      "length_ms": 1000,
+      "peak_dbfs": -4.2,
+      "local_lufs": -10.6,
+      "centroid_hz": 706,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 3.27
+        },
+        {
+          "tag": "a reverse cymbal swell",
+          "kind": "RISER",
+          "z": 2.0
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 1.73
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true,
+      "beat_offset_ms": 50.0
+    },
+    {
+      "t": 4.798,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.3,
+      "z": 4.8,
+      "length_ms": 77,
+      "prominence_db": 0.4,
+      "bed_db": -9.9,
+      "peak_dbfs": -5.2,
+      "local_lufs": -10.8,
+      "centroid_hz": 834,
+      "beat_offset_ms": -242.0
+    },
+    {
+      "t": 5.048,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 13.9,
+      "z": 13.4,
+      "length_ms": 1334,
+      "prominence_db": 2.4,
+      "bed_db": -10.4,
+      "peak_dbfs": -3.8,
+      "local_lufs": -11.1,
+      "centroid_hz": 181,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 3.59
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.21
+        },
+        {
+          "tag": "a sub bass drop",
+          "kind": "HIT",
+          "z": 1.75
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false,
+      "beat_offset_ms": 8.0
+    },
+    {
+      "t": 5.541,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 12.0,
+      "z": 13.4,
+      "length_ms": 67,
+      "prominence_db": 0.3,
+      "bed_db": -12.8,
+      "peak_dbfs": -7.6,
+      "local_lufs": -14.2,
+      "centroid_hz": 1376,
+      "beat_offset_ms": 1.0
+    },
+    {
+      "t": 5.792,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 16.3,
+      "z": 15.6,
+      "length_ms": 1844,
+      "prominence_db": 4.5,
+      "bed_db": -14.2,
+      "peak_dbfs": -3.4,
+      "local_lufs": -13.7,
+      "centroid_hz": 962,
+      "beat_offset_ms": -248.0
+    },
+    {
+      "t": 6.048,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 15.0,
+      "z": 14.1,
+      "length_ms": 2000,
+      "prominence_db": 4.5,
+      "bed_db": -12.5,
+      "peak_dbfs": -3.4,
+      "local_lufs": -12.1,
+      "centroid_hz": 747,
+      "beat_offset_ms": 8.0
+    },
+    {
+      "t": 6.294,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.2,
+      "z": 13.5,
+      "length_ms": 162,
+      "prominence_db": 1.7,
+      "bed_db": -11.4,
+      "peak_dbfs": -5.1,
+      "local_lufs": -11.8,
+      "centroid_hz": 1437,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 6.433,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 5.5,
+      "z": 3.4,
+      "length_ms": 13,
+      "prominence_db": 0.1,
+      "bed_db": -11.1,
+      "peak_dbfs": -6.8,
+      "local_lufs": -11.6,
+      "centroid_hz": 1124,
+      "beat_offset_ms": -107.0
+    },
+    {
+      "t": 6.543,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.8,
+      "z": 12.8,
+      "length_ms": 53,
+      "prominence_db": 2.9,
+      "bed_db": -11.3,
+      "peak_dbfs": -4.5,
+      "local_lufs": -11.7,
+      "centroid_hz": 1385,
+      "beat_offset_ms": 3.0
+    },
+    {
+      "t": 6.793,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.9,
+      "z": 11.7,
+      "length_ms": 118,
+      "prominence_db": 3.8,
+      "bed_db": -11.6,
+      "peak_dbfs": -4.3,
+      "local_lufs": -11.3,
+      "centroid_hz": 1379,
+      "beat_offset_ms": -247.0
+    },
+    {
+      "t": 7.045,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 12.4,
+      "z": 13.8,
+      "length_ms": 230,
+      "prominence_db": 3.5,
+      "bed_db": -10.7,
+      "peak_dbfs": -3.4,
+      "local_lufs": -10.8,
+      "centroid_hz": 439,
+      "beat_offset_ms": 5.0
+    },
+    {
+      "t": 7.299,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.8,
+      "z": 6.3,
+      "length_ms": 16,
+      "prominence_db": 0.2,
+      "bed_db": -10.7,
+      "peak_dbfs": -4.4,
+      "local_lufs": -12.7,
+      "centroid_hz": 838,
+      "tags": [
+        {
+          "tag": "a plucked string note",
+          "kind": "NOTE",
+          "z": 2.15
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.95
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 1.8
+        }
+      ],
+      "kind": "NOTE",
+      "label": "plucked string note",
+      "exposed": false,
+      "beat_offset_ms": -241.0
+    },
+    {
+      "t": 7.437,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 6.3,
+      "z": 7.3,
+      "length_ms": 52,
+      "prominence_db": 0.0,
+      "bed_db": -11.4,
+      "peak_dbfs": -8.9,
+      "local_lufs": -15.0,
+      "centroid_hz": 342,
+      "beat_offset_ms": -103.0
+    },
+    {
+      "t": 7.752,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 13.7,
+      "z": 8.5,
+      "length_ms": 2000,
+      "prominence_db": 2.4,
+      "bed_db": -17.9,
+      "peak_dbfs": -4.1,
+      "local_lufs": -19.0,
+      "centroid_hz": 1830,
+      "beat_offset_ms": 212.0
+    },
+    {
+      "t": 7.794,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 19.4,
+      "z": 17.4,
+      "length_ms": 2000,
+      "prominence_db": 3.1,
+      "bed_db": -18.5,
+      "peak_dbfs": -3.9,
+      "local_lufs": -19.0,
+      "centroid_hz": 1307,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 8.084,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 14.9,
+      "z": 9.6,
+      "length_ms": 83,
+      "prominence_db": 7.9,
+      "bed_db": -17.6,
+      "peak_dbfs": -5.1,
+      "local_lufs": -14.8,
+      "centroid_hz": 1099,
+      "beat_offset_ms": 44.0
+    },
+    {
+      "t": 8.326,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 9.6,
+      "z": 14.4,
+      "length_ms": 871,
+      "prominence_db": 0.5,
+      "bed_db": -14.0,
+      "peak_dbfs": -4.8,
+      "local_lufs": -14.8,
+      "centroid_hz": 137,
+      "beat_offset_ms": -214.0
+    },
+    {
+      "t": 8.543,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.4,
+      "z": 9.3,
+      "length_ms": 876,
+      "prominence_db": 5.4,
+      "bed_db": -14.4,
+      "peak_dbfs": -3.1,
+      "local_lufs": -12.5,
+      "centroid_hz": 1149,
+      "beat_offset_ms": 3.0
+    },
+    {
+      "t": 8.794,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.5,
+      "z": 4.3,
+      "length_ms": 89,
+      "prominence_db": 3.6,
+      "bed_db": -10.3,
+      "peak_dbfs": -3.1,
+      "local_lufs": -9.2,
+      "centroid_hz": 1291,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 8.922,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.7,
+      "z": 3.3,
+      "length_ms": 266,
+      "prominence_db": 2.8,
+      "bed_db": -9.2,
+      "peak_dbfs": -1.9,
+      "local_lufs": -8.4,
+      "centroid_hz": 1702,
+      "beat_offset_ms": -118.0
+    },
+    {
+      "t": 9.084,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 13.6,
+      "z": 4.8,
+      "length_ms": 104,
+      "prominence_db": 0.4,
+      "bed_db": -7.3,
+      "peak_dbfs": -1.9,
+      "local_lufs": -8.3,
+      "centroid_hz": 1393,
+      "beat_offset_ms": 44.0
+    },
+    {
+      "t": 9.21,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 21.5,
+      "prominence_db": 21.5,
+      "bed_db": -40.8,
+      "z": 0.0,
+      "rise_ms": 1530,
+      "length_ms": 400,
+      "peak_dbfs": -3.0,
+      "local_lufs": -9.0,
+      "centroid_hz": 1789,
+      "beat_offset_ms": 170.0
+    },
+    {
+      "t": 9.337,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 9.9,
+      "z": 8.8,
+      "length_ms": 2000,
+      "prominence_db": 0.0,
+      "bed_db": -7.9,
+      "peak_dbfs": -5.4,
+      "local_lufs": -10.5,
+      "centroid_hz": 73,
+      "beat_offset_ms": -203.0
+    },
+    {
+      "t": 9.544,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.8,
+      "z": 12.4,
+      "length_ms": 35,
+      "prominence_db": 1.0,
+      "bed_db": -11.4,
+      "peak_dbfs": -5.5,
+      "local_lufs": -14.5,
+      "centroid_hz": 1432,
+      "tags": [
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 1.98
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.94
+        },
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.87
+        }
+      ],
+      "kind": "NOTE",
+      "label": "bell chime",
+      "exposed": false,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 9.676,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.1,
+      "z": 4.2,
+      "length_ms": 24,
+      "prominence_db": 0.0,
+      "bed_db": -13.9,
+      "peak_dbfs": -11.0,
+      "local_lufs": -16.4,
+      "centroid_hz": 678,
+      "tags": [
+        {
+          "tag": "an orchestral stab",
+          "kind": "NOTE",
+          "z": 2.15
+        },
+        {
+          "tag": "a reverse cymbal swell",
+          "kind": "RISER",
+          "z": 1.95
+        },
+        {
+          "tag": "a rising riser building tension",
+          "kind": "RISER",
+          "z": 1.83
+        }
+      ],
+      "kind": "NOTE",
+      "label": "orchestral stab",
+      "exposed": false,
+      "beat_offset_ms": 136.0
+    },
+    {
+      "t": 9.758,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.9,
+      "z": 3.7,
+      "length_ms": 451,
+      "prominence_db": 0.7,
+      "bed_db": -15.1,
+      "peak_dbfs": -5.0,
+      "local_lufs": -17.2,
+      "centroid_hz": 1235,
+      "beat_offset_ms": 218.0
+    },
+    {
+      "t": 9.793,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.7,
+      "z": 6.1,
+      "length_ms": 212,
+      "prominence_db": 1.8,
+      "bed_db": -16.2,
+      "peak_dbfs": -9.2,
+      "local_lufs": -17.6,
+      "centroid_hz": 1685,
+      "beat_offset_ms": -247.0
+    },
+    {
+      "t": 10.049,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 12.3,
+      "z": 13.2,
+      "length_ms": 160,
+      "prominence_db": 8.0,
+      "bed_db": -17.3,
+      "peak_dbfs": -4.1,
+      "local_lufs": -13.6,
+      "centroid_hz": 175,
+      "beat_offset_ms": 9.0
+    },
+    {
+      "t": 10.18,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 7.0,
+      "z": 12.6,
+      "length_ms": 1687,
+      "prominence_db": 7.8,
+      "bed_db": -16.0,
+      "peak_dbfs": -3.5,
+      "local_lufs": -12.2,
+      "centroid_hz": 345,
+      "beat_offset_ms": 140.0
+    },
+    {
+      "t": 10.292,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 12.3,
+      "z": 15.9,
+      "length_ms": 84,
+      "prominence_db": 4.3,
+      "bed_db": -11.4,
+      "peak_dbfs": -3.8,
+      "local_lufs": -11.2,
+      "centroid_hz": 421,
+      "beat_offset_ms": -248.0
+    },
+    {
+      "t": 10.419,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 11.5,
+      "z": 12.8,
+      "length_ms": 54,
+      "prominence_db": 4.9,
+      "bed_db": -11.3,
+      "peak_dbfs": -3.5,
+      "local_lufs": -10.6,
+      "centroid_hz": 483,
+      "beat_offset_ms": -121.0
+    },
+    {
+      "t": 10.543,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.4,
+      "z": 27.4,
+      "length_ms": 1082,
+      "prominence_db": 4.2,
+      "bed_db": -10.4,
+      "peak_dbfs": -2.6,
+      "local_lufs": -9.9,
+      "centroid_hz": 453,
+      "beat_offset_ms": 3.0
+    },
+    {
+      "t": 10.672,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.4,
+      "z": 5.6,
+      "length_ms": 30,
+      "prominence_db": 3.0,
+      "bed_db": -9.6,
+      "peak_dbfs": -3.8,
+      "local_lufs": -9.6,
+      "centroid_hz": 496,
+      "beat_offset_ms": 132.0
+    },
+    {
+      "t": 10.794,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.8,
+      "z": 9.0,
+      "length_ms": 42,
+      "prominence_db": 2.6,
+      "bed_db": -9.0,
+      "peak_dbfs": -2.6,
+      "local_lufs": -9.3,
+      "centroid_hz": 579,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 10.924,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.4,
+      "z": 9.3,
+      "length_ms": 37,
+      "prominence_db": 2.9,
+      "bed_db": -8.9,
+      "peak_dbfs": -3.1,
+      "local_lufs": -9.0,
+      "centroid_hz": 606,
+      "beat_offset_ms": -116.0
+    },
+    {
+      "t": 11.09,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 12.5,
+      "z": 13.7,
+      "length_ms": 116,
+      "prominence_db": 1.6,
+      "bed_db": -8.1,
+      "peak_dbfs": -2.8,
+      "local_lufs": -8.9,
+      "centroid_hz": 401,
+      "beat_offset_ms": 50.0
+    },
+    {
+      "t": 11.169,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.1,
+      "z": 10.6,
+      "length_ms": 43,
+      "prominence_db": 1.1,
+      "bed_db": -8.1,
+      "peak_dbfs": -3.0,
+      "local_lufs": -8.9,
+      "centroid_hz": 769,
+      "beat_offset_ms": 129.0
+    },
+    {
+      "t": 11.294,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.4,
+      "z": 9.5,
+      "length_ms": 49,
+      "prominence_db": 2.4,
+      "bed_db": -8.3,
+      "peak_dbfs": -3.1,
+      "local_lufs": -8.9,
+      "centroid_hz": 832,
+      "beat_offset_ms": -246.0
+    },
+    {
+      "t": 11.419,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.3,
+      "z": 7.0,
+      "length_ms": 63,
+      "prominence_db": 1.8,
+      "bed_db": -8.5,
+      "peak_dbfs": -2.9,
+      "local_lufs": -9.2,
+      "centroid_hz": 943,
+      "beat_offset_ms": -121.0
+    },
+    {
+      "t": 11.547,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 13.9,
+      "z": 8.7,
+      "length_ms": 215,
+      "prominence_db": 0.4,
+      "bed_db": -8.3,
+      "peak_dbfs": -3.1,
+      "local_lufs": -10.0,
+      "centroid_hz": 663,
+      "beat_offset_ms": 7.0
+    },
+    {
+      "t": 11.716,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 7.8,
+      "z": 4.0,
+      "length_ms": 36,
+      "prominence_db": 0.0,
+      "bed_db": -9.1,
+      "peak_dbfs": -4.7,
+      "local_lufs": -12.1,
+      "centroid_hz": 408,
+      "beat_offset_ms": 176.0
+    },
+    {
+      "t": 11.801,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 10.1,
+      "z": 9.7,
+      "length_ms": 82,
+      "prominence_db": 0.0,
+      "bed_db": -10.9,
+      "peak_dbfs": -7.2,
+      "local_lufs": -13.7,
+      "centroid_hz": 533,
+      "beat_offset_ms": -239.0
+    },
+    {
+      "t": 11.873,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 8.9,
+      "z": 5.2,
+      "length_ms": 10,
+      "prominence_db": 0.0,
+      "bed_db": -12.0,
+      "peak_dbfs": -7.6,
+      "local_lufs": -13.3,
+      "centroid_hz": 833,
+      "beat_offset_ms": -167.0
+    },
+    {
+      "t": 11.918,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 12.3,
+      "z": 11.9,
+      "length_ms": 32,
+      "prominence_db": 0.0,
+      "bed_db": -12.9,
+      "peak_dbfs": -8.5,
+      "local_lufs": -11.9,
+      "centroid_hz": 814,
+      "beat_offset_ms": -122.0
+    },
+    {
+      "t": 11.98,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 11.7,
+      "z": 6.1,
+      "length_ms": 26,
+      "prominence_db": 7.7,
+      "bed_db": -13.7,
+      "peak_dbfs": -6.7,
+      "local_lufs": -10.6,
+      "centroid_hz": 912,
+      "beat_offset_ms": -60.0
+    },
+    {
+      "t": 12.037,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 22.1,
+      "z": 21.6,
+      "length_ms": 1189,
+      "prominence_db": 9.2,
+      "bed_db": -14.7,
+      "peak_dbfs": -1.4,
+      "local_lufs": -9.7,
+      "centroid_hz": 1015,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.74
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.59
+        },
+        {
+          "tag": "a reverse cymbal swell",
+          "kind": "RISER",
+          "z": 2.08
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false,
+      "beat_offset_ms": -3.0
+    },
+    {
+      "t": 13.219,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 7.5,
+      "z": 3.1,
+      "length_ms": 614,
+      "prominence_db": 0.0,
+      "bed_db": -11.6,
+      "peak_dbfs": -4.6,
+      "local_lufs": -12.9,
+      "centroid_hz": 879,
+      "beat_offset_ms": 199.0
+    },
+    {
+      "t": 13.293,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 7.6,
+      "z": 5.6,
+      "length_ms": 1456,
+      "prominence_db": 0.7,
+      "bed_db": -12.1,
+      "peak_dbfs": -4.6,
+      "local_lufs": -12.5,
+      "centroid_hz": 1228,
+      "beat_offset_ms": -237.0
+    },
+    {
+      "t": 13.465,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 11.1,
+      "z": 10.7,
+      "length_ms": 368,
+      "prominence_db": 5.2,
+      "bed_db": -12.6,
+      "peak_dbfs": -4.6,
+      "local_lufs": -10.9,
+      "centroid_hz": 1236,
+      "beat_offset_ms": -65.0
+    },
+    {
+      "t": 13.607,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 7.1,
+      "z": 4.9,
+      "length_ms": 246,
+      "prominence_db": 3.1,
+      "bed_db": -11.8,
+      "peak_dbfs": -5.9,
+      "local_lufs": -10.3,
+      "centroid_hz": 1118,
+      "beat_offset_ms": 77.0
+    },
+    {
+      "t": 13.688,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 5.7,
+      "z": 8.9,
+      "length_ms": 145,
+      "prominence_db": 0.1,
+      "bed_db": -9.3,
+      "peak_dbfs": -5.9,
+      "local_lufs": -10.4,
+      "centroid_hz": 1183,
+      "beat_offset_ms": 158.0
+    },
+    {
+      "t": 13.793,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 6.1,
+      "z": 7.4,
+      "length_ms": 190,
+      "prominence_db": 0.0,
+      "bed_db": -9.6,
+      "peak_dbfs": -6.0,
+      "local_lufs": -11.1,
+      "centroid_hz": 1290,
+      "beat_offset_ms": -247.0
+    },
+    {
+      "t": 14.064,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 24.1,
+      "z": 19.7,
+      "length_ms": 896,
+      "prominence_db": 5.4,
+      "bed_db": -11.1,
+      "peak_dbfs": -2.4,
+      "local_lufs": -9.1,
+      "centroid_hz": 937,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 2.76
+        },
+        {
+          "tag": "a bell chime",
+          "kind": "NOTE",
+          "z": 2.06
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.02
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false,
+      "beat_offset_ms": 24.0
+    },
+    {
+      "t": 14.426,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 4.6,
+      "z": 6.7,
+      "length_ms": 180,
+      "prominence_db": 0.0,
+      "bed_db": -7.7,
+      "peak_dbfs": -3.8,
+      "local_lufs": -9.2,
+      "centroid_hz": 828,
+      "beat_offset_ms": -114.0
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 3.15,
+      "windows": 1,
+      "coherence": 1.0,
+      "music_genre": [
+        {
+          "tag": "dubstep music",
+          "cat": "music_genre",
+          "z": 2.43,
+          "cos": 0.361
+        },
+        {
+          "tag": "tech house music",
+          "cat": "music_genre",
+          "z": 2.39,
+          "cos": 0.356
+        }
+      ],
+      "music_mood": [
+        {
+          "tag": "confident and cool music",
+          "cat": "music_mood",
+          "z": 2.05,
+          "cos": 0.314
+        },
+        {
+          "tag": "futuristic music",
+          "cat": "music_mood",
+          "z": 1.96,
+          "cos": 0.304
+        }
+      ],
+      "instruments": [
+        {
+          "tag": "a glockenspiel",
+          "cat": "instruments",
+          "z": 1.82,
+          "cos": 0.286
+        },
+        {
+          "tag": "a music box",
+          "cat": "instruments",
+          "z": 1.71,
+          "cos": 0.274
+        }
+      ],
+      "ambience": [
+        {
+          "tag": "heavy rain",
+          "cat": "ambience",
+          "z": -0.13,
+          "cos": 0.052
+        },
+        {
+          "tag": "rain on a window",
+          "cat": "ambience",
+          "z": -0.26,
+          "cos": 0.036
+        }
+      ],
+      "voice": [
+        {
+          "tag": "a voice-over narration",
+          "cat": "voice",
+          "z": -0.35,
+          "cos": 0.025
+        },
+        {
+          "tag": "a person breathing",
+          "cat": "voice",
+          "z": -0.54,
+          "cos": 0.003
+        }
+      ],
+      "lufs": -13.7,
+      "digital_silence": false,
+      "label": "dubstep music?, glockenspiel"
+    },
+    {
+      "start": 3.15,
+      "end": 15.06,
+      "windows": 3,
+      "coherence": 0.95,
+      "music_genre": [
+        {
+          "tag": "inspirational corporate background music",
+          "cat": "music_genre",
+          "z": 2.26,
+          "cos": 0.316
+        },
+        {
+          "tag": "cheerful ukulele music",
+          "cat": "music_genre",
+          "z": 2.06,
+          "cos": 0.29
+        }
+      ],
+      "music_mood": [
+        {
+          "tag": "romantic music",
+          "cat": "music_mood",
+          "z": 2.22,
+          "cos": 0.311
+        },
+        {
+          "tag": "uplifting and hopeful music",
+          "cat": "music_mood",
+          "z": 2.11,
+          "cos": 0.296
+        }
+      ],
+      "instruments": [
+        {
+          "tag": "a glockenspiel",
+          "cat": "instruments",
+          "z": 3.02,
+          "cos": 0.416
+        },
+        {
+          "tag": "a music box",
+          "cat": "instruments",
+          "z": 2.57,
+          "cos": 0.356
+        }
+      ],
+      "ambience": [
+        {
+          "tag": "a crackling fire",
+          "cat": "ambience",
+          "z": 0.4,
+          "cos": 0.074
+        },
+        {
+          "tag": "heavy rain",
+          "cat": "ambience",
+          "z": 0.19,
+          "cos": 0.046
+        }
+      ],
+      "voice": [
+        {
+          "tag": "a person breathing",
+          "cat": "voice",
+          "z": -0.58,
+          "cos": -0.054
+        },
+        {
+          "tag": "a voice-over narration",
+          "cat": "voice",
+          "z": -0.6,
+          "cos": -0.058
+        }
+      ],
+      "lufs": -11.1,
+      "digital_silence": false,
+      "label": "inspirational corporate background music?, glockenspiel"
+    }
+  ],
+  "sync": {
+    "cuts": {
+      "items": [
+        {
+          "t": 3.633,
+          "offset_ms": null,
+          "status": "no sound",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 73.0
+        },
+        {
+          "t": 5.1,
+          "offset_ms": -52.0,
+          "status": "near",
+          "event_t": 5.048,
+          "event_prominence_db": 2.4,
+          "event": "glockenspiel note",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 60.0
+        },
+        {
+          "t": 7.267,
+          "offset_ms": 32.0,
+          "status": "OK",
+          "event_t": 7.299,
+          "event_prominence_db": 0.2,
+          "event": "plucked string note",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 227.0
+        },
+        {
+          "t": 9.633,
+          "offset_ms": 43.0,
+          "status": "near",
+          "event_t": 9.676,
+          "event_prominence_db": 0.0,
+          "event": "orchestral stab",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 93.0
+        },
+        {
+          "t": 12.367,
+          "offset_ms": null,
+          "status": "no sound",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -163.0
+        },
+        {
+          "t": 12.833,
+          "offset_ms": null,
+          "status": "no sound",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -187.0
+        }
+      ],
+      "stats": {
+        "n": 6,
+        "hit_within_1_frame": 0.167,
+        "hit_within_100ms": 0.5,
+        "median_abs_offset_ms": 43.0,
+        "answered_by_swell": 0,
+        "answered_by_level_peak": 0,
+        "no_sound": [
+          3.633,
+          12.367,
+          12.833
+        ],
+        "frame_ms": 33.3,
+        "chance_within_1_frame": 0.329,
+        "chance_within_100ms": 0.718,
+        "accent_min_db": 6.0,
+        "accent_within_1_frame": 0.0,
+        "accent_chance_within_1_frame": 0.047,
+        "accent_within_100ms": 0.0,
+        "accent_chance_within_100ms": 0.127,
+        "on_beat": 0.0,
+        "on_beat_chance": 0.2
+      }
+    }
+  },
+  "cuts": [
+    3.633,
+    5.1,
+    7.267,
+    9.633,
+    12.367,
+    12.833
+  ],
+  "cut_method": "frame difference (earshot.video.cuts)",
+  "fps": 30.0,
+  "model_calls": {
+    "clap_event_windows": 12,
+    "ast_event_windows": 0,
+    "clap_section_windows": 4,
+    "ast_section_windows": 0
+  },
+  "timing_s": {
+    "decode_s": 0.33,
+    "loudness_s": 0.47,
+    "events_s": 0.43,
+    "beats_s": 0.32,
+    "cuts_s": 0.54,
+    "tag_events_s": 9.13,
+    "sections_s": 2.94,
+    "total_s": 14.17
+  },
+  "detail": "low",
+  "summary": "video.aab49a20.mp4: 0:00.00-0:15.06 (15.1 s). Loudness -11.6 LUFS integrated, true peak -1.4 dBTP, LRA 3.4 LU; loudest 0:10.00-0:13.00 (-10.0 LUFS short-term). 1 stop-down(s)/gap(s): 0:03.05 0.6 s drop. Beat grid: ~120 BPM (clear pulse, clarity 0.35, 31 beats). 2 section(s): 0:00.00-0:03.15 dubstep music?, glockenspiel; 0:03.15-0:15.06 inspirational corporate background music?, glockenspiel. 82 events (5.4/s); 12 tagged (10 note, 1 hit, 1 ui; tags are hints). Strongest accents over a running bed: 0:09.21 +22 dB, 0:00.14 +14 dB (glockenspiel note), 0:01.54 +11 dB (orchestral stab). Sync to 6 cuts: 17% have an onset within 1 frame (chance 33%), 50% within 100 ms, median |offset| 43 ms; 0% land on a strong accent (>= 6 dB over the bed) within 1 frame (chance 5%); 0% on the beat grid (chance 20%); 3 without a hit: 0:03.63, 0:12.37, 0:12.83.",
+  "text": "video.aab49a20.mp4: 0:00.00-0:15.06 (15.1 s). Loudness -11.6 LUFS integrated, true peak -1.4 dBTP, LRA 3.4 LU; loudest 0:10.00-0:13.00 (-10.0 LUFS short-term). 1 stop-down(s)/gap(s): 0:03.05 0.6 s drop. Beat grid: ~120 BPM (clear pulse, clarity 0.35, 31 beats). 2 section(s): 0:00.00-0:03.15 dubstep music?, glockenspiel; 0:03.15-0:15.06 inspirational corporate background music?, glockenspiel. 82 events (5.4/s); 12 tagged (10 note, 1 hit, 1 ui; tags are hints). Strongest accents over a running bed: 0:09.21 +22 dB, 0:00.14 +14 dB (glockenspiel note), 0:01.54 +11 dB (orchestral stab). Sync to 6 cuts: 17% have an onset within 1 frame (chance 33%), 50% within 100 ms, median |offset| 43 ms; 0% land on a strong accent (>= 6 dB over the bed) within 1 frame (chance 5%); 0% on the beat grid (chance 20%); 3 without a hit: 0:03.63, 0:12.37, 0:12.83.\n\nSECTIONS\n  0:00.00-0:03.15  dubstep music?, glockenspiel  -14 LUFS\n  0:03.15-0:15.06  inspirational corporate background music?, glockenspiel  -11 LUFS\n\nTRANSCRIPT   time  kind   what (CLAP tag / runner-up)                     peak  over bed  length  centroid  | sync\n== 0:00.00-0:03.15  dubstep music?, glockenspiel  (+21 untagged onsets, 6.7/s)\n 0:00.04  NOTE   glockenspiel note / sub bass drop                -4.5 dBFS   silent  2000 ms    65 Hz\n 0:00.08  HIT    sub bass drop / notification ding                -4.5 dBFS   silent  1326 ms   758 Hz\n 0:00.14  NOTE   glockenspiel note / sub bass drop                -4.5 dBFS +14.2 dB  2000 ms  1.0 kHz  | strong accent (summary)\n 0:01.54  NOTE?  orchestral stab / reverse cymbal swell           -5.2 dBFS +10.6 dB  1501 ms   100 Hz  | strong accent (summary)\n 0:02.07  UI?    chat message pop / kick drum                     -4.3 dBFS  +8.8 dB   116 ms   207 Hz\n 0:03.05  GAP    drop 0.55 s (-56 LUFS)\n== 0:03.15-0:15.06  inspirational corporate background music?, glockenspiel  (+48 untagged onsets, 4.0/s)\n 0:03.63  CUT     no onset or level peak within 250 ms  <- NO HIT\n 0:04.59  NOTE   glockenspiel note / reverse cymbal swell         -4.2 dBFS   silent  1000 ms   706 Hz\n 0:05.05  NOTE?  glockenspiel note / notification ding            -3.8 dBFS  +2.4 dB  1334 ms   181 Hz  | cut -52 ms near\n 0:07.30  NOTE?  plucked string note                              -4.4 dBFS  +0.2 dB    16 ms   838 Hz  | cut +32 ms OK\n 0:09.21  -      high swell                                       -3.0 dBFS +21.5 dB   400 ms  1.8 kHz  | strong accent (summary)\n 0:09.54  NOTE?  bell chime / chat message pop                    -5.5 dBFS  +1.0 dB    35 ms  1.4 kHz\n 0:09.68  NOTE?  orchestral stab / reverse cymbal swell          -11.0 dBFS  +0.0 dB    24 ms   678 Hz  | cut +43 ms near\n 0:12.04  NOTE?  glockenspiel note / notification ding            -1.4 dBFS  +9.2 dB  1189 ms  1.0 kHz\n 0:12.37  CUT     no onset or level peak within 250 ms  <- NO HIT\n 0:12.83  CUT     no onset or level peak within 250 ms  <- NO HIT\n 0:14.06  NOTE?  glockenspiel note / notification ding            -2.4 dBFS  +5.4 dB   896 ms   937 Hz\n\nNOTES  times, levels, loudness and sync offsets are measurements. Event kinds / tags are CLAP guesses: '?' = the event is less than 12 dB over its bed, so its excerpt is mostly bed and the tag a weak hint (right kind about 1 in 4 on the tuning mixes, 1 in 2 for exposed events; often wrong on music and voice). Where AST ran, its speech overrides the kind with VOICE. Section genres marked ? are weak. 'over bed' = how far the event rises over the level just before it; 'silent' = that bed was below -60 (after a gap the rise means nothing). Full data: --json.",
+  "cached": false
+}

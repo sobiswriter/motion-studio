@@ -1,0 +1,1882 @@
+{
+  "file": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.2e2454eb.mp4",
+  "video": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio\\assets\\Reference Vid\\video.2e2454eb.mp4",
+  "start": 0.0,
+  "end": 15.061,
+  "duration": 15.061,
+  "file_duration": 15.061,
+  "context": [
+    0.0,
+    15.061
+  ],
+  "has_audio": true,
+  "lossy": true,
+  "loudness": {
+    "integrated_lufs": -12.4,
+    "true_peak_dbtp": -0.6,
+    "digital_silence": false,
+    "max_momentary": {
+      "t": 5.8,
+      "lufs": -6.9
+    },
+    "momentary": {
+      "t0": 0.2,
+      "dt": 0.1,
+      "lufs": [
+        -10.9,
+        -11.8,
+        -12.9,
+        -13.8,
+        -14.8,
+        -16.2,
+        -17.4,
+        -18.0,
+        -17.4,
+        -13.5,
+        -13.0,
+        -13.0,
+        -13.0,
+        -16.4,
+        -17.9,
+        -18.3,
+        -13.5,
+        -12.8,
+        -12.6,
+        -12.7,
+        -16.3,
+        -15.0,
+        -14.6,
+        -14.4,
+        -14.8,
+        -15.5,
+        -14.6,
+        -14.5,
+        -14.5,
+        -16.8,
+        -15.4,
+        -14.8,
+        -14.4,
+        -13.7,
+        -15.9,
+        -14.0,
+        -13.6,
+        -13.7,
+        -13.8,
+        -14.8,
+        -14.1,
+        -14.1,
+        -13.8,
+        -15.2,
+        -14.6,
+        -14.1,
+        -14.2,
+        -14.1,
+        -16.8,
+        -18.0,
+        -17.0,
+        -17.1,
+        -17.8,
+        -13.5,
+        -9.5,
+        -7.8,
+        -6.9,
+        -7.1,
+        -7.7,
+        -8.4,
+        -8.7,
+        -9.0,
+        -10.8,
+        -10.8,
+        -11.5,
+        -12.1,
+        -12.1,
+        -13.6,
+        -12.3,
+        -12.2,
+        -11.9,
+        -11.4,
+        -10.8,
+        -10.2,
+        -10.1,
+        -11.0,
+        -13.5,
+        -12.1,
+        -12.0,
+        -11.9,
+        -11.8,
+        -13.9,
+        -12.2,
+        -12.2,
+        -11.9,
+        -12.6,
+        -13.1,
+        -12.3,
+        -12.3,
+        -11.9,
+        -13.8,
+        -12.1,
+        -11.4,
+        -11.3,
+        -11.3,
+        -13.6,
+        -13.0,
+        -13.3,
+        -13.1,
+        -13.5,
+        -13.5,
+        -12.3,
+        -12.0,
+        -11.9,
+        -13.7,
+        -13.2,
+        -12.8,
+        -12.8,
+        -12.1,
+        -13.4,
+        -11.8,
+        -11.4,
+        -11.7,
+        -12.2,
+        -13.1,
+        -12.3,
+        -12.2,
+        -12.1,
+        -13.9,
+        -15.8,
+        -14.8,
+        -13.1,
+        -11.4,
+        -10.0,
+        -10.2,
+        -10.8,
+        -11.4,
+        -11.7,
+        -9.9,
+        -8.2,
+        -7.6,
+        -7.5,
+        -8.0,
+        -9.5,
+        -10.8,
+        -12.7,
+        -15.0,
+        -17.0,
+        -18.9,
+        -20.6,
+        -21.7,
+        -22.1,
+        -22.4,
+        -22.9,
+        -23.2,
+        -20.0,
+        -20.5
+      ]
+    },
+    "max_short_term": {
+      "start": 5.5,
+      "end": 8.5,
+      "lufs": -10.5
+    },
+    "short_term": {
+      "t0": 1.5,
+      "dt": 0.5,
+      "lufs": [
+        -13.8,
+        -14.7,
+        -14.3,
+        -14.5,
+        -14.6,
+        -14.9,
+        -12.7,
+        -11.6,
+        -11.5,
+        -11.1,
+        -10.8,
+        -10.5,
+        -11.3,
+        -11.9,
+        -11.9,
+        -12.1,
+        -12.3,
+        -12.3,
+        -12.4,
+        -12.7,
+        -12.4,
+        -11.2,
+        -11.2,
+        -11.8,
+        -12.3
+      ]
+    },
+    "lra_lu": 4.0,
+    "silences": [],
+    "clipping": {
+      "samples": 0,
+      "runs": 0,
+      "times": []
+    }
+  },
+  "music": {
+    "tempo": 127.8,
+    "tempo_alt": null,
+    "beats": [
+      0.03,
+      0.5,
+      0.97,
+      1.45,
+      1.91,
+      2.38,
+      2.85,
+      3.32,
+      3.79,
+      4.26,
+      4.73,
+      5.2,
+      5.65,
+      6.13,
+      6.6,
+      7.07,
+      7.54,
+      8.01,
+      8.47,
+      8.94,
+      9.41,
+      9.88,
+      10.35,
+      10.82,
+      11.29,
+      11.76,
+      12.23,
+      12.69,
+      13.16,
+      13.6,
+      14.05,
+      14.51,
+      14.98
+    ],
+    "downbeats": [
+      0.03,
+      1.91,
+      3.79,
+      5.65,
+      7.54,
+      9.41,
+      11.29,
+      13.16,
+      14.98
+    ],
+    "pulse_clarity": 0.414,
+    "beat_regularity": 0.017,
+    "confidence": "clear",
+    "note": "beats at 10 ms resolution; downbeats are a guess (4/4 assumed); tempo may be half/double the felt tempo"
+  },
+  "events": [
+    {
+      "t": 0.042,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 60.0,
+      "z": 0.0,
+      "length_ms": 2000,
+      "starts_file": true,
+      "prominence_db": 74.5,
+      "bed_db": -80.0,
+      "peak_dbfs": -2.5,
+      "local_lufs": -10.9,
+      "centroid_hz": 551,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 3.75
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 1.8
+        },
+        {
+          "tag": "an orchestral stab",
+          "kind": "NOTE",
+          "z": 1.47
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": true,
+      "beat_offset_ms": 12.0
+    },
+    {
+      "t": 0.07,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 60.0,
+      "z": 7.1,
+      "length_ms": 2000,
+      "prominence_db": 73.8,
+      "bed_db": -80.0,
+      "peak_dbfs": -2.8,
+      "local_lufs": -10.9,
+      "centroid_hz": 1156,
+      "beat_offset_ms": 40.0
+    },
+    {
+      "t": 0.542,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.3,
+      "z": 3.3,
+      "length_ms": 1,
+      "prominence_db": 0.0,
+      "bed_db": -12.1,
+      "peak_dbfs": -8.0,
+      "local_lufs": -14.2,
+      "centroid_hz": 1797,
+      "tags": [
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.94
+        },
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.9
+        },
+        {
+          "tag": "a cork pop",
+          "kind": "FOLEY",
+          "z": 1.7
+        }
+      ],
+      "kind": "NOTE",
+      "label": "glockenspiel note",
+      "exposed": false,
+      "beat_offset_ms": 42.0
+    },
+    {
+      "t": 1.452,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 25.5,
+      "z": 8.4,
+      "length_ms": 2000,
+      "prominence_db": 0.0,
+      "bed_db": -12.6,
+      "peak_dbfs": -5.8,
+      "local_lufs": -14.5,
+      "centroid_hz": 249,
+      "beat_offset_ms": 2.0
+    },
+    {
+      "t": 1.914,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 21.8,
+      "z": 7.6,
+      "length_ms": 317,
+      "prominence_db": 13.4,
+      "bed_db": -19.3,
+      "peak_dbfs": -2.0,
+      "local_lufs": -12.7,
+      "centroid_hz": 874,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 2.218,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 3.9,
+      "z": 8.2,
+      "length_ms": 3,
+      "prominence_db": 0.0,
+      "bed_db": -13.8,
+      "peak_dbfs": -11.2,
+      "local_lufs": -16.0,
+      "centroid_hz": 147,
+      "beat_offset_ms": -162.0
+    },
+    {
+      "t": 2.386,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 24.3,
+      "z": 19.5,
+      "length_ms": 427,
+      "prominence_db": 12.1,
+      "bed_db": -19.4,
+      "peak_dbfs": -4.8,
+      "local_lufs": -14.6,
+      "centroid_hz": 93,
+      "beat_offset_ms": 6.0
+    },
+    {
+      "t": 2.617,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 25.8,
+      "z": 14.9,
+      "length_ms": 151,
+      "prominence_db": 0.0,
+      "bed_db": -14.3,
+      "peak_dbfs": -8.5,
+      "local_lufs": -15.6,
+      "centroid_hz": 332,
+      "beat_offset_ms": -233.0
+    },
+    {
+      "t": 2.855,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 35.9,
+      "z": 38.9,
+      "length_ms": 360,
+      "prominence_db": 11.7,
+      "bed_db": -18.7,
+      "peak_dbfs": -4.8,
+      "local_lufs": -14.5,
+      "centroid_hz": 85,
+      "tags": [
+        {
+          "tag": "a kick drum",
+          "kind": "DRUM",
+          "z": 3.16
+        },
+        {
+          "tag": "a heavy thud",
+          "kind": "HIT",
+          "z": 1.58
+        },
+        {
+          "tag": "a hi-hat",
+          "kind": "DRUM",
+          "z": 1.51
+        }
+      ],
+      "kind": "DRUM",
+      "label": "kick drum",
+      "exposed": false,
+      "beat_offset_ms": 5.0
+    },
+    {
+      "t": 2.97,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 23.2,
+      "z": 11.8,
+      "length_ms": 49,
+      "prominence_db": 4.7,
+      "bed_db": -18.3,
+      "peak_dbfs": -9.1,
+      "local_lufs": -14.5,
+      "centroid_hz": 57,
+      "beat_offset_ms": 120.0
+    },
+    {
+      "t": 3.087,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 30.2,
+      "z": 17.7,
+      "length_ms": 85,
+      "prominence_db": 0.0,
+      "bed_db": -14.7,
+      "peak_dbfs": -11.8,
+      "local_lufs": -16.2,
+      "centroid_hz": 107,
+      "beat_offset_ms": -233.0
+    },
+    {
+      "t": 3.204,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 22.6,
+      "z": 13.6,
+      "length_ms": 87,
+      "prominence_db": 0.0,
+      "bed_db": -16.6,
+      "peak_dbfs": -14.7,
+      "local_lufs": -15.4,
+      "centroid_hz": 124,
+      "beat_offset_ms": -116.0
+    },
+    {
+      "t": 3.324,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 37.6,
+      "z": 36.6,
+      "length_ms": 409,
+      "prominence_db": 13.6,
+      "bed_db": -20.7,
+      "peak_dbfs": -5.1,
+      "local_lufs": -14.7,
+      "centroid_hz": 86,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 3.439,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 23.8,
+      "z": 12.7,
+      "length_ms": 2000,
+      "prominence_db": 6.8,
+      "bed_db": -20.4,
+      "peak_dbfs": -7.5,
+      "local_lufs": -14.1,
+      "centroid_hz": 55,
+      "beat_offset_ms": 119.0
+    },
+    {
+      "t": 3.532,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 30.2,
+      "z": 6.3,
+      "length_ms": 207,
+      "prominence_db": 1.7,
+      "bed_db": -14.7,
+      "peak_dbfs": -7.5,
+      "local_lufs": -14.3,
+      "centroid_hz": 3191,
+      "beat_offset_ms": 212.0
+    },
+    {
+      "t": 3.63,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 35.6,
+      "prominence_db": 35.6,
+      "bed_db": -58.4,
+      "z": 0.0,
+      "rise_ms": 600,
+      "length_ms": 80,
+      "peak_dbfs": -7.5,
+      "local_lufs": -15.0,
+      "centroid_hz": 2877,
+      "beat_offset_ms": -160.0
+    },
+    {
+      "t": 3.792,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 18.6,
+      "z": 20.4,
+      "length_ms": 329,
+      "prominence_db": 9.9,
+      "bed_db": -16.7,
+      "peak_dbfs": -3.3,
+      "local_lufs": -13.6,
+      "centroid_hz": 110,
+      "beat_offset_ms": 2.0
+    },
+    {
+      "t": 3.909,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 19.1,
+      "z": 12.5,
+      "length_ms": 65,
+      "prominence_db": 2.5,
+      "bed_db": -14.2,
+      "peak_dbfs": -7.4,
+      "local_lufs": -13.7,
+      "centroid_hz": 236,
+      "beat_offset_ms": 119.0
+    },
+    {
+      "t": 4.027,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 18.3,
+      "z": 19.7,
+      "length_ms": 82,
+      "prominence_db": 0.8,
+      "bed_db": -13.4,
+      "peak_dbfs": -6.1,
+      "local_lufs": -15.0,
+      "centroid_hz": 919,
+      "beat_offset_ms": -233.0
+    },
+    {
+      "t": 4.144,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.5,
+      "z": 12.4,
+      "length_ms": 11,
+      "prominence_db": 0.0,
+      "bed_db": -14.1,
+      "peak_dbfs": -13.9,
+      "local_lufs": -14.3,
+      "centroid_hz": 750,
+      "beat_offset_ms": -116.0
+    },
+    {
+      "t": 4.261,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 26.5,
+      "z": 32.8,
+      "length_ms": 431,
+      "prominence_db": 10.9,
+      "bed_db": -17.3,
+      "peak_dbfs": -3.9,
+      "local_lufs": -14.0,
+      "centroid_hz": 166,
+      "beat_offset_ms": 1.0
+    },
+    {
+      "t": 4.383,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.6,
+      "z": 6.2,
+      "length_ms": 1,
+      "prominence_db": 5.3,
+      "bed_db": -18.5,
+      "peak_dbfs": -8.1,
+      "local_lufs": -13.9,
+      "centroid_hz": 227,
+      "tags": [
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 2.01
+        },
+        {
+          "tag": "a chat message pop",
+          "kind": "UI",
+          "z": 1.9
+        },
+        {
+          "tag": "a plucked string note",
+          "kind": "NOTE",
+          "z": 1.23
+        }
+      ],
+      "kind": "UI",
+      "label": "notification ding",
+      "exposed": false,
+      "beat_offset_ms": 123.0
+    },
+    {
+      "t": 4.496,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 11.7,
+      "z": 15.8,
+      "length_ms": 18,
+      "prominence_db": 0.0,
+      "bed_db": -13.7,
+      "peak_dbfs": -10.3,
+      "local_lufs": -15.1,
+      "centroid_hz": 653,
+      "beat_offset_ms": -234.0
+    },
+    {
+      "t": 4.611,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 16.3,
+      "z": 15.2,
+      "length_ms": 48,
+      "prominence_db": 0.2,
+      "bed_db": -15.1,
+      "peak_dbfs": -9.3,
+      "local_lufs": -14.5,
+      "centroid_hz": 1308,
+      "beat_offset_ms": -119.0
+    },
+    {
+      "t": 4.73,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 24.7,
+      "z": 35.5,
+      "length_ms": 341,
+      "prominence_db": 10.2,
+      "bed_db": -17.0,
+      "peak_dbfs": -3.6,
+      "local_lufs": -14.1,
+      "centroid_hz": 123,
+      "beat_offset_ms": 0.0
+    },
+    {
+      "t": 4.78,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 17.0,
+      "z": 8.1,
+      "length_ms": 321,
+      "prominence_db": 8.1,
+      "bed_db": -17.1,
+      "peak_dbfs": -5.4,
+      "local_lufs": -14.1,
+      "centroid_hz": 162,
+      "beat_offset_ms": 50.0
+    },
+    {
+      "t": 4.879,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 13.7,
+      "z": 9.2,
+      "length_ms": 560,
+      "prominence_db": 1.2,
+      "bed_db": -15.6,
+      "peak_dbfs": -8.6,
+      "local_lufs": -14.1,
+      "centroid_hz": 161,
+      "beat_offset_ms": 149.0
+    },
+    {
+      "t": 4.964,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 10.0,
+      "z": 3.3,
+      "length_ms": 473,
+      "prominence_db": 0.0,
+      "bed_db": -14.1,
+      "peak_dbfs": -9.4,
+      "local_lufs": -15.4,
+      "centroid_hz": 274,
+      "beat_offset_ms": 234.0
+    },
+    {
+      "t": 5.38,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 33.8,
+      "prominence_db": 33.8,
+      "bed_db": -55.3,
+      "z": 0.0,
+      "rise_ms": 1990,
+      "length_ms": 40,
+      "peak_dbfs": -7.5,
+      "local_lufs": -17.6,
+      "centroid_hz": 6756,
+      "tags": [
+        {
+          "tag": "a bubble pop",
+          "kind": "FOLEY",
+          "z": 2.63
+        },
+        {
+          "tag": "an uplifter sweep",
+          "kind": "RISER",
+          "z": 1.97
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.88
+        }
+      ],
+      "kind": "FOLEY",
+      "label": "bubble pop",
+      "exposed": true,
+      "beat_offset_ms": 180.0
+    },
+    {
+      "t": 5.667,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 60.0,
+      "z": 84.5,
+      "length_ms": 2000,
+      "prominence_db": 78.3,
+      "bed_db": -80.0,
+      "peak_dbfs": -1.0,
+      "local_lufs": -8.3,
+      "centroid_hz": 1246,
+      "tags": [
+        {
+          "tag": "an uplifter sweep",
+          "kind": "RISER",
+          "z": 2.66
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.98
+        },
+        {
+          "tag": "a sub bass drop",
+          "kind": "HIT",
+          "z": 1.96
+        }
+      ],
+      "kind": "RISER",
+      "label": "uplifter sweep",
+      "exposed": true,
+      "beat_offset_ms": 17.0
+    },
+    {
+      "t": 5.79,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 66.8,
+      "prominence_db": 66.8,
+      "bed_db": -80.0,
+      "z": 0.0,
+      "rise_ms": 290,
+      "length_ms": 480,
+      "peak_dbfs": -1.4,
+      "local_lufs": -7.0,
+      "centroid_hz": 1573,
+      "beat_offset_ms": 140.0
+    },
+    {
+      "t": 6.607,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 13.1,
+      "z": 7.1,
+      "length_ms": 266,
+      "prominence_db": 8.0,
+      "bed_db": -12.8,
+      "peak_dbfs": -3.0,
+      "local_lufs": -11.5,
+      "centroid_hz": 104,
+      "beat_offset_ms": 7.0
+    },
+    {
+      "t": 6.722,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.4,
+      "z": 3.6,
+      "length_ms": 2,
+      "prominence_db": 2.5,
+      "bed_db": -12.5,
+      "peak_dbfs": -6.2,
+      "local_lufs": -12.1,
+      "centroid_hz": 152,
+      "beat_offset_ms": 122.0
+    },
+    {
+      "t": 6.839,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 11.1,
+      "z": 7.4,
+      "length_ms": 132,
+      "prominence_db": 0.5,
+      "bed_db": -11.7,
+      "peak_dbfs": -5.9,
+      "local_lufs": -13.5,
+      "centroid_hz": 1223,
+      "beat_offset_ms": -231.0
+    },
+    {
+      "t": 6.963,
+      "shape": "hit",
+      "band": "full",
+      "contrast_db": 3.3,
+      "z": 3.3,
+      "length_ms": 1,
+      "prominence_db": 0.0,
+      "bed_db": -13.4,
+      "peak_dbfs": -7.8,
+      "local_lufs": -12.5,
+      "centroid_hz": 617,
+      "beat_offset_ms": -107.0
+    },
+    {
+      "t": 7.092,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 17.4,
+      "z": 18.5,
+      "length_ms": 66,
+      "prominence_db": 10.1,
+      "bed_db": -15.9,
+      "peak_dbfs": -3.5,
+      "local_lufs": -12.2,
+      "centroid_hz": 128,
+      "beat_offset_ms": 22.0
+    },
+    {
+      "t": 7.192,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 6.6,
+      "z": 5.0,
+      "length_ms": 2,
+      "prominence_db": 4.0,
+      "bed_db": -15.0,
+      "peak_dbfs": -6.3,
+      "local_lufs": -11.9,
+      "centroid_hz": 66,
+      "beat_offset_ms": 122.0
+    },
+    {
+      "t": 7.305,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 17.6,
+      "z": 5.9,
+      "length_ms": 1079,
+      "prominence_db": 0.7,
+      "bed_db": -12.1,
+      "peak_dbfs": -2.1,
+      "local_lufs": -11.4,
+      "centroid_hz": 2221,
+      "beat_offset_ms": 235.0
+    },
+    {
+      "t": 7.545,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 18.5,
+      "z": 6.9,
+      "length_ms": 376,
+      "prominence_db": 8.3,
+      "bed_db": -12.6,
+      "peak_dbfs": -2.1,
+      "local_lufs": -10.1,
+      "centroid_hz": 107,
+      "beat_offset_ms": 5.0
+    },
+    {
+      "t": 7.789,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.1,
+      "z": 3.3,
+      "length_ms": 23,
+      "prominence_db": 0.0,
+      "bed_db": -10.8,
+      "peak_dbfs": -7.9,
+      "local_lufs": -13.2,
+      "centroid_hz": 3038,
+      "beat_offset_ms": -221.0
+    },
+    {
+      "t": 8.014,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 17.3,
+      "z": 7.8,
+      "length_ms": 351,
+      "prominence_db": 10.7,
+      "bed_db": -15.5,
+      "peak_dbfs": -1.8,
+      "local_lufs": -12.0,
+      "centroid_hz": 119,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 8.244,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.8,
+      "z": 5.9,
+      "length_ms": 124,
+      "prominence_db": 1.0,
+      "bed_db": -11.7,
+      "peak_dbfs": -6.1,
+      "local_lufs": -13.3,
+      "centroid_hz": 508,
+      "beat_offset_ms": -226.0
+    },
+    {
+      "t": 8.479,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 21.1,
+      "z": 17.9,
+      "length_ms": 387,
+      "prominence_db": 11.0,
+      "bed_db": -15.9,
+      "peak_dbfs": -2.8,
+      "local_lufs": -12.1,
+      "centroid_hz": 114,
+      "beat_offset_ms": 9.0
+    },
+    {
+      "t": 8.575,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 11.3,
+      "z": 4.7,
+      "length_ms": 35,
+      "prominence_db": 6.6,
+      "bed_db": -15.3,
+      "peak_dbfs": -4.9,
+      "local_lufs": -12.0,
+      "centroid_hz": 110,
+      "beat_offset_ms": 105.0
+    },
+    {
+      "t": 8.714,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 16.5,
+      "z": 14.8,
+      "length_ms": 156,
+      "prominence_db": 0.0,
+      "bed_db": -12.2,
+      "peak_dbfs": -7.0,
+      "local_lufs": -13.1,
+      "centroid_hz": 445,
+      "beat_offset_ms": -226.0
+    },
+    {
+      "t": 8.949,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 19.5,
+      "z": 23.6,
+      "length_ms": 873,
+      "prominence_db": 10.3,
+      "bed_db": -15.0,
+      "peak_dbfs": -1.9,
+      "local_lufs": -12.2,
+      "centroid_hz": 152,
+      "beat_offset_ms": 9.0
+    },
+    {
+      "t": 9.069,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 3.9,
+      "z": 4.2,
+      "length_ms": 5,
+      "prominence_db": 3.9,
+      "bed_db": -14.9,
+      "peak_dbfs": -6.3,
+      "local_lufs": -12.0,
+      "centroid_hz": 63,
+      "beat_offset_ms": 129.0
+    },
+    {
+      "t": 9.182,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 15.7,
+      "z": 6.9,
+      "length_ms": 859,
+      "prominence_db": 0.0,
+      "bed_db": -12.0,
+      "peak_dbfs": -0.8,
+      "local_lufs": -13.1,
+      "centroid_hz": 1976,
+      "beat_offset_ms": -228.0
+    },
+    {
+      "t": 9.415,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 17.8,
+      "z": 12.9,
+      "length_ms": 315,
+      "prominence_db": 10.4,
+      "bed_db": -14.6,
+      "peak_dbfs": -0.8,
+      "local_lufs": -11.4,
+      "centroid_hz": 967,
+      "beat_offset_ms": 5.0
+    },
+    {
+      "t": 9.653,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.1,
+      "z": 5.6,
+      "length_ms": 4,
+      "prominence_db": 0.0,
+      "bed_db": -11.1,
+      "peak_dbfs": -6.8,
+      "local_lufs": -12.9,
+      "centroid_hz": 1768,
+      "beat_offset_ms": -227.0
+    },
+    {
+      "t": 9.886,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 16.9,
+      "z": 15.9,
+      "length_ms": 839,
+      "prominence_db": 11.6,
+      "bed_db": -16.8,
+      "peak_dbfs": -2.8,
+      "local_lufs": -13.3,
+      "centroid_hz": 124,
+      "tags": [
+        {
+          "tag": "an uplifter sweep",
+          "kind": "RISER",
+          "z": 3.52
+        },
+        {
+          "tag": "a kick drum",
+          "kind": "DRUM",
+          "z": 1.63
+        },
+        {
+          "tag": "a hi-hat",
+          "kind": "DRUM",
+          "z": 1.41
+        }
+      ],
+      "kind": "RISER",
+      "label": "uplifter sweep",
+      "exposed": false,
+      "beat_offset_ms": 6.0
+    },
+    {
+      "t": 10.004,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 3.6,
+      "z": 3.1,
+      "length_ms": 2,
+      "prominence_db": 5.0,
+      "bed_db": -16.9,
+      "peak_dbfs": -7.9,
+      "local_lufs": -13.1,
+      "centroid_hz": 63,
+      "beat_offset_ms": 124.0
+    },
+    {
+      "t": 10.12,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 14.2,
+      "z": 7.4,
+      "length_ms": 1922,
+      "prominence_db": 0.4,
+      "bed_db": -13.4,
+      "peak_dbfs": -3.3,
+      "local_lufs": -14.0,
+      "centroid_hz": 1553,
+      "beat_offset_ms": -230.0
+    },
+    {
+      "t": 10.357,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 18.1,
+      "z": 7.1,
+      "length_ms": 399,
+      "prominence_db": 9.1,
+      "bed_db": -15.2,
+      "peak_dbfs": -3.3,
+      "local_lufs": -12.1,
+      "centroid_hz": 296,
+      "beat_offset_ms": 7.0
+    },
+    {
+      "t": 10.612,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.9,
+      "z": 4.1,
+      "length_ms": 2,
+      "prominence_db": 0.0,
+      "bed_db": -11.6,
+      "peak_dbfs": -7.6,
+      "local_lufs": -13.7,
+      "centroid_hz": 1225,
+      "beat_offset_ms": -208.0
+    },
+    {
+      "t": 10.824,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 18.4,
+      "z": 25.5,
+      "length_ms": 437,
+      "prominence_db": 10.2,
+      "bed_db": -15.9,
+      "peak_dbfs": -2.7,
+      "local_lufs": -12.8,
+      "centroid_hz": 153,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 10.93,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 5.8,
+      "z": 4.5,
+      "length_ms": 27,
+      "prominence_db": 5.9,
+      "bed_db": -16.3,
+      "peak_dbfs": -5.3,
+      "local_lufs": -12.6,
+      "centroid_hz": 347,
+      "beat_offset_ms": 110.0
+    },
+    {
+      "t": 11.059,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.3,
+      "z": 11.1,
+      "length_ms": 203,
+      "prominence_db": 2.9,
+      "bed_db": -12.4,
+      "peak_dbfs": -6.2,
+      "local_lufs": -12.8,
+      "centroid_hz": 4059,
+      "beat_offset_ms": -231.0
+    },
+    {
+      "t": 11.294,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 20.6,
+      "z": 29.6,
+      "length_ms": 438,
+      "prominence_db": 10.4,
+      "bed_db": -14.3,
+      "peak_dbfs": -1.2,
+      "local_lufs": -11.4,
+      "centroid_hz": 187,
+      "tags": [
+        {
+          "tag": "a kick drum",
+          "kind": "DRUM",
+          "z": 2.95
+        },
+        {
+          "tag": "a snare drum hit",
+          "kind": "DRUM",
+          "z": 2.31
+        },
+        {
+          "tag": "a drum hit",
+          "kind": "DRUM",
+          "z": 1.93
+        }
+      ],
+      "kind": "DRUM",
+      "label": "kick drum",
+      "exposed": false,
+      "beat_offset_ms": 4.0
+    },
+    {
+      "t": 11.532,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 4.4,
+      "z": 3.6,
+      "length_ms": 1,
+      "prominence_db": 0.0,
+      "bed_db": -11.8,
+      "peak_dbfs": -9.1,
+      "local_lufs": -13.4,
+      "centroid_hz": 433,
+      "tags": [
+        {
+          "tag": "a kick drum",
+          "kind": "DRUM",
+          "z": 3.11
+        },
+        {
+          "tag": "a snare drum hit",
+          "kind": "DRUM",
+          "z": 1.98
+        },
+        {
+          "tag": "a drum hit",
+          "kind": "DRUM",
+          "z": 1.92
+        }
+      ],
+      "kind": "DRUM",
+      "label": "kick drum",
+      "exposed": false,
+      "beat_offset_ms": -228.0
+    },
+    {
+      "t": 11.761,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 16.4,
+      "z": 10.0,
+      "length_ms": 292,
+      "prominence_db": 11.1,
+      "bed_db": -15.8,
+      "peak_dbfs": -2.2,
+      "local_lufs": -12.2,
+      "centroid_hz": 120,
+      "beat_offset_ms": 1.0
+    },
+    {
+      "t": 11.879,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 3.7,
+      "z": 3.5,
+      "length_ms": 1,
+      "prominence_db": 5.5,
+      "bed_db": -16.2,
+      "peak_dbfs": -6.1,
+      "local_lufs": -12.1,
+      "centroid_hz": 72,
+      "beat_offset_ms": 119.0
+    },
+    {
+      "t": 12.0,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 6.4,
+      "z": 4.2,
+      "length_ms": 27,
+      "prominence_db": 0.0,
+      "bed_db": -11.8,
+      "peak_dbfs": -9.0,
+      "local_lufs": -13.9,
+      "centroid_hz": 150,
+      "beat_offset_ms": -230.0
+    },
+    {
+      "t": 12.114,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 9.0,
+      "z": 8.4,
+      "length_ms": 2000,
+      "prominence_db": 0.0,
+      "bed_db": -14.0,
+      "peak_dbfs": -4.6,
+      "local_lufs": -15.6,
+      "centroid_hz": 1800,
+      "beat_offset_ms": -116.0
+    },
+    {
+      "t": 12.232,
+      "shape": "hit",
+      "band": "high",
+      "contrast_db": 19.5,
+      "z": 7.9,
+      "length_ms": 2000,
+      "prominence_db": 7.1,
+      "bed_db": -17.5,
+      "peak_dbfs": -2.2,
+      "local_lufs": -14.8,
+      "centroid_hz": 1624,
+      "tags": [
+        {
+          "tag": "an uplifter sweep",
+          "kind": "RISER",
+          "z": 2.04
+        },
+        {
+          "tag": "a bubble pop",
+          "kind": "FOLEY",
+          "z": 1.92
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.88
+        }
+      ],
+      "kind": "RISER",
+      "label": "uplifter sweep",
+      "exposed": false,
+      "beat_offset_ms": 2.0
+    },
+    {
+      "t": 12.65,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 20.4,
+      "prominence_db": 20.4,
+      "bed_db": -42.5,
+      "z": 0.0,
+      "rise_ms": 590,
+      "length_ms": 1000,
+      "peak_dbfs": -2.3,
+      "local_lufs": -10.2,
+      "centroid_hz": 424,
+      "beat_offset_ms": -40.0
+    },
+    {
+      "t": 13.0,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 26.0,
+      "prominence_db": 26.0,
+      "bed_db": -42.5,
+      "z": 0.0,
+      "rise_ms": 940,
+      "length_ms": 900,
+      "peak_dbfs": -1.6,
+      "local_lufs": -9.9,
+      "centroid_hz": 2488,
+      "beat_offset_ms": -160.0
+    },
+    {
+      "t": 13.169,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 19.6,
+      "z": 4.8,
+      "length_ms": 765,
+      "prominence_db": 6.2,
+      "bed_db": -10.1,
+      "peak_dbfs": -1.6,
+      "local_lufs": -7.7,
+      "centroid_hz": 1034,
+      "tags": [
+        {
+          "tag": "a snare drum hit",
+          "kind": "DRUM",
+          "z": 2.4
+        },
+        {
+          "tag": "a bubble pop",
+          "kind": "FOLEY",
+          "z": 2.2
+        },
+        {
+          "tag": "a drum hit",
+          "kind": "DRUM",
+          "z": 1.75
+        }
+      ],
+      "kind": "DRUM",
+      "label": "snare drum hit",
+      "exposed": false,
+      "beat_offset_ms": 9.0
+    },
+    {
+      "t": 13.28,
+      "shape": "swell",
+      "band": "high",
+      "contrast_db": 28.4,
+      "prominence_db": 28.4,
+      "bed_db": -42.5,
+      "z": 0.0,
+      "rise_ms": 1220,
+      "length_ms": 510,
+      "peak_dbfs": -2.4,
+      "local_lufs": -7.5,
+      "centroid_hz": 4029,
+      "beat_offset_ms": 120.0
+    },
+    {
+      "t": 14.829,
+      "shape": "hit",
+      "band": "low",
+      "contrast_db": 18.2,
+      "z": 4.2,
+      "length_ms": 66,
+      "prominence_db": 10.0,
+      "bed_db": -23.6,
+      "peak_dbfs": -8.3,
+      "local_lufs": -20.6,
+      "centroid_hz": 1170,
+      "tags": [
+        {
+          "tag": "a celesta note",
+          "kind": "NOTE",
+          "z": 2.12
+        },
+        {
+          "tag": "a glockenspiel note",
+          "kind": "NOTE",
+          "z": 1.79
+        },
+        {
+          "tag": "a notification ding",
+          "kind": "UI",
+          "z": 1.58
+        }
+      ],
+      "kind": "NOTE",
+      "label": "celesta note",
+      "exposed": false,
+      "beat_offset_ms": -151.0
+    }
+  ],
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "windows": 1,
+      "coherence": 1.0,
+      "music_genre": [
+        {
+          "tag": "upbeat corporate pop music",
+          "cat": "music_genre",
+          "z": 2.75,
+          "cos": 0.29
+        },
+        {
+          "tag": "inspirational corporate background music",
+          "cat": "music_genre",
+          "z": 2.66,
+          "cos": 0.28
+        }
+      ],
+      "music_mood": [
+        {
+          "tag": "uplifting and hopeful music",
+          "cat": "music_mood",
+          "z": 2.08,
+          "cos": 0.219
+        },
+        {
+          "tag": "futuristic music",
+          "cat": "music_mood",
+          "z": 2.04,
+          "cos": 0.214
+        }
+      ],
+      "instruments": [
+        {
+          "tag": "a glockenspiel",
+          "cat": "instruments",
+          "z": 2.35,
+          "cos": 0.247
+        },
+        {
+          "tag": "a music box",
+          "cat": "instruments",
+          "z": 1.77,
+          "cos": 0.186
+        }
+      ],
+      "ambience": [
+        {
+          "tag": "heavy rain",
+          "cat": "ambience",
+          "z": 0.25,
+          "cos": 0.026
+        },
+        {
+          "tag": "rain on a window",
+          "cat": "ambience",
+          "z": 0.12,
+          "cos": 0.013
+        }
+      ],
+      "voice": [
+        {
+          "tag": "a voice-over narration",
+          "cat": "voice",
+          "z": -0.76,
+          "cos": -0.08
+        },
+        {
+          "tag": "singing vocals",
+          "cat": "voice",
+          "z": -0.86,
+          "cos": -0.091
+        }
+      ],
+      "lufs": -14.5,
+      "digital_silence": false,
+      "label": "upbeat corporate pop music, glockenspiel"
+    },
+    {
+      "start": 5.7,
+      "end": 15.06,
+      "windows": 3,
+      "coherence": 0.944,
+      "music_genre": [
+        {
+          "tag": "dubstep music",
+          "cat": "music_genre",
+          "z": 3.29,
+          "cos": 0.329
+        },
+        {
+          "tag": "glitch hop music",
+          "cat": "music_genre",
+          "z": 3.04,
+          "cos": 0.303
+        }
+      ],
+      "music_mood": [
+        {
+          "tag": "futuristic music",
+          "cat": "music_mood",
+          "z": 2.67,
+          "cos": 0.263
+        },
+        {
+          "tag": "confident and cool music",
+          "cat": "music_mood",
+          "z": 2.27,
+          "cos": 0.22
+        }
+      ],
+      "instruments": [
+        {
+          "tag": "a synthesizer lead",
+          "cat": "instruments",
+          "z": 1.66,
+          "cos": 0.155
+        },
+        {
+          "tag": "orchestral percussion",
+          "cat": "instruments",
+          "z": 1.45,
+          "cos": 0.133
+        }
+      ],
+      "ambience": [
+        {
+          "tag": "heavy rain",
+          "cat": "ambience",
+          "z": 1.06,
+          "cos": 0.091
+        },
+        {
+          "tag": "ocean waves",
+          "cat": "ambience",
+          "z": 0.68,
+          "cos": 0.051
+        }
+      ],
+      "voice": [
+        {
+          "tag": "a voice-over narration",
+          "cat": "voice",
+          "z": -0.93,
+          "cos": -0.122
+        },
+        {
+          "tag": "a person breathing",
+          "cat": "voice",
+          "z": -1.03,
+          "cos": -0.132
+        }
+      ],
+      "lufs": -11.6,
+      "digital_silence": false,
+      "label": "dubstep music, synthesizer lead, futuristic"
+    }
+  ],
+  "sync": {
+    "cuts": {
+      "items": [
+        {
+          "t": 0.117,
+          "offset_ms": -47.0,
+          "status": "near",
+          "event_t": 0.07,
+          "event_prominence_db": 73.8,
+          "accent_offset_ms": -47.0,
+          "beat_offset_ms": 87.0
+        },
+        {
+          "t": 0.6,
+          "offset_ms": -58.0,
+          "status": "near",
+          "event_t": 0.542,
+          "event_prominence_db": 0.0,
+          "event": "glockenspiel note",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 100.0
+        },
+        {
+          "t": 1.25,
+          "offset_ms": 0.0,
+          "status": "peak",
+          "event_t": 1.25,
+          "event_prominence_db": 14.5,
+          "accent_offset_ms": null,
+          "beat_offset_ms": -200.0
+        },
+        {
+          "t": 2.817,
+          "offset_ms": 38.0,
+          "status": "near",
+          "event_t": 2.855,
+          "event_prominence_db": 11.7,
+          "event": "kick drum",
+          "accent_offset_ms": 38.0,
+          "beat_offset_ms": -33.0
+        },
+        {
+          "t": 4.45,
+          "offset_ms": -67.0,
+          "status": "near",
+          "event_t": 4.383,
+          "event_prominence_db": 5.3,
+          "event": "notification ding",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 190.0
+        },
+        {
+          "t": 4.617,
+          "offset_ms": -6.0,
+          "status": "OK",
+          "event_t": 4.611,
+          "event_prominence_db": 0.2,
+          "accent_offset_ms": null,
+          "beat_offset_ms": -113.0
+        },
+        {
+          "t": 5.333,
+          "offset_ms": 47.0,
+          "status": "near",
+          "event_t": 5.38,
+          "event_prominence_db": 33.8,
+          "event": "bubble pop",
+          "accent_offset_ms": 47.0,
+          "beat_offset_ms": 133.0
+        },
+        {
+          "t": 5.65,
+          "offset_ms": 17.0,
+          "status": "near",
+          "event_t": 5.667,
+          "event_prominence_db": 78.3,
+          "event": "uplifter sweep",
+          "accent_offset_ms": 17.0,
+          "beat_offset_ms": 0.0
+        },
+        {
+          "t": 9.833,
+          "offset_ms": 53.0,
+          "status": "near",
+          "event_t": 9.886,
+          "event_prominence_db": 11.6,
+          "event": "uplifter sweep",
+          "accent_offset_ms": 53.0,
+          "beat_offset_ms": -47.0
+        },
+        {
+          "t": 11.25,
+          "offset_ms": 44.0,
+          "status": "near",
+          "event_t": 11.294,
+          "event_prominence_db": 10.4,
+          "event": "kick drum",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -40.0
+        },
+        {
+          "t": 11.5,
+          "offset_ms": 32.0,
+          "status": "near",
+          "event_t": 11.532,
+          "event_prominence_db": 0.0,
+          "event": "kick drum",
+          "accent_offset_ms": null,
+          "beat_offset_ms": 210.0
+        },
+        {
+          "t": 12.2,
+          "offset_ms": 32.0,
+          "status": "near",
+          "event_t": 12.232,
+          "event_prominence_db": 7.1,
+          "event": "uplifter sweep",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -30.0
+        },
+        {
+          "t": 12.433,
+          "offset_ms": 217.0,
+          "status": "swell",
+          "event_t": 12.65,
+          "event_prominence_db": 20.4,
+          "accent_offset_ms": null,
+          "beat_offset_ms": 203.0
+        },
+        {
+          "t": 12.783,
+          "offset_ms": -133.0,
+          "status": "swell",
+          "event_t": 12.65,
+          "event_prominence_db": 20.4,
+          "accent_offset_ms": null,
+          "beat_offset_ms": 93.0
+        },
+        {
+          "t": 13.133,
+          "offset_ms": 36.0,
+          "status": "near",
+          "event_t": 13.169,
+          "event_prominence_db": 6.2,
+          "event": "snare drum hit",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -27.0
+        },
+        {
+          "t": 14.85,
+          "offset_ms": -21.0,
+          "status": "near",
+          "event_t": 14.829,
+          "event_prominence_db": 10.0,
+          "event": "celesta note",
+          "accent_offset_ms": null,
+          "beat_offset_ms": -130.0
+        }
+      ],
+      "stats": {
+        "n": 16,
+        "hit_within_1_frame": 0.062,
+        "hit_within_100ms": 0.812,
+        "median_abs_offset_ms": 41.0,
+        "answered_by_swell": 2,
+        "answered_by_level_peak": 1,
+        "no_sound": [],
+        "frame_ms": 16.7,
+        "chance_within_1_frame": 0.134,
+        "chance_within_100ms": 0.622,
+        "accent_min_db": 11.2,
+        "accent_within_1_frame": 0.0,
+        "accent_chance_within_1_frame": 0.026,
+        "accent_within_100ms": 0.312,
+        "accent_chance_within_100ms": 0.153,
+        "on_beat": 0.375,
+        "on_beat_chance": 0.213
+      }
+    }
+  },
+  "cuts": [
+    0.117,
+    0.6,
+    1.25,
+    2.817,
+    4.45,
+    4.617,
+    5.333,
+    5.65,
+    9.833,
+    11.25,
+    11.5,
+    12.2,
+    12.433,
+    12.783,
+    13.133,
+    14.85
+  ],
+  "cut_method": "frame difference (earshot.video.cuts)",
+  "fps": 60.0,
+  "model_calls": {
+    "clap_event_windows": 12,
+    "ast_event_windows": 0,
+    "clap_section_windows": 4,
+    "ast_section_windows": 0
+  },
+  "timing_s": {
+    "decode_s": 0.16,
+    "loudness_s": 0.36,
+    "events_s": 0.32,
+    "beats_s": 0.26,
+    "cuts_s": 0.87,
+    "tag_events_s": 5.97,
+    "sections_s": 2.2,
+    "total_s": 10.13
+  },
+  "detail": "low",
+  "summary": "video.2e2454eb.mp4: 0:00.00-0:15.06 (15.1 s). Loudness -12.4 LUFS integrated, true peak -0.6 dBTP, LRA 4.0 LU; loudest 0:05.50-0:08.50 (-10.5 LUFS short-term). True peak -0.6 dBTP on decoded lossy audio (codec overshoot included: fine for a delivered file; a master should be <= -1 dBTP before encoding). Beat grid: ~128 BPM (clear pulse, clarity 0.41, 33 beats). 2 section(s): 0:00.00-0:05.70 upbeat corporate pop music, glockenspiel; 0:05.70-0:15.06 dubstep music, synthesizer lead, futuristic. 70 events (4.6/s); 12 tagged (4 drum, 3 note, 3 riser, 1 ui, 1 foley; tags are hints). Strongest accents over a running bed: 0:03.63 +36 dB, 0:05.38 +34 dB (bubble pop), 0:13.28 +28 dB. Sync to 16 cuts: 6% have an onset within 1 frame (chance 13%), 81% within 100 ms, median |offset| 41 ms; 0% land on a strong accent (>= 11 dB over the bed) within 1 frame (chance 3%); 38% on the beat grid (chance 21%); 2 met by a whoosh / riser peak; 1 only by a level peak (soft whoosh / swell?).",
+  "text": "video.2e2454eb.mp4: 0:00.00-0:15.06 (15.1 s). Loudness -12.4 LUFS integrated, true peak -0.6 dBTP, LRA 4.0 LU; loudest 0:05.50-0:08.50 (-10.5 LUFS short-term). True peak -0.6 dBTP on decoded lossy audio (codec overshoot included: fine for a delivered file; a master should be <= -1 dBTP before encoding). Beat grid: ~128 BPM (clear pulse, clarity 0.41, 33 beats). 2 section(s): 0:00.00-0:05.70 upbeat corporate pop music, glockenspiel; 0:05.70-0:15.06 dubstep music, synthesizer lead, futuristic. 70 events (4.6/s); 12 tagged (4 drum, 3 note, 3 riser, 1 ui, 1 foley; tags are hints). Strongest accents over a running bed: 0:03.63 +36 dB, 0:05.38 +34 dB (bubble pop), 0:13.28 +28 dB. Sync to 16 cuts: 6% have an onset within 1 frame (chance 13%), 81% within 100 ms, median |offset| 41 ms; 0% land on a strong accent (>= 11 dB over the bed) within 1 frame (chance 3%); 38% on the beat grid (chance 21%); 2 met by a whoosh / riser peak; 1 only by a level peak (soft whoosh / swell?).\n\nSECTIONS\n  0:00.00-0:05.70  upbeat corporate pop music, glockenspiel  -14 LUFS\n  0:05.70-0:15.06  dubstep music, synthesizer lead, futuristic  -12 LUFS\n\nTRANSCRIPT   time  kind   what (CLAP tag / runner-up)                     peak  over bed  length  centroid  | sync\n== 0:00.00-0:05.70  upbeat corporate pop music, glockenspiel  (+21 untagged onsets, 3.7/s)\n 0:00.04  NOTE   glockenspiel note / notification ding            -2.5 dBFS   silent  2000 ms   551 Hz\n 0:00.07  -      full onset                                       -2.8 dBFS   silent  2000 ms  1.2 kHz  | cut -47 ms near\n 0:00.54  NOTE?  glockenspiel note / chat message pop             -8.0 dBFS  +0.0 dB     1 ms  1.8 kHz  | cut -58 ms near\n 0:01.25  CUT     no onset; level peak +0 ms, rising 14 dB (a soft whoosh / swell, or just the bed?)  <- CHECK\n 0:02.85  DRUM?  kick drum / heavy thud                           -4.8 dBFS +11.7 dB   360 ms    85 Hz  | cut +38 ms near\n 0:03.63  -      high swell                                       -7.5 dBFS +35.6 dB    80 ms  2.9 kHz  | strong accent (summary)\n 0:04.38  UI?    notification ding / plucked string note          -8.1 dBFS  +5.3 dB     1 ms   227 Hz  | cut -67 ms near\n 0:04.61  -      high onset                                       -9.3 dBFS  +0.2 dB    48 ms  1.3 kHz  | cut -6 ms OK\n 0:05.38  FOLEY  bubble pop / uplifter sweep                      -7.5 dBFS +33.8 dB    40 ms  6.8 kHz  | cut +47 ms near; strong accent (summary)\n 0:05.67  RISER  uplifter sweep / glockenspiel note               -1.0 dBFS   silent  2000 ms  1.2 kHz  | cut +17 ms near\n== 0:05.70-0:15.06  dubstep music, synthesizer lead, futuristic  (+32 untagged onsets, 3.4/s)\n 0:09.89  RISER? uplifter sweep / kick drum                       -2.8 dBFS +11.6 dB   839 ms   124 Hz  | cut +53 ms near\n 0:11.29  DRUM?  kick drum                                        -1.2 dBFS +10.4 dB   438 ms   187 Hz  | cut +44 ms near\n 0:11.53  DRUM?  kick drum                                        -9.1 dBFS  +0.0 dB     1 ms   433 Hz  | cut +32 ms near\n 0:12.23  RISER? uplifter sweep / bubble pop                      -2.2 dBFS  +7.1 dB  2000 ms  1.6 kHz  | cut +32 ms near\n 0:12.65  -      high swell                                       -2.3 dBFS +20.4 dB  1000 ms   424 Hz  | cut +217 ms swell; cut -133 ms swell\n 0:13.17  DRUM?  snare drum hit / bubble pop                      -1.6 dBFS  +6.2 dB   765 ms  1.0 kHz  | cut +36 ms near\n 0:13.28  -      high swell                                       -2.4 dBFS +28.4 dB   510 ms  4.0 kHz  | strong accent (summary)\n 0:14.83  NOTE?  celesta note / notification ding                 -8.3 dBFS +10.0 dB    66 ms  1.2 kHz  | cut -21 ms near\n\nNOTES  times, levels, loudness and sync offsets are measurements. Event kinds / tags are CLAP guesses: '?' = the event is less than 12 dB over its bed, so its excerpt is mostly bed and the tag a weak hint (right kind about 1 in 4 on the tuning mixes, 1 in 2 for exposed events; often wrong on music and voice). Where AST ran, its speech overrides the kind with VOICE. Section genres marked ? are weak. 'over bed' = how far the event rises over the level just before it; 'silent' = that bed was below -60 (after a gap the rise means nothing). Full data: --json.",
+  "cached": false
+}

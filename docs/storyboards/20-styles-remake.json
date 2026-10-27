@@ -1,0 +1,267 @@
+{
+  "status": "Storyboard proposal for review; production has not started",
+  "title": "One idea. Twenty worlds.",
+  "format": "60 seconds, 1920x1080, 60 fps, Motion Studio, no voiceover",
+  "music": "The Golden Hour Rise, supplied local recording. Ivan Is Loading excluded. Exact accents/source trim to be measured during an animatic; scene times are proposed edit slots.",
+  "referenceIntent": [
+    {
+      "id": "REF-06",
+      "time": "0–14.98; especially 5.417–6.000",
+      "adapt": "Conceptual dimensional progression; shape registration while material and camera change."
+    },
+    {
+      "id": "REF-15",
+      "time": "2.75–10.4; especially 5.167–5.750",
+      "adapt": "Registered editorial cuts, actual artwork, selective transformation of existing glyphs and varied exposure lengths."
+    },
+    {
+      "id": "REF-21",
+      "time": "0–13.98; especially 1.633–2.217",
+      "adapt": "Overlapping container/content changes, causal interaction, stable visual anchors."
+    }
+  ],
+  "scenes": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 4,
+      "style": "Opening",
+      "intent": "One idea",
+      "picture": "Black field; a hairline frame catches a warm orange glint. The camera rushes into its corner; ONE IDEA appears, then 20 WORLDS opens across the screen.",
+      "handoff": "The orange punctuation mark breaks into a directional particle trail.",
+      "sound": "Near-silent opening gesture, then the chosen track enters on the first main reveal.",
+      "act": "hook"
+    },
+    {
+      "index": 1,
+      "start": 4,
+      "end": 6.5,
+      "style": "Particles",
+      "intent": "Give the signal direction",
+      "picture": "Thousands of warm points sweep around a negative-space camera aperture. The camera passes through the aperture as the trail curls toward one bright point.",
+      "handoff": "Particles gather into one continuous glossy drop without losing their travel direction.",
+      "sound": "A rising air sweep with one tight gathering accent.",
+      "act": "form"
+    },
+    {
+      "index": 2,
+      "start": 6.5,
+      "end": 9.5,
+      "style": "Liquid Morph",
+      "intent": "Let it flow",
+      "picture": "A macro orange ink ribbon stretches, joins and opens into a flexible rectangular frame. Surface tension and shifting reflections sell liquid rather than an elastic outline.",
+      "handoff": "The ribbon spreads flat; its rounded edges snap into the primary-shape poster grid.",
+      "sound": "Liquid movement and one soft contact accent; leave the sustained phrase to the music.",
+      "act": "form"
+    },
+    {
+      "index": 3,
+      "start": 9.5,
+      "end": 12,
+      "style": "Bauhaus",
+      "intent": "Find the structure",
+      "picture": "Cream paper, cobalt circle, vermilion square and yellow triangle. Shapes rotate on a strict grid, trade positions, and stack into a deliberately composed poster.",
+      "handoff": "The circle rolls forward and gains thickness; the paper plane tips into a tactile tabletop.",
+      "sound": "Three dry, pitched contacts on the shape landings.",
+      "act": "form"
+    },
+    {
+      "index": 4,
+      "start": 12,
+      "end": 15,
+      "style": "Clay 3D",
+      "intent": "Make it tangible",
+      "picture": "The shapes become a miniature clay movie camera. Its lens squashes as the orange signal lands, then rebounds; thumbprint texture, soft shadows and a short orbit reveal its weight.",
+      "handoff": "A travelling light scans across the clay camera, replacing its surface with precise construction lines at the same silhouette.",
+      "sound": "Muted clay contact and a small mechanical settle.",
+      "act": "form"
+    },
+    {
+      "index": 5,
+      "start": 15,
+      "end": 18,
+      "style": "Blueprint",
+      "intent": "Show how it works",
+      "picture": "Deep blue drafting surface. The same movie camera separates into body, lens and film-gate layers. Dimension arrows and construction strokes arrive in the order parts separate.",
+      "handoff": "Drafting lines rise off the page into a spatial mesh; the camera follows the orange lens centre.",
+      "sound": "Drafting strokes and two restrained part-release ticks.",
+      "act": "world"
+    },
+    {
+      "index": 6,
+      "start": 18,
+      "end": 20.5,
+      "style": "Wireframe 3D",
+      "intent": "Turn drawing into depth",
+      "picture": "The exploded camera reassembles as a clean spatial mesh. A quarter orbit reveals structure; push through the film gate into a field of perspective lines.",
+      "handoff": "Those perspective lines become the streets and blocks of a miniature studio district.",
+      "sound": "Fine mechanical ticks, then a short pass-through sweep.",
+      "act": "world"
+    },
+    {
+      "index": 7,
+      "start": 20.5,
+      "end": 23.5,
+      "style": "Isometric",
+      "intent": "Build a world",
+      "picture": "An authored miniature film studio unfolds: soundstage, editing room, lighting towers and a billboard. The orange signal travels through the set; windows and lights respond as it passes.",
+      "handoff": "The camera approaches the billboard until it fills the frame, then reveals its surface as a glass player containing the same studio.",
+      "sound": "Small tactile steps and two light-on accents.",
+      "act": "world"
+    },
+    {
+      "index": 8,
+      "start": 23.5,
+      "end": 25.5,
+      "style": "Glassmorphism",
+      "intent": "Change the perspective",
+      "picture": "The isometric world plays inside frosted panes. A cursor scrubs the player; progress and scene state update together. Foreground glass occludes moving colour behind it.",
+      "handoff": "The panes separate in depth; their refractions become spectral light sheets around the miniature world.",
+      "sound": "One glass contact and a concise scrub gesture.",
+      "act": "world"
+    },
+    {
+      "index": 9,
+      "start": 25.5,
+      "end": 28,
+      "style": "Holographic",
+      "intent": "Refract the world",
+      "picture": "The studio becomes a translucent iridescent projection. Thin cyan, rose and violet light sheets sweep through its geometry while the orange signal stays solid.",
+      "handoff": "A spectral sheet passes close to camera and expands into a flowing colour field.",
+      "sound": "A restrained shimmer attached to the light-sheet pass.",
+      "act": "medium"
+    },
+    {
+      "index": 10,
+      "start": 28,
+      "end": 30.5,
+      "style": "Gradient Mesh",
+      "intent": "Let the film breathe",
+      "picture": "Saffron, rose and cobalt fields flow like stretched fabric. Large italic FEEL SOMETHING sits in a calm pocket as the colour currents continue around it.",
+      "handoff": "The flowing curves straighten into a symmetrical fan; warm highlights settle into gold lines.",
+      "sound": "Music carries the breath; one soft fold accent at the exit.",
+      "act": "medium"
+    },
+    {
+      "index": 11,
+      "start": 30.5,
+      "end": 33,
+      "style": "Art Deco",
+      "intent": "Frame the moment",
+      "picture": "Matte black with gold stepped arches and a precise sunburst fan. The orange signal climbs a centre line, opening a geometric cinema marquee.",
+      "handoff": "Camera closes on the fan's gold ink; its surface separates into printed dots.",
+      "sound": "A subtle metallic lock when the fan reaches symmetry.",
+      "act": "medium"
+    },
+    {
+      "index": 12,
+      "start": 33,
+      "end": 35,
+      "style": "Halftone",
+      "intent": "Turn light into print",
+      "picture": "An oversized movie-camera cutout sits within the arch on cream paper. Cyan/magenta registration offsets slide into place; real dot screens grow visibly across the image.",
+      "handoff": "The printed page folds along a diagonal; its crop becomes the first panel of a comic strip.",
+      "sound": "A dry print registration click and short paper fold.",
+      "act": "medium"
+    },
+    {
+      "index": 13,
+      "start": 35,
+      "end": 38,
+      "style": "Comic Book",
+      "intent": "Let the frame break",
+      "picture": "Three inked panels show anticipation, a camera shutter snap, then an orange projectile bursting through the panel gutter. Heavy outlines, perspective speed lines and a brief SNAP balloon.",
+      "handoff": "The broken panel border lands as a thick black frame around the next poster; preserve the projectile's trajectory.",
+      "sound": "Shutter snap followed by one panel-break impact.",
+      "act": "break"
+    },
+    {
+      "index": 14,
+      "start": 38,
+      "end": 40.5,
+      "style": "Neo-Brutalism",
+      "intent": "Make a bold mark",
+      "picture": "A cobalt poster slams onto cream with a thick black border and hard offset shadow. MAKE / YOUR / MARK stacks with different impact timings; the orange signal knocks a corner loose.",
+      "handoff": "The offset blocks resolve onto a coarse pixel grid from the impact point outward.",
+      "sound": "Two weighty contacts with a short gap between them.",
+      "act": "break"
+    },
+    {
+      "index": 15,
+      "start": 40.5,
+      "end": 42.5,
+      "style": "Pixel Art",
+      "intent": "Play with the rules",
+      "picture": "A side-scrolling pixel soundstage uses original sprites, stepped motion and crisp grid alignment. The orange token jumps a gap and lights four letter blocks spelling MOVE.",
+      "handoff": "The pixel image pulls back into the screen of a vintage television.",
+      "sound": "A short original pickup run, kept beneath the supplied music.",
+      "act": "break"
+    },
+    {
+      "index": 16,
+      "start": 42.5,
+      "end": 44.5,
+      "style": "Retro VHS",
+      "intent": "Change the signal",
+      "picture": "The television shows the same pixel scene through scanlines, soft chroma bleed and a controlled tracking roll. A chrome MOVE title briefly catches the tube's light.",
+      "handoff": "One tracking seam expands across the screen; its noise resolves into rows of characters.",
+      "sound": "A brief tape-start/tracking texture, cut cleanly before the next scene.",
+      "act": "break"
+    },
+    {
+      "index": 17,
+      "start": 44.5,
+      "end": 47,
+      "style": "ASCII Art",
+      "intent": "Build with characters",
+      "picture": "Monospace characters draw the camera silhouette row by row. One orange @ moves through the contour, waking adjacent characters; the rest of the frame stays disciplined.",
+      "handoff": "Character cells gain physical thickness and horizontal hinges.",
+      "sound": "A short grouped key sequence, not a click for every glyph.",
+      "act": "resolve"
+    },
+    {
+      "index": 18,
+      "start": 47,
+      "end": 49.5,
+      "style": "Split-Flap",
+      "intent": "Count what we made",
+      "picture": "A physical departure-board mechanism cycles into 20 / STYLES. Each flap has a hinge, changing face and contact shadow; columns settle with a controlled stagger.",
+      "handoff": "The horizontal seams extend beyond the tiles and bend into continuous luminous tubes.",
+      "sound": "Grouped flap clatter that decelerates as the final word lands.",
+      "act": "resolve"
+    },
+    {
+      "index": 19,
+      "start": 49.5,
+      "end": 52,
+      "style": "Neon Glow",
+      "intent": "Draw the promise",
+      "picture": "Orange and cool-white tubes draw MAKE IT MOVE in darkness. Glow blooms on the surrounding surface; the orange signal travels along the tube before its final junction closes.",
+      "handoff": "Camera passes the lit tube so close it becomes a full-frame stroke, then a solid typographic stem.",
+      "sound": "A brief electric rise and a small junction-lock accent.",
+      "act": "resolve"
+    },
+    {
+      "index": 20,
+      "start": 52,
+      "end": 54.5,
+      "style": "Kinetic Typography",
+      "intent": "Make it matter",
+      "picture": "MAKE. / IT. / MATTER. takes over the whole screen. Compressed type stretches, slices and snaps on three distinct accents, then gives the final word a readable landing.",
+      "handoff": "The final period becomes the original orange signal; the letters open into a twenty-window recap.",
+      "sound": "Three clean accents; let the last one ring into the ending.",
+      "act": "resolve"
+    },
+    {
+      "index": 21,
+      "start": 54.5,
+      "end": 60,
+      "style": "Closing",
+      "intent": "One point of view",
+      "picture": "Twenty small windows briefly recall the actual scenes. Their edges fold into one aperture mark. At 57s MOTION STUDIO lands; Make every frame matter follows. The signal settles into its starting corner.",
+      "handoff": "Resolve the musical phrase and hold the final identity through 60s with a small light/material settle.",
+      "sound": "One signature lock and a preserved musical tail; no abrupt cut.",
+      "act": "outro"
+    }
+  ]
+}

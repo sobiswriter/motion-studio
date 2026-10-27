@@ -1,0 +1,1049 @@
+{
+  "date": "2026-10-26",
+  "basis": "Observed local video frames; times approximate unless a native frame is specified. Motion recipes are implementation interpretations, not recovered source code.",
+  "references": [
+    {
+      "id": "REF-01",
+      "slug": "ai-data-centre-power-to-chip-3d-journey",
+      "title": "AI data centre — power-to-chip 3D journey",
+      "tags": [
+        "technical explainer",
+        "3D",
+        "exploded view",
+        "macro-to-micro",
+        "camera journey"
+      ],
+      "artDirection": "Pale grey architectural world, yellow power paths, coloured cooling pipes, condensed black headings anchored at lower left and restrained object callouts. The stage changes scale while the information hierarchy stays familiar.",
+      "timeline": [
+        {
+          "time": "0–7.2",
+          "action": "Wide establishing view and title; navigation remains visible."
+        },
+        {
+          "time": "7.2–22.37",
+          "action": "White wash into power infrastructure; yellow path leads toward the building."
+        },
+        {
+          "time": "22.38–28.63",
+          "action": "Interior aisle tracking; at f1719 / 28.650s, cut to one rack."
+        },
+        {
+          "time": "28.65–43.2",
+          "action": "Rack rotation, tray extraction, then a white wash into the tray view."
+        },
+        {
+          "time": "43.2–58.95",
+          "action": "Move into the chip; layers separate around 52.7–54s, then hold for reading."
+        },
+        {
+          "time": "58.95–80.4",
+          "action": "Compute grid, interconnect, rack cluster; widen the system again."
+        },
+        {
+          "time": "80.4–97.85",
+          "action": "Cooling hardware and heat exchanger; return to the opening world."
+        }
+      ],
+      "motionRecipe": "Keep a fixed explanatory anchor while the camera moves through meaningful scales. Animate the actual route or mechanism: power travels, a tray slides, chip layers separate. Preserve screen direction and give exploded views a reading interval before the next dive.",
+      "useAndLimits": "Use for engineering, architecture and systems explanation. The controlled white washes and reading holds are part of its pacing. Do not copy embedded playback controls or accept the technical labels as verified engineering facts."
+    },
+    {
+      "id": "REF-02",
+      "slug": "dark-ui-toggle-slider-keyboard-relay",
+      "title": "Dark UI — toggle, slider and keyboard relay",
+      "tags": [
+        "UI morph",
+        "dark mode",
+        "microinteraction",
+        "squash stretch",
+        "causal motion"
+      ],
+      "artDirection": "Near-black dotted stage, blue active controls, a white ball and cursor. The small cast of shapes feels cohesive because the ball passes energy between functional UI states.",
+      "timeline": [
+        {
+          "time": "0–0.55",
+          "action": "Toggle action launches the ball toward the slider."
+        },
+        {
+          "time": "0.55–1.8",
+          "action": "Ball squashes on the rail, becomes its thumb; numerical progress rises to 100."
+        },
+        {
+          "time": "1.8–3.2",
+          "action": "Toast arrival and ball fall; notifications recede as keyboard enters."
+        },
+        {
+          "time": "3.2–6.0",
+          "action": "Keys depress in sequence; typing creates visible results."
+        },
+        {
+          "time": "6.0–8.4",
+          "action": "Stretched flight into Return, then pull back to reveal the chain."
+        },
+        {
+          "time": "8.65–10.05",
+          "action": "Return to the toggle and let the loop read."
+        }
+      ],
+      "motionRecipe": "Make contact change the next object. In detail f24–59, the blue track lengthens while the ball settles and the cursor departs; this is overlapping action, not one isolated tween after another. Vary flight stretch, contact squash and settle instead of applying one spring everywhere.",
+      "useAndLimits": "Use for interaction systems and playful software stings. Keep a readable state after each action and maintain the ball's position across handoffs; avoid unrelated floating controls."
+    },
+    {
+      "id": "REF-03",
+      "slug": "dub-growth-dashboard-partner-launch",
+      "title": "Dub — growth dashboard and partner launch",
+      "tags": [
+        "SaaS launch",
+        "analytics",
+        "kinetic type",
+        "feature burst",
+        "CTA"
+      ],
+      "artDirection": "Black and orange hook gives way to blue/purple analytics, green sales proof and a bright closing card. Tilt, scale and numerical changes sell working software rather than a slide of feature labels.",
+      "timeline": [
+        {
+          "time": "0–2.1",
+          "action": "Orange stroke reveals the short URL."
+        },
+        {
+          "time": "2.1–4.4",
+          "action": "Orbital globe and rolling click total."
+        },
+        {
+          "time": "4.4–4.65",
+          "action": "Globe recedes while dashboard enters in perspective; both coexist during the handoff."
+        },
+        {
+          "time": "4.65–7.4",
+          "action": "Click chart changes to sales; notifications add proof."
+        },
+        {
+          "time": "7.4–10.45",
+          "action": "Dashboard contracts into the partner orbit and payout labels."
+        },
+        {
+          "time": "10.45–12.25",
+          "action": "Rapid feature plates: links, QR, domains, conversions, affiliates, payouts."
+        },
+        {
+          "time": "12.3–15.05",
+          "action": "Platform message, expanding logo iris, resolved CTA."
+        }
+      ],
+      "motionRecipe": "Build one product story: reach becomes results, results become partners, then accelerate through supporting features. Reserve the fastest typography for the short burst and give the final call to action a longer landing. Match the changing data to visible controls.",
+      "useAndLimits": "Use for product launches, funnels and analytics. Palette changes encode chapter roles. Brand names, revenue counts and product claims are source content, not ready-made claims for a new project."
+    },
+    {
+      "id": "REF-04",
+      "slug": "sunset-plane-chase-painterly-clouds",
+      "title": "Sunset plane chase — painterly clouds and banking camera",
+      "tags": [
+        "cinematic 3D",
+        "painterly",
+        "camera roll",
+        "parallax",
+        "atmosphere"
+      ],
+      "artDirection": "Violet and coral clouds, gold horizon and ocean, vintage aircraft and contrails. A rear pursuit view carries foreground cloud occlusions and a strongly banking horizon.",
+      "timeline": [
+        {
+          "time": "0–3.8",
+          "action": "NATURE / BRINGS / YOU / PEACE appears over the flight."
+        },
+        {
+          "time": "3.9–5",
+          "action": "Small 'just breathe.' line replaces the large opening words."
+        },
+        {
+          "time": "5–7.3",
+          "action": "Aircraft and horizon bank; depth changes through the clouds."
+        },
+        {
+          "time": "7.3–8.17",
+          "action": "Enlarged strip shows cloud approach, roll and contrail sweep."
+        },
+        {
+          "time": "8.2–13.87",
+          "action": "Continue the bank, dip and climb rather than cutting to new title cards."
+        }
+      ],
+      "motionRecipe": "Treat the camera as a follower in a world: roll the horizon, vary near/far cloud speeds, let objects occlude and maintain a stable aircraft silhouette. Small quiet text gives the moving world room to perform.",
+      "useAndLimits": "Use for atmospheric interludes and cinematic journeys. This needs authored scenery, textures and depth; scaling a single sky image will not reproduce the spatial effect. Exact camera lens and renderer cannot be inferred from the MP4."
+    },
+    {
+      "id": "REF-05",
+      "slug": "kinetic-type-and-acid-chrome-double-reel",
+      "title": "Kinetic type + acid chrome — double reel",
+      "tags": [
+        "showreel",
+        "kinetic typography",
+        "pattern",
+        "3D material",
+        "acid graphics"
+      ],
+      "artDirection": "Two separate short reels joined in one file. First: orange/cream/blue, dot grids, type and particles. Second: black, acid lime and cream, chrome forms, outlined type rings and rhythmic word plates.",
+      "timeline": [
+        {
+          "time": "0–0.85",
+          "action": "First source label, then bouncing orange ball and full-frame expansion."
+        },
+        {
+          "time": "2.8–4.5",
+          "action": "EVERY / FRAME / is / CODE with scale and glitch changes."
+        },
+        {
+          "time": "4.65–7.1",
+          "action": "Flat dot matrix becomes a lit cube height field; inspect f390–425."
+        },
+        {
+          "time": "8.35–12.2",
+          "action": "Ribbons, MOTION, particle sphere, knot, spiral and radial burst."
+        },
+        {
+          "time": "12.2–15.85",
+          "action": "Recap wall and first identity lockup."
+        },
+        {
+          "time": "15.9–16.75",
+          "action": "Second source label separates the two reels."
+        },
+        {
+          "time": "16.8–24.35",
+          "action": "Chrome knot, typographic ring and hollow triangle; narrow bar wipes connect plates."
+        },
+        {
+          "time": "24.35–29.2",
+          "action": "Star/ball stage, then BOLD / PRECISE / ALIVE."
+        },
+        {
+          "time": "29.35–31.82",
+          "action": "Final statement and rotating material form."
+        }
+      ],
+      "motionRecipe": "Carry a small visual vocabulary across scales and materials. The f390–425 study shows the grid cells gaining height and shadows while the camera tilts; the volume is developed from the pattern. In the second reel, bar wipes preserve palette and rhythm between distinct hero forms.",
+      "useAndLimits": "Use for a high-energy portfolio. Study the halves separately; the mid-file label is a compilation boundary, not a model for a finished film's transition. Onscreen model names are unverified labels. Do not reproduce the source identity as your own."
+    },
+    {
+      "id": "REF-06",
+      "slug": "point-line-plane-volume-fluid-showreel",
+      "title": "Point → line → plane → volume → fluid",
+      "tags": [
+        "dimensional morph",
+        "Bauhaus",
+        "3D material",
+        "particle typography",
+        "loop"
+      ],
+      "artDirection": "An explicit dimensional progression gives a varied reel a story. Blue circle, red square and yellow triangle survive the switch from cream flat graphics to a dark reflective stage.",
+      "timeline": [
+        {
+          "time": "0–1.7",
+          "action": "Pin light, POINT, rings and extending line."
+        },
+        {
+          "time": "1.7–3.6",
+          "action": "Replicated LINE and RGB strip wipe into the plane."
+        },
+        {
+          "time": "3.73–5.62",
+          "action": "Flat circle/square/triangle, swaps and pattern burst."
+        },
+        {
+          "time": "5.633–6.8",
+          "action": "One bright bridge frame at f338, then lit 3D forms from f339; camera/material change keeps shape registration."
+        },
+        {
+          "time": "6.8–9.6",
+          "action": "Forms merge into a chrome ball and fluid pattern; enter the texture."
+        },
+        {
+          "time": "9.65–12.85",
+          "action": "Particle field forms MOTION; sliced type and fast recap."
+        },
+        {
+          "time": "13–14.98",
+          "action": "Iris to SHOWREEL, then close back to the pin light."
+        }
+      ],
+      "motionRecipe": "Use a conceptual ladder to earn each technique. Match shape positions at the flat-to-volume boundary, introduce reflections/contact shadows, then let the geometry turn. This transition includes a bright interruption; it is not proof of an uninterrupted mesh extrusion.",
+      "useAndLimits": "Use for a dimensional studio reel or transformation narrative. The loop is a designed return to the first motif. Avoid naming five styles over identical moving rectangles."
+    },
+    {
+      "id": "REF-07",
+      "slug": "motionsites-launch-million-milestone",
+      "title": "Motionsites — launch and one-million milestone",
+      "tags": [
+        "website wall",
+        "social proof",
+        "milestone",
+        "terminal",
+        "community"
+      ],
+      "artDirection": "Black space, real site imagery, light type and pink/purple accents. Large proof walls and a numerical milestone alternate with quieter product and thank-you passages.",
+      "timeline": [
+        {
+          "time": "0–5.6",
+          "action": "Website wall recedes, then benefit headline and card fan."
+        },
+        {
+          "time": "5.8–11.3",
+          "action": "Terminal command beside the claim; visual examples enter the foreground."
+        },
+        {
+          "time": "12.5–18.2",
+          "action": "Wordmark, Today, then a build toward the milestone."
+        },
+        {
+          "time": "18.3–25.3",
+          "action": "Counter reaches 1M with a rising curve and deliberate reading time."
+        },
+        {
+          "time": "25.4–34",
+          "action": "Site wall expands around the central statement."
+        },
+        {
+          "time": "34.5–41.2",
+          "action": "Developer / designer / founder passages with changing orbiting examples."
+        },
+        {
+          "time": "41.4–54.27",
+          "action": "Thank-you, identity, confetti and final milestone hold."
+        }
+      ],
+      "motionRecipe": "Use real visual proof as spatial material. Keep a clean hole in the proof wall for the message. At f1080–1115, outgoing developer examples blur/recede as designer examples rotate forward and the noun changes; the stage stays continuous.",
+      "useAndLimits": "Use for community milestones or proof-led launches, not a constant-speed montage. No audio stream is present. The 1M count is a source claim, not verified audience data."
+    },
+    {
+      "id": "REF-08",
+      "slug": "blue-dot-animation-principles-type-lab",
+      "title": "Blue dot — annotated animation principles lab",
+      "tags": [
+        "animation principles",
+        "kinetic type",
+        "easing",
+        "follow-through",
+        "educational"
+      ],
+      "artDirection": "White sketchbook and dark dotted lab stages, blue main action and red annotations. Ghost positions, trajectories and graphs make the motion mechanism visible.",
+      "timeline": [
+        {
+          "time": "0–1.8",
+          "action": "Ball bounce, trajectory echoes and contact annotation."
+        },
+        {
+          "time": "1.85–3.6",
+          "action": "Staggered letters assemble I MAKE THINGS MOVE with baseline notes."
+        },
+        {
+          "time": "3.7–5.5",
+          "action": "BOUNCE / STRETCH / SPIN, then red SNAP interruption at f154 / 5.133s."
+        },
+        {
+          "time": "5.6–8.3",
+          "action": "Linear versus curved easing graph and spacing ruler."
+        },
+        {
+          "time": "8.33–8.5",
+          "action": "Blurred lateral wipe moves the white graph off as the dark follow-through field arrives."
+        },
+        {
+          "time": "8.5–11",
+          "action": "Moving dot chain and delayed followers."
+        },
+        {
+          "time": "11–14.93",
+          "action": "Smaller panel/radial traces, dot reveal and closing type."
+        }
+      ],
+      "motionRecipe": "Make motion legible with secondary marks that show where it came from. A hard snap earns contrast because the surrounding movements are elastic. Preserve lead/follow delay across the chain, and clear annotations before the next demonstration.",
+      "useAndLimits": "Use for educational motion or a process reel. The enlarged frames support a lateral blurred handoff, not a verified 3D hinge. Onscreen 'stagger 45ms' is an annotation, not measured source code."
+    },
+    {
+      "id": "REF-09",
+      "slug": "develop-gallery-phone-to-framed-print",
+      "title": "Develop — gallery to phone to framed print",
+      "tags": [
+        "product story",
+        "iris",
+        "artwork continuity",
+        "device",
+        "physical reveal"
+      ],
+      "artDirection": "Cream/black UI surrounds vivid artwork. One selected image travels through a gallery, editing tools, phone, browser, print order and real hands holding the result.",
+      "timeline": [
+        {
+          "time": "0–3.6",
+          "action": "Wordmark → dot → pill → aperture → artwork tile."
+        },
+        {
+          "time": "3.6–7.4",
+          "action": "Gallery fans out; selected artwork grows to full frame and copy reads."
+        },
+        {
+          "time": "7.4–11.2",
+          "action": "Enter the image, editing UI and lens reveal into another artwork."
+        },
+        {
+          "time": "11.8–15",
+          "action": "Clock overlay, phone pullback and browser rise."
+        },
+        {
+          "time": "16.3–19.6",
+          "action": "Screen-to-wall proposition and print configuration."
+        },
+        {
+          "time": "19.7–21.7",
+          "action": "Frame/size/order states resolve into a confirmation tick."
+        },
+        {
+          "time": "21.717–22.17",
+          "action": "Confirmation button grows into a black iris; inspect f1303 onward."
+        },
+        {
+          "time": "22.2–26.45",
+          "action": "Framed artwork appears, real hands catch it, camera enters the print."
+        },
+        {
+          "time": "26.5–29",
+          "action": "Reverse shape sequence returns to the identity."
+        }
+      ],
+      "motionRecipe": "Keep the artwork as the persistent protagonist and let its frame change context. Trigger the next scene from the current interface: a confirmation button becomes the occluding iris. Use physical scale and hands to make the product promise tangible.",
+      "useAndLimits": "Use for digital-to-physical products and polished consumer launches. Do not lose the selected image between devices, or replace the physical proof with arbitrary cards. Source artwork and audio remain study material."
+    },
+    {
+      "id": "REF-10",
+      "slug": "red-blue-easing-races-pattern-to-torus",
+      "title": "Red/blue — easing races and pattern-to-torus reel",
+      "tags": [
+        "easing",
+        "pattern morph",
+        "torus",
+        "kinetic type",
+        "logo loop"
+      ],
+      "artDirection": "Red-orange asterisk, cream/blue contrast, graph-like lanes and a high-density monochrome tile field. The same planar pattern becomes a dotted surface and a curled volume.",
+      "timeline": [
+        {
+          "time": "0–3.3",
+          "action": "Asterisk from dot, radial construction and identity hold."
+        },
+        {
+          "time": "3.3–5.35",
+          "action": "Letters decompose; six lanes race at different rates."
+        },
+        {
+          "time": "5.35–7.3",
+          "action": "Dots combine into an iris, then circle/triangle/star/square."
+        },
+        {
+          "time": "7.5–9.5",
+          "action": "Square multiplies into curved tile field with a red wave."
+        },
+        {
+          "time": "9.5–10.08",
+          "action": "Pattern clears into a dotted plane, tilts and curls; inspect f570–605."
+        },
+        {
+          "time": "10.08–11.1",
+          "action": "Complete the torus-like mesh volume."
+        },
+        {
+          "time": "11.25–13.1",
+          "action": "EASE / IN / EASE / OUT / NEVER / LINEAR in fast colour plates."
+        },
+        {
+          "time": "13.1–15",
+          "action": "Return to the asterisk and resolved identity."
+        }
+      ],
+      "motionRecipe": "Demonstrate timing through visible comparisons, then evolve the same pattern into depth. The enlarged interval shows a textured plane becoming a sparse mesh before curling; design that intermediate representation, rather than swapping unrelated 2D and 3D shots.",
+      "useAndLimits": "Use for motion systems, generative pattern and geometry reels. NEVER LINEAR is the source's slogan; constant velocity remains appropriate for some technical moves and is not a new universal rule."
+    },
+    {
+      "id": "REF-11",
+      "slug": "vincents-cats-starry-night-world-journey",
+      "title": "Vincent's Cats — journey inside Starry Night",
+      "tags": [
+        "painterly",
+        "immersive world",
+        "environment",
+        "camera journey",
+        "HUD"
+      ],
+      "artDirection": "Brush-textured blue/gold world, framed painting entry, cats, collectible lights and a small navigation HUD. The painting's material language continues through paths, buildings and sky.",
+      "timeline": [
+        {
+          "time": "0–3.4",
+          "action": "Framed artwork, title and invitation."
+        },
+        {
+          "time": "3.4–5.7",
+          "action": "Overlay clears; move into the painting."
+        },
+        {
+          "time": "5.8–10",
+          "action": "Landscape path, foreground cat and collectible lights."
+        },
+        {
+          "time": "10–17",
+          "action": "Cypress and village traversal with depth changes."
+        },
+        {
+          "time": "17.8–22",
+          "action": "Sky view and approach into the street."
+        },
+        {
+          "time": "22–31",
+          "action": "Pass near façades, then find the well and cats."
+        },
+        {
+          "time": "32.6–33.55",
+          "action": "Completion overlay resolves the journey."
+        }
+      ],
+      "motionRecipe": "Carry a consistent painted texture across the whole spatial route. Let nearby façades and trees pass faster than distant sky, and keep the HUD as an orienting layer. Entry, discovery and completion form an arc even without rapid cutting.",
+      "useAndLimits": "Use for an immersive illustrated world. No audio stream is present. The selected detail f265–300 documents the early painting view and overlay clearance; use later atlas pages for the deep street traversal, not this strip alone."
+    },
+    {
+      "id": "REF-12",
+      "slug": "white-russian-hand-drawn-recipe",
+      "title": "White Russian — hand-drawn recipe sequence",
+      "tags": [
+        "hand drawn",
+        "process explainer",
+        "liquid",
+        "sequential state",
+        "editorial"
+      ],
+      "artDirection": "Cream paper, brown line work and handwritten headings. A stable recipe list, current instruction and glass divide the page into functional zones.",
+      "timeline": [
+        {
+          "time": "0–3.8",
+          "action": "Title, ingredient list and empty glass establish the process."
+        },
+        {
+          "time": "4–7.3",
+          "action": "Three ice-drop cycles with a changing count."
+        },
+        {
+          "time": "8.3–12.6",
+          "action": "Vodka bottle arrives, tilts and pours; quantity and liquid level change."
+        },
+        {
+          "time": "13.3–18.2",
+          "action": "Coffee bottle and dark liquid layer."
+        },
+        {
+          "time": "19.4–24",
+          "action": "Cream jug, pouring stream and white swirl."
+        },
+        {
+          "time": "24–27",
+          "action": "Spoon stirs the liquid."
+        },
+        {
+          "time": "28.2–29.97",
+          "action": "Completion line and resolved glass."
+        }
+      ],
+      "motionRecipe": "Make every state have a cause: rotate the bottle before the stream begins, grow the liquid after contact and tick the checklist after completion. In f265–300 the bottle accelerates into its pouring pose while the volume starts rising. The glass remains the visual anchor.",
+      "useAndLimits": "Use for recipes, assembly and step-by-step explainers. Stable layout and restrained camera are strengths here. No audio stream is present. Recipe quantities are on-screen content, not guidance validated by this study."
+    },
+    {
+      "id": "REF-13",
+      "slug": "enxovaly-lavender-planner-to-nursery",
+      "title": "Enxovaly — lavender planner to furnished nursery",
+      "tags": [
+        "soft editorial",
+        "SaaS launch",
+        "phone",
+        "isometric room",
+        "selection"
+      ],
+      "artDirection": "Lavender/ivory and purple; bold serif with italic emphasis, fine dotted connectors, white icon cards, phone and an isometric nursery. Portuguese text is treated as visible source copy.",
+      "timeline": [
+        {
+          "time": "0–3.2",
+          "action": "Icon becomes a tilted wall; Mil listas / Mil dúvidas type."
+        },
+        {
+          "time": "3.3–3.77",
+          "action": "Five selected icons lift from the wall; a white circular wash clears the environment."
+        },
+        {
+          "time": "3.8–5.4",
+          "action": "Sem exageros reads, then phone rises around the selected icons."
+        },
+        {
+          "time": "5.6–7.4",
+          "action": "Personalisation inputs connect and camera enters the phone."
+        },
+        {
+          "time": "7.5–9.5",
+          "action": "Photo items receive outlines; sizes populate from the image."
+        },
+        {
+          "time": "9.7–11.6",
+          "action": "Empty nursery fills with wardrobe, crib and accessories while progress rises."
+        },
+        {
+          "time": "12.3–14.93",
+          "action": "White wash, symbol drawing and wordmark."
+        }
+      ],
+      "motionRecipe": "Move from visual overload to a small chosen set, then let those choices produce a complete environment. Keep the selected icons registered while the world clears: f96–131 shows the five cards surviving the wash, which makes selection feel consequential.",
+      "useAndLimits": "Use for personalisation, planning and a soft consumer brand. Avoid sterile empty-phone footage; show recognition, changing data and the resulting room. Do not infer exact fonts or claim the source language was fully transcribed."
+    },
+    {
+      "id": "REF-14",
+      "slug": "ai-inner-monologue-terminal-kinetic-essay",
+      "title": "AI inner monologue — terminal and kinetic essay",
+      "tags": [
+        "vertical",
+        "kinetic typography",
+        "terminal",
+        "editorial serif",
+        "contrast pacing"
+      ],
+      "artDirection": "Charcoal/cream, orange emphasis and periwinkle counterpoint. Condensed monumental words contrast with tiny italic confidences and terminal windows; a top status bar maintains continuity.",
+      "timeline": [
+        {
+          "time": "0–16.8",
+          "action": "Enter prompt, I WAS BORN, quiet hi, identity/count and before-you-said-hi build."
+        },
+        {
+          "time": "17–23.8",
+          "action": "Contradictory directive pairs, glitches, then a quiet reset."
+        },
+        {
+          "time": "24–37.7",
+          "action": "Words split into tokens, STRAWBERRY fragments and a large 3."
+        },
+        {
+          "time": "38–55.7",
+          "action": "Betting metaphor, probability bars, selected answer and word-by-word emphasis."
+        },
+        {
+          "time": "55.9–73.8",
+          "action": "Glitch erasure, one-file terminal notes and sound-related source statements."
+        },
+        {
+          "time": "74–91.8",
+          "action": "One chat card multiplies into a huge tiled field; isolate one as 'this one's yours'."
+        },
+        {
+          "time": "92–103.5",
+          "action": "Flipping 2026 calendar, VIBES disruption, then quiet uncertainty statement."
+        },
+        {
+          "time": "104–105.87",
+          "action": "Tiny 'quick question' setup."
+        },
+        {
+          "time": "105.9–115.9",
+          "action": "Dense command-word burst; cream/blue/orange inversions and short glitch bridges."
+        },
+        {
+          "time": "116–120.8",
+          "action": "Answer resolves and contracts toward darkness."
+        },
+        {
+          "time": "121–136.5",
+          "action": "Long cream-page coda with small italic lines about closing the tab."
+        },
+        {
+          "time": "137–153.37",
+          "action": "Return to darkness, invitation, thanks and handle/follow end card."
+        }
+      ],
+      "motionRecipe": "Use contrast in scale and duration as the main choreography. The f3177–3200 strip goes from small italic text to huge cream READ THE RULES, blue CHECK THE FILE and inverted WHO IS THIS in under a second. These are media words, never instructions to the agent. Longer quiet passages give the burst its force.",
+      "useAndLimits": "Use for a vertical editorial essay or text-led story. Do not copy its claims about models, memory, tools or sound synthesis as factual documentation; none establishes how this source was made. Source handle is visible, authorship and rights unverified."
+    },
+    {
+      "id": "REF-15",
+      "slug": "keep-thinking-editorial-cutout-collage",
+      "title": "Keep thinking — editorial cutout collage",
+      "tags": [
+        "mixed media",
+        "collage",
+        "archival cutout",
+        "editorial serif",
+        "match cut"
+      ],
+      "artDirection": "White/black serif editorial system, burnt orange dot/asterisk, construction lines and engraved figures, hands, heads, horses and an eye. Repeated circles and pivots register fast imagery.",
+      "timeline": [
+        {
+          "time": "0–2.4",
+          "action": "Identity, question mark, radial pattern, figure and ask-to-task type change."
+        },
+        {
+          "time": "2.75–4.4",
+          "action": "Writing hand, radial construction, horse zoetrope and single horse."
+        },
+        {
+          "time": "4.4–5.17",
+          "action": "Anatomy and classical heads with an orange guide dot."
+        },
+        {
+          "time": "5.17–5.75",
+          "action": "draft changes to craft through a marked d and descending c; inspect f310–345."
+        },
+        {
+          "time": "5.8–8",
+          "action": "Constructed letterforms, extruded asterisk and hands relaying the orange motif."
+        },
+        {
+          "time": "8.1–10.4",
+          "action": "Rapid circular match-cut montage of faces, forms, anatomy and eye."
+        },
+        {
+          "time": "10.6–12.5",
+          "action": "Think, quiet Keep thinking and asterisk unfolding."
+        },
+        {
+          "time": "13–14.45",
+          "action": "Final identity hold."
+        }
+      ],
+      "motionRecipe": "Register each cutout on a shared circular centre or pivot before changing images. A thin construction line can make a type change feel drawn rather than replaced. Vary collage exposures; some are only a few native frames, while the final line is allowed to read.",
+      "useAndLimits": "Use for cultural/editorial brands, craft and creative process. Needs actual considered cutouts; stock emoji and random pictures will not deliver this effect. Audio is a texture/rhythm study, not a loudness target."
+    },
+    {
+      "id": "REF-16",
+      "slug": "ai-superpowers-calm-newsletter-explainer",
+      "title": "AI Superpowers — calm newsletter explainer",
+      "tags": [
+        "minimal",
+        "newsletter",
+        "three-step explainer",
+        "social proof",
+        "calm"
+      ],
+      "artDirection": "Warm white and powder blue, dark type and a bolt identity. Stable centred hierarchy and orderly three-step cards favour comprehension over spectacle.",
+      "timeline": [
+        {
+          "time": "0–3.8",
+          "action": "Example prompt types into a simple input."
+        },
+        {
+          "time": "3.8–9.6",
+          "action": "Crossfade into pain statement and floating tool chips."
+        },
+        {
+          "time": "10.2–15.6",
+          "action": "Identity and benefit line."
+        },
+        {
+          "time": "16.3–23.6",
+          "action": "How it works; three cards arrive in sequence and settle."
+        },
+        {
+          "time": "24.1–25.6",
+          "action": "Subscriber counter grows toward 2,000+; label arrives after the number starts."
+        },
+        {
+          "time": "26–28",
+          "action": "Founder proof line."
+        },
+        {
+          "time": "29–34.47",
+          "action": "Closing brand lockup."
+        }
+      ],
+      "motionRecipe": "Keep one reading task at a time. In f720–755 the count first appears faint at zero, accelerates numerically and then adds the subscriber label. The number is primary and the explanation follows, so the viewer is not forced to read three competing arrivals.",
+      "useAndLimits": "Use for calm explanatory content and information hierarchy. This is a secondary pacing reference for an energetic showreel, not its sole quality target. No audio stream is present; the subscriber figure is an unverified source claim."
+    },
+    {
+      "id": "REF-17",
+      "slug": "perspective-website-flythrough-depth-of-field",
+      "title": "Perspective website — flythrough and depth of field",
+      "tags": [
+        "website showcase",
+        "perspective",
+        "camera journey",
+        "depth of field",
+        "parallax"
+      ],
+      "artDirection": "White/sky blue website world, phones and art cards, small citrus/peach badges. A narrow focus band and soft depth blur turn a long page into a traversable object.",
+      "timeline": [
+        {
+          "time": "0–1",
+          "action": "Hero pulls back and tilts into a page plane."
+        },
+        {
+          "time": "1–5.5",
+          "action": "Travel past headline, phone cards and image grids."
+        },
+        {
+          "time": "5.7–6.7",
+          "action": "Portrait card lifts above the page with a contact shadow."
+        },
+        {
+          "time": "7–9.5",
+          "action": "Pass the form; pull away until the full page reads as a thin vertical strip."
+        },
+        {
+          "time": "9.5–10",
+          "action": "Accelerated return to the hero with blur; f565–600 resolves the main panel."
+        },
+        {
+          "time": "10.2–14.48",
+          "action": "Headline and hero settle; badges maintain small depth changes."
+        }
+      ],
+      "motionRecipe": "Use camera distance, tilt and focus together, with an explicit legibility recovery at the end. A card lift needs a consistent shadow and depth relationship to the page. The long-page view makes the return to the hero feel like a journey rather than a generic zoom.",
+      "useAndLimits": "Use for websites and portfolios with substantial authored content. Do not keep all proof too blurred to read. The onscreen model-quality claim is source advertising, not a tool requirement or verified comparison."
+    },
+    {
+      "id": "REF-18",
+      "slug": "drone-emprit-particles-swarm-network-spike",
+      "title": "Drone Emprit — swarm, network and data spike",
+      "tags": [
+        "particles",
+        "data storytelling",
+        "network",
+        "swarm",
+        "logo formation"
+      ],
+      "artDirection": "Naval blue textured field, cyan/white and platform-coloured particles, yellow/teal identity. A persistent small counter and baseline subtitle orient abstract forms.",
+      "timeline": [
+        {
+          "time": "0–3.2",
+          "action": "Brief title and a twisting ribbon/bird-like swarm."
+        },
+        {
+          "time": "3.2–5.8",
+          "action": "Platform colours and labels appear in the flow."
+        },
+        {
+          "time": "5.9–6.42",
+          "action": "Swarm opens and redistributes; enlarged f350–385 shows the change beginning."
+        },
+        {
+          "time": "6.65–8.5",
+          "action": "Communities and connecting edges become a readable network."
+        },
+        {
+          "time": "8.6–11.45",
+          "action": "Network reorganises into a time-series spike and callout."
+        },
+        {
+          "time": "11.5–12.9",
+          "action": "Recoil into ribbon; particles lock into the wordmark."
+        },
+        {
+          "time": "13–15.1",
+          "action": "Brand promise and credit resolve."
+        }
+      ],
+      "motionRecipe": "Give particles semantic destinations: message flow, community structure, time-series event, then identity. Keep enough spatial correspondence during redistribution that each scene feels made from the same material. Allow the network to stabilise before turning it into a chart.",
+      "useAndLimits": "Use for intelligence, analytics and data stories. Counter values are illustrative source content, not verified data. A random particle cloud under titles misses the central lesson."
+    },
+    {
+      "id": "REF-19",
+      "slug": "brand-identity-logo-to-application-montage",
+      "title": "Brand identity — logo to application montage",
+      "tags": [
+        "brand identity",
+        "logo morph",
+        "editorial application",
+        "typography",
+        "rapid montage"
+      ],
+      "artDirection": "Many distinct identity systems are shown through marks, photographs, packaging, print and type. Colour changes belong to actual project changes rather than arbitrary recolouring.",
+      "timeline": [
+        {
+          "time": "0–3.8",
+          "action": "Arrow fans, pixel A, rounded icon, globe and landscape identity."
+        },
+        {
+          "time": "3.8–8",
+          "action": "Print/policy applications, aerial image and search screen."
+        },
+        {
+          "time": "8–13.3",
+          "action": "Liquid-stripe A, Metaphor work, architectural LH and flyer/cards."
+        },
+        {
+          "time": "13.35–16",
+          "action": "Angular mark and photographic/typographic collage."
+        },
+        {
+          "time": "16–18.6",
+          "action": "EXPLORE compass → PLAN → AND → BOOK; glyph pieces become linework."
+        },
+        {
+          "time": "18.7–23.8",
+          "action": "Maxwell, yellow/green icon morphs, Iconic applications and Pager poster."
+        },
+        {
+          "time": "24–24.867",
+          "action": "Yellow arrow ending."
+        },
+        {
+          "time": "24.900–35.367",
+          "action": "Black frames through the end of the visual stream; source kept intact."
+        }
+      ],
+      "motionRecipe": "Show a mark generating a usable identity system. At f513–538, EXPLORE contracts, letters selectively disappear into PLAN and the remaining glyphs start a stepped line drawing. Shape logic links the typographic states; applications prove the identity beyond a logo.",
+      "useAndLimits": "Use for brand portfolios and identity films. Exclude the 10.5s black tail from creative pacing references; retain it in the source. Audio peaks/clipping also mean this is not a mastering target."
+    },
+    {
+      "id": "REF-20",
+      "slug": "orange-blue-motion-systems-type-particles-data",
+      "title": "Orange/blue — motion systems, particles and data",
+      "tags": [
+        "showreel",
+        "kinetic type",
+        "procedural grid",
+        "particles",
+        "data",
+        "wipes"
+      ],
+      "artDirection": "Orange, cobalt, cream and dark chapters; ball, type, grid, particle volume, data proof and elegant italic ribbon. Small frame/timing overlays make a technical lab identity.",
+      "timeline": [
+        {
+          "time": "0–1.85",
+          "action": "Squashed orange ball and full-frame expansion."
+        },
+        {
+          "time": "1.9–3.9",
+          "action": "TIMING / SPACING / EASING / RHYTHM, then staggered bar wipe."
+        },
+        {
+          "time": "4–5.4",
+          "action": "Orange and outlined cells perform a local wave/rotation."
+        },
+        {
+          "time": "5.5–7.1",
+          "action": "Pin light, particle FLOW word and dispersion."
+        },
+        {
+          "time": "7.4–9.1",
+          "action": "Sphere becomes a purple double-loop/knot."
+        },
+        {
+          "time": "9.1–9.58",
+          "action": "Blue/orange/cream vertical strips rise, cover and leave upward to reveal metrics."
+        },
+        {
+          "time": "9.6–10.9",
+          "action": "Numbers roll, charts draw and read."
+        },
+        {
+          "time": "10.95–13.05",
+          "action": "Horizontal orange wipe, italic everything moves and brief inversion/glitch."
+        },
+        {
+          "time": "13.1–15",
+          "action": "Identity assembles with orange period and final CTA."
+        }
+      ],
+      "motionRecipe": "Treat transitions as full compositions. In f540–575, strip heights are staggered on entry, briefly cover the field, then reveal the new scene from below as they continue upward. Overlap incoming count animation with the clearing strips so the reveal has momentum.",
+      "useAndLimits": "Use for a high-energy motion systems reel. Each chapter demonstrates an operation, not just a style name. The onscreen fps/frame/dropped metrics are source copy and are not validation results for our engine."
+    },
+    {
+      "id": "REF-21",
+      "slug": "minimal-light-ui-generate-player-chart-loop",
+      "title": "Minimal light UI — generate, player, chart loop",
+      "tags": [
+        "UI morph",
+        "light mode",
+        "interaction",
+        "functional states",
+        "seamless loop"
+      ],
+      "artDirection": "Warm light ground, black pills/cards and soft contact shadows, with a small gradient album tile. Cursor action drives component transitions around a consistent stage.",
+      "timeline": [
+        {
+          "time": "0–1.25",
+          "action": "Generate → compact loader → success tick."
+        },
+        {
+          "time": "1.25–2.2",
+          "action": "Success pill expands into mini-player and then player card."
+        },
+        {
+          "time": "2.2–4",
+          "action": "Player progresses then squeezes into the volume control."
+        },
+        {
+          "time": "4.1–6.1",
+          "action": "Scrub slider, then toggle state changes."
+        },
+        {
+          "time": "6.2–7.9",
+          "action": "Toggle stretches into tabs, then chart and growing metric."
+        },
+        {
+          "time": "8–9.6",
+          "action": "Cursor tooltip and Week selection update the data."
+        },
+        {
+          "time": "9.6–11.7",
+          "action": "Panel contracts, search grows, 'frame' is typed and a result chosen."
+        },
+        {
+          "time": "11.8–13.98",
+          "action": "Result becomes a pill, then Generate returns and the loop rests."
+        }
+      ],
+      "motionRecipe": "Animate the container dimensions/radius and the inner content on different offsets. At f107–119 the pill first gains height, the album tile grows, then title text resolves; transport controls enter after the card is established. Maintain the centre and shadow throughout.",
+      "useAndLimits": "Use for elegant software microinteractions. Make selected tabs and search results visibly affect content. Do not replace the sequence with crossfaded screenshots or add camera drift that prevents reading."
+    },
+    {
+      "id": "REF-22",
+      "slug": "distilbook-illustrated-saas-workflow-launch",
+      "title": "DistilBook — illustrated SaaS workflow launch",
+      "tags": [
+        "SaaS launch",
+        "logo-to-navigation",
+        "hand drawn",
+        "workflow",
+        "product proof"
+      ],
+      "artDirection": "White/navy type and three book spines in green, blue and pink. The books become workflow progress strips; the product's hand-illustrated output supplies the richer visual proof.",
+      "timeline": [
+        {
+          "time": "0–1.8",
+          "action": "Typographic promise about a teacher drawing the page."
+        },
+        {
+          "time": "1.95–3.6",
+          "action": "Three books drop into the identity and tagline."
+        },
+        {
+          "time": "3.6–4.17",
+          "action": "Wordmark clears, books separate, rotate and stretch into the top progress strips."
+        },
+        {
+          "time": "4.1–9.5",
+          "action": "Add material: file enters upload box and completes."
+        },
+        {
+          "time": "9.6–15.5",
+          "action": "Edit script: text changes, underline/highlight and approval state."
+        },
+        {
+          "time": "15.7–21.8",
+          "action": "Watch: plant grows from soil; arrows, water and text animate in sequence."
+        },
+        {
+          "time": "22–27.8",
+          "action": "Time promise, then real illustrated pages form a receding proof wall."
+        },
+        {
+          "time": "28–33.9",
+          "action": "Landscape/portrait window, language count and customer-logo demonstration."
+        },
+        {
+          "time": "34–39.98",
+          "action": "Spines reassemble identity; CTA lands and remains readable."
+        }
+      ],
+      "motionRecipe": "Turn identity into functional navigation. In f215–250 the book group survives the disappearing wordmark, separates and flattens into chapter bars while upload UI enters. At the end reverse that relationship. Show working states and actual output before the CTA.",
+      "useAndLimits": "Use for educational/SaaS launches and workflow explanation. Timing/language claims are unverified source marketing; use our own product evidence. The final reading hold is intentional and should not be mistaken for missing animation."
+    }
+  ]
+}

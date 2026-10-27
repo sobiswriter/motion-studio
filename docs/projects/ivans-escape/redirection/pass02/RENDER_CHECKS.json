@@ -1,0 +1,181 @@
+{
+  "graphics": "ANGLE",
+  "sections": [
+    {
+      "id": "IvansEscape-S01",
+      "globalStart": 0,
+      "exclusiveEnd": 300,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 145,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        20,
+        145
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "8cbb6cb1d0dde5ddf204c8aca1f793437f7ec34f428bf3bce1cfbaeef9860cd8"
+    },
+    {
+      "id": "IvansEscape-S02",
+      "globalStart": 300,
+      "exclusiveEnd": 600,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 445,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        320,
+        445
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "06e6d0518f199f38a51b2ee8b56e45adee047e6138df8ca26d17d013e65da6fe"
+    },
+    {
+      "id": "IvansEscape-S03",
+      "globalStart": 600,
+      "exclusiveEnd": 900,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 745,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        620,
+        745
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "5a1d6aaa11c057dbbf63523472bb79740ffece221839b91b6d2b854f59a44b1c"
+    },
+    {
+      "id": "IvansEscape-S04",
+      "globalStart": 900,
+      "exclusiveEnd": 1200,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 1045,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        920,
+        1045
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "7baa11f82051a8db935ecf58936da6b55d2406a9db5b98264e91a2cf258eafae"
+    },
+    {
+      "id": "IvansEscape-S05",
+      "globalStart": 1200,
+      "exclusiveEnd": 1500,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 1345,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        1270,
+        1295,
+        1320,
+        1345
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "b6d5ab4e5131019d03f0ec820c28ec396da9ccc4176c824a8e4e6ff75764a495"
+    },
+    {
+      "id": "IvansEscape-S06",
+      "globalStart": 1500,
+      "exclusiveEnd": 1800,
+      "frames": [
+        0,
+        20,
+        45,
+        70,
+        95,
+        120,
+        145,
+        170,
+        195,
+        220,
+        245,
+        270,
+        299
+      ],
+      "deterministicFrame": 1645,
+      "clipRendered": true,
+      "masterComparisonFrames": [
+        1520,
+        1645
+      ],
+      "decodedFrames": 300,
+      "clipSha256": "7566d5de026764f39a0e4b08ccdf47a8ce885d67aad874975ba01902ea2ed3c2"
+    }
+  ],
+  "browserErrors": [],
+  "captionPages": 26,
+  "fullResolutionExport": false,
+  "renderCondition": "Fresh Chromium before each still group and clip, one video worker; a reused multi-worker session previously crashed the GPU process.",
+  "masterComparisonsPassed": 14,
+  "everyFrameDecoded": 1800
+}

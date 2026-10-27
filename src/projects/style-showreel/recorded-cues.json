@@ -1,0 +1,149 @@
+{
+  "duration": 60,
+  "keep_audio": false,
+  "base_audio": [
+    "src/projects/style-showreel/assets/audio/music.wav",
+    "src/projects/style-showreel/assets/audio/procedural-effects.wav"
+  ],
+  "cues": [
+    {
+      "t": 33.18,
+      "label": "Paper / print transition",
+      "file": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "role": "paper",
+      "anchor": "start",
+      "gain_db": -8,
+      "max_dur": 0.6,
+      "highpass": 150
+    },
+    {
+      "t": 36.12,
+      "label": "Paper / print transition",
+      "file": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "role": "paper",
+      "anchor": "start",
+      "gain_db": -8,
+      "max_dur": 0.6,
+      "highpass": 150
+    },
+    {
+      "t": 42.15,
+      "label": "Paper / print transition",
+      "file": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "role": "paper",
+      "anchor": "start",
+      "gain_db": -8,
+      "max_dur": 0.6,
+      "highpass": 150
+    },
+    {
+      "t": 45.12,
+      "label": "Paper / print transition",
+      "file": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "role": "paper",
+      "anchor": "start",
+      "gain_db": -8,
+      "max_dur": 0.6,
+      "highpass": 150
+    },
+    {
+      "t": 27.2,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 27.349999999999998,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 27.5,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 27.65,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 27.8,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 27.95,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 28.099999999999998,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 28.25,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    },
+    {
+      "t": 28.4,
+      "label": "ASCII keyboard",
+      "file": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "role": "click",
+      "anchor": "start",
+      "gain_db": -13,
+      "start": 0,
+      "end": 0.18,
+      "max_dur": 0.18
+    }
+  ]
+}

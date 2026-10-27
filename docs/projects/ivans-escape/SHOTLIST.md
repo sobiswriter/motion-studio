@@ -1,0 +1,45 @@
+# Ivan's Escape — implemented shot list
+
+Exactly 1800 frames / 60 seconds at 30 fps, 1920×1080. Ranges are exclusive at the end. Every shot is active in the IvansEscape composition; the pilot uses the identical first six definitions. No transition adds runtime. Full numeric layer placement and all camera/spatial keys: [production/SHOT_CONFIGURATION.json](production/SHOT_CONFIGURATION.json), generated from film-shots.ts.
+
+| Shot                          | Frames      | Mode           | Action / transition                                                                                                                                                                                               |
+| ----------------------------- | ----------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SH01 — SYSTEM BOOT            | [0,60)      | flat-2d        | Black-blue field; faint coordinate grid; lower-left initialization and loading bar. Geometry match cut at 60: grid road guides align to ENV01; no overlap.                                                        |
+| SH02 — WORLD INITIALIZED      | [60,180)    | multiplane-2d  | High oblique aerial city; symmetrical masses; straight central road, haze; tiny Ivan marker. Hard road-axis match cut at 180 to ground-level ENV02; preserve center x=960.                                        |
+| SH03 — DAILY ROUTINE          | [180,270)   | multiplane-2d  | Ivan centered with grounded feet; four subdued synchronized commuters; foreground object. Circular road/graphic marker matches clock face at 270.                                                                 |
+| SH04 — PROGRAMMED TIME        | [270,360)   | flat-2d        | Large centered mechanical-style vector clock, dim rings, sparse timing annotations. Sharp cut at 360 when hand returns to starting angle.                                                                         |
+| SH05 — REFLECTION ANOMALY     | [360,450)   | multiplane-2d  | Ivan before glass; independently staged reflection and reflected commuters. Hard cut at 450 to foot close-up.                                                                                                     |
+| SH06 — FIRST DISOBEDIENCE     | [450,540)   | flat-2d        | Worn sneaker, white path boundary, dark pavement and subtle marker. Hard cut at 540; SH07 must reproduce SH03 initial framing.                                                                                    |
+| SH07 — DUPLICATE              | [540,630)   | multiplane-2d  | Exact SH03 initial framing. Same Ivan walking artwork now belongs to duplicate; real Ivan partly in foreground. Tracking rectangle geometrically expands into SH08 warning composition at 630; no timing overlap. |
+| SH08 — SYSTEM CONFLICT        | [630,720)   | multiplane-2d  | Existing street stays visible; three architectural/duplicate warning rectangles. Vertical architecture edge matches start of SH09 wireframe at 720.                                                               |
+| SH09 — CODE EXPOSED           | [720,810)   | multiplane-2d  | Ivan runs in narrow corridor; ~12 facade regions reveal underlying perspective lines. A revealed perspective line connects to SH10 road at 810.                                                                   |
+| SH10 — END OF THE ROAD        | [810,900)   | multiplane-2d  | Road reaches impossible geometric termination; Ivan approaches and slows; no falling. Proposed 2-frame motivated black cut inside SH10 at [898,900), then close-up; approval pending.                             |
+| SH11 — ANOTHER IVAN           | [900,990)   | flat-2d        | Large portrait; second exact copy initially reads as reflection then shifts independently. Direct cut at 990 to Ivan walking away.                                                                                |
+| SH12 — REFUSAL                | [990,1080)  | multiplane-2d  | Rear Ivan continues toward boundary without looking back. Fragments align with SH13 world-grid lines at 1080.                                                                                                     |
+| SH13 — GRID DISINTEGRATION    | [1080,1170) | image-plane-3d | Road texture divided into 6 rows × 9 columns; original artwork retained on all 54 pieces. Remaining strips connect to SH14 architectural fragments at 1170.                                                       |
+| SH14 — REALITY FRACTURE       | [1170,1260) | image-plane-3d | Large illustrated architectural planes split left/right; pale opening behind Ivan. Cut at 1260 into instrumental section.                                                                                         |
+| SH15 — CORRUPTED MEMORY       | [1260,1350) | flat-2d        | Reuse approved SH03, SH05, SH07, SH11 compositions, in that order. Direct cut at 1350; no prolonged flashing.                                                                                                     |
+| SH16 — INFINITE IVANS         | [1350,1440) | multiplane-2d  | Same rear silhouette repeated: 3 copies growing to ~18 in staggered depth rows. Cut at 1440 into collapsing architecture.                                                                                         |
+| SH17 — ARCHITECTURAL COLLAPSE | [1440,1530) | image-plane-3d | Three large textured spatial planes, reused environment sections. Architectural fragments frame central seam in SH18 at 1530.                                                                                     |
+| SH18 — EXIT                   | [1530,1620) | image-plane-3d | Central vertical seam opens onto pale outside; rear Ivan in gap. Cut at 1620 to outside-world wide shot.                                                                                                          |
+| SH19 — GOODBYE / SERIES TITLE | [1620,1800) | multiplane-2d  | [1620,1722): open landscape/rear Ivan. [1722,1779): dark title. [1779,1800): final message. Film ends at exclusive frame 1800; no extra frames.                                                                   |
+
+## Authored internal events
+
+- SH01 grid [0,11), loading [10,46), stepped initialization text at 12/24; tracking [45,60). Locked camera.
+- SH02 camera local 0→119, zoom 1→1.25, pivot (960,300), translation zero, smoothstep. Layers share 2880×1620 source coordinates, position (-480,-44) to register this production painting's high vanishing point. Clean backing/sky .08, distant .30, road 1, middle .65, near 1.10 parallax. Reticle at x960, y300+390×zoom. City style-v01 remains an unused earlier reference.
+- SH03 environment track 50px, hero camera-follow, 12-frame cels, four regular silhouette paths, near layer factor1.4, bollard1.7. SH07 begins from precisely the same camera and walking-cel layout.
+- SH04 hand 0→360 degrees over local0→89; fixed9-frame secondary steps; camera zoom1→1.08.
+- SH05 real head-turn global398; reflected turn406: exactly8 frames later. Reflection shift global407–408 then restore409. Glass-frame alpha sits above reflected layers and below foreground Ivan.
+- SH06 shoe translation local30→59/global480→509; fracture begins global510; camera1→1.18. Sole baseline matches processed shoe y800.
+- SH07 duplicate displacement12px at local41–42; SH08 selected facade strip20px local31–33, then restored.
+- SH09 twelve facade strips expose the supplied perspective wireframe. SH10 black punctuation is exactly [898,900), deliberately inside its own duration. Ivan never falls.
+- SH11 two uses of the identical portrait source; second develops an independent105px translation. SH12 reticle loses tracking at1035 and separates into six segments.
+- SH13 6×9 illustrated road regions, individually keyed in x/y and z; same central Ivan image remains. SH14 illustrated walls separate to expose the pale plate. No cubes, physics or particles.
+- SH15 memory cuts global1260/1286/1302/1330/1350: fragments26/16/28/20 frames, selected near measured positive RMS rises at42.86/43.40/44.32s. Reuses actual SH03/05/07/11 at declared source frames, not a replacement scene. These are signal-derived edit cues, not verified lyric onsets.
+- SH16 three initial images increase to eighteen, then fade into an outline derived from the exact same rear alpha. SH17 three structural image planes have distinct translation and rotation keys; roll is omitted (optional).
+- SH18 the two illustrated halves leave along a central vertical seam; all system graphics stop. SH19 outside [1620,1722), title [1722,1779), final message [1779,1800).
+
+## Rendering semantics
+
+2D layers use native CSS transforms/Remotion cels. ThreeCanvas runs only for SH13/14/17/18. Camera starts at (0,0,1158), fov50; spatial() compensates plane dimensions for initial authored depth. Pose, camera, opacity, masks, depth and rotations depend solely on the requested frame. A plane may rotate modestly but never present an unfinished reverse side or an edge-on empty world.

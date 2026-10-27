@@ -1,0 +1,26 @@
+{
+  "source": "assets/Music/The_Golden_Hour_Rise.mp3",
+  "output": "assets/audio/music-edit.wav",
+  "fps": 60,
+  "duration": 60,
+  "crossfadeSeconds": 0.04,
+  "gainDb": -4,
+  "sections": [
+    {
+      "sourceIn": 0.45,
+      "sourceOut": 6.49,
+      "outputIn": 0
+    },
+    {
+      "sourceIn": 18.03,
+      "sourceOut": 67.07,
+      "outputIn": 6
+    },
+    {
+      "sourceIn": 81.036,
+      "sourceOut": 86.036,
+      "outputIn": 55
+    }
+  ],
+  "excludedSource": "Ivan_Is_Loading.mp3"
+}

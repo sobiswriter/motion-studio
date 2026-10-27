@@ -1,0 +1,388 @@
+{
+  "duration": 120,
+  "keep_audio": false,
+  "music_ref": "src/projects/portfolio-film/assets/audio/music-edit.wav",
+  "base_audio": [
+    "src/projects/portfolio-film/assets/audio/music-edit.wav"
+  ],
+  "cues": [
+    {
+      "t": 0.8166666666666667,
+      "frame": 49,
+      "label": "Opening / BOUND BY lands",
+      "file": "src/projects/portfolio-film/assets/audio/effects/type-flick.wav",
+      "role": "whoosh",
+      "gain_db": -8,
+      "anchor": "peak"
+    },
+    {
+      "t": 2.7666666666666666,
+      "frame": 166,
+      "label": "Opening / Souradip Biswas settles",
+      "file": "src/projects/portfolio-film/assets/audio/effects/land-light_1.wav",
+      "role": "hit",
+      "gain_db": -15,
+      "anchor": "peak"
+    },
+    {
+      "t": 5.266666666666667,
+      "frame": 316,
+      "label": "Opening / personal universe resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/particle-breath.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 6,
+      "frame": 360,
+      "label": "Particles / title gives way to the real universe",
+      "file": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 16,
+      "frame": 960,
+      "label": "Liquid / the galaxy becomes the overview",
+      "file": "src/projects/portfolio-film/assets/audio/effects/liquid-bubble.wav",
+      "role": "water",
+      "gain_db": -3,
+      "anchor": "peak"
+    },
+    {
+      "t": 25,
+      "frame": 1500,
+      "label": "Kinetic / WORK occludes the old scene",
+      "file": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_2.wav",
+      "role": "whoosh",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 25.616666666666667,
+      "frame": 1537,
+      "label": "Ideas / scale landing",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -8,
+      "anchor": "peak"
+    },
+    {
+      "t": 27,
+      "frame": 1620,
+      "label": "Built for the real world / final phrase",
+      "file": "src/projects/portfolio-film/assets/audio/effects/block-punch.wav",
+      "role": "hit",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 29,
+      "frame": 1740,
+      "label": "Bauhaus / project grid locks",
+      "file": "src/projects/portfolio-film/assets/audio/effects/wood.mp3",
+      "role": "thump",
+      "gain_db": -9,
+      "anchor": "peak",
+      "highpass": 150,
+      "fade_out": 0.05
+    },
+    {
+      "t": 33.6,
+      "frame": 2016,
+      "label": "LaunchSILO / actual project enters the frame",
+      "file": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -11,
+      "anchor": "peak",
+      "highpass": 180,
+      "fade_out": 0.07
+    },
+    {
+      "t": 36,
+      "frame": 2160,
+      "label": "Kinetic / SYSTEMS opens the detail",
+      "file": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 38,
+      "frame": 2280,
+      "label": "Project detail / capability line resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 39.4,
+      "frame": 2364,
+      "label": "Project detail / capability line resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 40.8,
+      "frame": 2448,
+      "label": "Project detail / capability line resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_3.wav",
+      "role": "click",
+      "gain_db": -4,
+      "anchor": "peak"
+    },
+    {
+      "t": 43,
+      "frame": 2580,
+      "label": "Kinetic / THINK begins the test-build passage",
+      "file": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_3.wav",
+      "role": "whoosh",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 44.016666666666666,
+      "frame": 2641,
+      "label": "AI / THINK becomes a row",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_2.wav",
+      "role": "click",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 44.766666666666666,
+      "frame": 2686,
+      "label": "AI / TEST becomes a row",
+      "file": "src/projects/portfolio-film/assets/audio/effects/key_2.wav",
+      "role": "click",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 45.516666666666666,
+      "frame": 2731,
+      "label": "AI / BUILD completes the stack",
+      "file": "src/projects/portfolio-film/assets/audio/effects/block-punch.wav",
+      "role": "hit",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 47,
+      "frame": 2820,
+      "label": "Brutal / questions become actual AI work",
+      "file": "src/projects/portfolio-film/assets/audio/effects/flap-curtain.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 50,
+      "frame": 3000,
+      "label": "AI / notebook moves into view",
+      "file": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -12,
+      "anchor": "peak",
+      "highpass": 180,
+      "fade_out": 0.07
+    },
+    {
+      "t": 55,
+      "frame": 3300,
+      "label": "Comic / research panels unfold",
+      "file": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -10,
+      "anchor": "peak",
+      "highpass": 180,
+      "fade_out": 0.07
+    },
+    {
+      "t": 59,
+      "frame": 3540,
+      "label": "Research / publication and conference cards settle",
+      "file": "src/projects/portfolio-film/assets/audio/effects/key_3.wav",
+      "role": "click",
+      "gain_db": -12,
+      "anchor": "peak"
+    },
+    {
+      "t": 64,
+      "frame": 3840,
+      "label": "Kinetic / BEYOND fills the frame",
+      "file": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -3,
+      "anchor": "peak"
+    },
+    {
+      "t": 65.01666666666667,
+      "frame": 3901,
+      "label": "Tools / know the tools phrase resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/key_5.wav",
+      "role": "click",
+      "gain_db": -1,
+      "anchor": "peak"
+    },
+    {
+      "t": 66.58333333333333,
+      "frame": 3995,
+      "label": "Tools / build beyond them lands",
+      "file": "src/projects/portfolio-film/assets/audio/effects/type-flick.wav",
+      "role": "whoosh",
+      "gain_db": -9,
+      "anchor": "peak"
+    },
+    {
+      "t": 68,
+      "frame": 4080,
+      "label": "Bauhaus / tool geometry reveals the actual skills",
+      "file": "src/projects/portfolio-film/assets/audio/effects/wood.mp3",
+      "role": "thump",
+      "gain_db": -1,
+      "anchor": "peak",
+      "highpass": 150,
+      "fade_out": 0.05
+    },
+    {
+      "t": 73.5,
+      "frame": 4410,
+      "label": "Skills / languages and tools move into view",
+      "file": "src/projects/portfolio-film/assets/audio/effects/keyboard.mp3",
+      "role": "click",
+      "gain_db": -12,
+      "anchor": "peak",
+      "slice": [
+        0,
+        0.23
+      ],
+      "fade_out": 0.04
+    },
+    {
+      "t": 77,
+      "frame": 4620,
+      "label": "Particles / skills give way to experience",
+      "file": "src/projects/portfolio-film/assets/audio/effects/particle-breath.wav",
+      "role": "whoosh",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 79.25,
+      "frame": 4755,
+      "label": "Experience / first timeline card resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/key_1.wav",
+      "role": "click",
+      "gain_db": -12,
+      "anchor": "peak"
+    },
+    {
+      "t": 83.4,
+      "frame": 5004,
+      "label": "Experience / next group of cards resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/key_4.wav",
+      "role": "click",
+      "gain_db": -13,
+      "anchor": "peak"
+    },
+    {
+      "t": 87,
+      "frame": 5220,
+      "label": "Liquid / the work becomes a person",
+      "file": "src/projects/portfolio-film/assets/audio/effects/liquid-bubble.wav",
+      "role": "water",
+      "gain_db": -1,
+      "anchor": "peak"
+    },
+    {
+      "t": 88.3,
+      "frame": 5298,
+      "label": "Person / portrait turns toward the viewer",
+      "file": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "role": "paper",
+      "gain_db": -13,
+      "anchor": "peak",
+      "highpass": 180,
+      "fade_out": 0.07
+    },
+    {
+      "t": 95.9,
+      "frame": 5754,
+      "label": "Person / badge turns to the other side",
+      "file": "src/projects/portfolio-film/assets/audio/effects/flap-curtain.wav",
+      "role": "whoosh",
+      "gain_db": -6,
+      "anchor": "peak"
+    },
+    {
+      "t": 97,
+      "frame": 5820,
+      "label": "Kinetic / STILL opens the human chapter",
+      "file": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_1.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 98.95,
+      "frame": 5937,
+      "label": "Human / STILL BECOMING settles",
+      "file": "src/projects/portfolio-film/assets/audio/effects/land-light_2.wav",
+      "role": "hit",
+      "gain_db": -11,
+      "anchor": "peak"
+    },
+    {
+      "t": 101,
+      "frame": 6060,
+      "label": "Brutal / the contact road opens",
+      "file": "src/projects/portfolio-film/assets/audio/effects/block-punch.wav",
+      "role": "hit",
+      "gain_db": -12,
+      "anchor": "peak"
+    },
+    {
+      "t": 110,
+      "frame": 6600,
+      "label": "Kinetic / NEXT becomes an invitation",
+      "file": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak"
+    },
+    {
+      "t": 111.18333333333334,
+      "frame": 6671,
+      "label": "Closing / let us build what is next resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/type-flick.wav",
+      "role": "whoosh",
+      "gain_db": -11,
+      "anchor": "peak"
+    },
+    {
+      "t": 114.96666666666667,
+      "frame": 6898,
+      "label": "Closing / Souradip Biswas identity settles",
+      "file": "src/projects/portfolio-film/assets/audio/effects/tock_1.wav",
+      "role": "click",
+      "gain_db": -11,
+      "anchor": "peak"
+    },
+    {
+      "t": 117.1,
+      "frame": 7026,
+      "label": "Closing / sobi.codes resolves",
+      "file": "src/projects/portfolio-film/assets/audio/effects/signature-swell.wav",
+      "role": "whoosh",
+      "gain_db": -10,
+      "anchor": "peak",
+      "fade_out": 0.18
+    }
+  ]
+}

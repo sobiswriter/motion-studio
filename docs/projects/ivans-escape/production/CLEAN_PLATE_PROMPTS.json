@@ -1,0 +1,23 @@
+[
+  {
+    "id": "env01-clean",
+    "prompt": "Use case: precise-object-edit. Input image is edit target for a motion-compositing clean backing plate. Preserve exact canvas, central road position, horizon, perspective, distant buildings, fog, light and painterly texture. Remove only the nearest very large foreground apartment blocks at extreme left and right (outer thirds, including their roofs). Fill the removed areas with plausible SMALLER DISTANT repeated concrete buildings and haze continuous with the existing middle distance. Keep the entire central roadway unchanged and intact. No new near objects, no people, no lettering. This is the backing plate behind separately extracted foreground towers, so the removed towers must not remain duplicated. Wide16:9.",
+    "tool": "built-in imagegen",
+    "sourceImage": "env01-city",
+    "output": "Generated images are saved to C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680 as C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680\\exec-3531134e-1105-4bc5-b521-c6769ccbbffb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "env02-clean",
+    "prompt": "Use case: precise-object-edit. Input image is the edit target, an empty brutalist street. Create an exact-perspective clean backing plate. Preserve the central road, horizon, distant buildings, scale, camera and lighting. Remove the nearest enormous concrete pillars/wall portions in the outermost left 18 percent and right 18 percent. Seamlessly fill their former footprint with more distant recessed facade and sidewalk continuing existing architecture. Do not alter the central 60 percent. No added humans or vehicles or text. No new near pillars. Keep same wide canvas.",
+    "tool": "built-in imagegen",
+    "sourceImage": "env02-street",
+    "output": "Generated images are saved to C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680 as C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680\\exec-8b36e1cc-f969-483f-b737-0dbdf7a7a1dc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  },
+  {
+    "id": "env05-void",
+    "prompt": "Use case: precise-object-edit. Edit target is this exact brutalist boundary scene. Remove the ENTIRE central foreground road and its low side curbs, from its far cut edge all the way to bottom edge. Replace all removed road pixels with a continuous deep blue-black foggy abyss, same palette and atmospheric perspective as the existing void. Preserve the far surrounding towers and extreme left/right tall walls, lighting, camera, canvas, textures. There must be absolutely no visible foreground road, bridge, platform or horizontal floor anywhere. A clean dark void behind the detached road image plates for compositing. No people, no text, no glowing objects.",
+    "tool": "built-in imagegen",
+    "sourceImage": "env05-boundary",
+    "output": "Generated images are saved to C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680 as C:\\Users\\soura\\.codex\\generated_images\\01a16c3c-0c6d-7a61-8b8c-3b880ea36680\\exec-9503cd8c-ddae-434a-bbb6-b77105984b59.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+  }
+]

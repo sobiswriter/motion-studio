@@ -1,0 +1,130 @@
+[
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/boundary.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "f23624ecd60f84a5df1d18ae2fe87db2b1ca16b04f25b6665c271841eacd067a",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/corridor.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "58640f0afaddf8aa8e32dca2d2b64bdf71e96b4941ea14efaf5a535480b7ab7e",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/eye-insert.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "8d3622e997c1cc8cd9814d810902c3bdb4b5fea5c375c8a68848f8e3f0fd3fc2",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/foreground.png",
+    "nativeWidth": 940,
+    "nativeHeight": 1672,
+    "hasAlpha": true,
+    "sha256": "eab5d96c93ac462e173ce2598c641fd0d0532da52a3cb0409a5918c1ff50ca8d",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/glass.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "e29f7f55f9ab05a28289af393bc70a0b382fb3e1609f1b7c41a5ba8185df45fb",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-hand.png",
+    "nativeWidth": 1536,
+    "nativeHeight": 1024,
+    "hasAlpha": true,
+    "sha256": "30d524f992bcd33dab296432b05b1978920420f07484bfc1844b0ea7df5609d4",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-leap.png",
+    "nativeWidth": 1536,
+    "nativeHeight": 1024,
+    "hasAlpha": true,
+    "sha256": "958ab525801e3bd715945b1d95b2528f8e1918e29425b519539442be22b35ff9",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-model.png",
+    "nativeWidth": 1536,
+    "nativeHeight": 1024,
+    "hasAlpha": true,
+    "sha256": "c4e56261870c0ca2c081adaa7d08323b11603e3bc0e70d115d2c01319667e024",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-portraits.png",
+    "nativeWidth": 1254,
+    "nativeHeight": 1254,
+    "hasAlpha": true,
+    "sha256": "b633988f4792bddfcb7b33bde5ddc2ed899f85f95eb5259749d5ff4763b47b02",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-run.png",
+    "nativeWidth": 1774,
+    "nativeHeight": 887,
+    "hasAlpha": true,
+    "sha256": "52020873599df2b743a70f653ab0fdd1b979fbf271f0d3273cd56adfc8641f30",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-shoe.png",
+    "nativeWidth": 2172,
+    "nativeHeight": 724,
+    "hasAlpha": true,
+    "sha256": "4b8369936c1a510d3710a998dbb78bab52d84f336a3bf36db23df4fad58af98c",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/ivan-walk.png",
+    "nativeWidth": 1536,
+    "nativeHeight": 1024,
+    "hasAlpha": true,
+    "sha256": "1a972fcf7e65b0044350baaef2ed95bc180ac9ee3bb312953a11ba3e61ef7b88",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/outside.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "a5b3dec8b7a3e4b3505fc6227d08d722e48957e8ddd8f4227a63af06d18159e5",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/pavement.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "101bda18287e9bd47c7962d41ac7579fd18e6724512d1e5de1c86073afc1f0cc",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/streaks.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": true,
+    "sha256": "7203c620fd6a47d000895e5b9b548eeb101047f1e7be772d7cf952748fa0cb73",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  },
+  {
+    "path": "public/projects/ivans-escape/illustrated/source/street.png",
+    "nativeWidth": 1672,
+    "nativeHeight": 941,
+    "hasAlpha": false,
+    "sha256": "da7a6e3558fce90f3bf059ed8b02542aec416550c1baecfb7b4def7312b8ddb2",
+    "method": "built-in imagegen; see IMAGE_PROMPTS.json"
+  }
+]

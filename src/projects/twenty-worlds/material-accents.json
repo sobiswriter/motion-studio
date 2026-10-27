@@ -1,0 +1,1077 @@
+[
+  {
+    "name": "particle-breath",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav: reverse_swell/breath seed 261026: 1.240 s, onset 0.115 s, peak at 0.707 s, end 1.153 s, -1.0 dBFS, -14.8 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav",
+    "meta": {
+      "id": "reverse_swell/breath",
+      "seed": 261026,
+      "sr": 48000,
+      "onset_s": 0.1152,
+      "peak_s": 0.7065,
+      "end_s": 1.153,
+      "dur_s": 1.24,
+      "peak_db": -1.0,
+      "lufs_m_max": -14.85,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "reverse_swell/breath: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -140.5,
+          "ring_z": 4.0,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 1.5,
+          "attack_ms": 10.0,
+          "t40_ms": 370.0,
+          "crest_db": 10.6,
+          "res_db": 2.6,
+          "res_hz": 2296,
+          "peak_dbfs": -1.0,
+          "live_ms": 893.5
+        },
+        "glide": {
+          "tonal_share": 0.6,
+          "rise_st": 1.9,
+          "from_s": 0.791,
+          "to_s": 0.826
+        },
+        "layers": {
+          "attacks": [
+            0.698
+          ],
+          "count": 1,
+          "pre_swell_ms": 475.0
+        },
+        "context": {
+          "category": "reverse_swell",
+          "sound": "reverse_swell/breath"
+        }
+      }
+    }
+  },
+  {
+    "name": "liquid-bubble",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav: drip/bubble seed 261027: 0.277 s, onset 0.000 s, peak at 0.013 s, end 0.215 s, -1.0 dBFS, -14.8 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav",
+    "meta": {
+      "id": "drip/bubble",
+      "seed": 261027,
+      "sr": 48000,
+      "onset_s": 0.0,
+      "peak_s": 0.0135,
+      "end_s": 0.215,
+      "dur_s": 0.2772,
+      "peak_db": -1.0,
+      "lufs_m_max": -14.75,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "drip/bubble: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -124.8,
+          "ring_z": 3.2,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 6.75,
+          "t40_ms": 160.0,
+          "crest_db": 7.2,
+          "res_db": 12.6,
+          "res_hz": 1345,
+          "peak_dbfs": -1.0,
+          "live_ms": 159.75
+        },
+        "glide": {
+          "tonal_share": 0.96,
+          "rise_st": 0.2,
+          "from_s": 0.046,
+          "to_s": 0.071
+        },
+        "layers": {
+          "attacks": [
+            0.022
+          ],
+          "count": 1,
+          "pre_swell_ms": 0.0
+        },
+        "context": {
+          "category": "drip",
+          "sound": "drip/bubble"
+        }
+      }
+    }
+  },
+  {
+    "name": "holo-shimmer",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/holo-shimmer.wav: pro_shimmer/m0 seed 261028: 1.950 s, onset 0.129 s, peak at 0.979 s, end 1.826 s, -1.0 dBFS, -16.7 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/holo-shimmer.wav",
+    "meta": {
+      "id": "pro_shimmer/m0",
+      "seed": 261028,
+      "sr": 48000,
+      "onset_s": 0.1285,
+      "peak_s": 0.9785,
+      "end_s": 1.826,
+      "dur_s": 1.95,
+      "peak_db": -1.0,
+      "lufs_m_max": -16.7,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [
+          {
+            "code": "tail",
+            "msg": "the tail rises again by 9 dB (a second event, a roll or a double member)"
+          }
+        ],
+        "summary": "pro_shimmer/m0: clean (the tail rises again by 9 dB (a second event, a roll or a double member))",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -111.9,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -221.1,
+          "ring_z": 11.0,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 9.3,
+          "attack_ms": 3.0,
+          "t40_ms": 790.0,
+          "crest_db": 10.9,
+          "res_db": 20.3,
+          "res_hz": 3974,
+          "peak_dbfs": -1.0,
+          "live_ms": 1387.75
+        },
+        "glide": {
+          "tonal_share": 0.34,
+          "rise_st": 0.1,
+          "from_s": 0.666,
+          "to_s": 0.676
+        },
+        "layers": {
+          "attacks": [
+            0.833,
+            0.988,
+            1.117
+          ],
+          "count": 3,
+          "pre_swell_ms": 645.0
+        },
+        "context": {
+          "category": "pro_shimmer",
+          "sound": "pro_shimmer/m0"
+        }
+      }
+    }
+  },
+  {
+    "name": "neon-chirp",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/neon-chirp.wav: glitch/chirp seed 261029: 0.407 s, onset 0.072 s, peak at 0.076 s, end 0.283 s, -1.0 dBFS, -18.6 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/neon-chirp.wav",
+    "meta": {
+      "id": "glitch/chirp",
+      "seed": 261029,
+      "sr": 48000,
+      "onset_s": 0.072,
+      "peak_s": 0.0765,
+      "end_s": 0.283,
+      "dur_s": 0.4073,
+      "peak_db": -1.0,
+      "lufs_m_max": -18.62,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [
+          {
+            "code": "silence",
+            "msg": "13 ms of digital silence inside"
+          }
+        ],
+        "summary": "glitch/chirp: clean (13 ms of digital silence inside)",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -219.4,
+          "ring_z": 11.2,
+          "trunc_db": null,
+          "silence_ms": 13.1,
+          "bump_db": 1.2,
+          "attack_ms": 2.25,
+          "t40_ms": 210.0,
+          "crest_db": 11.6,
+          "res_db": 16.6,
+          "res_hz": 5620,
+          "peak_dbfs": -1.0,
+          "live_ms": 179.75
+        },
+        "glide": {
+          "tonal_share": 0.44,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.083
+          ],
+          "count": 1,
+          "pre_swell_ms": 5.0
+        },
+        "context": {
+          "category": "glitch",
+          "sound": "glitch/chirp"
+        }
+      }
+    }
+  },
+  {
+    "name": "wire-latch",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/wire-latch.wav: shutter/quick seed 261030: 0.162 s, onset 0.000 s, peak at 0.024 s, end 0.109 s, -1.0 dBFS, -22.6 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/wire-latch.wav",
+    "meta": {
+      "id": "shutter/quick",
+      "seed": 261030,
+      "sr": 48000,
+      "onset_s": 0.0,
+      "peak_s": 0.0235,
+      "end_s": 0.109,
+      "dur_s": 0.1624,
+      "peak_db": -1.0,
+      "lufs_m_max": -22.65,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "shutter/quick: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -87.2,
+          "ring_z": 7.9,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 1.5,
+          "t40_ms": 90.0,
+          "crest_db": 15.0,
+          "res_db": 16.2,
+          "res_hz": 2045,
+          "peak_dbfs": -1.0,
+          "live_ms": 64.25
+        },
+        "glide": {
+          "tonal_share": 0.3,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.033
+          ],
+          "count": 1,
+          "pre_swell_ms": 0.0
+        },
+        "context": {
+          "category": "shutter",
+          "sound": "shutter/quick"
+        }
+      }
+    }
+  },
+  {
+    "name": "glass-touch",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/glass-touch.wav: tap/glass seed 261031: 0.152 s, onset 0.001 s, peak at 0.004 s, end 0.092 s, -1.0 dBFS, -24.9 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/glass-touch.wav",
+    "meta": {
+      "id": "tap/glass",
+      "seed": 261031,
+      "sr": 48000,
+      "onset_s": 0.0012,
+      "peak_s": 0.0045,
+      "end_s": 0.092,
+      "dur_s": 0.1525,
+      "peak_db": -1.0,
+      "lufs_m_max": -24.86,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "tap/glass: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -79.3,
+          "ring_z": 5.3,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 1.75,
+          "t40_ms": 70.0,
+          "crest_db": 17.1,
+          "res_db": 3.8,
+          "res_hz": 504,
+          "peak_dbfs": -1.0,
+          "live_ms": 33.25
+        },
+        "glide": {
+          "tonal_share": 1.0,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.013
+          ],
+          "count": 1,
+          "pre_swell_ms": 0.0
+        },
+        "context": {
+          "category": "tap",
+          "sound": "tap/glass"
+        }
+      }
+    }
+  },
+  {
+    "name": "type-flick",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav: swish/flick seed 261032: 0.310 s, onset 0.003 s, peak at 0.111 s, end 0.246 s, -1.0 dBFS, -19.5 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav",
+    "meta": {
+      "id": "swish/flick",
+      "seed": 261032,
+      "sr": 48000,
+      "onset_s": 0.0032,
+      "peak_s": 0.1105,
+      "end_s": 0.246,
+      "dur_s": 0.31,
+      "peak_db": -1.0,
+      "lufs_m_max": -19.48,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "swish/flick: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -114.1,
+          "ring_z": 7.9,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 9.5,
+          "t40_ms": 110.0,
+          "crest_db": 12.7,
+          "res_db": 6.0,
+          "res_hz": 3064,
+          "peak_dbfs": -1.0,
+          "live_ms": 191.0
+        },
+        "glide": {
+          "tonal_share": 0.1,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.113
+          ],
+          "count": 1,
+          "pre_swell_ms": 85.0
+        },
+        "context": {
+          "category": "swish",
+          "sound": "swish/flick"
+        }
+      }
+    }
+  },
+  {
+    "name": "clay-contact",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/clay-contact.wav: knock/plastic seed 261033: 0.147 s, onset 0.003 s, peak at 0.052 s, end 0.112 s, -1.0 dBFS, -23.4 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/clay-contact.wav",
+    "meta": {
+      "id": "knock/plastic",
+      "seed": 261033,
+      "sr": 48000,
+      "onset_s": 0.0032,
+      "peak_s": 0.0525,
+      "end_s": 0.112,
+      "dur_s": 0.1472,
+      "peak_db": -1.0,
+      "lufs_m_max": -23.42,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "knock/plastic: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -112.5,
+          "ring_z": null,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 3.0,
+          "t40_ms": 60.0,
+          "crest_db": 15.7,
+          "res_db": 9.1,
+          "res_hz": 3697,
+          "peak_dbfs": -1.0,
+          "live_ms": 53.75
+        },
+        "glide": {
+          "tonal_share": 0.7,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.062
+          ],
+          "count": 1,
+          "pre_swell_ms": 30.0
+        },
+        "context": {
+          "category": "knock",
+          "sound": "knock/plastic"
+        }
+      }
+    }
+  },
+  {
+    "name": "ascii-data",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/ascii-data.wav: pro_glitch/data seed 261034: 0.670 s, onset 0.003 s, peak at 0.620 s, end 0.666 s, -1.0 dBFS, -14.2 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/ascii-data.wav",
+    "meta": {
+      "id": "pro_glitch/data",
+      "seed": 261034,
+      "sr": 48000,
+      "onset_s": 0.0032,
+      "peak_s": 0.6195,
+      "end_s": 0.666,
+      "dur_s": 0.6697,
+      "peak_db": -1.0,
+      "lufs_m_max": -14.19,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [
+          {
+            "code": "clicks",
+            "msg": "1 click at 0.149 s"
+          }
+        ],
+        "summary": "pro_glitch/data: clean (1 click at 0.149 s)",
+        "measures": {
+          "clicks": 1,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -65.2,
+          "ring_z": null,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 1.0,
+          "t40_ms": 40.0,
+          "crest_db": 11.1,
+          "res_db": 10.7,
+          "res_hz": 4525,
+          "peak_dbfs": -1.0,
+          "live_ms": 362.75
+        },
+        "glide": {
+          "tonal_share": 0.4,
+          "rise_st": 0.1,
+          "from_s": 0.196,
+          "to_s": 0.226
+        },
+        "layers": {
+          "attacks": [
+            0.627
+          ],
+          "count": 1,
+          "pre_swell_ms": 500.0
+        },
+        "context": {
+          "category": "pro_glitch",
+          "sound": "pro_glitch/data"
+        }
+      }
+    }
+  },
+  {
+    "name": "mesh-swell",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav: reverse_swell/dark seed 261035: 0.919 s, onset 0.030 s, peak at 0.546 s, end 0.880 s, -1.0 dBFS, -15.3 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav",
+    "meta": {
+      "id": "reverse_swell/dark",
+      "seed": 261035,
+      "sr": 48000,
+      "onset_s": 0.0305,
+      "peak_s": 0.5465,
+      "end_s": 0.88,
+      "dur_s": 0.9189,
+      "peak_db": -1.0,
+      "lufs_m_max": -15.28,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "reverse_swell/dark: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -116.9,
+          "ring_z": 4.2,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 1.1,
+          "attack_ms": 5.75,
+          "t40_ms": 280.0,
+          "crest_db": 9.3,
+          "res_db": 4.4,
+          "res_hz": 1671,
+          "peak_dbfs": -1.0,
+          "live_ms": 675.75
+        },
+        "glide": {
+          "tonal_share": 0.61,
+          "rise_st": 5.6,
+          "from_s": 0.651,
+          "to_s": 0.686
+        },
+        "layers": {
+          "attacks": [
+            0.547
+          ],
+          "count": 1,
+          "pre_swell_ms": 485.0
+        },
+        "context": {
+          "category": "reverse_swell",
+          "sound": "reverse_swell/dark"
+        }
+      }
+    }
+  },
+  {
+    "name": "flap-curtain",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav: shutter/film seed 261036: 0.282 s, onset 0.000 s, peak at 0.099 s, end 0.238 s, -1.0 dBFS, -20.5 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav",
+    "meta": {
+      "id": "shutter/film",
+      "seed": 261036,
+      "sr": 48000,
+      "onset_s": 0.0,
+      "peak_s": 0.0985,
+      "end_s": 0.238,
+      "dur_s": 0.2824,
+      "peak_db": -1.0,
+      "lufs_m_max": -20.48,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "shutter/film: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -102.1,
+          "ring_z": 6.1,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 1.5,
+          "t40_ms": 130.0,
+          "crest_db": 13.5,
+          "res_db": 6.0,
+          "res_hz": 692,
+          "peak_dbfs": -1.0,
+          "live_ms": 192.0
+        },
+        "glide": {
+          "tonal_share": 0.53,
+          "rise_st": 0.9,
+          "from_s": 0.156,
+          "to_s": 0.176
+        },
+        "layers": {
+          "attacks": [
+            0.107
+          ],
+          "count": 1,
+          "pre_swell_ms": 75.0
+        },
+        "context": {
+          "category": "shutter",
+          "sound": "shutter/film"
+        }
+      }
+    }
+  },
+  {
+    "name": "tape-burst",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/tape-burst.wav: glitch/burst seed 261037: 0.869 s, onset 0.355 s, peak at 0.359 s, end 0.727 s, -1.0 dBFS, -21.9 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/tape-burst.wav",
+    "meta": {
+      "id": "glitch/burst",
+      "seed": 261037,
+      "sr": 48000,
+      "onset_s": 0.3555,
+      "peak_s": 0.3595,
+      "end_s": 0.727,
+      "dur_s": 0.8685,
+      "peak_db": -1.0,
+      "lufs_m_max": -21.85,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [
+          {
+            "code": "silence",
+            "msg": "23 ms of digital silence inside"
+          },
+          {
+            "code": "tail",
+            "msg": "the tail rises again by 13 dB (a second event, a roll or a double member)"
+          }
+        ],
+        "summary": "glitch/burst: clean (23 ms of digital silence inside; the tail rises again by 13 dB (a second event, a roll or a double member))",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -94.0,
+          "ring_z": 7.3,
+          "trunc_db": null,
+          "silence_ms": 22.9,
+          "bump_db": 12.9,
+          "attack_ms": 1.5,
+          "t40_ms": 360.0,
+          "crest_db": 13.6,
+          "res_db": 6.6,
+          "res_hz": 2730,
+          "peak_dbfs": -1.0,
+          "live_ms": 280.5
+        },
+        "glide": {
+          "tonal_share": 0.57,
+          "rise_st": 1.8,
+          "from_s": 0.446,
+          "to_s": 0.471
+        },
+        "layers": {
+          "attacks": [
+            0.367
+          ],
+          "count": 1,
+          "pre_swell_ms": 0.0
+        },
+        "context": {
+          "category": "glitch",
+          "sound": "glitch/burst"
+        }
+      }
+    }
+  },
+  {
+    "name": "shape-swish",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/shape-swish.wav: swish/soft seed 261038: 0.788 s, onset 0.028 s, peak at 0.101 s, end 0.525 s, -1.0 dBFS, -20.0 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/shape-swish.wav",
+    "meta": {
+      "id": "swish/soft",
+      "seed": 261038,
+      "sr": 48000,
+      "onset_s": 0.0275,
+      "peak_s": 0.1005,
+      "end_s": 0.525,
+      "dur_s": 0.7876,
+      "peak_db": -1.0,
+      "lufs_m_max": -20.0,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "swish/soft: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -127.9,
+          "ring_z": 6.5,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 2.7,
+          "attack_ms": 3.5,
+          "t40_ms": 320.0,
+          "crest_db": 13.3,
+          "res_db": 5.0,
+          "res_hz": 3154,
+          "peak_dbfs": -1.0,
+          "live_ms": 290.25
+        },
+        "glide": {
+          "tonal_share": 0.45,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.098
+          ],
+          "count": 1,
+          "pre_swell_ms": 70.0
+        },
+        "context": {
+          "category": "swish",
+          "sound": "swish/soft"
+        }
+      }
+    }
+  },
+  {
+    "name": "pixel-rise",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/pixel-rise.wav: pro_zip/up seed 261039: 0.339 s, onset 0.004 s, peak at 0.168 s, end 0.316 s, -1.0 dBFS, -5.8 LUFS momentary max; checks: pitch climbs 23 semitones over 100 ms (0.05-0.15 s): a rising synth whip reads as cheap",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/pixel-rise.wav",
+    "meta": {
+      "id": "pro_zip/up",
+      "seed": 261039,
+      "sr": 48000,
+      "onset_s": 0.0035,
+      "peak_s": 0.1675,
+      "end_s": 0.316,
+      "dur_s": 0.3386,
+      "peak_db": -1.0,
+      "lufs_m_max": -5.76,
+      "edits": {},
+      "checks": {
+        "ok": false,
+        "warnings": [
+          {
+            "code": "rising_glide",
+            "msg": "pitch climbs 23 semitones over 100 ms (0.05-0.15 s): a rising synth whip reads as cheap"
+          }
+        ],
+        "notes": [],
+        "summary": "pro_zip/up: 1 warning: pitch climbs 23 semitones over 100 ms (0.05-0.15 s): a rising synth whip reads as cheap",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -205.3,
+          "ring_z": 3.9,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 35.75,
+          "t40_ms": 150.0,
+          "crest_db": 0.7,
+          "res_db": 2.4,
+          "res_hz": 5229,
+          "peak_dbfs": -1.0,
+          "live_ms": 288.75
+        },
+        "glide": {
+          "tonal_share": 0.83,
+          "rise_st": 23.0,
+          "from_s": 0.051,
+          "to_s": 0.151
+        },
+        "layers": {
+          "attacks": [
+            0.158
+          ],
+          "count": 1,
+          "pre_swell_ms": 15.0
+        },
+        "context": {
+          "category": "pro_zip",
+          "sound": "pro_zip/up"
+        }
+      }
+    }
+  },
+  {
+    "name": "aperture-servo",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/aperture-servo.wav: pro_riser/roll seed 261040: 1.300 s, onset 0.002 s, peak at 1.294 s, end 1.300 s, -1.0 dBFS, -9.2 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/aperture-servo.wav",
+    "meta": {
+      "id": "pro_riser/roll",
+      "seed": 261040,
+      "sr": 48000,
+      "onset_s": 0.002,
+      "peak_s": 1.2935,
+      "end_s": 1.3,
+      "dur_s": 1.3,
+      "peak_db": -1.0,
+      "lufs_m_max": -9.18,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "pro_riser/roll: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -92.0,
+          "ring_z": null,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 0.0,
+          "attack_ms": 5.25,
+          "t40_ms": 20.0,
+          "crest_db": 4.8,
+          "res_db": 4.4,
+          "res_hz": 5702,
+          "peak_dbfs": -1.0,
+          "live_ms": 979.0
+        },
+        "glide": {
+          "tonal_share": 0.01,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            1.288
+          ],
+          "count": 1,
+          "pre_swell_ms": 1160.0
+        },
+        "context": {
+          "category": "pro_riser",
+          "sound": "pro_riser/roll"
+        }
+      }
+    }
+  },
+  {
+    "name": "deco-shimmer",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/deco-shimmer.wav: shimmer/m3 seed 261041: 3.600 s, onset 0.000 s, peak at 0.500 s, end 2.974 s, -1.0 dBFS, -6.9 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/deco-shimmer.wav",
+    "meta": {
+      "id": "shimmer/m3",
+      "seed": 261041,
+      "sr": 48000,
+      "onset_s": 0.0,
+      "peak_s": 0.5005,
+      "end_s": 2.974,
+      "dur_s": 3.6,
+      "peak_db": -1.0,
+      "lufs_m_max": -6.94,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "shimmer/m3: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -115.8,
+          "ring_z": 5.8,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 3.2,
+          "attack_ms": 204.75,
+          "t40_ms": 2030.0,
+          "crest_db": 5.5,
+          "res_db": 39.6,
+          "res_hz": 4210,
+          "peak_dbfs": -1.0,
+          "live_ms": 2326.25
+        },
+        "glide": {
+          "tonal_share": 0.47,
+          "rise_st": 0.1,
+          "from_s": 0.011,
+          "to_s": 0.031
+        },
+        "layers": {
+          "attacks": [
+            0.507
+          ],
+          "count": 1,
+          "pre_swell_ms": 85.0
+        },
+        "context": {
+          "category": "shimmer",
+          "sound": "shimmer/m3"
+        }
+      }
+    }
+  },
+  {
+    "name": "block-punch",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav: cut_hit/punch seed 261042: 0.282 s, onset 0.000 s, peak at 0.061 s, end 0.278 s, -1.0 dBFS, -14.3 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav",
+    "meta": {
+      "id": "cut_hit/punch",
+      "seed": 261042,
+      "sr": 48000,
+      "onset_s": 0.0,
+      "peak_s": 0.0615,
+      "end_s": 0.278,
+      "dur_s": 0.2823,
+      "peak_db": -1.0,
+      "lufs_m_max": -14.29,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "cut_hit/punch: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -110.0,
+          "ring_z": 3.8,
+          "trunc_db": -48.6,
+          "silence_ms": 0.0,
+          "bump_db": 0.1,
+          "attack_ms": 34.25,
+          "t40_ms": 210.0,
+          "crest_db": 7.1,
+          "res_db": 3.7,
+          "res_hz": 608,
+          "peak_dbfs": -1.0,
+          "live_ms": 222.5
+        },
+        "glide": {
+          "tonal_share": 0.46,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.052
+          ],
+          "count": 1,
+          "pre_swell_ms": 15.0
+        },
+        "context": {
+          "category": "cut_hit",
+          "sound": "cut_hit/punch"
+        }
+      }
+    }
+  },
+  {
+    "name": "signature-swell",
+    "summary": "wrote C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav: reverse_swell/ring seed 261043: 1.745 s, onset 0.174 s, peak at 0.679 s, end 1.583 s, -1.0 dBFS, -15.5 LUFS momentary max; checks: clean",
+    "file": "C:/Users/soura/OneDrive/Desktop/Studio Realtime/motion-studio/src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav",
+    "meta": {
+      "id": "reverse_swell/ring",
+      "seed": 261043,
+      "sr": 48000,
+      "onset_s": 0.174,
+      "peak_s": 0.6795,
+      "end_s": 1.583,
+      "dur_s": 1.745,
+      "peak_db": -1.0,
+      "lufs_m_max": -15.52,
+      "edits": {},
+      "checks": {
+        "ok": true,
+        "warnings": [],
+        "notes": [],
+        "summary": "reverse_swell/ring: clean",
+        "measures": {
+          "clicks": 0,
+          "edge_db": -240.0,
+          "clip_runs": 0,
+          "overs": 0,
+          "dc_db": -194.9,
+          "ring_z": 5.0,
+          "trunc_db": null,
+          "silence_ms": 0.0,
+          "bump_db": 5.8,
+          "attack_ms": 30.75,
+          "t40_ms": 700.0,
+          "crest_db": 9.8,
+          "res_db": 11.8,
+          "res_hz": 4726,
+          "peak_dbfs": -1.0,
+          "live_ms": 1195.0
+        },
+        "glide": {
+          "tonal_share": 0.02,
+          "rise_st": 0.0,
+          "from_s": null,
+          "to_s": null
+        },
+        "layers": {
+          "attacks": [
+            0.688
+          ],
+          "count": 1,
+          "pre_swell_ms": 320.0
+        },
+        "context": {
+          "category": "reverse_swell",
+          "sound": "reverse_swell/ring"
+        }
+      }
+    }
+  }
+]

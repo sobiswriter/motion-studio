@@ -1,0 +1,21 @@
+{
+  "scope": "Storyboard proposal only",
+  "runtimeSeconds": 60,
+  "framesAt60Fps": 3600,
+  "uniqueMasterStyles": 20,
+  "introAndOutro": true,
+  "selectedReferenceStudiesReopened": [
+    "REF-06",
+    "REF-15",
+    "REF-21"
+  ],
+  "interactiveFrameSelectionsCheckedInBrowser": 22,
+  "openingClayComicClosingScreensVisuallyInspected": true,
+  "scriptSyntaxChecked": true,
+  "npmTest": "passed",
+  "npmLint": "passed",
+  "limitations": [
+    "Schematic keyframes; not final 3D artwork, motion or an audio-synced animatic.",
+    "Exact musical accent timing is pending track analysis in production."
+  ]
+}
