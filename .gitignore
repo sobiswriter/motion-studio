@@ -3,9 +3,28 @@ dist
 .DS_Store
 .env
 
-# Ignore the output video from Git but not videos you import into src/.
+# Generated renders and local dependencies.
 out
 .cache/
+node_modules/
+
+# Production media and local asset libraries stay on disk but are not published.
+/assets/
+/public/
+src/**/assets/
+
+# Local generated audio/video exports.
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
 audit.json
 
 # Local Python skill execution caches.
