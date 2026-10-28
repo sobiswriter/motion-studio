@@ -30,3 +30,13 @@ audit.json
 # Local Python skill execution caches.
 __pycache__/
 *.pyc
+
+# Documentation evidence is small and required for linked studies.
+!docs/**/*.png
+!docs/**/*.jpg
+!docs/**/*.jpeg
+# Keep local credentials and editor/runtime state private.
+.env.*
+!.env.example
+*.pem
+*.key

@@ -1,0 +1,17 @@
+{
+  "duration": 120,
+  "sampleRate": 48000,
+  "channels": 2,
+  "cues": 40,
+  "sourceMasterUnchanged": true,
+  "input_i": "-14.86",
+  "input_tp": "-2.91",
+  "input_lra": "9.70",
+  "input_thresh": "-25.17",
+  "output_i": "-13.74",
+  "output_tp": "-1.50",
+  "output_lra": "4.90",
+  "output_thresh": "-23.89",
+  "normalization_type": "dynamic",
+  "target_offset": "-2.26"
+}

@@ -81,7 +81,26 @@
     "portfolio:build": "node scripts/build-portfolio.mjs",
     "portfolio:check": "node scripts/check-portfolio.mjs && node scripts/check-portfolio-graphics.mjs && node scripts/check-portfolio-transitions.mjs && node scripts/audio-tool.mjs hyperframes check src/projects/portfolio-film --json",
     "portfolio:preview": "node scripts/audio-tool.mjs hyperframes preview src/projects/portfolio-film --background --port 3022",
-    "portfolio:render": "node scripts/audio-tool.mjs hyperframes render src/projects/portfolio-film --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/portfolio-film/Souradip-Biswas-Bound-by-Curiosity.mp4"
+    "portfolio:render": "node scripts/audio-tool.mjs hyperframes render src/projects/portfolio-film --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/portfolio-film/Souradip-Biswas-Bound-by-Curiosity.mp4",
+    "portfolio:designed:build": "node scripts/build-portfolio-designed.mjs",
+    "portfolio:designed:check": "node scripts/check-portfolio-designed.mjs && node scripts/check-portfolio-designed-work.mjs",
+    "portfolio:designed:preview": "node scripts/audio-tool.mjs hyperframes preview src/projects/portfolio-designed --background --port 3024",
+    "portfolio:designed:render": "node scripts/audio-tool.mjs hyperframes render src/projects/portfolio-designed --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/portfolio-designed/Souradip-Biswas-Sobiverse.mp4",
+    "portfolio:space:build": "node scripts/build-portfolio-space.mjs",
+    "portfolio:space:check": "node scripts/check-portfolio-space.mjs && node scripts/check-portfolio-space-work.mjs && node scripts/check-portfolio-space-transitions.mjs",
+    "portfolio:space:preview": "node scripts/audio-tool.mjs hyperframes preview src/projects/portfolio-space --background --port 3026",
+    "portfolio:space:render": "node scripts/audio-tool.mjs hyperframes render src/projects/portfolio-space --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/portfolio-space/Souradip-Biswas-Sobiverse-Space.mp4",
+    "buds:prepare": "node scripts/prepare-buds-air8.mjs",
+    "buds:sound": "node scripts/sound-buds-air8.mjs",
+    "buds:build": "node scripts/build-buds-air8.mjs",
+    "buds:check": "node scripts/check-buds-air8.mjs && node scripts/check-buds-air8-transitions.mjs",
+    "buds:preview": "node scripts/audio-tool.mjs hyperframes preview src/projects/realme-buds-air8 --background --port 3028",
+    "buds:render": "node scripts/audio-tool.mjs hyperframes render src/projects/realme-buds-air8 --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/realme-buds-air8/realme-Buds-Air8-Find-Your-Frequency.mp4",
+    "buds:extended:build": "node scripts/build-buds-air8-extended.mjs",
+    "buds:extended:sound": "node scripts/sound-buds-air8-extended.mjs",
+    "buds:extended:check": "node scripts/check-buds-air8-extended.mjs && node scripts/check-buds-air8-extended-transitions.mjs",
+    "buds:extended:preview": "node scripts/audio-tool.mjs hyperframes preview src/projects/realme-buds-air8-extended --background --port 3030",
+    "buds:extended:render": "node scripts/audio-tool.mjs hyperframes render src/projects/realme-buds-air8-extended --fps 60 --quality delivery --workers 2 --browser-gpu --video-frame-format png --no-best-effort --output out/realme-buds-air8-extended/realme-Buds-Air8-Make-It-Real-Architects-of-Motion.mp4"
   },
   "allowScripts": {
     "esbuild": false

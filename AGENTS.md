@@ -23,6 +23,8 @@ See docs/ADD_NEW_PROJECT.md, docs/SHOT_CONFIGURATION.md and docs/PREFLIGHT_RESUL
 
 ## Sound tools
 
+- When choosing supplied music, consult [the music library](docs/music-library/README.md) and [selection playbook](docs/music-library/PLAYBOOK.md). Use stable MUS IDs and exact audition ranges; verify the source hash and respect the latest user selection. Editorial suggestions are separate from measured evidence. Preserve the known Ivan vocal exclusion; other tracks are vocal-unverified until checked. Do not infer genre, mood or a beat grid from names or meters alone.
+
 - For approved video creation, timeline edits, sound design, and audio review, proactively use the relevant installed sound tools; do not wait for the user to name them. Follow the [master sound rules](<Master Design Documentation/Rules.md>) and [workflow](<Master Design Documentation/Workflow.md>), with [agent routing](<Master Design Documentation/Agents.md>). Reuse existing user direction and respect recorded-only/silent briefs. Documentation and tooling maintenance do not start new-production onboarding.
 - Read docs/SOUND_TOOLS.md for the installed toolchain and tested commands. Reuse suitable licensed local recordings, use Openverse for recording gaps, use Real SFX for recorded-effects placement/mixing, and use earshot for analysis and appropriate generation. Openverse network access is authorized for asset preparation; render assets remain local.
 - Openverse search/download is `npm.cmd run sfx:fetch -- --intent "short literal query" --project assets/sfx --json`. Inspect the returned provider, license, attribution and source; keep that provenance with copied assets.
@@ -30,3 +32,7 @@ See docs/ADD_NEW_PROJECT.md, docs/SHOT_CONFIGURATION.md and docs/PREFLIGHT_RESUL
 - For recorded-only work, inspect resolved cues: upstream Real SFX can fall back to uisfx even with `--ui library`. Use explicit library IDs/slices when necessary. Use earshot generation when suitable recordings are unavailable or the brief calls for procedural sound; identify generated sources and honor source restrictions.
 - Add local audio to the asset manifest and attach `sound` to project cues for named, frame-locked Studio SFX tracks. Include the natural sound tail in the cue duration. Measure the combined mix for clipping, masking and speech intelligibility.
 - HyperFrames is installed as an optional separate authoring CLI (`npm.cmd run hyperframes -- ...`); existing engine compositions stay on Remotion. No paid provider is needed for this sound workflow.
+
+## Fresh GitHub clone and missing media
+
+Read docs/github/ASSETS_FROM_DRIVE.md and EXTERNAL_ASSETS.json before production. When required large media is absent, ask the user to obtain the exact files from their Drive and restore the recorded paths. Do not invent links, substitute fabricated media, delete local assets or prune recovery history. Source/documentation can be inspected while media is missing; render readiness requires actual files and validation.

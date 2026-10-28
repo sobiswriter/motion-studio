@@ -1,0 +1,123 @@
+{
+  "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+  "sourceDimensions": [
+    1918,
+    1078
+  ],
+  "coordinateOrder": [
+    "x",
+    "y",
+    "width",
+    "height"
+  ],
+  "frames": [
+    {
+      "name": "launchsilo-recording",
+      "time": 27.95,
+      "crop": [
+        690,
+        365,
+        850,
+        375
+      ],
+      "purpose": "Actual LaunchSILO website preview, no surrounding portfolio navigation"
+    },
+    {
+      "name": "launchsilo-context",
+      "time": 27.95,
+      "crop": [
+        645,
+        180,
+        950,
+        890
+      ],
+      "purpose": "Actual project case study card and project overview; evidence only"
+    },
+    {
+      "name": "legallm",
+      "time": 39,
+      "crop": [
+        715,
+        65,
+        995,
+        530
+      ],
+      "purpose": "Actual LegalLM title and source feature text; the live project preview itself is unavailable"
+    },
+    {
+      "name": "research",
+      "time": 48.5,
+      "crop": [
+        350,
+        285,
+        1170,
+        410
+      ],
+      "purpose": "Owner research record and conference participation; self-reported claims"
+    },
+    {
+      "name": "experience",
+      "time": 64.4,
+      "crop": [
+        625,
+        375,
+        650,
+        350
+      ],
+      "purpose": "Owner India Accelerator/OpenXAI collaboration card; self-reported"
+    },
+    {
+      "name": "galaxy",
+      "time": 4,
+      "crop": [
+        415,
+        200,
+        1020,
+        700
+      ],
+      "purpose": "Portfolio galaxy still; no recording playback in film"
+    },
+    {
+      "name": "overview",
+      "time": 13,
+      "crop": [
+        65,
+        250,
+        1570,
+        650
+      ],
+      "purpose": "Original site overview headline and visual anchor"
+    },
+    {
+      "name": "skills",
+      "time": 56.5,
+      "crop": [
+        300,
+        250,
+        1280,
+        640
+      ],
+      "purpose": "Original technical skills hero still"
+    }
+  ],
+  "portrait": {
+    "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/public/images/MeImg.jpg",
+    "destination": "assets/images/portrait.jpg",
+    "dimensions": [
+      1333,
+      1333
+    ],
+    "operation": "Byte-identical copy"
+  },
+  "websiteStill": {
+    "name": "launchsilo.png",
+    "source": "https://launchsilo.in/",
+    "captured": "2026-10-27",
+    "dimensions": [
+      1270,
+      714
+    ],
+    "operation": "Native browser screenshot, no browser chrome, no generated UI",
+    "purpose": "Actual live LaunchSILO homepage; use as a designed proof insert only, not motion footage"
+  }
+}

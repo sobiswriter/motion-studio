@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "candidateFiles": 1585,
+  "candidateBytes": 148172218,
+  "largestCandidates": [
+    {
+      "path": "src/projects/style-showreel/.hyperframes/preview/343fe16b6de3a5051c894b851907412f.html",
+      "bytes": 1483736
+    },
+    {
+      "path": "src/projects/style-showreel-v2/.hyperframes/preview/ebe98d76e8f9fb26f772b6e2982503d9.html",
+      "bytes": 1443225
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-05/all-frames/page-002.jpg",
+      "bytes": 1314200
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-05/all-frames/page-003.jpg",
+      "bytes": 1257510
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-05/detail-01.jpg",
+      "bytes": 1217916
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-001.jpg",
+      "bytes": 1208076
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-09/all-frames/page-004.jpg",
+      "bytes": 1192484
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-10/all-frames/page-003.jpg",
+      "bytes": 1150045
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-005.jpg",
+      "bytes": 1137247
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-06/all-frames/page-003.jpg",
+      "bytes": 1133273
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-09/all-frames/page-003.jpg",
+      "bytes": 1091994
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-22/all-frames/page-007.jpg",
+      "bytes": 1084697
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-003.jpg",
+      "bytes": 1082042
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-002.jpg",
+      "bytes": 1073349
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-05/all-frames/page-006.jpg",
+      "bytes": 1058263
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-004.jpg",
+      "bytes": 1031954
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-006.jpg",
+      "bytes": 1028313
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-07/all-frames/page-004.jpg",
+      "bytes": 973581
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-01/all-frames/page-020.jpg",
+      "bytes": 953337
+    },
+    {
+      "path": "docs/reference-library/evidence/REF-11/all-frames/page-007.jpg",
+      "bytes": 950236
+    }
+  ],
+  "filesAtOrAbove100MiB": [],
+  "published": false,
+  "historyRewritten": false,
+  "filesDeleted": false,
+  "historicalOversizeBlob": {
+    "path": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+    "bytes": 114799387,
+    "scope": "all local refs; retained untouched"
+  },
+  "secretFilenameScan": "No .env/private-key candidate paths found; content-level secret audit not performed"
+}

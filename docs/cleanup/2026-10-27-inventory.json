@@ -1,0 +1,1841 @@
+{
+  "root": "C:\\Users\\soura\\OneDrive\\Desktop\\Studio Realtime\\motion-studio",
+  "totals": {
+    "bytes": 3716589096,
+    "files": 32591
+  },
+  "directories": [
+    {
+      "path": ".agents/skills",
+      "bytes": 12750432,
+      "files": 2092
+    },
+    {
+      "path": ".agents",
+      "bytes": 12750432,
+      "files": 2092
+    },
+    {
+      "path": ".cache/audio-venv/Lib/site-packages",
+      "bytes": 4360,
+      "files": 2
+    },
+    {
+      "path": ".cache/audio-venv/Lib",
+      "bytes": 4360,
+      "files": 2
+    },
+    {
+      "path": ".cache/audio-venv/Scripts",
+      "bytes": 537655,
+      "files": 11
+    },
+    {
+      "path": ".cache/audio-venv",
+      "bytes": 542240,
+      "files": 17
+    },
+    {
+      "path": ".cache/portfolio-designed/audio",
+      "bytes": 1679,
+      "files": 1
+    },
+    {
+      "path": ".cache/portfolio-designed/closing-proof",
+      "bytes": 852246,
+      "files": 10
+    },
+    {
+      "path": ".cache/portfolio-designed/delivery",
+      "bytes": 4542475,
+      "files": 14
+    },
+    {
+      "path": ".cache/portfolio-designed/references",
+      "bytes": 158403,
+      "files": 3
+    },
+    {
+      "path": ".cache/portfolio-designed/round-1",
+      "bytes": 6197669,
+      "files": 58
+    },
+    {
+      "path": ".cache/portfolio-designed/round-2",
+      "bytes": 34810783,
+      "files": 320
+    },
+    {
+      "path": ".cache/portfolio-designed/round-3-encoded",
+      "bytes": 7228116,
+      "files": 18
+    },
+    {
+      "path": ".cache/portfolio-designed/round-3-fixes",
+      "bytes": 1869280,
+      "files": 16
+    },
+    {
+      "path": ".cache/portfolio-designed/source-stills",
+      "bytes": 18135087,
+      "files": 22
+    },
+    {
+      "path": ".cache/portfolio-designed/work-proof",
+      "bytes": 1160164,
+      "files": 8
+    },
+    {
+      "path": ".cache/portfolio-designed",
+      "bytes": 92986267,
+      "files": 473
+    },
+    {
+      "path": ".cache/portfolio-space/audio",
+      "bytes": 1603,
+      "files": 1
+    },
+    {
+      "path": ".cache/portfolio-space/delivery",
+      "bytes": 16738791,
+      "files": 19
+    },
+    {
+      "path": ".cache/portfolio-space/references",
+      "bytes": 271101,
+      "files": 3
+    },
+    {
+      "path": ".cache/portfolio-space/round-1",
+      "bytes": 9905704,
+      "files": 58
+    },
+    {
+      "path": ".cache/portfolio-space/round-2",
+      "bytes": 52576277,
+      "files": 320
+    },
+    {
+      "path": ".cache/portfolio-space/round-3-encoded",
+      "bytes": 8777634,
+      "files": 18
+    },
+    {
+      "path": ".cache/portfolio-space/round-3-fixes",
+      "bytes": 2924232,
+      "files": 18
+    },
+    {
+      "path": ".cache/portfolio-space/sources",
+      "bytes": 10807071,
+      "files": 13
+    },
+    {
+      "path": ".cache/portfolio-space/sync-proof",
+      "bytes": 2280749,
+      "files": 14
+    },
+    {
+      "path": ".cache/portfolio-space/transition-actual",
+      "bytes": 2856348,
+      "files": 27
+    },
+    {
+      "path": ".cache/portfolio-space/transition-actual-r2",
+      "bytes": 2842784,
+      "files": 27
+    },
+    {
+      "path": ".cache/portfolio-space/transition-proof",
+      "bytes": 1331134,
+      "files": 8
+    },
+    {
+      "path": ".cache/portfolio-space/work-proof",
+      "bytes": 46828160,
+      "files": 41
+    },
+    {
+      "path": ".cache/portfolio-space/work-reference",
+      "bytes": 668702,
+      "files": 4
+    },
+    {
+      "path": ".cache/portfolio-space",
+      "bytes": 208517462,
+      "files": 574
+    },
+    {
+      "path": ".cache/scripts",
+      "bytes": 157782,
+      "files": 22
+    },
+    {
+      "path": ".cache/src/engine/audio",
+      "bytes": 707,
+      "files": 1
+    },
+    {
+      "path": ".cache/src/engine/camera",
+      "bytes": 2347,
+      "files": 2
+    },
+    {
+      "path": ".cache/src/engine/compositing",
+      "bytes": 951,
+      "files": 1
+    },
+    {
+      "path": ".cache/src/engine/timeline",
+      "bytes": 1129,
+      "files": 1
+    },
+    {
+      "path": ".cache/src/engine/validation",
+      "bytes": 15303,
+      "files": 1
+    },
+    {
+      "path": ".cache/src/engine",
+      "bytes": 20514,
+      "files": 7
+    },
+    {
+      "path": ".cache/src/projects/ivans-escape",
+      "bytes": 184501,
+      "files": 13
+    },
+    {
+      "path": ".cache/src/projects/_demo",
+      "bytes": 6278,
+      "files": 3
+    },
+    {
+      "path": ".cache/src/projects",
+      "bytes": 191114,
+      "files": 17
+    },
+    {
+      "path": ".cache/src",
+      "bytes": 211628,
+      "files": 24
+    },
+    {
+      "path": ".cache",
+      "bytes": 302441385,
+      "files": 1112
+    },
+    {
+      "path": ".git/hooks",
+      "bytes": 25827,
+      "files": 14
+    },
+    {
+      "path": ".git/info",
+      "bytes": 240,
+      "files": 1
+    },
+    {
+      "path": ".git/logs",
+      "bytes": 2983,
+      "files": 3
+    },
+    {
+      "path": ".git/objects",
+      "bytes": 1396528963,
+      "files": 2136
+    },
+    {
+      "path": ".git/refs",
+      "bytes": 287,
+      "files": 7
+    },
+    {
+      "path": ".git",
+      "bytes": 1396765862,
+      "files": 2168
+    },
+    {
+      "path": "assets/music",
+      "bytes": 24703992,
+      "files": 10
+    },
+    {
+      "path": "assets/Portfolio",
+      "bytes": 114799387,
+      "files": 1
+    },
+    {
+      "path": "assets/Reference Vid",
+      "bytes": 222158390,
+      "files": 24
+    },
+    {
+      "path": "assets/sfx",
+      "bytes": 84125,
+      "files": 8
+    },
+    {
+      "path": "assets",
+      "bytes": 361745894,
+      "files": 43
+    },
+    {
+      "path": "docs/projects",
+      "bytes": 1414931,
+      "files": 60
+    },
+    {
+      "path": "docs/recovery",
+      "bytes": 151617,
+      "files": 3
+    },
+    {
+      "path": "docs/reference-library",
+      "bytes": 119620160,
+      "files": 352
+    },
+    {
+      "path": "docs/storyboards",
+      "bytes": 25999,
+      "files": 3
+    },
+    {
+      "path": "docs",
+      "bytes": 121261512,
+      "files": 425
+    },
+    {
+      "path": "Master Design Documentation",
+      "bytes": 58201,
+      "files": 6
+    },
+    {
+      "path": "node_modules/.bin",
+      "bytes": 50081,
+      "files": 96
+    },
+    {
+      "path": "node_modules/@babel",
+      "bytes": 32741079,
+      "files": 2158
+    },
+    {
+      "path": "node_modules/@cacheable",
+      "bytes": 327236,
+      "files": 14
+    },
+    {
+      "path": "node_modules/@dimforge",
+      "bytes": 7522790,
+      "files": 51
+    },
+    {
+      "path": "node_modules/@emnapi",
+      "bytes": 436901,
+      "files": 17
+    },
+    {
+      "path": "node_modules/@esbuild",
+      "bytes": 11671045,
+      "files": 3
+    },
+    {
+      "path": "node_modules/@eslint",
+      "bytes": 678664,
+      "files": 50
+    },
+    {
+      "path": "node_modules/@eslint-community",
+      "bytes": 1012391,
+      "files": 26
+    },
+    {
+      "path": "node_modules/@hono",
+      "bytes": 138339,
+      "files": 29
+    },
+    {
+      "path": "node_modules/@humanfs",
+      "bytes": 132472,
+      "files": 25
+    },
+    {
+      "path": "node_modules/@humanwhocodes",
+      "bytes": 86888,
+      "files": 19
+    },
+    {
+      "path": "node_modules/@img",
+      "bytes": 29211513,
+      "files": 21
+    },
+    {
+      "path": "node_modules/@jridgewell",
+      "bytes": 483139,
+      "files": 167
+    },
+    {
+      "path": "node_modules/@keyv",
+      "bytes": 53386,
+      "files": 14
+    },
+    {
+      "path": "node_modules/@mediabunny",
+      "bytes": 8012719,
+      "files": 83
+    },
+    {
+      "path": "node_modules/@module-federation",
+      "bytes": 806837,
+      "files": 197
+    },
+    {
+      "path": "node_modules/@puppeteer",
+      "bytes": 452180,
+      "files": 102
+    },
+    {
+      "path": "node_modules/@react-three",
+      "bytes": 2482293,
+      "files": 58
+    },
+    {
+      "path": "node_modules/@remotion",
+      "bytes": 65262915,
+      "files": 5075
+    },
+    {
+      "path": "node_modules/@rspack",
+      "bytes": 49581501,
+      "files": 346
+    },
+    {
+      "path": "node_modules/@svgr",
+      "bytes": 221865,
+      "files": 74
+    },
+    {
+      "path": "node_modules/@swc",
+      "bytes": 282322,
+      "files": 438
+    },
+    {
+      "path": "node_modules/@tanstack",
+      "bytes": 461477,
+      "files": 32
+    },
+    {
+      "path": "node_modules/@tweenjs",
+      "bytes": 161333,
+      "files": 8
+    },
+    {
+      "path": "node_modules/@types",
+      "bytes": 7918789,
+      "files": 1114
+    },
+    {
+      "path": "node_modules/@typescript-eslint",
+      "bytes": 3692356,
+      "files": 1167
+    },
+    {
+      "path": "node_modules/@webassemblyjs",
+      "bytes": 620632,
+      "files": 132
+    },
+    {
+      "path": "node_modules/@xtuc",
+      "bytes": 198883,
+      "files": 14
+    },
+    {
+      "path": "node_modules/acorn",
+      "bytes": 568532,
+      "files": 10
+    },
+    {
+      "path": "node_modules/acorn-import-phases",
+      "bytes": 7462,
+      "files": 8
+    },
+    {
+      "path": "node_modules/acorn-jsx",
+      "bytes": 24385,
+      "files": 6
+    },
+    {
+      "path": "node_modules/adm-zip",
+      "bytes": 150551,
+      "files": 20
+    },
+    {
+      "path": "node_modules/ajv",
+      "bytes": 938206,
+      "files": 92
+    },
+    {
+      "path": "node_modules/ajv-formats",
+      "bytes": 1112479,
+      "files": 493
+    },
+    {
+      "path": "node_modules/ansi-regex",
+      "bytes": 6208,
+      "files": 5
+    },
+    {
+      "path": "node_modules/ansi-styles",
+      "bytes": 17488,
+      "files": 5
+    },
+    {
+      "path": "node_modules/argparse",
+      "bytes": 171548,
+      "files": 7
+    },
+    {
+      "path": "node_modules/ast-types",
+      "bytes": 673481,
+      "files": 105
+    },
+    {
+      "path": "node_modules/balanced-match",
+      "bytes": 17584,
+      "files": 13
+    },
+    {
+      "path": "node_modules/base64-js",
+      "bytes": 9624,
+      "files": 6
+    },
+    {
+      "path": "node_modules/baseline-browser-mapping",
+      "bytes": 136584,
+      "files": 9
+    },
+    {
+      "path": "node_modules/brace-expansion",
+      "bytes": 84997,
+      "files": 13
+    },
+    {
+      "path": "node_modules/brotli",
+      "bytes": 1503586,
+      "files": 19
+    },
+    {
+      "path": "node_modules/browserslist",
+      "bytes": 70949,
+      "files": 11
+    },
+    {
+      "path": "node_modules/buffer",
+      "bytes": 91279,
+      "files": 6
+    },
+    {
+      "path": "node_modules/buffer-from",
+      "bytes": 5047,
+      "files": 4
+    },
+    {
+      "path": "node_modules/bundle-name",
+      "bytes": 3578,
+      "files": 4
+    },
+    {
+      "path": "node_modules/cacheable",
+      "bytes": 229831,
+      "files": 7
+    },
+    {
+      "path": "node_modules/callsites",
+      "bytes": 6332,
+      "files": 5
+    },
+    {
+      "path": "node_modules/camelcase",
+      "bytes": 11697,
+      "files": 5
+    },
+    {
+      "path": "node_modules/caniuse-lite",
+      "bytes": 1547398,
+      "files": 841
+    },
+    {
+      "path": "node_modules/chrome-trace-event",
+      "bytes": 9806,
+      "files": 6
+    },
+    {
+      "path": "node_modules/chromium-bidi",
+      "bytes": 9414844,
+      "files": 310
+    },
+    {
+      "path": "node_modules/citty",
+      "bytes": 34558,
+      "files": 7
+    },
+    {
+      "path": "node_modules/cliui",
+      "bytes": 65133,
+      "files": 12
+    },
+    {
+      "path": "node_modules/clone",
+      "bytes": 15879,
+      "files": 6
+    },
+    {
+      "path": "node_modules/commander",
+      "bytes": 62442,
+      "files": 6
+    },
+    {
+      "path": "node_modules/compare-versions",
+      "bytes": 55514,
+      "files": 29
+    },
+    {
+      "path": "node_modules/convert-source-map",
+      "bytes": 15854,
+      "files": 4
+    },
+    {
+      "path": "node_modules/cosmiconfig",
+      "bytes": 78453,
+      "files": 31
+    },
+    {
+      "path": "node_modules/cross-spawn",
+      "bytes": 16094,
+      "files": 9
+    },
+    {
+      "path": "node_modules/css-loader",
+      "bytes": 244696,
+      "files": 71
+    },
+    {
+      "path": "node_modules/css-tree",
+      "bytes": 1362649,
+      "files": 278
+    },
+    {
+      "path": "node_modules/cssesc",
+      "bytes": 17488,
+      "files": 6
+    },
+    {
+      "path": "node_modules/csstype",
+      "bytes": 1253449,
+      "files": 5
+    },
+    {
+      "path": "node_modules/debug",
+      "bytes": 42793,
+      "files": 7
+    },
+    {
+      "path": "node_modules/deep-is",
+      "bytes": 8114,
+      "files": 9
+    },
+    {
+      "path": "node_modules/default-browser",
+      "bytes": 7013,
+      "files": 6
+    },
+    {
+      "path": "node_modules/default-browser-id",
+      "bytes": 3173,
+      "files": 4
+    },
+    {
+      "path": "node_modules/define-lazy-prop",
+      "bytes": 4446,
+      "files": 5
+    },
+    {
+      "path": "node_modules/detect-libc",
+      "bytes": 26437,
+      "files": 8
+    },
+    {
+      "path": "node_modules/devtools-protocol",
+      "bytes": 3743648,
+      "files": 63
+    },
+    {
+      "path": "node_modules/dfa",
+      "bytes": 137726,
+      "files": 6
+    },
+    {
+      "path": "node_modules/dot-case",
+      "bytes": 10481,
+      "files": 15
+    },
+    {
+      "path": "node_modules/dotenv",
+      "bytes": 93328,
+      "files": 12
+    },
+    {
+      "path": "node_modules/electron-to-chromium",
+      "bytes": 207064,
+      "files": 12
+    },
+    {
+      "path": "node_modules/emoji-regex",
+      "bytes": 34544,
+      "files": 6
+    },
+    {
+      "path": "node_modules/enhanced-resolve",
+      "bytes": 543900,
+      "files": 118
+    },
+    {
+      "path": "node_modules/entities",
+      "bytes": 412892,
+      "files": 68
+    },
+    {
+      "path": "node_modules/error-ex",
+      "bytes": 9036,
+      "files": 4
+    },
+    {
+      "path": "node_modules/error-stack-parser",
+      "bytes": 35935,
+      "files": 8
+    },
+    {
+      "path": "node_modules/es-module-lexer",
+      "bytes": 175452,
+      "files": 12
+    },
+    {
+      "path": "node_modules/esbuild",
+      "bytes": 146953,
+      "files": 7
+    },
+    {
+      "path": "node_modules/escalade",
+      "bytes": 12385,
+      "files": 11
+    },
+    {
+      "path": "node_modules/escape-string-regexp",
+      "bytes": 3790,
+      "files": 5
+    },
+    {
+      "path": "node_modules/eslint",
+      "bytes": 2947964,
+      "files": 421
+    },
+    {
+      "path": "node_modules/eslint-plugin-react-hooks",
+      "bytes": 8858882,
+      "files": 197
+    },
+    {
+      "path": "node_modules/eslint-scope",
+      "bytes": 173495,
+      "files": 15
+    },
+    {
+      "path": "node_modules/eslint-visitor-keys",
+      "bytes": 31942,
+      "files": 9
+    },
+    {
+      "path": "node_modules/espree",
+      "bytes": 95658,
+      "files": 13
+    },
+    {
+      "path": "node_modules/esprima",
+      "bytes": 314361,
+      "files": 7
+    },
+    {
+      "path": "node_modules/esquery",
+      "bytes": 1097084,
+      "files": 13
+    },
+    {
+      "path": "node_modules/esrecurse",
+      "bytes": 13527,
+      "files": 5
+    },
+    {
+      "path": "node_modules/estraverse",
+      "bytes": 37094,
+      "files": 6
+    },
+    {
+      "path": "node_modules/esutils",
+      "bytes": 50582,
+      "files": 7
+    },
+    {
+      "path": "node_modules/events",
+      "bytes": 82778,
+      "files": 32
+    },
+    {
+      "path": "node_modules/execa",
+      "bytes": 57525,
+      "files": 11
+    },
+    {
+      "path": "node_modules/fast-deep-equal",
+      "bytes": 12966,
+      "files": 11
+    },
+    {
+      "path": "node_modules/fast-json-stable-stringify",
+      "bytes": 16959,
+      "files": 18
+    },
+    {
+      "path": "node_modules/fast-levenshtein",
+      "bytes": 9444,
+      "files": 4
+    },
+    {
+      "path": "node_modules/fast-uri",
+      "bytes": 241202,
+      "files": 47
+    },
+    {
+      "path": "node_modules/fdir",
+      "bytes": 53291,
+      "files": 7
+    },
+    {
+      "path": "node_modules/fflate",
+      "bytes": 796742,
+      "files": 17
+    },
+    {
+      "path": "node_modules/file-entry-cache",
+      "bytes": 89300,
+      "files": 7
+    },
+    {
+      "path": "node_modules/find-up",
+      "bytes": 11761,
+      "files": 5
+    },
+    {
+      "path": "node_modules/flat-cache",
+      "bytes": 56568,
+      "files": 7
+    },
+    {
+      "path": "node_modules/flatted",
+      "bytes": 38501,
+      "files": 15
+    },
+    {
+      "path": "node_modules/fontkit",
+      "bytes": 5610637,
+      "files": 131
+    },
+    {
+      "path": "node_modules/fs-monkey",
+      "bytes": 22866,
+      "files": 11
+    },
+    {
+      "path": "node_modules/gensync",
+      "bytes": 28891,
+      "files": 7
+    },
+    {
+      "path": "node_modules/get-caller-file",
+      "bytes": 4719,
+      "files": 6
+    },
+    {
+      "path": "node_modules/get-east-asian-width",
+      "bytes": 14724,
+      "files": 8
+    },
+    {
+      "path": "node_modules/get-stream",
+      "bytes": 12176,
+      "files": 6
+    },
+    {
+      "path": "node_modules/giget",
+      "bytes": 184274,
+      "files": 14
+    },
+    {
+      "path": "node_modules/glob-parent",
+      "bytes": 7719,
+      "files": 4
+    },
+    {
+      "path": "node_modules/glob-to-regexp",
+      "bytes": 18100,
+      "files": 5
+    },
+    {
+      "path": "node_modules/graceful-fs",
+      "bytes": 32535,
+      "files": 7
+    },
+    {
+      "path": "node_modules/has-flag",
+      "bytes": 4419,
+      "files": 5
+    },
+    {
+      "path": "node_modules/hashery",
+      "bytes": 335985,
+      "files": 11
+    },
+    {
+      "path": "node_modules/hermes-estree",
+      "bytes": 341522,
+      "files": 14
+    },
+    {
+      "path": "node_modules/hermes-parser",
+      "bytes": 1012468,
+      "files": 50
+    },
+    {
+      "path": "node_modules/hono",
+      "bytes": 1296954,
+      "files": 574
+    },
+    {
+      "path": "node_modules/hookified",
+      "bytes": 239514,
+      "files": 11
+    },
+    {
+      "path": "node_modules/html-entities",
+      "bytes": 132312,
+      "files": 28
+    },
+    {
+      "path": "node_modules/human-signals",
+      "bytes": 44307,
+      "files": 13
+    },
+    {
+      "path": "node_modules/hyperframes",
+      "bytes": 34694327,
+      "files": 671
+    },
+    {
+      "path": "node_modules/icss-utils",
+      "bytes": 9998,
+      "files": 9
+    },
+    {
+      "path": "node_modules/ieee754",
+      "bytes": 6796,
+      "files": 5
+    },
+    {
+      "path": "node_modules/ignore",
+      "bytes": 53630,
+      "files": 6
+    },
+    {
+      "path": "node_modules/import-fresh",
+      "bytes": 4693,
+      "files": 5
+    },
+    {
+      "path": "node_modules/imurmurhash",
+      "bytes": 11887,
+      "files": 4
+    },
+    {
+      "path": "node_modules/is-arrayish",
+      "bytes": 4053,
+      "files": 8
+    },
+    {
+      "path": "node_modules/is-docker",
+      "bytes": 3013,
+      "files": 6
+    },
+    {
+      "path": "node_modules/is-extglob",
+      "bytes": 6217,
+      "files": 4
+    },
+    {
+      "path": "node_modules/is-glob",
+      "bytes": 13609,
+      "files": 4
+    },
+    {
+      "path": "node_modules/is-inside-container",
+      "bytes": 8125,
+      "files": 15
+    },
+    {
+      "path": "node_modules/is-stream",
+      "bytes": 5927,
+      "files": 5
+    },
+    {
+      "path": "node_modules/is-wsl",
+      "bytes": 3757,
+      "files": 5
+    },
+    {
+      "path": "node_modules/isexe",
+      "bytes": 10956,
+      "files": 8
+    },
+    {
+      "path": "node_modules/its-fine",
+      "bytes": 60079,
+      "files": 8
+    },
+    {
+      "path": "node_modules/jest-worker",
+      "bytes": 81896,
+      "files": 27
+    },
+    {
+      "path": "node_modules/js-tokens",
+      "bytes": 15069,
+      "files": 5
+    },
+    {
+      "path": "node_modules/js-yaml",
+      "bytes": 960180,
+      "files": 36
+    },
+    {
+      "path": "node_modules/jsesc",
+      "bytes": 32280,
+      "files": 6
+    },
+    {
+      "path": "node_modules/json-parse-even-better-errors",
+      "bytes": 10426,
+      "files": 5
+    },
+    {
+      "path": "node_modules/json-schema-traverse",
+      "bytes": 19564,
+      "files": 9
+    },
+    {
+      "path": "node_modules/json-stable-stringify-without-jsonify",
+      "bytes": 14224,
+      "files": 16
+    },
+    {
+      "path": "node_modules/json5",
+      "bytes": 235198,
+      "files": 20
+    },
+    {
+      "path": "node_modules/keyv",
+      "bytes": 117340,
+      "files": 7
+    },
+    {
+      "path": "node_modules/kiwi-schema",
+      "bytes": 243911,
+      "files": 20
+    },
+    {
+      "path": "node_modules/kleur",
+      "bytes": 9893,
+      "files": 5
+    },
+    {
+      "path": "node_modules/levn",
+      "bytes": 24947,
+      "files": 6
+    },
+    {
+      "path": "node_modules/lines-and-columns",
+      "bytes": 5386,
+      "files": 5
+    },
+    {
+      "path": "node_modules/loader-runner",
+      "bytes": 21025,
+      "files": 6
+    },
+    {
+      "path": "node_modules/locate-path",
+      "bytes": 7017,
+      "files": 5
+    },
+    {
+      "path": "node_modules/lower-case",
+      "bytes": 17661,
+      "files": 15
+    },
+    {
+      "path": "node_modules/lru-cache",
+      "bytes": 15714,
+      "files": 4
+    },
+    {
+      "path": "node_modules/mdn-data",
+      "bytes": 732388,
+      "files": 25
+    },
+    {
+      "path": "node_modules/mediabunny",
+      "bytes": 11049020,
+      "files": 290
+    },
+    {
+      "path": "node_modules/memfs",
+      "bytes": 178126,
+      "files": 32
+    },
+    {
+      "path": "node_modules/merge-stream",
+      "bytes": 4306,
+      "files": 4
+    },
+    {
+      "path": "node_modules/meshoptimizer",
+      "bytes": 263497,
+      "files": 21
+    },
+    {
+      "path": "node_modules/mime-db",
+      "bytes": 225566,
+      "files": 6
+    },
+    {
+      "path": "node_modules/mime-types",
+      "bytes": 223811,
+      "files": 11
+    },
+    {
+      "path": "node_modules/mimic-fn",
+      "bytes": 4457,
+      "files": 5
+    },
+    {
+      "path": "node_modules/minimatch",
+      "bytes": 536122,
+      "files": 53
+    },
+    {
+      "path": "node_modules/minimist",
+      "bytes": 33202,
+      "files": 21
+    },
+    {
+      "path": "node_modules/minimizer-webpack-plugin",
+      "bytes": 539048,
+      "files": 18
+    },
+    {
+      "path": "node_modules/mitt",
+      "bytes": 26444,
+      "files": 10
+    },
+    {
+      "path": "node_modules/modern-tar",
+      "bytes": 98048,
+      "files": 9
+    },
+    {
+      "path": "node_modules/ms",
+      "bytes": 6721,
+      "files": 4
+    },
+    {
+      "path": "node_modules/nanoid",
+      "bytes": 26808,
+      "files": 26
+    },
+    {
+      "path": "node_modules/natural-compare",
+      "bytes": 5647,
+      "files": 3
+    },
+    {
+      "path": "node_modules/neo-async",
+      "bytes": 297636,
+      "files": 119
+    },
+    {
+      "path": "node_modules/no-case",
+      "bytes": 25128,
+      "files": 15
+    },
+    {
+      "path": "node_modules/node-releases",
+      "bytes": 62472,
+      "files": 5
+    },
+    {
+      "path": "node_modules/npm-run-path",
+      "bytes": 8128,
+      "files": 5
+    },
+    {
+      "path": "node_modules/onetime",
+      "bytes": 6173,
+      "files": 5
+    },
+    {
+      "path": "node_modules/open",
+      "bytes": 46288,
+      "files": 6
+    },
+    {
+      "path": "node_modules/optionator",
+      "bytes": 50157,
+      "files": 7
+    },
+    {
+      "path": "node_modules/p-limit",
+      "bytes": 7754,
+      "files": 5
+    },
+    {
+      "path": "node_modules/p-locate",
+      "bytes": 7240,
+      "files": 5
+    },
+    {
+      "path": "node_modules/pako",
+      "bytes": 741440,
+      "files": 26
+    },
+    {
+      "path": "node_modules/parent-module",
+      "bytes": 3922,
+      "files": 4
+    },
+    {
+      "path": "node_modules/parse-json",
+      "bytes": 5409,
+      "files": 4
+    },
+    {
+      "path": "node_modules/path-exists",
+      "bytes": 3919,
+      "files": 5
+    },
+    {
+      "path": "node_modules/path-key",
+      "bytes": 4553,
+      "files": 5
+    },
+    {
+      "path": "node_modules/path-type",
+      "bytes": 5407,
+      "files": 5
+    },
+    {
+      "path": "node_modules/pend",
+      "bytes": 6015,
+      "files": 5
+    },
+    {
+      "path": "node_modules/picocolors",
+      "bytes": 6373,
+      "files": 7
+    },
+    {
+      "path": "node_modules/picomatch",
+      "bytes": 93759,
+      "files": 10
+    },
+    {
+      "path": "node_modules/postcss",
+      "bytes": 220893,
+      "files": 55
+    },
+    {
+      "path": "node_modules/postcss-modules-extract-imports",
+      "bytes": 11185,
+      "files": 5
+    },
+    {
+      "path": "node_modules/postcss-modules-local-by-default",
+      "bytes": 26331,
+      "files": 4
+    },
+    {
+      "path": "node_modules/postcss-modules-scope",
+      "bytes": 17465,
+      "files": 5
+    },
+    {
+      "path": "node_modules/postcss-modules-values",
+      "bytes": 9657,
+      "files": 5
+    },
+    {
+      "path": "node_modules/postcss-selector-parser",
+      "bytes": 219780,
+      "files": 37
+    },
+    {
+      "path": "node_modules/postcss-value-parser",
+      "bytes": 27193,
+      "files": 9
+    },
+    {
+      "path": "node_modules/prelude-ls",
+      "bytes": 36741,
+      "files": 10
+    },
+    {
+      "path": "node_modules/prettier",
+      "bytes": 8580364,
+      "files": 56
+    },
+    {
+      "path": "node_modules/prismjs",
+      "bytes": 2052735,
+      "files": 700
+    },
+    {
+      "path": "node_modules/prompts",
+      "bytes": 186815,
+      "files": 68
+    },
+    {
+      "path": "node_modules/punycode",
+      "bytes": 33514,
+      "files": 5
+    },
+    {
+      "path": "node_modules/puppeteer-core",
+      "bytes": 6276740,
+      "files": 946
+    },
+    {
+      "path": "node_modules/qified",
+      "bytes": 454105,
+      "files": 18
+    },
+    {
+      "path": "node_modules/react",
+      "bytes": 171604,
+      "files": 27
+    },
+    {
+      "path": "node_modules/react-dom",
+      "bytes": 7319413,
+      "files": 43
+    },
+    {
+      "path": "node_modules/react-refresh",
+      "bytes": 58408,
+      "files": 9
+    },
+    {
+      "path": "node_modules/react-use-measure",
+      "bytes": 29307,
+      "files": 9
+    },
+    {
+      "path": "node_modules/recast",
+      "bytes": 1057043,
+      "files": 72
+    },
+    {
+      "path": "node_modules/remotion",
+      "bytes": 1947438,
+      "files": 473
+    },
+    {
+      "path": "node_modules/require-from-string",
+      "bytes": 3422,
+      "files": 4
+    },
+    {
+      "path": "node_modules/resolve-from",
+      "bytes": 4641,
+      "files": 4
+    },
+    {
+      "path": "node_modules/restructure",
+      "bytes": 204256,
+      "files": 38
+    },
+    {
+      "path": "node_modules/run-applescript",
+      "bytes": 5355,
+      "files": 5
+    },
+    {
+      "path": "node_modules/scheduler",
+      "bytes": 82665,
+      "files": 15
+    },
+    {
+      "path": "node_modules/schema-utils",
+      "bytes": 1309911,
+      "files": 667
+    },
+    {
+      "path": "node_modules/semver",
+      "bytes": 123785,
+      "files": 60
+    },
+    {
+      "path": "node_modules/sharp",
+      "bytes": 1064752,
+      "files": 103
+    },
+    {
+      "path": "node_modules/shebang-command",
+      "bytes": 2556,
+      "files": 4
+    },
+    {
+      "path": "node_modules/shebang-regex",
+      "bytes": 2828,
+      "files": 5
+    },
+    {
+      "path": "node_modules/signal-exit",
+      "bytes": 9958,
+      "files": 5
+    },
+    {
+      "path": "node_modules/sisteransi",
+      "bytes": 6791,
+      "files": 5
+    },
+    {
+      "path": "node_modules/snake-case",
+      "bytes": 10360,
+      "files": 15
+    },
+    {
+      "path": "node_modules/source-map",
+      "bytes": 185657,
+      "files": 19
+    },
+    {
+      "path": "node_modules/source-map-js",
+      "bytes": 142723,
+      "files": 18
+    },
+    {
+      "path": "node_modules/source-map-support",
+      "bytes": 890401,
+      "files": 27
+    },
+    {
+      "path": "node_modules/stackframe",
+      "bytes": 23612,
+      "files": 8
+    },
+    {
+      "path": "node_modules/string-width",
+      "bytes": 11986,
+      "files": 5
+    },
+    {
+      "path": "node_modules/strip-ansi",
+      "bytes": 4276,
+      "files": 5
+    },
+    {
+      "path": "node_modules/strip-final-newline",
+      "bytes": 3046,
+      "files": 4
+    },
+    {
+      "path": "node_modules/style-loader",
+      "bytes": 58928,
+      "files": 19
+    },
+    {
+      "path": "node_modules/supports-color",
+      "bytes": 8452,
+      "files": 5
+    },
+    {
+      "path": "node_modules/suspend-react",
+      "bytes": 13333,
+      "files": 6
+    },
+    {
+      "path": "node_modules/svg-parser",
+      "bytes": 47859,
+      "files": 6
+    },
+    {
+      "path": "node_modules/tapable",
+      "bytes": 73418,
+      "files": 20
+    },
+    {
+      "path": "node_modules/terser",
+      "bytes": 2354204,
+      "files": 43
+    },
+    {
+      "path": "node_modules/terser-webpack-plugin",
+      "bytes": 180364,
+      "files": 12
+    },
+    {
+      "path": "node_modules/three",
+      "bytes": 20443256,
+      "files": 1263
+    },
+    {
+      "path": "node_modules/tiny-inflate",
+      "bytes": 43000,
+      "files": 6
+    },
+    {
+      "path": "node_modules/tiny-invariant",
+      "bytes": 14809,
+      "files": 13
+    },
+    {
+      "path": "node_modules/tinyglobby",
+      "bytes": 39288,
+      "files": 7
+    },
+    {
+      "path": "node_modules/to-fast-properties",
+      "bytes": 3496,
+      "files": 4
+    },
+    {
+      "path": "node_modules/ts-api-utils",
+      "bytes": 352842,
+      "files": 7
+    },
+    {
+      "path": "node_modules/tslib",
+      "bytes": 90359,
+      "files": 14
+    },
+    {
+      "path": "node_modules/type-check",
+      "bytes": 21167,
+      "files": 6
+    },
+    {
+      "path": "node_modules/typed-query-selector",
+      "bytes": 19074,
+      "files": 6
+    },
+    {
+      "path": "node_modules/typescript",
+      "bytes": 23625066,
+      "files": 132
+    },
+    {
+      "path": "node_modules/typescript-eslint",
+      "bytes": 42688,
+      "files": 13
+    },
+    {
+      "path": "node_modules/undici-types",
+      "bytes": 83680,
+      "files": 41
+    },
+    {
+      "path": "node_modules/unicode-properties",
+      "bytes": 76299,
+      "files": 7
+    },
+    {
+      "path": "node_modules/unicode-trie",
+      "bytes": 48887,
+      "files": 8
+    },
+    {
+      "path": "node_modules/update-browserslist-db",
+      "bytes": 26505,
+      "files": 8
+    },
+    {
+      "path": "node_modules/uri-js",
+      "bytes": 469879,
+      "files": 46
+    },
+    {
+      "path": "node_modules/use-sync-external-store",
+      "bytes": 28183,
+      "files": 18
+    },
+    {
+      "path": "node_modules/util-deprecate",
+      "bytes": 5481,
+      "files": 6
+    },
+    {
+      "path": "node_modules/watchpack",
+      "bytes": 117621,
+      "files": 19
+    },
+    {
+      "path": "node_modules/webdriver-bidi-protocol",
+      "bytes": 269828,
+      "files": 22
+    },
+    {
+      "path": "node_modules/webpack",
+      "bytes": 14125699,
+      "files": 897
+    },
+    {
+      "path": "node_modules/webpack-sources",
+      "bytes": 246797,
+      "files": 56
+    },
+    {
+      "path": "node_modules/which",
+      "bytes": 9975,
+      "files": 6
+    },
+    {
+      "path": "node_modules/word-wrap",
+      "bytes": 11845,
+      "files": 5
+    },
+    {
+      "path": "node_modules/wrap-ansi",
+      "bytes": 19257,
+      "files": 10
+    },
+    {
+      "path": "node_modules/ws",
+      "bytes": 151087,
+      "files": 19
+    },
+    {
+      "path": "node_modules/wsl-utils",
+      "bytes": 8700,
+      "files": 10
+    },
+    {
+      "path": "node_modules/y18n",
+      "bytes": 23435,
+      "files": 9
+    },
+    {
+      "path": "node_modules/yallist",
+      "bytes": 14766,
+      "files": 5
+    },
+    {
+      "path": "node_modules/yargs",
+      "bytes": 236734,
+      "files": 59
+    },
+    {
+      "path": "node_modules/yargs-parser",
+      "bytes": 85628,
+      "files": 10
+    },
+    {
+      "path": "node_modules/yauzl",
+      "bytes": 109901,
+      "files": 6
+    },
+    {
+      "path": "node_modules/yocto-queue",
+      "bytes": 6027,
+      "files": 5
+    },
+    {
+      "path": "node_modules/zod",
+      "bytes": 6148944,
+      "files": 840
+    },
+    {
+      "path": "node_modules/zod-validation-error",
+      "bytes": 229522,
+      "files": 16
+    },
+    {
+      "path": "node_modules/zustand",
+      "bytes": 95961,
+      "files": 52
+    },
+    {
+      "path": "node_modules",
+      "bytes": 430022252,
+      "files": 25245
+    },
+    {
+      "path": "out/portfolio-designed",
+      "bytes": 35598192,
+      "files": 1
+    },
+    {
+      "path": "out/portfolio-space",
+      "bytes": 100839153,
+      "files": 1
+    },
+    {
+      "path": "out",
+      "bytes": 136437345,
+      "files": 2
+    },
+    {
+      "path": "public/projects",
+      "bytes": 493665174,
+      "files": 404
+    },
+    {
+      "path": "public",
+      "bytes": 493665174,
+      "files": 404
+    },
+    {
+      "path": "scripts/__pycache__",
+      "bytes": 0,
+      "files": 0
+    },
+    {
+      "path": "scripts",
+      "bytes": 262809,
+      "files": 54
+    },
+    {
+      "path": "src/engine",
+      "bytes": 33393,
+      "files": 15
+    },
+    {
+      "path": "src/projects",
+      "bytes": 460816538,
+      "files": 1003
+    },
+    {
+      "path": "src/templates",
+      "bytes": 2140,
+      "files": 5
+    },
+    {
+      "path": "src",
+      "bytes": 460853179,
+      "files": 1025
+    },
+    {
+      "path": "tasks",
+      "bytes": 10286,
+      "files": 2
+    },
+    {
+      "path": ".",
+      "bytes": 3716589096,
+      "files": 32591
+    }
+  ],
+  "largeFiles": [
+    {
+      "path": ".cache/portfolio-space/round-3-draft.mp4",
+      "bytes": 49421605
+    },
+    {
+      "path": ".git/objects/a6/d255091977534ad3a054e3aa36d82ef5fc21d9",
+      "bytes": 84771391
+    },
+    {
+      "path": ".git/objects/ac/2d54def637da7edb47478543f67d2fc9bc2654",
+      "bytes": 114538941
+    },
+    {
+      "path": ".git/objects/bc/ab87d5a0393ca87b1d229672a89bf26456b6ea",
+      "bytes": 29729194
+    },
+    {
+      "path": ".git/objects/c0/f050c09ab924bc7937f9988c3754fa59ce4606",
+      "bytes": 28797825
+    },
+    {
+      "path": ".git/objects/c3/2ecddd0e0f23521cb897534a4af78a42597682",
+      "bytes": 30896963
+    },
+    {
+      "path": ".git/objects/c8/0710877d64a7bf57be41e644479d104171e30e",
+      "bytes": 21306590
+    },
+    {
+      "path": ".git/objects/fe/f998d8a69ce071232fa9bc56f9a2e7ef81f9d1",
+      "bytes": 28460604
+    },
+    {
+      "path": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "bytes": 114799387
+    },
+    {
+      "path": "assets/Reference Vid/REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "bytes": 28940632
+    },
+    {
+      "path": "assets/Reference Vid/REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "bytes": 28574962
+    },
+    {
+      "path": "node_modules/@rspack/binding-win32-x64-msvc/rspack.win32-x64-msvc.node",
+      "bytes": 47762432
+    },
+    {
+      "path": "out/portfolio-designed/Souradip-Biswas-Sobiverse.mp4",
+      "bytes": 35598192
+    },
+    {
+      "path": "out/portfolio-space/Souradip-Biswas-Sobiverse-Space.mp4",
+      "bytes": 100839153
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/media/footage-edit.mp4",
+      "bytes": 84961869
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    }
+  ],
+  "skippedLinks": []
+}

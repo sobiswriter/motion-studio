@@ -1,0 +1,142 @@
+{
+  "identity": {
+    "name": "Souradip (Sobi) Biswas",
+    "role": "AI & ML Developer · Full Stack Engineer",
+    "positioning": [
+      "Applied AI",
+      "Full Stack Engineering",
+      "Mobile Software",
+      "Client Delivery"
+    ],
+    "manifesto": "AI as a system, not a demo."
+  },
+  "projects": [
+    {
+      "id": "legallm",
+      "title": "LegalLM",
+      "category": "Document Intelligence",
+      "role": "AI Application",
+      "problem": "An AI platform for uploading, parsing, and analyzing legal documents.",
+      "architecture": [
+        "PDF, DOCX, and text uploads with structured summaries, clause and risk analysis, and document Q&A.",
+        "Answers connected to source citations and document highlighting; Gemini PDF analysis and Mammoth DOCX parsing."
+      ],
+      "keyFeatures": [],
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "Genkit",
+        "Gemini",
+        "Mammoth"
+      ],
+      "githubUrl": "https://github.com/sobiswriter/LegalLM",
+      "liveUrl": "https://legal-lmx24-git-main-sobiswriters-projects.vercel.app/"
+    },
+    {
+      "id": "project-aic",
+      "title": "Niva / Project AIC",
+      "category": "Applied AI",
+      "role": "AI Assistant",
+      "problem": "A Telegram assistant with conversational context, long-term memory, and proactive follow-ups.",
+      "architecture": [
+        "FastAPI webhook handling with Gemini and Vertex AI integration.",
+        "Short-term conversational context and summarized long-term memory stored in Firestore."
+      ],
+      "keyFeatures": [
+        "Scheduled journaling and sentiment checks.",
+        "Proactive follow-ups and summarized conversational memory."
+      ],
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Gemini",
+        "Vertex AI",
+        "Firestore",
+        "Docker"
+      ],
+      "githubUrl": "https://github.com/sobiswriter/Project-AIC"
+    },
+    {
+      "id": "right-left",
+      "title": "LaunchSILO Labs",
+      "category": "Commercial & Web",
+      "role": "Agency Owner & Developer",
+      "problem": "An agency platform for e-commerce, SaaS, portfolios, video production, and mobile development services.",
+      "architecture": [
+        "Multi-step scope builder captures service requirements, budgets, timelines, and deliverables, with AI-assisted estimates and inquiry qualification.",
+        "Administrative CMS and inquiry pipeline with status tracking, client notes, invoices, PDF export, and WhatsApp handoffs."
+      ],
+      "keyFeatures": [
+        "Scope builder and AI-assisted estimates.",
+        "CMS, client inquiry tracking, and invoice exports."
+      ],
+      "stack": [
+        "React 19",
+        "Firebase",
+        "Firestore",
+        "REST APIs",
+        "Gemini"
+      ],
+      "githubUrl": "https://github.com/sobiswriter/RLBiz",
+      "liveUrl": "https://launchsilo.in/"
+    },
+    {
+      "id": "bhudrishty",
+      "title": "Bhudrishty",
+      "category": "Applied AI",
+      "role": "Mobile Developer · ML & Web Contributor",
+      "problem": "A landslide early-warning system developed with Team Vortiq for SIH 2026.",
+      "architecture": [
+        "Independently developed the entire mobile application and contributed to the ML component and website.",
+        "Multi-source risk assessment combines sensor readings, rainfall, terrain, and satellite data for localized warnings."
+      ],
+      "keyFeatures": [
+        "College nomination to present at SIH 2026 after competing among 900 teams."
+      ],
+      "stack": [
+        "Mobile Development",
+        "Machine Learning",
+        "Web Development"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "id": "document-intelligence",
+      "title": "Document Intelligence",
+      "domain": "Document analysis & NLP",
+      "overview": "An AI platform for uploading, parsing, and analyzing legal documents."
+    },
+    {
+      "id": "behavior-persona",
+      "title": "Persona, Identity & Behavior Modeling",
+      "domain": "Behavior-aware interfaces",
+      "overview": "A Python-based intelligent bot system exploring behavior and decision logic. A desktop playground for creating and chatting with AI-driven personas."
+    },
+    {
+      "id": "generative-writing",
+      "title": "Generative AI & Writing",
+      "domain": "AI-assisted rewriting",
+      "overview": "An AI-assisted journal that rewrites and reframes entries using psychological themes."
+    },
+    {
+      "id": "creative-tooling",
+      "title": "Creative & Systems Tooling",
+      "domain": "Interfaces and automation",
+      "overview": "An interactive canvas for experimenting with generative color and motion. A lightweight desktop overlay for quick, context-aware AI assistance. A PowerShell toolkit for scripting, scheduling, scraping, and routine automation."
+    },
+    {
+      "id": "patent",
+      "title": "Hybrid Endomythosis Detection through AI & ML",
+      "domain": "Applied research",
+      "overview": "Patent publication · October 2025.",
+      "dateOrEra": "Oct 2025"
+    },
+    {
+      "id": "conferences",
+      "title": "Conference Participation",
+      "domain": "Industry events",
+      "overview": "Attended ODDO Meet in Gandhinagar and IMC Conference in Delhi."
+    }
+  ]
+}

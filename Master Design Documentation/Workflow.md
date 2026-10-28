@@ -16,7 +16,7 @@ Before asking the user any questions, scan the project workspace automatically:
 2. Run `ffprobe` on all video/audio files to log duration, resolution, frame rate, and audio channels.
 3. Notice what is present (e.g., talking-head A-roll, screen recordings, voiceover `.wav`, music track, SVG logos, `.cube` LUTs) and what is missing (e.g., no voiceover, no B-roll, or zero raw files = Pure Motion Graphics mode).
 4. Inventory existing audio stems, cue lists, `assets/sfx`, and license/provenance records. Reuse suitable sounds. At the start of sound work or after a tool failure, check the installed environment with `npm.cmd run real-sfx -- setup check` and `npm.cmd run earshot -- doctor`; follow [Sound Tools](../docs/SOUND_TOOLS.md) for recovery.
-5. Include `assets/Music/` and newly added tracks in every revised inventory. Supplied music is the first choice for the primary bed. Keep procedural tools for missing accents or gaps unless original music was specifically requested; retain any track the user excluded in the project's exclusion record.
+5. Include `assets/Music/` and newly added tracks in every revised inventory. Consult the [music library](../docs/music-library/README.md) and its [selection playbook](../docs/music-library/PLAYBOOK.md), compare the exact audition ranges and check source hashes. Record the MUS ID/source in/out in the blueprint. Supplied music is the first choice for the primary bed. Keep procedural tools for missing accents or gaps unless original music was specifically requested; retain any track the user excluded in the project's exclusion record. Unverified vocals are not certified instrumental.
 
 ---
 

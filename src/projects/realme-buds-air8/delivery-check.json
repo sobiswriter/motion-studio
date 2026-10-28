@@ -1,0 +1,33 @@
+{
+  "file": "out/realme-buds-air8/realme-Buds-Air8-Find-Your-Frequency.mp4",
+  "bytes": 20348340,
+  "sha256": "84165c645798950f49d30530bbf158d95eeb5a9faf02c3432cbcd221d8441113",
+  "duration": 45,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "frames": 2700,
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2,
+    "lufs": -16.45,
+    "truePeakDbtp": -4.19,
+    "lra": 4.6,
+    "humanListening": false,
+    "earshotAvailable": false
+  },
+  "review": {
+    "passes": 4,
+    "halfSecondSamples": 90,
+    "boundarySamples": 35,
+    "decodedFrames": 2700,
+    "longestIdenticalRunSeconds": 0.06666666666666667
+  },
+  "renderer": "ANGLE / Intel Iris Xe / Direct3D11",
+  "capture": "hardware GPU drawElement",
+  "warnings": [
+    "HyperFrames DOM craft dead-stretch warning does not inspect canvas pixels; decoded-frame comparison retained.",
+    "Earshot inference unavailable; Real SFX and FFmpeg fallback measurements used."
+  ]
+}

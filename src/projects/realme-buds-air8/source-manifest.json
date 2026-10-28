@@ -1,0 +1,112 @@
+{
+  "product": "realme Buds Air8 (India)",
+  "variant": "Master Grey (user Flipkart listing)",
+  "officialPage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+  "retrievedAt": "2026-10-27",
+  "rights": "Product imagery © realme. Collected for personal concept/storyboard review; publication clearance not asserted.",
+  "assets": [
+    {
+      "path": "official-hero.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768118919124980c883d4e4751aa9c5c05241cc657.jpg",
+      "sha256": "db13d5ca92ce4523ad333e15f8228be184fb9b0bf1c76314256f3329cd58c693",
+      "bytes": 1012778,
+      "width": 2624,
+      "height": 1050,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-features.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681190277ca79fbee6d06466d86f03f61c5e9b823.jpg",
+      "sha256": "8fa430617fd8aca233a013ce94e86d22c018ea07754b4ab4014a0c501722209b",
+      "bytes": 3620454,
+      "width": 2624,
+      "height": 2668,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-design.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681191770f0975a185bde497fb70736efcf4778dd.jpg",
+      "sha256": "7a23589151ac3c8c89fb1f1710e6f6ea4f59251af80392bf1739b301075f85c7",
+      "bytes": 3522973,
+      "width": 2624,
+      "height": 1876,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-04.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681193103b8a7595532b44c5e95edaa84de5aab70.jpg",
+      "sha256": "3a01d9e7eed654f523d446ba76cc7961f34e9b43e5042c0bae18f2ba7010614d",
+      "bytes": 3411320,
+      "width": 2624,
+      "height": 2120,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-05.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681194670b47d554bec154f8cbc96c372da75edc0.jpg",
+      "sha256": "3949a88a3d3955efe7113ff5a77d1de7280730bacfd59aff0be7ee0ec57bde12",
+      "bytes": 2342821,
+      "width": 2624,
+      "height": 1964,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-16.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768122363371827513fd66475ba22208f68e138fd9.jpg",
+      "sha256": "4fbd6d420588d7fc2c4cdb29511af079e14a0b3b255e69bbd1a8e19ebe8d376c",
+      "bytes": 1980433,
+      "width": 2624,
+      "height": 1958,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-footnotes.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768122410131067748ad5f4353ae463b163f905bd5.jpg",
+      "sha256": "4eab2d736a1f43ce0e075f7c3c877823379599ffd364f7d3cf562aa46a5dbeda",
+      "bytes": 2101529,
+      "width": 2624,
+      "height": 4676,
+      "hasAlpha": false
+    },
+    {
+      "path": "master-grey-open-case.png",
+      "url": "https://rukminim2.flixcart.com/image/1600/2130/xif0q/headphone/4/x/b/-enriched-transparent-original-imahj8ppjkeuv3zq.png?q=80",
+      "sourcePage": "https://www.flipkart.com/realme-buds-air8-55db-anc-11-6mm-dual-drivers-ai-translator-58hrs-battery-ip55-bluetooth/p/itm131b8c1146415?pid=ACCHJ2G6XF4VYXJF",
+      "sha256": "97b69f0c05115a86683f74aa2866408eb01b2768cc8ef87b23b4199e1f514927",
+      "bytes": 624177,
+      "width": 1600,
+      "height": 1600,
+      "hasAlpha": true
+    },
+    {
+      "path": "master-grey-gallery-04.jpg",
+      "url": "https://rukminim2.flixcart.com/image/1600/2130/xif0q/headphone/l/c/w/-original-imahj8ppa9hbb3uw.jpeg?q=80",
+      "sourcePage": "https://www.flipkart.com/realme-buds-air8-55db-anc-11-6mm-dual-drivers-ai-translator-58hrs-battery-ip55-bluetooth/p/itm131b8c1146415?pid=ACCHJ2G6XF4VYXJF",
+      "sha256": "9b65f255b3ab25e4048e29eee8ed63df3f8751a9b3a31f4a8ae919f308f1ace1",
+      "bytes": 111997,
+      "width": 1600,
+      "height": 1860,
+      "hasAlpha": false
+    },
+    {
+      "path": "master-grey-gallery-03.jpg",
+      "url": "https://rukminim2.flixcart.com/image/1600/2130/xif0q/headphone/y/s/h/-original-imahj8ppvhqdhstw.jpeg?q=80",
+      "sourcePage": "https://www.flipkart.com/realme-buds-air8-55db-anc-11-6mm-dual-drivers-ai-translator-58hrs-battery-ip55-bluetooth/p/itm131b8c1146415?pid=ACCHJ2G6XF4VYXJF",
+      "sha256": "79e22283dd8eae8e8ddf1e20360bb2c014775c83205ae0eef9e354c148acc905",
+      "bytes": 123682,
+      "width": 1416,
+      "height": 2130,
+      "hasAlpha": false
+    },
+    {
+      "path": "master-grey-gallery-02.jpg",
+      "url": "https://rukminim2.flixcart.com/image/1600/2130/xif0q/headphone/y/a/x/-original-imahj8pptg4xt4gy.jpeg?q=80",
+      "sourcePage": "https://www.flipkart.com/realme-buds-air8-55db-anc-11-6mm-dual-drivers-ai-translator-58hrs-battery-ip55-bluetooth/p/itm131b8c1146415?pid=ACCHJ2G6XF4VYXJF",
+      "sha256": "08a835d1ff79957c48b681044a8e23249f57aa5b00bc5a77c901c232214d1c72",
+      "bytes": 205586,
+      "width": 1600,
+      "height": 1283,
+      "hasAlpha": false
+    }
+  ]
+}

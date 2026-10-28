@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-27",
+  "website": "https://sobiverse.ai.studio",
+  "recording": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+  "sourceFrameSize": [
+    1918,
+    1078
+  ],
+  "cropOrder": [
+    "x",
+    "y",
+    "width",
+    "height"
+  ],
+  "gpu": {
+    "vendor": "Google Inc. (Intel)",
+    "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "records": [
+    {
+      "file": "frame-galaxy.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 4,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "d10305f667aa3663c4ddaad84388e993cd8db441a7d8c56eb4e7969367a54bf6"
+    },
+    {
+      "file": "frame-project.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 27.95,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "f2c807caaf9cb937586705b8974b0de62b94b6fde17ce638aa5193afd62235ec"
+    },
+    {
+      "file": "frame-ai.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 37.6,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "90f1e41b6bd6533d87ce5b5a91958272f89554c3254dde4acfe69117a6937eac"
+    },
+    {
+      "file": "frame-research.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 46,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "c305f0e4d84ca037b36c62c7dc618d65aca073e681ad4de6b9f58ddda1c04b95"
+    },
+    {
+      "file": "frame-skills.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 56.5,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "21ad56ac5a28df6ee634c6ce937fe82d7dea88b9adfa9575846dca1631e262eb"
+    },
+    {
+      "file": "frame-experience.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 63.4,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "f34120fa1d7f9d3dfadce5b052ec650c7d509f585941cf26742a13818d788046"
+    },
+    {
+      "file": "frame-person.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 77.5,
+      "crop": [
+        0,
+        0,
+        1918,
+        1078
+      ],
+      "note": "Actual complete portfolio world still; no video playback.",
+      "width": 1918,
+      "height": 1078,
+      "sha256": "95a971f3a469720826564f99e5a2554d3b61ab830abae346e2803c98b1a52a33"
+    },
+    {
+      "file": "frame-contact.png",
+      "source": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "type": "single-recording-frame",
+      "time": 88,
+      "crop": [
+        0,
+        0,
+        1918,
+        755
+      ],
+      "note": "Bottom contact details excluded.",
+      "width": 1918,
+      "height": 755,
+      "sha256": "a248b5a5c6318e4855e5198978774d6118ba37aaf98e855b19e23f7d7aeb254a"
+    },
+    {
+      "file": "portrait.jpg",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/public/images/MeImg.jpg",
+      "type": "native-website-image",
+      "note": "Byte-identical copy of owner website artwork.",
+      "width": 1333,
+      "height": 1333,
+      "sha256": "431eec7fc704bb718e386507db4a9a56ee0fa029357beb89717ebb847bc2f8f5"
+    },
+    {
+      "file": "profile-front.png",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/public/images/Profile card front.png",
+      "type": "native-website-image",
+      "note": "Byte-identical copy of owner website artwork.",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "20561d9503eb138639e4ef14b00566ca6fbb4aec8aba44b8163419516c56a3d2"
+    },
+    {
+      "file": "profile-back.png",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/public/images/Profile card back.png",
+      "type": "native-website-image",
+      "note": "Byte-identical copy of owner website artwork.",
+      "width": 1086,
+      "height": 1448,
+      "sha256": "ed8e8a07e7d7ce2255d8000ed964cda011ccdae5a02f4fbd5c78ce5cb01cd25e"
+    },
+    {
+      "file": "space-galaxy.jpg",
+      "type": "website-engine-still",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/src/components/galaxy/GalaxyEngine.ts",
+      "seed": 2637,
+      "camera": "galaxy",
+      "note": "UI-free static render of the actual website galaxy, shaders and destination scene. No stock or cloud artwork.",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5f86924c30f2734c23f36498aa3b15720012a32f7cf16478450b9e3b95ce4c36"
+    },
+    {
+      "file": "space-nebula.jpg",
+      "type": "website-engine-still",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/src/components/galaxy/GalaxyEngine.ts",
+      "seed": 2637,
+      "camera": "nebula",
+      "note": "UI-free static render of the actual website galaxy, shaders and destination scene. No stock or cloud artwork.",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8ccb43074b30ce7b4327e70529285fcd92c117c4abffb3fa47650b582dca5365"
+    },
+    {
+      "file": "space-deep.jpg",
+      "type": "website-engine-still",
+      "source": "C:/Users/soura/OneDrive/Desktop/PortLeo/Port-Leo/src/components/galaxy/GalaxyEngine.ts",
+      "seed": 2637,
+      "camera": "deep",
+      "note": "UI-free static render of the actual website galaxy, shaders and destination scene. No stock or cloud artwork.",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "042297e02ad63350816f46605076ba3d58aae555a2f3e85e4b9d9b61e277e0d3"
+    },
+    {
+      "file": "launchsilo.png",
+      "source": "src/projects/portfolio-designed/assets/images/launchsilo.png",
+      "url": "https://launchsilo.in/",
+      "type": "native-website-screenshot",
+      "captureDate": "2026-10-27",
+      "provenance": "src/projects/portfolio-designed/docs/SOURCES.md",
+      "note": "Byte-identical reuse of the clean native homepage screenshot; no website recapture or generated UI.",
+      "width": 1270,
+      "height": 714,
+      "sha256": "52981c58df1e95ab0e225c695580d04fda06cc80e4850cded9f45523457c59e5"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "duration": 120,
+  "fps": 60,
+  "scenes": [
+    {
+      "id": "opening",
+      "start": 0,
+      "end": 6,
+      "title": "Enter the Sobiverse",
+      "frame": 0,
+      "endFrame": 360
+    },
+    {
+      "id": "universe",
+      "start": 6,
+      "end": 16,
+      "title": "A map of worlds",
+      "kind": "particles",
+      "frame": 360,
+      "endFrame": 960
+    },
+    {
+      "id": "overview",
+      "start": 16,
+      "end": 25,
+      "title": "Bound by curiosity",
+      "kind": "liquid",
+      "frame": 960,
+      "endFrame": 1500
+    },
+    {
+      "id": "work",
+      "start": 25,
+      "end": 29,
+      "title": "Work in orbit",
+      "kind": "kinetic",
+      "word": "WORK",
+      "frame": 1500,
+      "endFrame": 1740
+    },
+    {
+      "id": "project",
+      "start": 29,
+      "end": 36,
+      "title": "LaunchSILO Labs",
+      "kind": "bauhaus",
+      "frame": 1740,
+      "endFrame": 2160
+    },
+    {
+      "id": "project-detail",
+      "start": 36,
+      "end": 43,
+      "title": "From scope to system",
+      "kind": "kinetic",
+      "word": "SYSTEMS",
+      "frame": 2160,
+      "endFrame": 2580
+    },
+    {
+      "id": "ai-chapter",
+      "start": 43,
+      "end": 47,
+      "title": "Think. Test. Build.",
+      "kind": "kinetic",
+      "word": "THINK",
+      "frame": 2580,
+      "endFrame": 2820
+    },
+    {
+      "id": "ai",
+      "start": 47,
+      "end": 55,
+      "title": "LegalLM / document intelligence",
+      "kind": "brutal",
+      "words": [
+        "ASK.",
+        "TRACE.",
+        "BUILD."
+      ],
+      "frame": 2820,
+      "endFrame": 3300
+    },
+    {
+      "id": "research",
+      "start": 55,
+      "end": 64,
+      "title": "A research constellation",
+      "kind": "comic",
+      "frame": 3300,
+      "endFrame": 3840
+    },
+    {
+      "id": "tools",
+      "start": 64,
+      "end": 68,
+      "title": "Beyond the toolkit",
+      "kind": "kinetic",
+      "word": "BEYOND",
+      "frame": 3840,
+      "endFrame": 4080
+    },
+    {
+      "id": "skills",
+      "start": 68,
+      "end": 77,
+      "title": "Technical craft",
+      "kind": "bauhaus",
+      "frame": 4080,
+      "endFrame": 4620
+    },
+    {
+      "id": "experience",
+      "start": 77,
+      "end": 87,
+      "title": "A nonlinear trajectory",
+      "kind": "particles",
+      "frame": 4620,
+      "endFrame": 5220
+    },
+    {
+      "id": "person",
+      "start": 87,
+      "end": 97,
+      "title": "The human in the universe",
+      "kind": "liquid",
+      "frame": 5220,
+      "endFrame": 5820
+    },
+    {
+      "id": "human",
+      "start": 97,
+      "end": 101,
+      "title": "Still curious",
+      "kind": "kinetic",
+      "word": "STILL",
+      "frame": 5820,
+      "endFrame": 6060
+    },
+    {
+      "id": "contact",
+      "start": 101,
+      "end": 110,
+      "title": "The next coordinate",
+      "kind": "brutal",
+      "words": [
+        "WHAT IF?",
+        "LET’S",
+        "BUILD."
+      ],
+      "frame": 6060,
+      "endFrame": 6600
+    },
+    {
+      "id": "closing",
+      "start": 110,
+      "end": 120,
+      "title": "Souradip Biswas / Sobiverse",
+      "kind": "kinetic",
+      "word": "NEXT.",
+      "frame": 6600,
+      "endFrame": 7200
+    }
+  ],
+  "handoffs": [
+    {
+      "id": "handoff-1",
+      "old": "opening",
+      "next": "universe",
+      "kind": "particles",
+      "frame": 360,
+      "startFrame": 336,
+      "endFrame": 384,
+      "options": {}
+    },
+    {
+      "id": "handoff-2",
+      "old": "universe",
+      "next": "overview",
+      "kind": "liquid",
+      "frame": 960,
+      "startFrame": 936,
+      "endFrame": 984,
+      "options": {}
+    },
+    {
+      "id": "handoff-3",
+      "old": "overview",
+      "next": "work",
+      "kind": "kinetic",
+      "frame": 1500,
+      "startFrame": 1473,
+      "endFrame": 1527,
+      "options": {
+        "word": "WORK"
+      }
+    },
+    {
+      "id": "handoff-4",
+      "old": "work",
+      "next": "project",
+      "kind": "bauhaus",
+      "frame": 1740,
+      "startFrame": 1716,
+      "endFrame": 1764,
+      "options": {}
+    },
+    {
+      "id": "handoff-5",
+      "old": "project",
+      "next": "project-detail",
+      "kind": "kinetic",
+      "frame": 2160,
+      "startFrame": 2133,
+      "endFrame": 2187,
+      "options": {
+        "word": "SYSTEMS"
+      }
+    },
+    {
+      "id": "handoff-6",
+      "old": "project-detail",
+      "next": "ai-chapter",
+      "kind": "kinetic",
+      "frame": 2580,
+      "startFrame": 2553,
+      "endFrame": 2607,
+      "options": {
+        "word": "THINK"
+      }
+    },
+    {
+      "id": "handoff-7",
+      "old": "ai-chapter",
+      "next": "ai",
+      "kind": "brutal",
+      "frame": 2820,
+      "startFrame": 2796,
+      "endFrame": 2844,
+      "options": {
+        "words": [
+          "ASK.",
+          "TRACE.",
+          "BUILD."
+        ]
+      }
+    },
+    {
+      "id": "handoff-8",
+      "old": "ai",
+      "next": "research",
+      "kind": "comic",
+      "frame": 3300,
+      "startFrame": 3276,
+      "endFrame": 3324,
+      "options": {}
+    },
+    {
+      "id": "handoff-9",
+      "old": "research",
+      "next": "tools",
+      "kind": "kinetic",
+      "frame": 3840,
+      "startFrame": 3813,
+      "endFrame": 3867,
+      "options": {
+        "word": "BEYOND"
+      }
+    },
+    {
+      "id": "handoff-10",
+      "old": "tools",
+      "next": "skills",
+      "kind": "bauhaus",
+      "frame": 4080,
+      "startFrame": 4056,
+      "endFrame": 4104,
+      "options": {}
+    },
+    {
+      "id": "handoff-11",
+      "old": "skills",
+      "next": "experience",
+      "kind": "particles",
+      "frame": 4620,
+      "startFrame": 4596,
+      "endFrame": 4644,
+      "options": {}
+    },
+    {
+      "id": "handoff-12",
+      "old": "experience",
+      "next": "person",
+      "kind": "liquid",
+      "frame": 5220,
+      "startFrame": 5196,
+      "endFrame": 5244,
+      "options": {}
+    },
+    {
+      "id": "handoff-13",
+      "old": "person",
+      "next": "human",
+      "kind": "kinetic",
+      "frame": 5820,
+      "startFrame": 5793,
+      "endFrame": 5847,
+      "options": {
+        "word": "STILL"
+      }
+    },
+    {
+      "id": "handoff-14",
+      "old": "human",
+      "next": "contact",
+      "kind": "brutal",
+      "frame": 6060,
+      "startFrame": 6036,
+      "endFrame": 6084,
+      "options": {
+        "words": [
+          "WHAT IF?",
+          "LET’S",
+          "BUILD."
+        ]
+      }
+    },
+    {
+      "id": "handoff-15",
+      "old": "contact",
+      "next": "closing",
+      "kind": "kinetic",
+      "frame": 6600,
+      "startFrame": 6573,
+      "endFrame": 6627,
+      "options": {
+        "word": "NEXT."
+      }
+    }
+  ]
+}

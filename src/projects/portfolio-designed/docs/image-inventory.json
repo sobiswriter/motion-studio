@@ -1,0 +1,72 @@
+[
+  {
+    "name": "experience.png",
+    "width": 650,
+    "height": 350,
+    "format": "png",
+    "sha256": "003a05b3b2445d6a5906473997d7a7c1a553f39418b0252ec1018ad820acbcad"
+  },
+  {
+    "name": "galaxy.png",
+    "width": 1020,
+    "height": 700,
+    "format": "png",
+    "sha256": "74713b36cf751bf08fcc4380e2e1b754a1e5dea04be26a58cdc1119040d9fc3d"
+  },
+  {
+    "name": "launchsilo-context.png",
+    "width": 950,
+    "height": 890,
+    "format": "png",
+    "sha256": "a5ad603c8f1f25e165073c353fe98ff5f92fb3943232532ac2e6609a50f472e2"
+  },
+  {
+    "name": "launchsilo-recording.png",
+    "width": 850,
+    "height": 375,
+    "format": "png",
+    "sha256": "05cc2799c6a7b605a1f86611a93ecbd9feffab902d1ab152c1ace12898ab6413"
+  },
+  {
+    "name": "launchsilo.png",
+    "width": 1270,
+    "height": 714,
+    "format": "png",
+    "sha256": "52981c58df1e95ab0e225c695580d04fda06cc80e4850cded9f45523457c59e5"
+  },
+  {
+    "name": "legallm.png",
+    "width": 995,
+    "height": 530,
+    "format": "png",
+    "sha256": "0594c19b3329ccebe5ef07716cca9409c0becc2f54d1136a6602aa93c922cc7c"
+  },
+  {
+    "name": "overview.png",
+    "width": 1570,
+    "height": 650,
+    "format": "png",
+    "sha256": "9dc4b9f69195e06c5f6338521e991db82cc2d3fdeca4aed8d04cc6fe1f175fee"
+  },
+  {
+    "name": "portrait.jpg",
+    "width": 1333,
+    "height": 1333,
+    "format": "jpeg",
+    "sha256": "431eec7fc704bb718e386507db4a9a56ee0fa029357beb89717ebb847bc2f8f5"
+  },
+  {
+    "name": "research.png",
+    "width": 1170,
+    "height": 410,
+    "format": "png",
+    "sha256": "af79601f2c45a3e04bf98896745a0530d1c74ac706acd9fea15777ffe750ddad"
+  },
+  {
+    "name": "skills.png",
+    "width": 1280,
+    "height": 640,
+    "format": "png",
+    "sha256": "de4660991857e5a181a21d67434cc886710bd9b76ec8de01045f448ef66a29e8"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "source": "assets/Music/A_Pale_Blue_Stillness.mp3",
+  "duration": 120,
+  "fps": 60,
+  "segments": [
+    {
+      "source": [
+        0,
+        13.2
+      ],
+      "output": [
+        0,
+        13.2
+      ]
+    },
+    {
+      "source": [
+        25.9,
+        122.7
+      ],
+      "output": [
+        11.2,
+        108
+      ]
+    },
+    {
+      "source": [
+        147.37,
+        161.37
+      ],
+      "output": [
+        106,
+        120
+      ]
+    }
+  ],
+  "crossfades": {
+    "seconds": 2,
+    "curves": [
+      "qsin",
+      "qsin"
+    ]
+  },
+  "gainDb": -4.5,
+  "fadeInSeconds": 0.015,
+  "fadeOut": [
+    118.5,
+    120
+  ],
+  "rawFootageAudio": "No source-video clips or their audio are used. The recording is an information/still-frame source only; no narration.",
+  "excludedSources": [
+    "Ivan_Is_Loading.mp3",
+    "The_Golden_Hour_Rise.mp3"
+  ],
+  "note": "Only the supplied track is arranged. No generated music. Original MP3 unchanged."
+}

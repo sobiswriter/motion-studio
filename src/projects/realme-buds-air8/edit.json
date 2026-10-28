@@ -1,0 +1,166 @@
+{
+  "duration": 45,
+  "fps": 60,
+  "scenes": [
+    {
+      "id": "signal",
+      "start": 0,
+      "end": 4,
+      "title": "Your sound. In focus.",
+      "frame": 0,
+      "endFrame": 240
+    },
+    {
+      "id": "hero",
+      "start": 4,
+      "end": 8,
+      "title": "realme Buds Air8",
+      "kind": "liquid",
+      "frame": 240,
+      "endFrame": 480
+    },
+    {
+      "id": "anc",
+      "start": 8,
+      "end": 15,
+      "title": "Up to 55dB ANC",
+      "kind": "kinetic",
+      "word": "FOCUS",
+      "frame": 480,
+      "endFrame": 900
+    },
+    {
+      "id": "drivers",
+      "start": 15,
+      "end": 22,
+      "title": "11mm + 6mm dual drivers",
+      "kind": "bauhaus",
+      "frame": 900,
+      "endFrame": 1320
+    },
+    {
+      "id": "battery",
+      "start": 22,
+      "end": 29,
+      "title": "Up to 58h total playback",
+      "kind": "liquid",
+      "frame": 1320,
+      "endFrame": 1740
+    },
+    {
+      "id": "resistance",
+      "start": 29,
+      "end": 34,
+      "title": "IP55 earbuds",
+      "kind": "comic",
+      "frame": 1740,
+      "endFrame": 2040
+    },
+    {
+      "id": "connection",
+      "start": 34,
+      "end": 39,
+      "title": "3-device connection",
+      "kind": "brutal",
+      "words": [
+        "ONE",
+        "PAIR.",
+        "3 DEVICES."
+      ],
+      "frame": 2040,
+      "endFrame": 2340
+    },
+    {
+      "id": "signature",
+      "start": 39,
+      "end": 45,
+      "title": "Find your frequency.",
+      "kind": "kinetic",
+      "word": "YOUR.",
+      "frame": 2340,
+      "endFrame": 2700
+    }
+  ],
+  "handoffs": [
+    {
+      "id": "handoff-1",
+      "old": "signal",
+      "next": "hero",
+      "kind": "liquid",
+      "frame": 240,
+      "startFrame": 222,
+      "endFrame": 258,
+      "options": {}
+    },
+    {
+      "id": "handoff-2",
+      "old": "hero",
+      "next": "anc",
+      "kind": "kinetic",
+      "frame": 480,
+      "startFrame": 459,
+      "endFrame": 501,
+      "options": {
+        "word": "FOCUS"
+      }
+    },
+    {
+      "id": "handoff-3",
+      "old": "anc",
+      "next": "drivers",
+      "kind": "bauhaus",
+      "frame": 900,
+      "startFrame": 876,
+      "endFrame": 924,
+      "options": {}
+    },
+    {
+      "id": "handoff-4",
+      "old": "drivers",
+      "next": "battery",
+      "kind": "liquid",
+      "frame": 1320,
+      "startFrame": 1302,
+      "endFrame": 1338,
+      "options": {}
+    },
+    {
+      "id": "handoff-5",
+      "old": "battery",
+      "next": "resistance",
+      "kind": "comic",
+      "frame": 1740,
+      "startFrame": 1719,
+      "endFrame": 1761,
+      "options": {}
+    },
+    {
+      "id": "handoff-6",
+      "old": "resistance",
+      "next": "connection",
+      "kind": "brutal",
+      "frame": 2040,
+      "startFrame": 2019,
+      "endFrame": 2061,
+      "options": {
+        "words": [
+          "ONE",
+          "PAIR.",
+          "3 DEVICES."
+        ]
+      }
+    },
+    {
+      "id": "handoff-7",
+      "old": "connection",
+      "next": "signature",
+      "kind": "kinetic",
+      "frame": 2340,
+      "startFrame": 2316,
+      "endFrame": 2364,
+      "options": {
+        "word": "YOUR."
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Find your frequency",
+  "product": "realme Buds Air8",
+  "variant": "Master Grey",
+  "duration": 45,
+  "fps": 60,
+  "music": "Glass and Alloy — source 15–60s",
+  "status": "Awaiting storyboard approval",
+  "scenes": [
+    {
+      "name": "The first signal",
+      "time": "00–04s",
+      "start": 0,
+      "end": 4,
+      "title": "Your sound. In focus.",
+      "motion": "A light contour finds the Grey case; the macro pulls back into the hero.",
+      "handoff": "The contour expands into an ellipse around the open case.",
+      "claim": "Creative campaign copy; actual Master Grey case photograph.",
+      "sound": "Filtered editorial air texture, then a precise landing near 2s.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-1.jpg"
+    },
+    {
+      "name": "The product arrives",
+      "time": "04–08s",
+      "start": 4,
+      "end": 8,
+      "title": "realme Buds Air8",
+      "motion": "The full open-case photo rises, shadow trails, then a deliberate reading hold.",
+      "handoff": "A registered earbud crop survives the move into the ANC chapter.",
+      "claim": "Exact linked variant: Master Grey. Product proportions stay intact.",
+      "sound": "First hero landing; music remains the source of momentum.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-2.jpg"
+    },
+    {
+      "name": "Noise falls away",
+      "time": "08–15s",
+      "start": 8,
+      "end": 15,
+      "title": "Up to 55dB ANC",
+      "motion": "Busy abstract waves contract into a quiet field; the earbud remains the anchor.",
+      "handoff": "The surviving sound field becomes the first of two driver fields.",
+      "claim": "Up to 55dB. realme Lab; performance varies with fit and surroundings.",
+      "sound": "A short editorial hush; no fabricated ANC before/after recording.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-3.jpg"
+    },
+    {
+      "name": "Two fields, one sound",
+      "time": "15–22s",
+      "start": 15,
+      "end": 22,
+      "title": "11mm + 6mm dual drivers",
+      "motion": "Two registered fields pulse, gain depth and sweep together around the real earbud.",
+      "handoff": "A travelling radial line becomes the battery arc.",
+      "claim": "Abstract sound fields; no invented hardware cutaway or sound superiority claim.",
+      "sound": "Paired low/high accents; the stronger music passage begins near 17s.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-4.jpg"
+    },
+    {
+      "name": "Keep it playing",
+      "time": "22–29s",
+      "start": 22,
+      "end": 29,
+      "title": "Up to 58 hours total playback",
+      "motion": "A full arc sweeps around the numeral; the photographed case anchors the claim.",
+      "handoff": "Tall type strokes become a fully covering upward curtain.",
+      "claim": "Buds + case; fully charged, 50% volume, normal mode. Actual life varies.",
+      "sound": "The numeral lands cleanly; a brief air move carries the exit.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-5.jpg"
+    },
+    {
+      "name": "Ready for the everyday",
+      "time": "29–34s",
+      "start": 29,
+      "end": 34,
+      "title": "IP55 dust & water resistance",
+      "motion": "One crisp snap gives way to suspended droplets and slow, spare ripples.",
+      "handoff": "One ripple stretches into the first connection path.",
+      "claim": "Earbuds only. Case has no dust/water resistance. Do not charge wet.",
+      "sound": "A sparse liquid accent, then room for the late music rise near 33s.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-6.jpg"
+    },
+    {
+      "name": "Connected, deliberately",
+      "time": "34–39s",
+      "start": 34,
+      "end": 39,
+      "title": "3-device connection",
+      "motion": "Three labelled endpoints connect in sequence; only one source is highlighted at a time.",
+      "handoff": "Paths gather into the real case contour and the opening ring returns.",
+      "claim": "Enable in realme Link. Pause current audio before switching devices.",
+      "sound": "Three restrained contacts; no new effect on every word.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-7.jpg"
+    },
+    {
+      "name": "The final signature",
+      "time": "39–45s",
+      "start": 39,
+      "end": 45,
+      "title": "Find your frequency.",
+      "motion": "A short macro recap resolves into the hero; the product settles by 41.5s.",
+      "handoff": "The opening ring frames the final image. Hold the name through the music resolution.",
+      "claim": "Creative CTA: Explore Buds Air8. No price, ranking or official partnership claim.",
+      "sound": "One final contact, natural tail, and a resolved music fade.",
+      "image": "docs/projects/realme-buds-air8/frames/shot-8.jpg"
+    }
+  ]
+}

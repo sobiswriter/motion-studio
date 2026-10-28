@@ -1,0 +1,4832 @@
+{
+  "date": "2026-10-27",
+  "sourceCommit": "e829dca901b62dc0fa627bcf168872a32d90036c",
+  "policy": "Missing local assets only; existing files preserved; out folder excluded.",
+  "restored": [
+    {
+      "path": "assets/Music/A_Pale_Blue_Stillness.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "93c7309c71da406857d9f644f113eecd8f30ee03",
+      "bytes": 3927001
+    },
+    {
+      "path": "assets/Music/Apex_Horizon.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "662b79a97642d76765b7e01f6c614e8775d349f9",
+      "bytes": 1521434
+    },
+    {
+      "path": "assets/Music/From_a_Silent_Vantage_Point.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "86d497aebcaa6f85fcd321a4a0ca080dadf60a9b",
+      "bytes": 4205362
+    },
+    {
+      "path": "assets/Music/Glass_and_Alloy.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "da5afd6dafde710118b7be28fc2647888a2ac20c",
+      "bytes": 1512655
+    },
+    {
+      "path": "assets/Music/Iron_Anatomy.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1fa4ffe4824c8dfc7f68dc3efbb14248c1645cf6",
+      "bytes": 3939539
+    },
+    {
+      "path": "assets/Music/Ivan Is Loading vocal.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "672f546b8d6e45ab1bbda78e0e87a68881ab1ec2",
+      "bytes": 781
+    },
+    {
+      "path": "assets/Music/Ivan_Is_Loading.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "76784a17b1e150c36973ade021a1ef64f00d2fde",
+      "bytes": 1461250
+    },
+    {
+      "path": "assets/Music/Point_of_Impact.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9242a41f5c6d9bf15f05ce83872bf8bdc49a8d25",
+      "bytes": 4296892
+    },
+    {
+      "path": "assets/Music/Tactile_Precision.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6a3e27cc27bfce31ddefb378b4dffd2db9e85968",
+      "bytes": 1659359
+    },
+    {
+      "path": "assets/Music/The_Golden_Hour_Rise.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ba89d31c5e8c04dd2f38e4f995a09bb67ebaf483",
+      "bytes": 2179719
+    },
+    {
+      "path": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac2d54def637da7edb47478543f67d2fc9bc2654",
+      "bytes": 114799387
+    },
+    {
+      "path": "assets/Reference Vid/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "384343ba046b0f796ae76ae21358c259ce570b97",
+      "bytes": 772
+    },
+    {
+      "path": "assets/Reference Vid/REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c0f050c09ab924bc7937f9988c3754fa59ce4606",
+      "bytes": 28940632
+    },
+    {
+      "path": "assets/Reference Vid/REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e06aa09de99d0afe069d53795f4c548cfe1dbcae",
+      "bytes": 2497458
+    },
+    {
+      "path": "assets/Reference Vid/REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6b5314e62f123da14a55f45fae91f03ca9481f56",
+      "bytes": 4776872
+    },
+    {
+      "path": "assets/Reference Vid/REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0ebad4279022a6eaf24170415c08cb8fa2387794",
+      "bytes": 8557159
+    },
+    {
+      "path": "assets/Reference Vid/REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4fed42cc75fe80e0579167a4bc792a474380faa9",
+      "bytes": 17435601
+    },
+    {
+      "path": "assets/Reference Vid/REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "39acfaf0c797ec3571f09a409de314ec5c3dae73",
+      "bytes": 15972860
+    },
+    {
+      "path": "assets/Reference Vid/REF-07-motionsites-launch-million-milestone.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e64e2a78728ba718c13c683944d981734b3e1337",
+      "bytes": 13119613
+    },
+    {
+      "path": "assets/Reference Vid/REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ff1a569f757eba4a7e6dd8cf217483fb3f010331",
+      "bytes": 3504812
+    },
+    {
+      "path": "assets/Reference Vid/REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4da0650e23bc45a050197fe2d3db8fd45e656e7e",
+      "bytes": 10581423
+    },
+    {
+      "path": "assets/Reference Vid/REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "77ad789e00186992840f2daf94a3cf05a3d4bb45",
+      "bytes": 6374918
+    },
+    {
+      "path": "assets/Reference Vid/REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e1b74db8aecee1a778ccb474892270d65889a937",
+      "bytes": 10381149
+    },
+    {
+      "path": "assets/Reference Vid/REF-12-white-russian-hand-drawn-recipe.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7010f273fa643d61886d1fa8dce23d5c34dcd369",
+      "bytes": 3267837
+    },
+    {
+      "path": "assets/Reference Vid/REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "774b6be14099f708d9268f4e81a9a744f9cde816",
+      "bytes": 5360486
+    },
+    {
+      "path": "assets/Reference Vid/REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fef998d8a69ce071232fa9bc56f9a2e7ef81f9d1",
+      "bytes": 28574962
+    },
+    {
+      "path": "assets/Reference Vid/REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "383365e7647235813373b7a9744c33ba96e9886a",
+      "bytes": 7851390
+    },
+    {
+      "path": "assets/Reference Vid/REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b56af90d7c1f917934a72f015a1b374b79eea525",
+      "bytes": 1211453
+    },
+    {
+      "path": "assets/Reference Vid/REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "62dfbbcbe225cd544243eee1f4145a638ca46cd5",
+      "bytes": 3937265
+    },
+    {
+      "path": "assets/Reference Vid/REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "813cca854e0126fb3333024713711b0388f7da4d",
+      "bytes": 18672277
+    },
+    {
+      "path": "assets/Reference Vid/REF-19-brand-identity-logo-to-application-montage.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3ad8c2a0862c1e5f8f87bfa45f870a55e232d078",
+      "bytes": 10622814
+    },
+    {
+      "path": "assets/Reference Vid/REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "81c9c943cee55d2807cf4dd21f633c434b449bb4",
+      "bytes": 9082458
+    },
+    {
+      "path": "assets/Reference Vid/REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "12dd3ede6c3655c5a1c35e67eca2f2df0a0a563d",
+      "bytes": 1371953
+    },
+    {
+      "path": "assets/Reference Vid/REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "36aef1b56cfe5926b7fba9687bcf11fd483998ff",
+      "bytes": 10036919
+    },
+    {
+      "path": "assets/Reference Vid/catalog.json",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "66737f742df107519ef32487eb39043b6c5e81d1",
+      "bytes": 25307
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/CREDITS.md",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c4e8583c7fc7d5b53daa8b83df4d192d80e379e1",
+      "bytes": 374
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_001.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6a0b31c6008e949b6d1e7654c61eed4572dce82",
+      "bytes": 12048
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_002.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27e751a0477bf116151a3831c9e469629dab9b1a",
+      "bytes": 24630
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_003.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40307c0b8513abd853c3f650306849ab2a0bdcf1",
+      "bytes": 24212
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_004.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b43aefcad137e3b299de330755e515b835514cba",
+      "bytes": 20064
+    },
+    {
+      "path": "assets/sfx/.media/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "46ab2facc8600b11c002e88af641e1157e47c8d5",
+      "bytes": 454
+    },
+    {
+      "path": "assets/sfx/.media/manifest.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "78f0bae7f9a78411afbe6c96d3b3cf2764380019",
+      "bytes": 2058
+    },
+    {
+      "path": "assets/sfx/catalog.json",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3fee5c18a2b2b80ba28b312f0b1449b28b818413",
+      "bytes": 285
+    },
+    {
+      "path": "public/projects/_demo/audio/preflight.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "cf78f359898e7262457c3e742c026100f40b9d58",
+      "bytes": 384044
+    },
+    {
+      "path": "public/projects/_demo/images/foreground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "126a55464260206b7169a0765948e19f3a1c7a5b",
+      "bytes": 58474
+    },
+    {
+      "path": "public/projects/_demo/images/mid.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e2afa372055278828ab5c0a930c3265ad2035be",
+      "bytes": 30853
+    },
+    {
+      "path": "public/projects/_demo/images/plate.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "92fc47f1e7b52c93edf10668744bd348b40d50f3",
+      "bytes": 110071
+    },
+    {
+      "path": "public/projects/_demo/images/pose-a.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9987b696ee99cb6c71a7d745a62404f5af93e32a",
+      "bytes": 10730
+    },
+    {
+      "path": "public/projects/_demo/images/pose-b.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a8ccb21c572fba446dc7f2e489b1765f61efff9b",
+      "bytes": 10703
+    },
+    {
+      "path": "public/projects/_demo/masks/soft-window.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4bd2f597b2c7c2cd6e8a00c4607e706b2d1f39a8",
+      "bytes": 2695
+    },
+    {
+      "path": "public/projects/ivans-escape/audio/track.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "76784a17b1e150c36973ade021a1ef64f00d2fde",
+      "bytes": 1461250
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/IBMPlexMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "01497cc60dc7de39750e702c395530760cb014cf",
+      "bytes": 4363
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/IBMPlexMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c9770d5183ba60dc4350d3e011b782a320761ae",
+      "bytes": 135580
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/SpaceGrotesk-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f831dbc69f05a4d5abbb54c530f0123bc0ff2d8b",
+      "bytes": 4402
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/SpaceGrotesk.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e",
+      "bytes": 136676
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "43ab1581a250f7ee6cff17aae5dee12a238b2992",
+      "bytes": 1389185
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5ab1b0e956eced44e93daa57a741c1623ab7db87",
+      "bytes": 3884216
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac786ac9ade8512dbc7ed9f3c80b5f3e26db74cf",
+      "bytes": 3586574
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "064a83de6e2af8092b52e2b661001a74f0340866",
+      "bytes": 8164664
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/commuter.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b375615deba6c7073bcaa7c69eb16ecf834557eb",
+      "bytes": 169964
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3b84d7779a7d70765e5f51f3227ece1aacf4d514",
+      "bytes": 1243412
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5f72c1157732b1e5883d27c0a37802578c916462",
+      "bytes": 3367615
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1893d910f4ab265470fbfbf6a19968ea9cf7db92",
+      "bytes": 2912988
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b00dbbba8116c4b6350d0f9b580d7567124bf47d",
+      "bytes": 7075742
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/eye.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fc816d953cf1c1a64f6ec6144401d8caef6eb9f1",
+      "bytes": 4651278
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6c11240bb612b664949ed885589bf00493ec8d81",
+      "bytes": 620615
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d657977c82657817dae1a297840b9ceee7b1ea0f",
+      "bytes": 591742
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-10.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4ffe1e651ca76cd0332ef8509bbcce2278b9cacb",
+      "bytes": 671847
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-11.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8824707cf07f618563c7004bf6050df6140be9b6",
+      "bytes": 603386
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c9bfa69a49ce77a3ef5e65d51ceff2dad725eb4f",
+      "bytes": 883535
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "940bd10fe415bbe7e998b9e9546dfafa72084353",
+      "bytes": 882981
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "121f77fd4a14aee6b300dcb6450245974c617ec2",
+      "bytes": 739724
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dbad88ca855f22e21ba9b1aee0ff52436986ea5d",
+      "bytes": 718562
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7dec0ae71892898bde5133ae7c52652382c3bc04",
+      "bytes": 711664
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c62cf4ccad70c0bac698e7de5ac567d160ffc78c",
+      "bytes": 692740
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c869992634a48d8a9f989195f2d6d9ec46833c4",
+      "bytes": 679250
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-9.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bc86d62de7182b504256817b732c9b05352c4552",
+      "bytes": 637635
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/final-hero.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d3647dab9cbf502d7760ddeacf6f15da00b66188",
+      "bytes": 398642
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/foreground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c2144ca40e98677e58febe66f6871cfc94c0d9cb",
+      "bytes": 1870777
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front-hair.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "548e45386bf201a0bd144fad5327a0bd32615db4",
+      "bytes": 49245
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front-hem.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a62a1673fa191d3adeab1dc7dbbca34ea8868b89",
+      "bytes": 47857
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f45ed23d17275e455870c96d925176aafbe1313f",
+      "bytes": 544914
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/glass.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b9a349d845b576753eaaaafe8756bf1a829140ae",
+      "bytes": 6371388
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/hand.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "070aaf8bf4071e57f7ba402c598c7b1ec1c5fbc5",
+      "bytes": 1559738
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2e55dac1391267fc83019c9e52ff9ce7f605153d",
+      "bytes": 511804
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fc7f0e945921eeeaa9488718c821d5e7b1bf56f2",
+      "bytes": 521505
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "25f625c0236374f8fc170d0e54f5d11a180fb89f",
+      "bytes": 506242
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "35183926d1ba310bfd5c75df368535607438b76c",
+      "bytes": 5765834
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/pavement.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "57a187d2cb7afe955f0d0c5747ce3e5759010827",
+      "bytes": 8458885
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-0-hair.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "cd0b6e4977a37085cccb57c3d2d6e379ea6b7156",
+      "bytes": 190497
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e94b2125a9af95e7dc58070099e4f5cb0b179ea",
+      "bytes": 1158789
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-1-hair.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "17a111b52f8fb1a5cdf4e9bbef58fabdcd77c228",
+      "bytes": 205519
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2136c889d84e0e9965ee51a81be967b6a50a4756",
+      "bytes": 1149301
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7b7a0ea1920cae7507911004cda8c35eef1d827e",
+      "bytes": 1230008
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d8812ed964b7dba17612042d89e510461e0b882e",
+      "bytes": 1188287
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear-hair.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3590cf2684d517b57792b6bbca236d23e41758aa",
+      "bytes": 47097
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear-hem.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dce254f7eb8873ee17bee1e6290814434758e067",
+      "bytes": 57524
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2a2e37cd872433a0a6deac70a52eec795754807c",
+      "bytes": 518206
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/reflection-portrait-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a55b2012cc289886b048eb8228578fdcb90eeba9",
+      "bytes": 1228694
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/reflection-portrait-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "997dda3acda11e1e55bfaa330bb8ca00bb874948",
+      "bytes": 1187769
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "602efa083b6bc3ab2045a5a06d26aebf29fdbfe2",
+      "bytes": 17666
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "868411ebe05bbfeca1cecf348be2970b9e0b4312",
+      "bytes": 18289
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f6c6eaf1e9dd3723a965b6c251c74087c96bf0cf",
+      "bytes": 18327
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b2d8e03ef3708f88c7b523992385b6078d32b360",
+      "bytes": 18069
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "258acef0c6c95a945d15c4e9e858b36f7bb36541",
+      "bytes": 18474
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "05e87fd8b180e9dac49131c51fea13cb1327e470",
+      "bytes": 18745
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a8644ae4d10cf0cf56b1e3c6f6f1cfa21d2e3aa5",
+      "bytes": 19303
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "37221dc9747a2639c36984a93523343ec5a24425",
+      "bytes": 21274
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3f987acc404cf71d0c59bfa53f43e088de8fbb6f",
+      "bytes": 23465
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6efb720631799014f5002017533652324d428450",
+      "bytes": 23360
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "66928b690b7058497691ac8224df77c48c0e582b",
+      "bytes": 24240
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e818b8fd1187c8851aef452011f6c5d445b6a24",
+      "bytes": 22255
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e3d338884c26064d7c69c3b52b954d9effdbe6f5",
+      "bytes": 24654
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dc2d44f1ba77fe4b851f09f474962d174a437517",
+      "bytes": 21090
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9174c07c1c74b709f3bd40f2f06756e324de8e65",
+      "bytes": 24332
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c77e59d84288346cf94139998dacb3b6cc44ec6b",
+      "bytes": 28906
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "897214a9294429f91e420a9214391a9607a5b46d",
+      "bytes": 27604
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "919dda11b2e7d3f2d104321942d442d6c075c352",
+      "bytes": 29836
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "55470d0f9141916445dff814aea5495deec98809",
+      "bytes": 31302
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "26ad8dc8f79abf38e539a8508e329f63ab58d457",
+      "bytes": 25573
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "69b31ac3170a82dc8c5075cfd77a80ddb50dc0b3",
+      "bytes": 27787
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0fd906beebd35749fd8c5b31fed9f8f4bcd761aa",
+      "bytes": 34060
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "21e504a7135d08f35c9059d68ae90b3a1c75bd1a",
+      "bytes": 35019
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4c768302f804528b7ac7b0c8225e5eba3e3803a1",
+      "bytes": 28576
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9d6dbe7943a934d2494eccc4f8f6bae88dc77b2a",
+      "bytes": 43510
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1eb6b6af01f7a516f3d89a5b1b5a5be370cf1e8a",
+      "bytes": 44009
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b962ecfd7fcf9c1df1140765278545052eeb4ace",
+      "bytes": 44825
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6861c735616d53c200320d9bd2892378db4c78b5",
+      "bytes": 46129
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "135bfcf9794f271214b868c776b09b05146e6158",
+      "bytes": 44768
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "23edbf248dfc5c3bea130270018c735395f980d6",
+      "bytes": 43389
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c0f12fb7c6b1eea3767cbadfd12cfe1ccf9d47b8",
+      "bytes": 48512
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "155bd5e603aede559089eb9bba07a389e2901540",
+      "bytes": 48895
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a55da3f21e8293800198d29093bc5b57a1f6579e",
+      "bytes": 52788
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0fa1992737da240b9bb71f86af0abcfb5c4b8b30",
+      "bytes": 56466
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "72d53665aa26799644b4a7f1c5223eafbd1ff2fb",
+      "bytes": 52755
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1007babcfa8856ce02c7c6560fa2a9ba6e1c6efc",
+      "bytes": 48875
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a4a686a2c51e82a1fa9cc9a5d29d1e2bcca47dda",
+      "bytes": 49858
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e4703803af921e10cbe5c383d11fdf9b04d4b581",
+      "bytes": 55230
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "66263057cc1a6f9448954c4a6979a32641d5eeef",
+      "bytes": 61446
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7192b6fc4e2e12a261feacacb8c98d6454904ffc",
+      "bytes": 61815
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c4664a03c7c29c175e43cc168362d10f7a285e7c",
+      "bytes": 58900
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "99425e1fd72948a7e22c964fdfb3429f7bb52cef",
+      "bytes": 52410
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "13622a0a043bc32feb41494d4695b6cfc9dafa0d",
+      "bytes": 57890
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c24668af1dd9f4befc450dc1751a41f38479906",
+      "bytes": 61242
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a681b589dea64ee9b9d21c68db6f0cbf080421cb",
+      "bytes": 67920
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c803ab6c23bffa778204a9d1d17c1e8d38273af2",
+      "bytes": 67603
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "98a6e25c8a6e19d3c45ba7150aac865c25417da4",
+      "bytes": 66949
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9ba6d0693f456d5b186c064705a4782052a0bb4b",
+      "bytes": 58438
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b162c21f1c18b1d838b6e5d6656717f304dbcee3",
+      "bytes": 61382
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "30f0717095fd9c797a0c5b3f9ad63c80642b1f40",
+      "bytes": 67131
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c7247623a868b58f8623cabdf83e9cad3c844710",
+      "bytes": 74326
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d40496e0f9cc39fb6a863699c70a95cd645656bc",
+      "bytes": 72682
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c53bdd38a85d385a06e6f3c752f3bd2961d44043",
+      "bytes": 72096
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8c916c38ba5a6b62353d457a3b24b999e59c708e",
+      "bytes": 64086
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/route.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e3773cf24312997535488ee8549095111804d1a3",
+      "bytes": 14583
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "867db4a5664543e915fa50918000394b19c0b805",
+      "bytes": 739521
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "557d6cc0b6713cde3881be41c9c195eb061a37a8",
+      "bytes": 715399
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "37ff5cae492657053d9f8b2aafac2d4471620484",
+      "bytes": 700540
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bcac2b278b93a0146bb0dc9623543be7bc8f1aea",
+      "bytes": 662161
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0a42165bd8ff78fc4a8fcc8b7430e8072365db58",
+      "bytes": 587373
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c1bb69f1682df12c42abc1438ad8e13e4442264b",
+      "bytes": 576360
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "aa7d938640fa15a7dfc5f15d3cc807fe48e01c14",
+      "bytes": 558980
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/side.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "69b09d02ede39cff69d8f5a386006b9ec9968ee1",
+      "bytes": 376722
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/streaks.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "29e1e7dd805c8266fbb3a0d2cf9478b7dde6ddda",
+      "bytes": 1144363
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c5e96a3e9b18783a326ca7a7da5ac24345905093",
+      "bytes": 8333303
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9bcef58c4db4e9e935560a5cdd73b26f64bcaca4",
+      "bytes": 481675
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "32ff6ec2fd2515b60eba5f86db4f87487972477a",
+      "bytes": 442148
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "520b035a082e7d95f9108839237a5df41ae43eb0",
+      "bytes": 494960
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "09439a869d158ca3044c0fe7c42e507f03eda63c",
+      "bytes": 452147
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8e6df0a8915f1cb836efebaa68102286f5957a7f",
+      "bytes": 4817550
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8aa046297a488ce9e627a23f9bfdbfe757678116",
+      "bytes": 4618631
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-shell.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8a3fe4610e6a074c7b21752f8bd1fdcf4b4a0faf",
+      "bytes": 7686506
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8bc0a514d88f453735b8233702c159d7b7750082",
+      "bytes": 8809482
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/contact-shadow.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1d4640135533ae3bbe2989c41ce974b1e5038cb6",
+      "bytes": 12985
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0bc8bfa043035a5d8733273af823ccbcde474d26",
+      "bytes": 8762033
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5d970f9e8a794751a3b7f300362fdb389fced024",
+      "bytes": 4782806
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5b1e8e189640dd3bf284ecb5cb0b721bff9edc1f",
+      "bytes": 4373734
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0bc8bfa043035a5d8733273af823ccbcde474d26",
+      "bytes": 8762033
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4face303c4e8de7d19a5abe653c3f194cc99aa47",
+      "bytes": 825638
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fbaf67de7b52ce5bcb998079a45a0f07f8467af8",
+      "bytes": 837986
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-10.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "02294a820a022c9ea1eb82465bd0c24acb7e5cf2",
+      "bytes": 812845
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-11.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "001434cde797b251afa6992a54af9cbe8265dcb1",
+      "bytes": 779375
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "88844af8c0dde269f06af9cb22ee5ed37f45556e",
+      "bytes": 894128
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8333b7d7512cb4fb720ce1842b6a4a9fe3c8de61",
+      "bytes": 885860
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "706c9f3593f1026359ba05a8d74a5e27e1edc98e",
+      "bytes": 880477
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9943570937ae03990d3571a23863a9910e56cb0c",
+      "bytes": 782865
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f5ee85138c8753212fbe68555f307f16e2d9e065",
+      "bytes": 833075
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5f26b85daadcabbc75e60ccc2acf9954ec3c114d",
+      "bytes": 841170
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6457a1c56c0fb00541135298ac9e7f5f9999db23",
+      "bytes": 840165
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-9.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "92378f3e59c6d551e4f1b96ece9378f69369ff00",
+      "bytes": 814299
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-assigned.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "39ace67313540dcd2e2c1fa9dba84d249c2aa348",
+      "bytes": 7689340
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-awakening.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a8f58e03f87d206a221ff9221489cbbf8e9ecce8",
+      "bytes": 7136511
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-edge.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "850ff137b01bac55dca249c7974901f5233d464d",
+      "bytes": 8301782
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-leap-hero.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0e2ea3ee4ce0352ca9f1b943622ea6544cc4d89d",
+      "bytes": 8418823
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-outside-hero.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "929241e98b282e60ea64c8faec7a315f2e40181d",
+      "bytes": 7859406
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-sprint.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bcb507c3aba12e48e1205af404cd01d167ca0b40",
+      "bytes": 7975732
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9696906962503477093a7dfd93d472be293c4d2f",
+      "bytes": 7182354
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "12a6d735f362045e6b38d7e7b9fca98c24eb1f24",
+      "bytes": 18541
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "45381607db6a00d22450e273b7767981f254ffe4",
+      "bytes": 18771
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4fd0934db4b7b1a352e0b3134253256ee4d625c7",
+      "bytes": 18071
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "430d5c430a05f0bd7eeceb755b30a78749cc44c8",
+      "bytes": 18201
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8b003cc5fb8d1d5810f311f78cb94326b198d0f5",
+      "bytes": 19088
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6ca6f37aa202216e4b4e1a54c0af6388c3b7658",
+      "bytes": 18542
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f9a8bd125285f29ecede3c8cec52de7caf16c67b",
+      "bytes": 25919
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "af51dc7d34754b3f419078a77ac91cb28fe56b78",
+      "bytes": 24925
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "72345ed5fda590a1cc2c77596b63266ec6ba7d11",
+      "bytes": 24532
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b17676973b38efbb2b12b0b30ffadc0fb1fcc0c0",
+      "bytes": 27401
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "59c623e1198571fdfdfa16011bdd06794f3a042f",
+      "bytes": 25445
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b9ce249e7a01050b6b861d8cd869515aa615f3bc",
+      "bytes": 25401
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7045f38fe5df89fc799e8f398f962bab2a93ed01",
+      "bytes": 34695
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "eeeaa284e5adba4cb9a2f7906e4db9170a5597a9",
+      "bytes": 32902
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5c3d665322206fd73247a5d81d64401bcea5f419",
+      "bytes": 32493
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "863e91f19538a7c1bd0352d131515b4365851550",
+      "bytes": 36592
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5334c1a5504c5acf8118b057f6fc1eb8b53410c6",
+      "bytes": 34104
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "da329c6e520efdb5b002403568f01086e8b82072",
+      "bytes": 33786
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8f63ea24641bed33f121806ec0eb6c5499f3f539",
+      "bytes": 42907
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b4681068b709da9b2b1415d09417fd86d3eed033",
+      "bytes": 41456
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "413b71c00a5d8f417623d2456a9fabacae8120f0",
+      "bytes": 42505
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6288b88d5c0ea204e963e2666116df1cb19b5cb5",
+      "bytes": 44878
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d3f517c7e9d168c75f35693b9d607e3cc570930b",
+      "bytes": 42302
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e1de64503330afd26e57d69cc2bef14fcefce50",
+      "bytes": 40537
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3e60391daefd0f7d3e2a7a7e877cd5980c0c6cd0",
+      "bytes": 51212
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e3f5a262f25a62d6723a8c974b257729c31ac486",
+      "bytes": 46927
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e64a700dd6324be16b4d3ead99d3dc4f9d7ecf3",
+      "bytes": 51184
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9601cc85e462413db994a1224e26b4bf2ba3991d",
+      "bytes": 51985
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a69a0e2ebd44597a02244049413d08a876e8bd38",
+      "bytes": 47818
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d39b4a0b5ae94baca53e803d8d37a952f1e651d3",
+      "bytes": 47530
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "592f39387509b3fcf2246c677e7a4723f40aa054",
+      "bytes": 58884
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c32599d94d73327034e0f5ea40ad35aed71b8eb5",
+      "bytes": 49965
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "47f46bd35862bd16f5b8a6fe54934fb6ff28afc2",
+      "bytes": 59283
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bfd79a5e58bf970b3c35e72ccfb6021c0d616fa4",
+      "bytes": 59738
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "abd8d6cf4f64144589163519721668458afc3b75",
+      "bytes": 53805
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "67d6c964320fdb665107029027996d30948fc72e",
+      "bytes": 50549
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ef26724bd48bc707af8d94115780c3814e40bdc4",
+      "bytes": 67499
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "889bdec584b1531e0114bf4e5ee405b07db5454e",
+      "bytes": 57866
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b422d81c1b6b31b4be7e7ebea05aa3746796f230",
+      "bytes": 67549
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "613a1cb5e957f196d55115d2b549445230f7e2c5",
+      "bytes": 67697
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0a33287d90183d716e296101e097662bdcfae976",
+      "bytes": 56276
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e06f4b63c74bceceeaaeedfe72698c260f87d33e",
+      "bytes": 56165
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c39a3d7e87b34462b77ec74de3856b40140f0771",
+      "bytes": 71604
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "af036310d71ec4d71fd06a1b4b0e65c00adfadec",
+      "bytes": 61476
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "402dfa0f03569b00c953559d79936f596071f21c",
+      "bytes": 72844
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "87c021f3c8cddadf7b29a9573e12ef93adf4ae94",
+      "bytes": 69667
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "befaf0d44c4120be51e04b2264b98abe38ca8977",
+      "bytes": 60623
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8d3ee31dd4aff7155e92da266c18d5c2ed419fa8",
+      "bytes": 62589
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "461bcb2bd5e1f84a612812c3c7bcc830d7987f9e",
+      "bytes": 74217
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "446b34ccba2ef493945b1af8bce5551fd11efa8c",
+      "bytes": 67154
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "195cec2e3d8a00a984b2445ca73b21a30e0b04f2",
+      "bytes": 76987
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "30c1402d62453d723e586aca2391f4d498a3f07a",
+      "bytes": 73070
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "363905caebe2a66bdf3d672cf0eb2b6065a51285",
+      "bytes": 64105
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "12b60a0aa9e47ebc4229a779a04b4b1cdbf237ec",
+      "bytes": 69139
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5d1b494c364dae959fc2087054b7f210277389a2",
+      "bytes": 7472115
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/assigned.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bf9ca4c0ce5883f5abd3a301a2a0fe6d94614af5",
+      "bytes": 2556393
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/awakening.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "877b461e0d6a4007ca28f6e644f1ed950cc7316c",
+      "bytes": 2274623
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "87863fde2cd99ef0da2a7bcda162ceb45febc8c8",
+      "bytes": 2654294
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fd366941d8b5837f29360103de3678251959d5fe",
+      "bytes": 2721519
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/edge.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c4b004519ae314de29248d9cd1841ab4979b1d3",
+      "bytes": 2750562
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/leap-hero.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "37d876a5fac27fac14f25808acc93c010eeacdbf",
+      "bytes": 2723039
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/outside-hero.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0cf6ab51f5e3e5b7e05209e1d20d79273f2c54cb",
+      "bytes": 2616049
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "10c9da2e85d6b9943fcb8158e821452a6700de73",
+      "bytes": 2321009
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/sprint.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9bbfc8c4e943c4bbb48d1ad15a3f2b2580a3c3dc",
+      "bytes": 2648130
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b36c9394ce300824d94e2cba911d09714d4d15aa",
+      "bytes": 2345333
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "427a1e77b29eac6b9f90636ad2a039dccaed5d5c",
+      "bytes": 2741655
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fb747724dcea9f4fd55695d961597094175d8dc5",
+      "bytes": 2455428
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/eye-insert.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7c3d28977da2ce09757f4ebe012561b803b00205",
+      "bytes": 2806608
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/foreground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9755528463bd674b00e850c1a536c80f6ca89921",
+      "bytes": 2090330
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/glass.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ec98c756cdf19c50a344e6d905880ec32fb7a14f",
+      "bytes": 2280202
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-hand.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2e3d016782ec3e04d213d3fe31ddad5a59584299",
+      "bytes": 1979207
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-leap.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1519a23823198bc2f203b1306ae41142661016cd",
+      "bytes": 2081683
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-model.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "50d039e925daacaa7269817cca5f6a822e0e8b03",
+      "bytes": 2053262
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-portraits.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "981a5a1575f7c42ad109cf9de0679178c522fd0a",
+      "bytes": 2030257
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-run.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "050a2deed411863f4bf0207c9d42846b5f550235",
+      "bytes": 1456125
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-shoe.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "eb1b02e6a6f42e7cf335f56a2d7fac7c60e826cd",
+      "bytes": 1378060
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-walk.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "87d0d9b12d955e16d329ac144a61b596c89d8fe2",
+      "bytes": 2219196
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f67394b0d5978a755aa8addc7acc4afb25fb52ce",
+      "bytes": 2256974
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/pavement.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d3bcb9a71de5b9e94233cc4696a8e9f226d8bcae",
+      "bytes": 3224999
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/streaks.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efef6e3c50c493abb042e72ee48649b12d06b80d",
+      "bytes": 604080
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "17c9120f8dc971bcbd83002c3fa1497f3f0a8b25",
+      "bytes": 2960341
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "52039daae88e8f3affea137d995551829751c60f",
+      "bytes": 1539074
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "584a0bce1cea1c1379bff4b5067404034d343823",
+      "bytes": 1699206
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-road.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3ca82c8e8b7984f6aeda3c05344ac85763271bff",
+      "bytes": 3864048
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch01-walk-a.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "248d09324c278cd7cba2c4cb2df70ed6abfb7112",
+      "bytes": 1348318
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch02-walk-b.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8bc521c897b368780b1ad4810f6d97e76e7e681e",
+      "bytes": 1521162
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-outline.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "993f100cc4c501c0a18fc35b5e684295f7cefdaf",
+      "bytes": 23001
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-r-reflection.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9b8de72b4404318c9f6017ff4516c93510064e3b",
+      "bytes": 1426989
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-rear.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "83c4d6e8abf0f3edca4db39d7ba28d2492eb8bd4",
+      "bytes": 1350621
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch04-r-reflection.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6d0e6526ad556b348bddef65d5e5ae05ea7a2408",
+      "bytes": 1436351
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch04-turn.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3a3bcbfb1f83aafd9e960e2d003b07a7d964cb4d",
+      "bytes": 1333976
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch05-closeup.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9275dab73528de142e8af71706499f228488ce66",
+      "bytes": 4049841
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch06-foot.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "aa628409ff8b303495641ef97eb6640d0d65d031",
+      "bytes": 1371123
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch07-run.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "348ade4cd68fc9bb5f54a2bf06d1e5314fed1504",
+      "bytes": 1588544
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-distant.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c288880c1321db85559878acedc79ad1a5d93f5f",
+      "bytes": 1923667
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-mid.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "71c8b7c9481cf899e5155df900ac9eba44e46a0a",
+      "bytes": 1415631
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-near.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "417db3b177a9bf0520d4a8d0c230e0dc4148b1d8",
+      "bytes": 3030850
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-road.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bf6e3a18913d7bd0d3c3501228435f99d9bb578a",
+      "bytes": 2367092
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-sky.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2fef045acd4245f19f34bd36bea95a815b214cf6",
+      "bytes": 1273186
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4b5883054abdb180a7178e12cc6ea388df08eb60",
+      "bytes": 148722
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "69ec8a4a12be7402ad20ebf7f23f7b91590b3395",
+      "bytes": 148579
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9fee63c7afc5eea82990e69e1e2c56e6f3358a39",
+      "bytes": 148794
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a97a85045b79b40726487c9c25c588790b8be5fd",
+      "bytes": 148576
+    },
+    {
+      "path": "public/projects/ivans-escape/images/contact-shadow.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c28429ad82af1f08e73cc864cd2588698c011120",
+      "bytes": 12534
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-far.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "20fb6c5ee1616133eccb7ff060311e3ae1d22952",
+      "bytes": 700734
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8421ebbdef52a97aad113a12e8562dd7090ae9b5",
+      "bytes": 3104443
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "85399ccada5dc212091c7038586304a7869b983b",
+      "bytes": 3088808
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a5de40043a42df2ce2a52d13869ea341be9f1d3a",
+      "bytes": 3027850
+    },
+    {
+      "path": "public/projects/ivans-escape/images/crowd.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "519f8ace8f1bc1227436e18d605fd3a4830957b7",
+      "bytes": 1282803
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env01-city.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "36937d965c5c404abadd41cfb1ddc03cfd9beba3",
+      "bytes": 8300079
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env01-clean.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d5bec567121ebdd6a47f8d65033500d0049a01c6",
+      "bytes": 8266419
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env02-clean.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8b8136291a1e8cf1e95dba5b9b568514d160d324",
+      "bytes": 9464066
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env02-street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ddb33db66e7bd916a5950fcbfb23b1539eb68f75",
+      "bytes": 9608020
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env03-glass.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9fad4acf8ae9a37bd53579eb380751fad6d070c6",
+      "bytes": 9721794
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env04-corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d3e1a12f1b0b95430d99405257e03719c7f7c2ca",
+      "bytes": 9502209
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env05-boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5378cf7af282fd0f2f8515214f7cae85c9946e9e",
+      "bytes": 8623660
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env05-void.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "77b1fc8f8a9687f40b4a52d169f3764de8b131b7",
+      "bytes": 5426674
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env06-outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f800892af0beb9293702017b00b71d4f7a322a4e",
+      "bytes": 5430372
+    },
+    {
+      "path": "public/projects/ivans-escape/images/exit-left.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c8580d2ac572c2d7ef2e6b260a915cb58e2de4bf",
+      "bytes": 5135602
+    },
+    {
+      "path": "public/projects/ivans-escape/images/exit-right.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c0f01c5b31e787179bceb1a7054bb693c876ed0a",
+      "bytes": 5079154
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f544064fa7c30541bdaf4e86a87efd8225ece4f3",
+      "bytes": 565533
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "552a5c37b576795e4f9041144ae254a052b05e89",
+      "bytes": 414308
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-10.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ff06fdb06feae81ff7f963bd6b87e008b8e3cad2",
+      "bytes": 405817
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-11.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "eb61387cb8a03293011c60e8e09f2d855ed94abf",
+      "bytes": 522180
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "eefe33cb2ac3d3077f309357d4c59532d9325e25",
+      "bytes": 574839
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bdb99652ff7b3c0665fb13d157ea15f7e5d29c6a",
+      "bytes": 698721
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e20bbd691f5dd7c048e6f0f7abe684bbe1d27dd3",
+      "bytes": 596929
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4e7ac5e71864fd6b4700a8b92f3beb27e82544ee",
+      "bytes": 477299
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "42c4cce18ce506b208a61ea191700623ce87fc15",
+      "bytes": 484557
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "612b207b95361fe7ce48aae1bfbcc130dfc2d493",
+      "bytes": 595772
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "70b2631ccba9435c5c7cee29226ab18d1d857f4c",
+      "bytes": 702861
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-9.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5b831d9cf417991699d878862551e25afd4c2722",
+      "bytes": 558666
+    },
+    {
+      "path": "public/projects/ivans-escape/images/glass-frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3e39df919141436f465939c8f1c3d0c02f923a31",
+      "bytes": 7206236
+    },
+    {
+      "path": "public/projects/ivans-escape/images/outside-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3be10c1283dfd0501c1858f125b9c2f34792f761",
+      "bytes": 3302085
+    },
+    {
+      "path": "public/projects/ivans-escape/images/outside-sky.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b22ed505721593005e72dc0e98a31153ea794e14",
+      "bytes": 2309154
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e4ad984943f7f3aa0c21e75f63941fe3dea50b6d",
+      "bytes": 31766
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "784511be66c2ab23f7678b3279fb954fd92a3341",
+      "bytes": 27584
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a6dc654363a9b404a9963be78be2e4156da9d842",
+      "bytes": 24941
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2a83b2bfc94dc64be8c4cd3a5d6e6458dc978b42",
+      "bytes": 24169
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bc8d41723da7aafa57fdcdf1164a9894ec4449ab",
+      "bytes": 24714
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a85c65a8a1c1b96b014bf5504ef10c88f7e3752f",
+      "bytes": 25379
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c6b28558c92ace5880089ff1cf28d2f6a706b14e",
+      "bytes": 25870
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0861457c34184146da4324208a1fbb179532001f",
+      "bytes": 27480
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3a9a0f0bd7327bf762c935e3d59678aeb788f6f1",
+      "bytes": 33521
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5a3f88df8513064daecc2c961e6c8aa6914b2532",
+      "bytes": 46559
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "32673e998dd7814f0eeb2ff78b5abcaceb70630f",
+      "bytes": 42662
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bb95d2c330652f4666f7c365e92cbdba14c518b2",
+      "bytes": 42361
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "99ee783c5aaf5d75bc34dcb386cc81b91a8635d9",
+      "bytes": 41467
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2eadbade9b05cbf7bfe89943f5b24fa631172d7a",
+      "bytes": 40520
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c7a2a8b306d4dafffa24b7bd838043e0b889ae01",
+      "bytes": 41071
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "26e089c0bc03ec434c8d45e1f96738db57ed4d2a",
+      "bytes": 42975
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bc235c718b49c92f15bc130fb80ba545b1f7d97d",
+      "bytes": 42252
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "411e105b11f2267c831fd7e790f253a7b7556c11",
+      "bytes": 48457
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0ba228ab9dafa3364c1c35d3c11a784e1b29c702",
+      "bytes": 60404
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f82de48e27c71a8f45cda964624cf006b4474116",
+      "bytes": 55889
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "85f55576eee8970a579980fe8893741572a0217d",
+      "bytes": 61835
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "234fe305ddb22b225edaea39ffd01238fce13f47",
+      "bytes": 60185
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8aba27eb80673602c2760e7e1ff21b6aab44508c",
+      "bytes": 56502
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c0cce219b1c086d6ba022a740750a679839bca07",
+      "bytes": 57586
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "cfd0992762dece3f5142268e5c5466c5901100a1",
+      "bytes": 60134
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "69e26910ee582254007316de2b5ac5da67a5d312",
+      "bytes": 54353
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "eca1eaa4cbea393266647d290ae05e88520bb862",
+      "bytes": 63346
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0d5c04b145d80b14353693167b1e8d014e27379f",
+      "bytes": 72579
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "404c1b2b66443e3c76ea6e7313c71607e4d19eae",
+      "bytes": 71613
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2fe2a4e94b38c6d2e087949584716c08c662e591",
+      "bytes": 81026
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1641e8d508eb0d3b464c0fc9ca38fd640fe539e8",
+      "bytes": 79221
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d8da735a66ff8128c9a57d139104ae036d2c0df9",
+      "bytes": 71438
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7470b3dcfc6d10e47a7b1d7a9f5a33782538ace5",
+      "bytes": 75028
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "00b0edc24aff54b95099f2507dcc612afacf1564",
+      "bytes": 77141
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "df0c2e1c16741d87a513b0c5b64d5d6b27111b54",
+      "bytes": 70538
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ee8c33026963ac585d2767e265c25a5150b6caa2",
+      "bytes": 75647
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "978b2b470d587b10011822627fbd795724f2e9e9",
+      "bytes": 75849
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "cc42fc2d41a13ffa86e49cd40dd14c9bd99651a1",
+      "bytes": 81939
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f43b78e2a355f5e8b0df8744f001090e14db9d07",
+      "bytes": 97242
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "914d8ef532a670dae31d9f6c9ae3b4b646d079a6",
+      "bytes": 100596
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "069a354b62697c3a169542aea927d10eac164446",
+      "bytes": 86113
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a4db9e84be342a09fa582bbe44b77d3ea1575ab7",
+      "bytes": 87562
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fba4b862e0c9ec57e2a9fc57157e04937ef299ba",
+      "bytes": 92145
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1c8427fbb1e7d45b87580674948093519d9977d3",
+      "bytes": 80085
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "96432235f151f47aabf36cf94d30543ee308edb8",
+      "bytes": 79099
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-0.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b4c4804a79b40b39c9d3fb4ffdfe7545732f7735",
+      "bytes": 54000
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-1.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "138a0da4f8b17c9d4b6e13ad69caa768fbd9fad3",
+      "bytes": 95262
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-2.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "89e32b4072aca86cb0667cd78e7453f5ca1b17fd",
+      "bytes": 118106
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-3.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b8929c1a04ec004dfe7b38fd60d3e54cbbb09706",
+      "bytes": 123554
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-4.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "adc15e48d4ada9a14c1d95cb260e75cbeaf06093",
+      "bytes": 102599
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-5.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3d10b4c586be4a246cdee403ea7de3f753881d41",
+      "bytes": 106513
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-6.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6f8f0df64f87e0a099c506598943b1ee4e2b68b9",
+      "bytes": 107930
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-7.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27aad7965eb5bbffa886d307669375d054489e94",
+      "bytes": 92916
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-8.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "29b7426215a085d15666e88d1e3ef20136b6a0da",
+      "bytes": 56245
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-bollard.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "989cc1773caf6183acc4da3c0f33ccd9dd0e39d8",
+      "bytes": 2991761
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-ground.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8283091e6801133ad03bb8eb20bfd147c53c38aa",
+      "bytes": 4002132
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-near.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "10415b1378480e43ca42a9a338ea1fecd7e76ef0",
+      "bytes": 2186904
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-strip.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ad39fceb0dd392fde2c9d6f285939e2ed301e12b",
+      "bytes": 382984
+    },
+    {
+      "path": "public/projects/ivans-escape/images/wireframe.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "39ccc49d5098d226ea32e75850cdff01722480e9",
+      "bytes": 385405
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-left.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ccd58c83133240fe2ff4d9789c490556b5852b9b",
+      "bytes": 177
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-right.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "008766723ff35b1856132f9d6415f398ede92cce",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-road.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "cd074f545fbc8e20d82f6528af26e8332bc68e31",
+      "bytes": 194
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-distant.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a48c04e29763343b754581d81df30483868d0699",
+      "bytes": 177
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-mid.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5b59c98baac105389e21e8f80688d4cfd4ff8b24",
+      "bytes": 280
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-near.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6672963a87e378d8dc84f631655b52823e120ee0",
+      "bytes": 330
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-road.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "470da669ecf99cf028d95e79556b292612099bdb",
+      "bytes": 184
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-sky.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2962908550875dcb40e71d603dc7e590b20441a0",
+      "bytes": 174
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-far.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "75a91563333e4a7af8c92d4f78e5ad5d1b34df02",
+      "bytes": 183
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-ground.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fbb9d9cb03cb15b2dd4c396df2f731cc5c1ebd40",
+      "bytes": 198
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-left.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8ca3c90f957a7e8382deb53b3dae76f36dc7b726",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-right.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c68b0b7b1e81d1dd32804d7d1c9c2bb90fae4cf",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/exit-left.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c7e62f1125daa2a55c6efb49c4bfcde72355ed25",
+      "bytes": 173
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/exit-right.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "403aa0cb72a072b9630530e0588a8b88a1f1b723",
+      "bytes": 175
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-0.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c8135d61aeed0f3b419ed15d94b56850840dd9b8",
+      "bytes": 329
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-1.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1d5e20ac139fe349790711bfa2a5fc78c596f94",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-10.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ee86ac38839101b8e8e83a931c5ef96bc788ef0d",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-11.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b1ad0b99692cc3fe0b3333bd0d187f8e8f8178a6",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-2.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7366e46a155ca407ae8a45ece19d733edf205c76",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-3.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "22655b206a587b4f1dcbdf94dd40669f09b5c129",
+      "bytes": 333
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-4.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "14a56192b15cc877587e8776bc22a7381cc8e835",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-5.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5c8601cbf5209c48d5e8acf1db868f419e886a6b",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-6.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b468944979ad69f02a5740a02830344318ab62be",
+      "bytes": 333
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-7.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "923ebd6f2ea0c66bda13e495a1c9162358ab2d27",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-8.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f70a01878363889f58aa42de9dc40caf0df9cd12",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-9.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ea4341c3d0a387090222a135bdc2024f9f47f558",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/glass-frame.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1616c215f8cd938654ef6dfde3e0f64d3a5ca0e8",
+      "bytes": 354
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/glass.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e0553ae55d7bf4192fb1cec8b6bdca698a30525a",
+      "bytes": 187
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/outside-ground.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "aa2815793636036dce15bbd72f17b9e8bcdccf25",
+      "bytes": 175
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/outside-sky.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "58c4e339aac63d34c8f428759ebca2acbfeb6de0",
+      "bytes": 174
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/path-boundary.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "180ead232455ee960d1a7087fb4743fb4e3cf1ca",
+      "bytes": 153
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-ground.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b48097d002defd3c5d21f8b8cefe47d9e3fb33c3",
+      "bytes": 182
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-near.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "740a1f9ded01c20af984d9bc78bed3bb577bef42",
+      "bytes": 239
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-strip.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d1e035154c7dbfc36b1a91d697f5d35ba5435fa0",
+      "bytes": 184
+    },
+    {
+      "path": "public/projects/ivans-escape/references/sh01-layout.svg",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5b8c6376b9030a0742b77be6e9b0c584c858b170",
+      "bytes": 917
+    },
+    {
+      "path": "public/projects/ivans-escape/references/sh02-city-style-v01.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2c9bd243b866b4d4380aa6c3ced39ab221638267",
+      "bytes": 2378740
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch01-walk-a.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8cb219c2cdaa913e7e9354542b175ad4fcc36eb0",
+      "bytes": 1607550
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch02-walk-b.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2fe8fc9181f37b3318e9abeaf164d4b306806f8d",
+      "bytes": 1774134
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch03-r-reflection.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ecac97040952e313108dbe0d690ad761bf3ae2b6",
+      "bytes": 1620954
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch03-rear.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e323c145dbeb4684595a19ad607ab45c865d3095",
+      "bytes": 1620087
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch04-r-reflection.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7043b08f2a30ec6940ae6ea9c5915d1103287f53",
+      "bytes": 1694547
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch04-turn.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2d8db8bc55f752c857445173d3864d448f1e6f38",
+      "bytes": 1660218
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch05-closeup.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3bf2e582e8d0963c526d3268fa7f813c92bb829b",
+      "bytes": 2019828
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch06-foot.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b001d8b8de8e8268b7a772d3bc28ed17453ddf71",
+      "bytes": 1567296
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch07-run.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e31b1b7311a682cff4e37afa77d3cafe9925cb7b",
+      "bytes": 1773571
+    },
+    {
+      "path": "public/projects/ivans-escape/source/crowd.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9df3effdf0d09f81faa205a3c434a6cb40852fde",
+      "bytes": 1674819
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env01-city.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8bfba92d61e1b530f583abc7ac18781f64b160df",
+      "bytes": 2293209
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env01-clean.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a43b41562c17f2f1fe87dd9d2f6cfdc4cba96fab",
+      "bytes": 2363465
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env02-clean.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "73d0aa50bbcf07e5c9b030df8c86ffd0c11be246",
+      "bytes": 2677854
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env02-street.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3199f1c77cb1c369e797a2fd4365cca918b97b1c",
+      "bytes": 2818888
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env03-glass.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "101b487667a58d0ffe7c4debf26e3d50d41cd4be",
+      "bytes": 2908941
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env04-corridor.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d6f6e62896127eda437afabd6155111245269da5",
+      "bytes": 2619771
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env05-boundary.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "65ec0c3193f903883a494796fda0d381e75a5813",
+      "bytes": 2562215
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env05-void.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6e1fd7a9d57374c996f0780631b01648d39b7c42",
+      "bytes": 1797537
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env06-outside.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4823da46b45841618d2551bc8183c2f8a7be6efa",
+      "bytes": 1980536
+    },
+    {
+      "path": "public/projects/ivans-escape/source/street-bollard.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "86e9aaac213c072f388976d558491f9c6545fa37",
+      "bytes": 2433956
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/block-punch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efbf04eb52a2e0d3052ad779055781e78971046e",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/flap-curtain.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c8ca51232e5f40f22209698ad03ac7ac9ea4d805",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fc8b22794421ceefa843408f93a33ecf2509f308",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "518278da03a9a90bcce9459fdbbd0642007b07e5",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b1afe922c5bf3f26daa609d1351e66e772e25ba1",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "140f141d9b25f0de5ee5d8a14c13b31d54a82359",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b422daad5d740836243005ca9fc91a2889c98012",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/keyboard.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6a0b31c6008e949b6d1e7654c61eed4572dce82",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/land-light_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7ea04e281abc079999641f9daa2ae8ee774a4fd4",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/land-light_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e1375aa109673305566e1ba2ae90804a588568e6",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/liquid-bubble.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5a31d31b52448a8ae62750c269dee250b5950b66",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "118d76c2b391d32d1d49f756fc0c661cc3baf731",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27e751a0477bf116151a3831c9e469629dab9b1a",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/particle-breath.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efae1541b7e740d732d6b075f3ba97a2c46beb8f",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/shape-swish.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5ecde194c2364b08454474c5fb9c259b75f6dd97",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/signature-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "374be63b59e30f285a3699f140a95e47c3f1a2e0",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "475e6efd592c1c121813b337bfd100ffbadcea43",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac798bc8b863901ff5198b01fdd2d8286595b725",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40e1b0618e281881bece8ddcaf70dd8321bf5be8",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/type-flick.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "642a24f2b2d3939bf35f2a67d0309bf22341299e",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "722c9f2b41e06b436132a0e039b4d3fe48df7c9d",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ba2247149ba93243c2bc949847340e738dade501",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "00cbcd426a8db332bdfcd471681ae76a15bf5f44",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/wood.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40307c0b8513abd853c3f650306849ab2a0bdcf1",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/master.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bcab87d5a0393ca87b1d229672a89bf26456b6ea",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/music-edit.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c80710877d64a7bf57be41e644479d104171e30e",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/director.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3e98dedd2595b779c9c55dc5d530ff79965fb34a",
+      "bytes": 19078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-1-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "837ff996d15beae512c1c1512763813d5329de7c",
+      "bytes": 749828
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-1-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-10-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dc07e1f02a6002adb7baae83b3d573f16acc23ef",
+      "bytes": 1311426
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-10-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-11-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bbacb93f45cd0fde23c4e057e622cfdb1c455a96",
+      "bytes": 555879
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-11-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "518e67d629133a9908450b8ddae36c2ee2d108b7",
+      "bytes": 1413822
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-12-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bc200e7eb0aee58c06eb300918881f16ed149bb2",
+      "bytes": 1859946
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-12-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "495f19bc7821cb60aab0d8d8643fc38d40854d09",
+      "bytes": 448342
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-13-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-13-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e97c8f27f02589e71596dbe1be0d01b6d2ab8584",
+      "bytes": 1244256
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-14-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8753fb758325ec317c4a38408a56470b9d54a1f4",
+      "bytes": 744768
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-14-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-15-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-15-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "6874f7ff344c8183f88af3ba1c46044a68eb92cf",
+      "bytes": 810160
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-2-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f14ab3f3f8e63cc0052b6b6229435e30a44a2add",
+      "bytes": 994407
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-2-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "636518c14261aa8aa92fdd47deeeab33c87f8cbd",
+      "bytes": 873424
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-3-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-3-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "45d588ac2225bdc31783b48c2e447437728b6e68",
+      "bytes": 681003
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-4-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "9d210b9a332ee46beb1e86cb7e1ca5c2dcf894d0",
+      "bytes": 1625509
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-4-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-5-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0f141e633eb1a00c011904cb6a14aa1b16b2ad4b",
+      "bytes": 210811
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-5-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "61dd7b7fd8ccbebb717106117e16ffef222e5960",
+      "bytes": 1280107
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-6-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-6-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "830d8a097f0df8f0f42aa1fa32c4b1aa1c457436",
+      "bytes": 261677
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-7-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "08b4bbab6295bf9479d34601cd31a3ad1cbcff63",
+      "bytes": 1213693
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-7-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-8-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7cdfaadcad648f5fb8171b5d5279c857821e5fb1",
+      "bytes": 915066
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-8-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "28d242f30398ab33202e596de60756ea2435ea28",
+      "bytes": 1273702
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-9-next.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3c1827c6b7f6247f47a2c52744f748935b18616b",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-9-old.png",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac1a565c7c3f2087b7584a73dfe65a0dcbc9067a",
+      "bytes": 731329
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/EBGaramond-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c1ec5e1818415eab6f8fca95a230af477d64eb61",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/EBGaramond.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "52d34b86ec20977f222ce37e8158e6b3002c0a31",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/IBMPlexMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "01497cc60dc7de39750e702c395530760cb014cf",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/IBMPlexMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c9770d5183ba60dc4350d3e011b782a320761ae",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/SpaceGrotesk-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f831dbc69f05a4d5abbb54c530f0123bc0ff2d8b",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/SpaceGrotesk.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/media/footage-edit.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a6d255091977534ad3a054e3aa36d82ef5fc21d9",
+      "bytes": 84961869
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/vendor/gsap.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fde57af06cc445f47ca2a6fc1232ec04666346d4",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/aperture-servo.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fb66a9580ff3666167db894e98c42f3950421a2a",
+      "bytes": 374444
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/ascii-data.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7f5c2f29a3e891284df924784b18d5972b1305b2",
+      "bytes": 192914
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/bell_E5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "11a7e45e25ce408a7c77de382e71ce219123e563",
+      "bytes": 126722
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efbf04eb52a2e0d3052ad779055781e78971046e",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/clay-contact.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5c694109a76a278880e511544e1bc738fd41e06c",
+      "bytes": 42440
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/deco-shimmer.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a0c2ab75075a57bc1cee89090816abf590a9f6b4",
+      "bytes": 1036844
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c8ca51232e5f40f22209698ad03ac7ac9ea4d805",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/glass-touch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c540877b1d02215dfd21c4b2648e53b29d005fff",
+      "bytes": 43964
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ab684101da2f4a44cab89c7da2805ec96ccaae2a",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/holo-shimmer.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "65a394be7539c7f560a1840dba806b7c17829d8a",
+      "bytes": 561644
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fc8b22794421ceefa843408f93a33ecf2509f308",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "518278da03a9a90bcce9459fdbbd0642007b07e5",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b1afe922c5bf3f26daa609d1351e66e772e25ba1",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "140f141d9b25f0de5ee5d8a14c13b31d54a82359",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b422daad5d740836243005ca9fc91a2889c98012",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_6.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "66e842023a5ffba568d829b55d30441f075fb7fa",
+      "bytes": 59918
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_7.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "59df360c497b2d6959203d2fc850e5b2e0b9325c",
+      "bytes": 60926
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/keyboard.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6a0b31c6008e949b6d1e7654c61eed4572dce82",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7ea04e281abc079999641f9daa2ae8ee774a4fd4",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/land-light_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e1375aa109673305566e1ba2ae90804a588568e6",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5a31d31b52448a8ae62750c269dee250b5950b66",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "118d76c2b391d32d1d49f756fc0c661cc3baf731",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/neon-chirp.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5bf93573b69431de99dfaaa548e91fb76625f409",
+      "bytes": 117356
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/paper.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27e751a0477bf116151a3831c9e469629dab9b1a",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efae1541b7e740d732d6b075f3ba97a2c46beb8f",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pixel-rise.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "15c0ee1d9fa904fad9934ac574982daa530d777f",
+      "bytes": 97574
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e86b6795467802935bb9b09167349b38cd6164e2",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pop_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "09f8add638274d79087125bead63b5bc044d3520",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/shape-swish.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5ecde194c2364b08454474c5fb9c259b75f6dd97",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "374be63b59e30f285a3699f140a95e47c3f1a2e0",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/source-kit.lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7bcfa3a886df577e012036fadf1528448ad4aeba",
+      "bytes": 31679
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tape-burst.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1f6736b7deca3cb4d72056127f9db1214944f51",
+      "bytes": 250160
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "475e6efd592c1c121813b337bfd100ffbadcea43",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac798bc8b863901ff5198b01fdd2d8286595b725",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40e1b0618e281881bece8ddcaf70dd8321bf5be8",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "642a24f2b2d3939bf35f2a67d0309bf22341299e",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-long_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "313a835318dbbd1b9c7b18d758928c9f738e9d40",
+      "bytes": 296684
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "722c9f2b41e06b436132a0e039b4d3fe48df7c9d",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ba2247149ba93243c2bc949847340e738dade501",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "00cbcd426a8db332bdfcd471681ae76a15bf5f44",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/wire-latch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c030166b398d0d11d36ab75efa6f5ab0201b8825",
+      "bytes": 46826
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40307c0b8513abd853c3f650306849ab2a0bdcf1",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/master.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dc249f009d4e48040b8536e8710acf5ca4fcf749",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/music-edit.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bbcb5d80575ad246e3346d0c0b84b0cafaf5d36c",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/director.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ce271f2157b0d5975b1a0b977af225d44f62cd2f",
+      "bytes": 629885
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/EBGaramond-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c1ec5e1818415eab6f8fca95a230af477d64eb61",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/EBGaramond.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "52d34b86ec20977f222ce37e8158e6b3002c0a31",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/IBMPlexMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "01497cc60dc7de39750e702c395530760cb014cf",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/IBMPlexMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c9770d5183ba60dc4350d3e011b782a320761ae",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/SpaceGrotesk-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f831dbc69f05a4d5abbb54c530f0123bc0ff2d8b",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/SpaceGrotesk.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/vendor/LICENSE-three.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8ada2a5f982916b0ba4b7a0aa7de347587e745d7",
+      "bytes": 1081
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/vendor/gsap.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fde57af06cc445f47ca2a6fc1232ec04666346d4",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_A4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "93807a970dea2e49c8d6b7e858e3bcb3c09a68b4",
+      "bytes": 132290
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_A5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "29840460b31d0900de92df966681e23ecdf28cc6",
+      "bytes": 127526
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_C5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "da9fa62f09539a317963ff567d1e5556715ac831",
+      "bytes": 130460
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_C6.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "556511debb3b40a5b4d061c5fc64661583bee869",
+      "bytes": 120950
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_D5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f67aad7cb4ca17da931754d755a35bc160e86331",
+      "bytes": 138422
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_D6.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d369a2e608e2f9c845607cc196acdb5d6c859a90",
+      "bytes": 119216
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_E5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "11a7e45e25ce408a7c77de382e71ce219123e563",
+      "bytes": 126722
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_E6.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c5a44a0f38874a17d8753c188d3e21c8e78a4c49",
+      "bytes": 121376
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_G4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "df2a45390bbd18b197fdda4e14271e7e24269a8e",
+      "bytes": 133088
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_G5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0f9354198e9e825ea69f578a26a3d053dc64163f",
+      "bytes": 130112
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click-confirm_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0ca9f7093c896fa3b8b13e0870822b21161ff561",
+      "bytes": 122444
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "1731f7c44293386c84fff98181caaae0d62ee4f5",
+      "bytes": 38066
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3ee9ae7ec935f0cea88250677a284be2cd851281",
+      "bytes": 38066
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/drop_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "afa54269f8dd203711362da958736041448aab76",
+      "bytes": 93644
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/drop_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "181f90a9ba0ca1d58a30640934b2e683c5c63b2e",
+      "bytes": 92204
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ab684101da2f4a44cab89c7da2805ec96ccaae2a",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "76b7484aafe9df1f6239c16331c06b8d310ff0d1",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "16fcbd36784c7c8759819f496ddf1ccf55724072",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-return_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "35298c33c45fccaf087262c55ff27079b583ed72",
+      "bytes": 60536
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-return_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "22863f65a979f6f36dc6303cccdcf37c25182a43",
+      "bytes": 65396
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0549459fbf0ae20322cff59596675ff795191e81",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6e56e7decf7e3d546a18566cd596203c37d7be1",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a96587bdcf301e9a5c9e9bfe38bef97fb9b5ffd9",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7af049a2fae0ac41da5fd673ea1c148ad329a59a",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fc8b22794421ceefa843408f93a33ecf2509f308",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_10.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "59ec2c6a0d17d715a8e615255260626d0664797c",
+      "bytes": 62426
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_11.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5427951d0705a6562998e6b58051ad0bf9de7ee3",
+      "bytes": 61298
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_12.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "57105c7bfab4d6fedce4c444aad1caf31b14b36f",
+      "bytes": 56786
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "518278da03a9a90bcce9459fdbbd0642007b07e5",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b1afe922c5bf3f26daa609d1351e66e772e25ba1",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "140f141d9b25f0de5ee5d8a14c13b31d54a82359",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_5.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b422daad5d740836243005ca9fc91a2889c98012",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_6.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "66e842023a5ffba568d829b55d30441f075fb7fa",
+      "bytes": 59918
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_7.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "59df360c497b2d6959203d2fc850e5b2e0b9325c",
+      "bytes": 60926
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_8.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c6c542b2ae41d588c2f71f1fbd0d764efca2e914",
+      "bytes": 61190
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_9.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5866f64dbdeb1e1127927ec4e64772d4f8122e2a",
+      "bytes": 63620
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/kit.lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7bcfa3a886df577e012036fadf1528448ad4aeba",
+      "bytes": 31679
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7ea04e281abc079999641f9daa2ae8ee774a4fd4",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e1375aa109673305566e1ba2ae90804a588568e6",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d351a41dd2ed84a694a87f4219a8abc092ff5939",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b616264c0808f2b5160f9210a68d51c3738295c4",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d16fdea4ef45dbb8ceb2c7c6a7ab0784c6fbea94",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8663bf1c8f65503150564e5b819246d34b76046b",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "39018dabbc55eda5de49c777a1267e56ced9c6cc",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e86b6795467802935bb9b09167349b38cd6164e2",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "09f8add638274d79087125bead63b5bc044d3520",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a84634ff20da1e844a35548b5cff7fbdeb05e4a8",
+      "bytes": 49724
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e30d36aee96f27f1a0e6fa3b856b8c01b14a1404",
+      "bytes": 51776
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/riser_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c7fbeb7fc21cc62cff0cde487b306df40a75e88f",
+      "bytes": 273968
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/riser_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8b93fe5978af0ce77a32f9f03087dd191eff16ce",
+      "bytes": 273968
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/snap_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "4719dbc61b342d666f7421defde06dc67ef8d832",
+      "bytes": 69674
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/snap_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f46abf4f9908947f8c4b93bd5fa920d0443153d7",
+      "bytes": 70832
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/swell_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "2736ec21dfd541d803e513601d3c178e37207b03",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/swell_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "d46836e7ef994a6276868679c39d8438d9597286",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_A4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3230a144ba1ca3b99cec9db30608a5e5fc7ee7ac",
+      "bytes": 140054
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_C4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0921de00de2796a9f33a33bbb0404a0bfc3a69aa",
+      "bytes": 155354
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_D4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "912954467333841c4836dbc332b95b7fac8a3926",
+      "bytes": 137552
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_E4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0441fb041ab16fd9fcc2eb7232ccfac3b57d312f",
+      "bytes": 161180
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_G4.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8fc59b9e5ee142714b99959029dfd5e16b9b3e63",
+      "bytes": 132776
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "434e59bfe5517999a09304273870700eb30d07cc",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a443109cbbf509bbe7f0a3b336ee2eaf805981c7",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "039b5a4eda563cc4efd581e31c99d0bdb068adba",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7bb5ba9080bc92965454148a5b2b75e879ef52e5",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "dd52b978ae0df14ab3a1b4d7740411a7d83cc01d",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "109e48f180b181216461a8c953c7adb1b49403b1",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "475e6efd592c1c121813b337bfd100ffbadcea43",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac798bc8b863901ff5198b01fdd2d8286595b725",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40e1b0618e281881bece8ddcaf70dd8321bf5be8",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-long_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "313a835318dbbd1b9c7b18d758928c9f738e9d40",
+      "bytes": 296684
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-long_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ee25af438ce9a2d96771f8928e891e63aee46404",
+      "bytes": 303884
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "722c9f2b41e06b436132a0e039b4d3fe48df7c9d",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ba2247149ba93243c2bc949847340e738dade501",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "00cbcd426a8db332bdfcd471681ae76a15bf5f44",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/music.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "3014d2ac073620e87b4546c31c8860167bf7e22e",
+      "bytes": 17280044
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/procedural-effects.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "540fbdeb1e97fa9602eea68f7078a6910980f106",
+      "bytes": 17280044
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6a0b31c6008e949b6d1e7654c61eed4572dce82",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27e751a0477bf116151a3831c9e469629dab9b1a",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/score.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "019a5976e80cc2b3a802a339c49326a913be349b",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/IBMPlexMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "01497cc60dc7de39750e702c395530760cb014cf",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/IBMPlexMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c9770d5183ba60dc4350d3e011b782a320761ae",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/SpaceGrotesk-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f831dbc69f05a4d5abbb54c530f0123bc0ff2d8b",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/SpaceGrotesk.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/style-showreel/assets/gsap.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fde57af06cc445f47ca2a6fc1232ec04666346d4",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/block-punch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efbf04eb52a2e0d3052ad779055781e78971046e",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/deco-shimmer.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a0c2ab75075a57bc1cee89090816abf590a9f6b4",
+      "bytes": 1036844
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/flap-curtain.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c8ca51232e5f40f22209698ad03ac7ac9ea4d805",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/glass-touch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c540877b1d02215dfd21c4b2648e53b29d005fff",
+      "bytes": 43964
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/hit_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ab684101da2f4a44cab89c7da2805ec96ccaae2a",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/holo-shimmer.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "65a394be7539c7f560a1840dba806b7c17829d8a",
+      "bytes": 561644
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/keyboard.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e6a0b31c6008e949b6d1e7654c61eed4572dce82",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "7ea04e281abc079999641f9daa2ae8ee774a4fd4",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/land-light_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e1375aa109673305566e1ba2ae90804a588568e6",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/liquid-bubble.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5a31d31b52448a8ae62750c269dee250b5950b66",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/mesh-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "118d76c2b391d32d1d49f756fc0c661cc3baf731",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/neon-chirp.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5bf93573b69431de99dfaaa548e91fb76625f409",
+      "bytes": 117356
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/paper.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "27e751a0477bf116151a3831c9e469629dab9b1a",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/particle-breath.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "efae1541b7e740d732d6b075f3ba97a2c46beb8f",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "15c0ee1d9fa904fad9934ac574982daa530d777f",
+      "bytes": 97574
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pop_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "e86b6795467802935bb9b09167349b38cd6164e2",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pop_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "09f8add638274d79087125bead63b5bc044d3520",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/shape-swish.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "5ecde194c2364b08454474c5fb9c259b75f6dd97",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/shutter.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b43aefcad137e3b299de330755e515b835514cba",
+      "bytes": 20064
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/signature-swell.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "374be63b59e30f285a3699f140a95e47c3f1a2e0",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tape-burst.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1f6736b7deca3cb4d72056127f9db1214944f51",
+      "bytes": 250160
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "475e6efd592c1c121813b337bfd100ffbadcea43",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ac798bc8b863901ff5198b01fdd2d8286595b725",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40e1b0618e281881bece8ddcaf70dd8321bf5be8",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/type-flick.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "642a24f2b2d3939bf35f2a67d0309bf22341299e",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "722c9f2b41e06b436132a0e039b4d3fe48df7c9d",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ba2247149ba93243c2bc949847340e738dade501",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_3.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "00cbcd426a8db332bdfcd471681ae76a15bf5f44",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/wire-latch.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c030166b398d0d11d36ab75efa6f5ab0201b8825",
+      "bytes": 46826
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "40307c0b8513abd853c3f650306849ab2a0bdcf1",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/master.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "b12c944cb0ef32163b90aa5b39496ee9b1ef47a8",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/music-edit.wav",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "bbcb5d80575ad246e3346d0c0b84b0cafaf5d36c",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/director.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "ddf7d06ae473d450b943fd5ca73126bfdb356319",
+      "bytes": 645812
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/EBGaramond-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "c1ec5e1818415eab6f8fca95a230af477d64eb61",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/EBGaramond.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "52d34b86ec20977f222ce37e8158e6b3002c0a31",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/IBMPlexMono-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "01497cc60dc7de39750e702c395530760cb014cf",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/IBMPlexMono-Regular.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "0c9770d5183ba60dc4350d3e011b782a320761ae",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/SpaceGrotesk-OFL.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "f831dbc69f05a4d5abbb54c530f0123bc0ff2d8b",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/SpaceGrotesk.ttf",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/vendor/LICENSE-three.txt",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "8ada2a5f982916b0ba4b7a0aa7de347587e745d7",
+      "bytes": 1081
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/vendor/gsap.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "oid": "fde57af06cc445f47ca2a6fc1232ec04666346d4",
+      "bytes": 72779
+    }
+  ],
+  "existing": [],
+  "errors": []
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-28",
+  "file": "out/realme-buds-air8-extended/realme-Buds-Air8-Make-It-Real-Architects-of-Motion.mp4",
+  "bytes": 75825928,
+  "sha256": "ea2278f42af657e6f656fddda99f39669d962affbe80a9243d24072d98717bc0",
+  "duration": 120,
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "frames": 7200,
+  "videoBitstreamSha256": "06bd30a45c81faac50f39ba0676d3bebe638a34f5f5edbeda5d74bc8dfe4af0a",
+  "videoIdenticalTo": "out/realme-buds-air8-extended/realme-Buds-Air8-Make-It-Real.mp4",
+  "audio": {
+    "codec": "aac",
+    "sampleRate": 48000,
+    "channels": 2,
+    "lufs": -15.67,
+    "truePeakDbtp": -3.21,
+    "lra": 5.6,
+    "track": "Architects of Motion",
+    "sourceInterval": [
+      0,
+      120
+    ],
+    "cues": 46,
+    "humanListening": false
+  },
+  "previousExportSha256": "340fc9888cb693a47be0bfdd82105725c8ccc30f71862ad153b0c1dfb21414ee",
+  "review": {
+    "visuals": "Previously reviewed; bitstream identical, no visual re-render",
+    "audio": "Real SFX mix/critique, earshot master measurement and final encoded LUFS/peak measurement"
+  }
+}

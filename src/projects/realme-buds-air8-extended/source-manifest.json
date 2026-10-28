@@ -1,0 +1,108 @@
+{
+  "retrievedAt": "2026-10-28",
+  "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+  "note": "Additional official India feature/qualification panels for the extended product film; complements source-manifest.json.",
+  "rights": "© realme. Collected for a personal product-film concept; public campaign clearance is not asserted.",
+  "assets": [
+    {
+      "path": "official-panel-06.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681205937b1d6e8efaf4f45408cc40e2830d216e4.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "88c6adf023c5f763529dd5ea0fc7055bd08db0cfcc789489d1f0e5f63b059001",
+      "bytes": 5262984,
+      "width": 2624,
+      "height": 3138,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-07.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768120688729ce47efe8bc4342a461bcc3fff3a210.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "18b8660c6a6dea8862093cbd65e7e2d9fa325e2bfa664ee9fbb59b36054a9bee",
+      "bytes": 1782578,
+      "width": 2624,
+      "height": 2458,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-08.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768120820994abc165af0548a396e58ea36955c483.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "e8a77fcd048e56a7d06baa84e90e4c63f08c08f826464816f46bdc6786ee59e8",
+      "bytes": 4436457,
+      "width": 2624,
+      "height": 2092,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-09.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768120946316d42436a07749519d03153c6a33d53f.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "60190e8925ee2d1f519354435102b0995c907fbe85139169807c5539b9feb84e",
+      "bytes": 1970820,
+      "width": 2624,
+      "height": 2616,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-10.webp",
+      "url": "https://image01.realme.net/general/20260106/1767681340941cdbd7ff9c4c0487daea4f04b962559c6.webp",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "0d59c30ada4e85741f1af28ffeba6fbe16b535b0c2d62edc305cd9160973b5e0",
+      "bytes": 1208128,
+      "width": 2624,
+      "height": 2604,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-11.jpg",
+      "url": "https://image01.realme.net/general/20260106/176768122051273a3feffa6354c7d85499bf8af5885fd.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "431d6e7c537f04f7bc366b79222af012e2130c341f39f2a5a8a9c9a636b89b1c",
+      "bytes": 2464839,
+      "width": 2624,
+      "height": 2608,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-12.jpg",
+      "url": "https://image01.realme.net/general/20260106/17676812153529d1e79c672c248f896379afe22f3f3b8.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "99df615eaa414f1b641ae30b31b32322f8eb33331ac15cc7e16827a287965dc1",
+      "bytes": 3060224,
+      "width": 2624,
+      "height": 3836,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-13.webp",
+      "url": "https://image01.realme.net/general/20260106/1767681399958174d8cc2d5624aa085a8b946c17c014a.webp",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "ee6131ebeb32a143d0796a6d897c10d3f5ca0402912b1db443677bdac7c4edb9",
+      "bytes": 644592,
+      "width": 2624,
+      "height": 4664,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-14.jpg",
+      "url": "https://image01.realme.net/general/20260106/1767681218072e0be7689c25c43549e96d95a3cf00f49.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "076241fa6f30dc4ccd815e1ad4ad5775b7caccd919af8d5bcd2a9441264256d0",
+      "bytes": 2052899,
+      "width": 2624,
+      "height": 2330,
+      "hasAlpha": false
+    },
+    {
+      "path": "official-panel-15.jpg",
+      "url": "https://image01.realme.net/general/20260106/17676812213849012542af9e14f4b86dddd13659d2645.jpg",
+      "sourcePage": "https://www.realme.com/in/more-products/realme-buds-air-8",
+      "sha256": "e0f553c70d5fea42203782101e9d20e033a96d84a73f7f028b77d037ab47ae93",
+      "bytes": 2190985,
+      "width": 2624,
+      "height": 2834,
+      "hasAlpha": false
+    }
+  ]
+}

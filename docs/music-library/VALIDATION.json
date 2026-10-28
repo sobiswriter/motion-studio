@@ -1,0 +1,40 @@
+{
+  "tracks": 25,
+  "durationSeconds": 3672.216,
+  "sourceHashesPreserved": true,
+  "originalNamesPreserved": true,
+  "completeTrackDecode": true,
+  "audioCachesCreated": false,
+  "windowSelectorSelfChecks": "passed",
+  "semanticModels": "unavailable",
+  "humanListening": false,
+  "analysisVersion": 1,
+  "date": "2026-10-28",
+  "sourceCount": 25,
+  "localMarkdownLinks": 329,
+  "overviewSheetsInspected": 4,
+  "tracksVisuallyCovered": 25,
+  "plots": [
+    "full-track waveform",
+    "full-track log-frequency spectrogram"
+  ],
+  "windowBounds": "all within original durations",
+  "browser": {
+    "search": "Architects gives1/25",
+    "filter": "Product gives7/25",
+    "trackSwitch": "passed",
+    "rangeStartsSeconds": [
+      24.02322,
+      79.166684
+    ],
+    "autoPauseSeconds": 54.179881,
+    "runtimeErrors": 0,
+    "knownFix": "Local HTTP servers may not support Range; audition uses a complete in-memory local blob and waits for seek completion."
+  },
+  "checks": {
+    "npmTest": "passed",
+    "npmLint": "passed",
+    "windowSelectorSelfChecks": "passed",
+    "cachedRerun": "25 source hashes unchanged"
+  }
+}

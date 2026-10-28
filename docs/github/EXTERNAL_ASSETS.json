@@ -1,0 +1,3769 @@
+{
+  "note": "Local inventory, not a download manifest. Request these missing files from the user’s Drive; no Drive URL supplied. File sizes are an inventory snapshot, not checksums.",
+  "files": [
+    {
+      "path": "assets/music/Apex_Horizon.mp3",
+      "bytes": 1521434
+    },
+    {
+      "path": "assets/music/Architects_of_Motion.mp3",
+      "bytes": 4297521
+    },
+    {
+      "path": "assets/music/A_Pale_Blue_Stillness.mp3",
+      "bytes": 3927001
+    },
+    {
+      "path": "assets/music/Beneath_Polished_Surfaces.mp3",
+      "bytes": 4276205
+    },
+    {
+      "path": "assets/music/Beyond_the_Last_Star.mp3",
+      "bytes": 3872456
+    },
+    {
+      "path": "assets/music/Cold_Hull_Settling.mp3",
+      "bytes": 4158340
+    },
+    {
+      "path": "assets/music/From_a_Silent_Vantage_Point.mp3",
+      "bytes": 4205362
+    },
+    {
+      "path": "assets/music/Glass_and_Alloy.mp3",
+      "bytes": 1512655
+    },
+    {
+      "path": "assets/music/Iron_Anatomy.mp3",
+      "bytes": 3939539
+    },
+    {
+      "path": "assets/music/Ivan Is Loading vocal.txt",
+      "bytes": 781
+    },
+    {
+      "path": "assets/music/Ivan_Is_Loading.mp3",
+      "bytes": 1461250
+    },
+    {
+      "path": "assets/music/Losing_the_Tether.mp3",
+      "bytes": 3396611
+    },
+    {
+      "path": "assets/music/Midnight_Curb_Service.mp3",
+      "bytes": 3892518
+    },
+    {
+      "path": "assets/music/Morning_on_the_Marble_Floor.mp3",
+      "bytes": 4284982
+    },
+    {
+      "path": "assets/music/Point_of_Impact.mp3",
+      "bytes": 4296892
+    },
+    {
+      "path": "assets/music/Slow_Gravity.mp3",
+      "bytes": 3942673
+    },
+    {
+      "path": "assets/music/Slow_Unraveling.mp3",
+      "bytes": 4094392
+    },
+    {
+      "path": "assets/music/Steel_In_The_Deep.mp3",
+      "bytes": 3957093
+    },
+    {
+      "path": "assets/music/Stillness_of_the_Outer_Rim.mp3",
+      "bytes": 4098781
+    },
+    {
+      "path": "assets/music/Tactile_Precision.mp3",
+      "bytes": 1659359
+    },
+    {
+      "path": "assets/music/The_Coldest_Reach.mp3",
+      "bytes": 4133890
+    },
+    {
+      "path": "assets/music/The_Golden_Hour_Rise.mp3",
+      "bytes": 2179719
+    },
+    {
+      "path": "assets/music/The_Slowest_Orbit.mp3",
+      "bytes": 3390968
+    },
+    {
+      "path": "assets/music/The_Weight_of_Starlight.mp3",
+      "bytes": 3913207
+    },
+    {
+      "path": "assets/music/The_Weight_of_Stillness.mp3",
+      "bytes": 3609769
+    },
+    {
+      "path": "assets/music/Twelve_Degrees_of_White.mp3",
+      "bytes": 4263666
+    },
+    {
+      "path": "assets/Portfolio/portfolio-screen-recording-2026-10-26.mp4",
+      "bytes": 114799387
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/extended-source-manifest.json",
+      "bytes": 4560
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/master-grey-gallery-02.jpg",
+      "bytes": 205586
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/master-grey-gallery-03.jpg",
+      "bytes": 123682
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/master-grey-gallery-04.jpg",
+      "bytes": 111997
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/master-grey-open-case.png",
+      "bytes": 624177
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-design.jpg",
+      "bytes": 3522973
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-features.jpg",
+      "bytes": 3620454
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-footnotes.jpg",
+      "bytes": 2101529
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-hero.jpg",
+      "bytes": 1012778
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-04.jpg",
+      "bytes": 3411320
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-05.jpg",
+      "bytes": 2342821
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-06.jpg",
+      "bytes": 5262984
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-07.jpg",
+      "bytes": 1782578
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-08.jpg",
+      "bytes": 4436457
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-09.jpg",
+      "bytes": 1970820
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-10.webp",
+      "bytes": 1208128
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-11.jpg",
+      "bytes": 2464839
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-12.jpg",
+      "bytes": 3060224
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-13.webp",
+      "bytes": 644592
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-14.jpg",
+      "bytes": 2052899
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-15.jpg",
+      "bytes": 2190985
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/official-panel-16.jpg",
+      "bytes": 1980433
+    },
+    {
+      "path": "assets/Products/realme-buds-air8/source-manifest.json",
+      "bytes": 4843
+    },
+    {
+      "path": "assets/Reference Vid/catalog.json",
+      "bytes": 25307
+    },
+    {
+      "path": "assets/Reference Vid/README.md",
+      "bytes": 772
+    },
+    {
+      "path": "assets/Reference Vid/REF-01-ai-data-centre-power-to-chip-3d-journey.mp4",
+      "bytes": 28940632
+    },
+    {
+      "path": "assets/Reference Vid/REF-02-dark-ui-toggle-slider-keyboard-relay.mp4",
+      "bytes": 2497458
+    },
+    {
+      "path": "assets/Reference Vid/REF-03-dub-growth-dashboard-partner-launch.mp4",
+      "bytes": 4776872
+    },
+    {
+      "path": "assets/Reference Vid/REF-04-sunset-plane-chase-painterly-clouds.mp4",
+      "bytes": 8557159
+    },
+    {
+      "path": "assets/Reference Vid/REF-05-kinetic-type-and-acid-chrome-double-reel.mp4",
+      "bytes": 17435601
+    },
+    {
+      "path": "assets/Reference Vid/REF-06-point-line-plane-volume-fluid-showreel.mp4",
+      "bytes": 15972860
+    },
+    {
+      "path": "assets/Reference Vid/REF-07-motionsites-launch-million-milestone.mp4",
+      "bytes": 13119613
+    },
+    {
+      "path": "assets/Reference Vid/REF-08-blue-dot-animation-principles-type-lab.mp4",
+      "bytes": 3504812
+    },
+    {
+      "path": "assets/Reference Vid/REF-09-develop-gallery-phone-to-framed-print.mp4",
+      "bytes": 10581423
+    },
+    {
+      "path": "assets/Reference Vid/REF-10-red-blue-easing-races-pattern-to-torus.mp4",
+      "bytes": 6374918
+    },
+    {
+      "path": "assets/Reference Vid/REF-11-vincents-cats-starry-night-world-journey.mp4",
+      "bytes": 10381149
+    },
+    {
+      "path": "assets/Reference Vid/REF-12-white-russian-hand-drawn-recipe.mp4",
+      "bytes": 3267837
+    },
+    {
+      "path": "assets/Reference Vid/REF-13-enxovaly-lavender-planner-to-nursery.mp4",
+      "bytes": 5360486
+    },
+    {
+      "path": "assets/Reference Vid/REF-14-ai-inner-monologue-terminal-kinetic-essay.mp4",
+      "bytes": 28574962
+    },
+    {
+      "path": "assets/Reference Vid/REF-15-keep-thinking-editorial-cutout-collage.mp4",
+      "bytes": 7851390
+    },
+    {
+      "path": "assets/Reference Vid/REF-16-ai-superpowers-calm-newsletter-explainer.mp4",
+      "bytes": 1211453
+    },
+    {
+      "path": "assets/Reference Vid/REF-17-perspective-website-flythrough-depth-of-field.mp4",
+      "bytes": 3937265
+    },
+    {
+      "path": "assets/Reference Vid/REF-18-drone-emprit-particles-swarm-network-spike.mp4",
+      "bytes": 18672277
+    },
+    {
+      "path": "assets/Reference Vid/REF-19-brand-identity-logo-to-application-montage.mp4",
+      "bytes": 10622814
+    },
+    {
+      "path": "assets/Reference Vid/REF-20-orange-blue-motion-systems-type-particles-data.mp4",
+      "bytes": 9082458
+    },
+    {
+      "path": "assets/Reference Vid/REF-21-minimal-light-ui-generate-player-chart-loop.mp4",
+      "bytes": 1371953
+    },
+    {
+      "path": "assets/Reference Vid/REF-22-distilbook-illustrated-saas-workflow-launch.mp4",
+      "bytes": 10036919
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/CREDITS.md",
+      "bytes": 374
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_001.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_002.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_003.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "assets/sfx/.media/audio/sfx/sfx_004.mp3",
+      "bytes": 20064
+    },
+    {
+      "path": "assets/sfx/.media/index.md",
+      "bytes": 454
+    },
+    {
+      "path": "assets/sfx/.media/manifest.jsonl",
+      "bytes": 2058
+    },
+    {
+      "path": "assets/sfx/catalog.json",
+      "bytes": 285
+    },
+    {
+      "path": "public/projects/ivans-escape/audio/track.mp3",
+      "bytes": 1461250
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "public/projects/ivans-escape/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-ground.png",
+      "bytes": 1389185
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-left.png",
+      "bytes": 3884216
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary-right.png",
+      "bytes": 3586574
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/boundary.png",
+      "bytes": 8164664
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/commuter.png",
+      "bytes": 169964
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-ground.png",
+      "bytes": 1243412
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-left.png",
+      "bytes": 3367615
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor-right.png",
+      "bytes": 2912988
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/corridor.png",
+      "bytes": 7075742
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/eye.png",
+      "bytes": 4651278
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-0.png",
+      "bytes": 620615
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-1.png",
+      "bytes": 591742
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-10.png",
+      "bytes": 671847
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-11.png",
+      "bytes": 603386
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-2.png",
+      "bytes": 883535
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-3.png",
+      "bytes": 882981
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-4.png",
+      "bytes": 739724
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-5.png",
+      "bytes": 718562
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-6.png",
+      "bytes": 711664
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-7.png",
+      "bytes": 692740
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-8.png",
+      "bytes": 679250
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/facade-9.png",
+      "bytes": 637635
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/final-hero.png",
+      "bytes": 398642
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/foreground.png",
+      "bytes": 1870777
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front-hair.png",
+      "bytes": 49245
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front-hem.png",
+      "bytes": 47857
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/front.png",
+      "bytes": 544914
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/glass.png",
+      "bytes": 6371388
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/hand.png",
+      "bytes": 1559738
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-0.png",
+      "bytes": 511804
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-1.png",
+      "bytes": 521505
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/leap-2.png",
+      "bytes": 506242
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/outside.png",
+      "bytes": 5765834
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/pavement.png",
+      "bytes": 8458885
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-0-hair.png",
+      "bytes": 190497
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-0.png",
+      "bytes": 1158789
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-1-hair.png",
+      "bytes": 205519
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-1.png",
+      "bytes": 1149301
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-2.png",
+      "bytes": 1230008
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/portrait-3.png",
+      "bytes": 1188287
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear-hair.png",
+      "bytes": 47097
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear-hem.png",
+      "bytes": 57524
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/rear.png",
+      "bytes": 518206
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/reflection-portrait-2.png",
+      "bytes": 1228694
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/reflection-portrait-3.png",
+      "bytes": 1187769
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-0.png",
+      "bytes": 17666
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-1.png",
+      "bytes": 18289
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-2.png",
+      "bytes": 18327
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-3.png",
+      "bytes": 18069
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-4.png",
+      "bytes": 18474
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-0-5.png",
+      "bytes": 18745
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-0.png",
+      "bytes": 19303
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-1.png",
+      "bytes": 21274
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-2.png",
+      "bytes": 23465
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-3.png",
+      "bytes": 23360
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-4.png",
+      "bytes": 24240
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-1-5.png",
+      "bytes": 22255
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-0.png",
+      "bytes": 24654
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-1.png",
+      "bytes": 21090
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-2.png",
+      "bytes": 24332
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-3.png",
+      "bytes": 28906
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-4.png",
+      "bytes": 27604
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-2-5.png",
+      "bytes": 29836
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-0.png",
+      "bytes": 31302
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-1.png",
+      "bytes": 25573
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-2.png",
+      "bytes": 27787
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-3.png",
+      "bytes": 34060
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-4.png",
+      "bytes": 35019
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-3-5.png",
+      "bytes": 28576
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-0.png",
+      "bytes": 43510
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-1.png",
+      "bytes": 44009
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-2.png",
+      "bytes": 44825
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-3.png",
+      "bytes": 46129
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-4.png",
+      "bytes": 44768
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-4-5.png",
+      "bytes": 43389
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-0.png",
+      "bytes": 48512
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-1.png",
+      "bytes": 48895
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-2.png",
+      "bytes": 52788
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-3.png",
+      "bytes": 56466
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-4.png",
+      "bytes": 52755
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-5-5.png",
+      "bytes": 48875
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-0.png",
+      "bytes": 49858
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-1.png",
+      "bytes": 55230
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-2.png",
+      "bytes": 61446
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-3.png",
+      "bytes": 61815
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-4.png",
+      "bytes": 58900
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-6-5.png",
+      "bytes": 52410
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-0.png",
+      "bytes": 57890
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-1.png",
+      "bytes": 61242
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-2.png",
+      "bytes": 67920
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-3.png",
+      "bytes": 67603
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-4.png",
+      "bytes": 66949
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-7-5.png",
+      "bytes": 58438
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-0.png",
+      "bytes": 61382
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-1.png",
+      "bytes": 67131
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-2.png",
+      "bytes": 74326
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-3.png",
+      "bytes": 72682
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-4.png",
+      "bytes": 72096
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/road-8-5.png",
+      "bytes": 64086
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/route.png",
+      "bytes": 14583
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-0.png",
+      "bytes": 739521
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-1.png",
+      "bytes": 715399
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-2.png",
+      "bytes": 700540
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/run-3.png",
+      "bytes": 662161
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-0.png",
+      "bytes": 587373
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-1.png",
+      "bytes": 576360
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/shoe-2.png",
+      "bytes": 558980
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/side.png",
+      "bytes": 376722
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/streaks.png",
+      "bytes": 1144363
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/street.png",
+      "bytes": 8333303
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-0.png",
+      "bytes": 481675
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-1.png",
+      "bytes": 442148
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-2.png",
+      "bytes": 494960
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/layers/walk-3.png",
+      "bytes": 452147
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-left.png",
+      "bytes": 4817550
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-right.png",
+      "bytes": 4618631
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary-shell.png",
+      "bytes": 7686506
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/boundary.png",
+      "bytes": 8809482
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/contact-shadow.png",
+      "bytes": 12985
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-ground.png",
+      "bytes": 8762033
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-left.png",
+      "bytes": 4782806
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor-right.png",
+      "bytes": 4373734
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/corridor.png",
+      "bytes": 8762033
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-0.png",
+      "bytes": 825638
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-1.png",
+      "bytes": 837986
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-10.png",
+      "bytes": 812845
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-11.png",
+      "bytes": 779375
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-2.png",
+      "bytes": 894128
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-3.png",
+      "bytes": 885860
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-4.png",
+      "bytes": 880477
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-5.png",
+      "bytes": 782865
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-6.png",
+      "bytes": 833075
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-7.png",
+      "bytes": 841170
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-8.png",
+      "bytes": 840165
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/facade-9.png",
+      "bytes": 814299
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-assigned.png",
+      "bytes": 7689340
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-awakening.png",
+      "bytes": 7136511
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-edge.png",
+      "bytes": 8301782
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-leap-hero.png",
+      "bytes": 8418823
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-outside-hero.png",
+      "bytes": 7859406
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/key-sprint.png",
+      "bytes": 7975732
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/outside.png",
+      "bytes": 7182354
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-0.png",
+      "bytes": 18541
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-1.png",
+      "bytes": 18771
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-2.png",
+      "bytes": 18071
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-3.png",
+      "bytes": 18201
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-4.png",
+      "bytes": 19088
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-0-5.png",
+      "bytes": 18542
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-0.png",
+      "bytes": 25919
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-1.png",
+      "bytes": 24925
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-2.png",
+      "bytes": 24532
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-3.png",
+      "bytes": 27401
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-4.png",
+      "bytes": 25445
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-1-5.png",
+      "bytes": 25401
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-0.png",
+      "bytes": 34695
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-1.png",
+      "bytes": 32902
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-2.png",
+      "bytes": 32493
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-3.png",
+      "bytes": 36592
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-4.png",
+      "bytes": 34104
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-2-5.png",
+      "bytes": 33786
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-0.png",
+      "bytes": 42907
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-1.png",
+      "bytes": 41456
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-2.png",
+      "bytes": 42505
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-3.png",
+      "bytes": 44878
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-4.png",
+      "bytes": 42302
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-3-5.png",
+      "bytes": 40537
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-0.png",
+      "bytes": 51212
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-1.png",
+      "bytes": 46927
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-2.png",
+      "bytes": 51184
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-3.png",
+      "bytes": 51985
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-4.png",
+      "bytes": 47818
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-4-5.png",
+      "bytes": 47530
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-0.png",
+      "bytes": 58884
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-1.png",
+      "bytes": 49965
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-2.png",
+      "bytes": 59283
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-3.png",
+      "bytes": 59738
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-4.png",
+      "bytes": 53805
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-5-5.png",
+      "bytes": 50549
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-0.png",
+      "bytes": 67499
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-1.png",
+      "bytes": 57866
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-2.png",
+      "bytes": 67549
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-3.png",
+      "bytes": 67697
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-4.png",
+      "bytes": 56276
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-6-5.png",
+      "bytes": 56165
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-0.png",
+      "bytes": 71604
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-1.png",
+      "bytes": 61476
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-2.png",
+      "bytes": 72844
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-3.png",
+      "bytes": 69667
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-4.png",
+      "bytes": 60623
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-7-5.png",
+      "bytes": 62589
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-0.png",
+      "bytes": 74217
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-1.png",
+      "bytes": 67154
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-2.png",
+      "bytes": 76987
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-3.png",
+      "bytes": 73070
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-4.png",
+      "bytes": 64105
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/road-8-5.png",
+      "bytes": 69139
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/layers/street.png",
+      "bytes": 7472115
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/assigned.png",
+      "bytes": 2556393
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/awakening.png",
+      "bytes": 2274623
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/boundary.png",
+      "bytes": 2654294
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/corridor.png",
+      "bytes": 2721519
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/edge.png",
+      "bytes": 2750562
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/leap-hero.png",
+      "bytes": 2723039
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/outside-hero.png",
+      "bytes": 2616049
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/outside.png",
+      "bytes": 2321009
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/sprint.png",
+      "bytes": 2648130
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/pass02/source/street.png",
+      "bytes": 2345333
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/boundary.png",
+      "bytes": 2741655
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/corridor.png",
+      "bytes": 2455428
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/eye-insert.png",
+      "bytes": 2806608
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/foreground.png",
+      "bytes": 2090330
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/glass.png",
+      "bytes": 2280202
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-hand.png",
+      "bytes": 1979207
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-leap.png",
+      "bytes": 2081683
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-model.png",
+      "bytes": 2053262
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-portraits.png",
+      "bytes": 2030257
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-run.png",
+      "bytes": 1456125
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-shoe.png",
+      "bytes": 1378060
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/ivan-walk.png",
+      "bytes": 2219196
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/outside.png",
+      "bytes": 2256974
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/pavement.png",
+      "bytes": 3224999
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/streaks.png",
+      "bytes": 604080
+    },
+    {
+      "path": "public/projects/ivans-escape/illustrated/source/street.png",
+      "bytes": 2960341
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-left.png",
+      "bytes": 1539074
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-right.png",
+      "bytes": 1699206
+    },
+    {
+      "path": "public/projects/ivans-escape/images/boundary-road.png",
+      "bytes": 3864048
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch01-walk-a.png",
+      "bytes": 1348318
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch02-walk-b.png",
+      "bytes": 1521162
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-outline.png",
+      "bytes": 23001
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-r-reflection.png",
+      "bytes": 1426989
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch03-rear.png",
+      "bytes": 1350621
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch04-r-reflection.png",
+      "bytes": 1436351
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch04-turn.png",
+      "bytes": 1333976
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch05-closeup.png",
+      "bytes": 4049841
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch06-foot.png",
+      "bytes": 1371123
+    },
+    {
+      "path": "public/projects/ivans-escape/images/ch07-run.png",
+      "bytes": 1588544
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-distant.png",
+      "bytes": 1923667
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-mid.png",
+      "bytes": 1415631
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-near.png",
+      "bytes": 3030850
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-road.png",
+      "bytes": 2367092
+    },
+    {
+      "path": "public/projects/ivans-escape/images/city-sky.png",
+      "bytes": 1273186
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-1.png",
+      "bytes": 148722
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-2.png",
+      "bytes": 148579
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-3.png",
+      "bytes": 148794
+    },
+    {
+      "path": "public/projects/ivans-escape/images/commuter-4.png",
+      "bytes": 148576
+    },
+    {
+      "path": "public/projects/ivans-escape/images/contact-shadow.png",
+      "bytes": 12534
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-far.png",
+      "bytes": 700734
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-ground.png",
+      "bytes": 3104443
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-left.png",
+      "bytes": 3088808
+    },
+    {
+      "path": "public/projects/ivans-escape/images/corridor-right.png",
+      "bytes": 3027850
+    },
+    {
+      "path": "public/projects/ivans-escape/images/crowd.png",
+      "bytes": 1282803
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env01-city.png",
+      "bytes": 8300079
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env01-clean.png",
+      "bytes": 8266419
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env02-clean.png",
+      "bytes": 9464066
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env02-street.png",
+      "bytes": 9608020
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env03-glass.png",
+      "bytes": 9721794
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env04-corridor.png",
+      "bytes": 9502209
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env05-boundary.png",
+      "bytes": 8623660
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env05-void.png",
+      "bytes": 5426674
+    },
+    {
+      "path": "public/projects/ivans-escape/images/env06-outside.png",
+      "bytes": 5430372
+    },
+    {
+      "path": "public/projects/ivans-escape/images/exit-left.png",
+      "bytes": 5135602
+    },
+    {
+      "path": "public/projects/ivans-escape/images/exit-right.png",
+      "bytes": 5079154
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-0.png",
+      "bytes": 565533
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-1.png",
+      "bytes": 414308
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-10.png",
+      "bytes": 405817
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-11.png",
+      "bytes": 522180
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-2.png",
+      "bytes": 574839
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-3.png",
+      "bytes": 698721
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-4.png",
+      "bytes": 596929
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-5.png",
+      "bytes": 477299
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-6.png",
+      "bytes": 484557
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-7.png",
+      "bytes": 595772
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-8.png",
+      "bytes": 702861
+    },
+    {
+      "path": "public/projects/ivans-escape/images/facade-9.png",
+      "bytes": 558666
+    },
+    {
+      "path": "public/projects/ivans-escape/images/glass-frame.png",
+      "bytes": 7206236
+    },
+    {
+      "path": "public/projects/ivans-escape/images/outside-ground.png",
+      "bytes": 3302085
+    },
+    {
+      "path": "public/projects/ivans-escape/images/outside-sky.png",
+      "bytes": 2309154
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-0.png",
+      "bytes": 31766
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-1.png",
+      "bytes": 27584
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-2.png",
+      "bytes": 24941
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-3.png",
+      "bytes": 24169
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-4.png",
+      "bytes": 24714
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-5.png",
+      "bytes": 25379
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-6.png",
+      "bytes": 25870
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-7.png",
+      "bytes": 27480
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-0-8.png",
+      "bytes": 33521
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-0.png",
+      "bytes": 46559
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-1.png",
+      "bytes": 42662
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-2.png",
+      "bytes": 42361
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-3.png",
+      "bytes": 41467
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-4.png",
+      "bytes": 40520
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-5.png",
+      "bytes": 41071
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-6.png",
+      "bytes": 42975
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-7.png",
+      "bytes": 42252
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-1-8.png",
+      "bytes": 48457
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-0.png",
+      "bytes": 60404
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-1.png",
+      "bytes": 55889
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-2.png",
+      "bytes": 61835
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-3.png",
+      "bytes": 60185
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-4.png",
+      "bytes": 56502
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-5.png",
+      "bytes": 57586
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-6.png",
+      "bytes": 60134
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-7.png",
+      "bytes": 54353
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-2-8.png",
+      "bytes": 63346
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-0.png",
+      "bytes": 72579
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-1.png",
+      "bytes": 71613
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-2.png",
+      "bytes": 81026
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-3.png",
+      "bytes": 79221
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-4.png",
+      "bytes": 71438
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-5.png",
+      "bytes": 75028
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-6.png",
+      "bytes": 77141
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-7.png",
+      "bytes": 70538
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-3-8.png",
+      "bytes": 75647
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-0.png",
+      "bytes": 75849
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-1.png",
+      "bytes": 81939
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-2.png",
+      "bytes": 97242
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-3.png",
+      "bytes": 100596
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-4.png",
+      "bytes": 86113
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-5.png",
+      "bytes": 87562
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-6.png",
+      "bytes": 92145
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-7.png",
+      "bytes": 80085
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-4-8.png",
+      "bytes": 79099
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-0.png",
+      "bytes": 54000
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-1.png",
+      "bytes": 95262
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-2.png",
+      "bytes": 118106
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-3.png",
+      "bytes": 123554
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-4.png",
+      "bytes": 102599
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-5.png",
+      "bytes": 106513
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-6.png",
+      "bytes": 107930
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-7.png",
+      "bytes": 92916
+    },
+    {
+      "path": "public/projects/ivans-escape/images/road-5-8.png",
+      "bytes": 56245
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-bollard.png",
+      "bytes": 2991761
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-ground.png",
+      "bytes": 4002132
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-near.png",
+      "bytes": 2186904
+    },
+    {
+      "path": "public/projects/ivans-escape/images/street-strip.png",
+      "bytes": 382984
+    },
+    {
+      "path": "public/projects/ivans-escape/images/wireframe.png",
+      "bytes": 385405
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-left.svg",
+      "bytes": 177
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-right.svg",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/boundary-road.svg",
+      "bytes": 194
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-distant.svg",
+      "bytes": 177
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-mid.svg",
+      "bytes": 280
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-near.svg",
+      "bytes": 330
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-road.svg",
+      "bytes": 184
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/city-sky.svg",
+      "bytes": 174
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-far.svg",
+      "bytes": 183
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-ground.svg",
+      "bytes": 198
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-left.svg",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/corridor-right.svg",
+      "bytes": 180
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/exit-left.svg",
+      "bytes": 173
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/exit-right.svg",
+      "bytes": 175
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-0.svg",
+      "bytes": 329
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-1.svg",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-10.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-11.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-2.svg",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-3.svg",
+      "bytes": 333
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-4.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-5.svg",
+      "bytes": 347
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-6.svg",
+      "bytes": 333
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-7.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-8.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/facade-9.svg",
+      "bytes": 346
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/glass-frame.svg",
+      "bytes": 354
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/glass.svg",
+      "bytes": 187
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/outside-ground.svg",
+      "bytes": 175
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/outside-sky.svg",
+      "bytes": 174
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/path-boundary.svg",
+      "bytes": 153
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-ground.svg",
+      "bytes": 182
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-near.svg",
+      "bytes": 239
+    },
+    {
+      "path": "public/projects/ivans-escape/masks/street-strip.svg",
+      "bytes": 184
+    },
+    {
+      "path": "public/projects/ivans-escape/references/sh01-layout.svg",
+      "bytes": 917
+    },
+    {
+      "path": "public/projects/ivans-escape/references/sh02-city-style-v01.png",
+      "bytes": 2378740
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch01-walk-a.png",
+      "bytes": 1607550
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch02-walk-b.png",
+      "bytes": 1774134
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch03-r-reflection.png",
+      "bytes": 1620954
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch03-rear.png",
+      "bytes": 1620087
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch04-r-reflection.png",
+      "bytes": 1694547
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch04-turn.png",
+      "bytes": 1660218
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch05-closeup.png",
+      "bytes": 2019828
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch06-foot.png",
+      "bytes": 1567296
+    },
+    {
+      "path": "public/projects/ivans-escape/source/ch07-run.png",
+      "bytes": 1773571
+    },
+    {
+      "path": "public/projects/ivans-escape/source/crowd.png",
+      "bytes": 1674819
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env01-city.png",
+      "bytes": 2293209
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env01-clean.png",
+      "bytes": 2363465
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env02-clean.png",
+      "bytes": 2677854
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env02-street.png",
+      "bytes": 2818888
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env03-glass.png",
+      "bytes": 2908941
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env04-corridor.png",
+      "bytes": 2619771
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env05-boundary.png",
+      "bytes": 2562215
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env05-void.png",
+      "bytes": 1797537
+    },
+    {
+      "path": "public/projects/ivans-escape/source/env06-outside.png",
+      "bytes": 1980536
+    },
+    {
+      "path": "public/projects/ivans-escape/source/street-bollard.png",
+      "bytes": 2433956
+    },
+    {
+      "path": "public/projects/_demo/audio/preflight.wav",
+      "bytes": 384044
+    },
+    {
+      "path": "public/projects/_demo/images/foreground.png",
+      "bytes": 58474
+    },
+    {
+      "path": "public/projects/_demo/images/mid.png",
+      "bytes": 30853
+    },
+    {
+      "path": "public/projects/_demo/images/plate.png",
+      "bytes": 110071
+    },
+    {
+      "path": "public/projects/_demo/images/pose-a.png",
+      "bytes": 10730
+    },
+    {
+      "path": "public/projects/_demo/images/pose-b.png",
+      "bytes": 10703
+    },
+    {
+      "path": "public/projects/_demo/masks/soft-window.png",
+      "bytes": 2695
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/director.js",
+      "bytes": 29716
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/EBGaramond-OFL.txt",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/experience.png",
+      "bytes": 115422
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/galaxy.png",
+      "bytes": 466429
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/launchsilo-context.png",
+      "bytes": 223728
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/launchsilo-recording.png",
+      "bytes": 83206
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/launchsilo.png",
+      "bytes": 256843
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/legallm.png",
+      "bytes": 114475
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/overview.png",
+      "bytes": 698295
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/portrait.jpg",
+      "bytes": 445218
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/research.png",
+      "bytes": 306668
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/images/skills.png",
+      "bytes": 827690
+    },
+    {
+      "path": "src/projects/portfolio-designed/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/shape-swish.wav",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/director.js",
+      "bytes": 19078
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-1-next.png",
+      "bytes": 749828
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-1-old.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-10-next.png",
+      "bytes": 1311426
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-10-old.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-11-next.png",
+      "bytes": 555879
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-11-old.png",
+      "bytes": 1413822
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-12-next.png",
+      "bytes": 1859946
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-12-old.png",
+      "bytes": 448342
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-13-next.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-13-old.png",
+      "bytes": 1244256
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-14-next.png",
+      "bytes": 744768
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-14-old.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-15-next.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-15-old.png",
+      "bytes": 810160
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-2-next.png",
+      "bytes": 994407
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-2-old.png",
+      "bytes": 873424
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-3-next.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-3-old.png",
+      "bytes": 681003
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-4-next.png",
+      "bytes": 1625509
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-4-old.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-5-next.png",
+      "bytes": 210811
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-5-old.png",
+      "bytes": 1280107
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-6-next.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-6-old.png",
+      "bytes": 261677
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-7-next.png",
+      "bytes": 1213693
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-7-old.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-8-next.png",
+      "bytes": 915066
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-8-old.png",
+      "bytes": 1273702
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-9-next.png",
+      "bytes": 8659
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/endpoints/handoff-9-old.png",
+      "bytes": 731329
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/EBGaramond-OFL.txt",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/media/footage-edit.mp4",
+      "bytes": 84961869
+    },
+    {
+      "path": "src/projects/portfolio-film/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/audio/music-edit.wav",
+      "bytes": 23040078
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/director.js",
+      "bytes": 30002
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/EBGaramond-OFL.txt",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-ai.png",
+      "bytes": 1260923
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-contact.png",
+      "bytes": 550279
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-experience.png",
+      "bytes": 819889
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-galaxy.png",
+      "bytes": 724442
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-person.png",
+      "bytes": 1758601
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-project.png",
+      "bytes": 1199936
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-research.png",
+      "bytes": 628025
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/frame-skills.png",
+      "bytes": 1384380
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/launchsilo.png",
+      "bytes": 256843
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/portrait.jpg",
+      "bytes": 445218
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/profile-back.png",
+      "bytes": 1505419
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/profile-front.png",
+      "bytes": 1911048
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/space-deep.jpg",
+      "bytes": 176780
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/space-galaxy.jpg",
+      "bytes": 212599
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/images/space-nebula.jpg",
+      "bytes": 131047
+    },
+    {
+      "path": "src/projects/portfolio-space/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/CREDITS.md",
+      "bytes": 2217
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/critique-round1.md",
+      "bytes": 2303
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/critique-round2.md",
+      "bytes": 1865
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/critique.md",
+      "bytes": 1865
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/cue-report.md",
+      "bytes": 2627
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/cues.json",
+      "bytes": 5949
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/aperture-servo.wav",
+      "bytes": 374444
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/hit_1.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/shutter.mp3",
+      "bytes": 20064
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/slices/keyboard_4_81.wav",
+      "bytes": 23430
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/slices/shutter_464_51.wav",
+      "bytes": 14790
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/slices/wood_0_180.wav",
+      "bytes": 51942
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/effects.wav",
+      "bytes": 12960102
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/master.wav",
+      "bytes": 12960102
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/measurement.json",
+      "bytes": 1557
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/music.wav",
+      "bytes": 12960102
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/provenance.json",
+      "bytes": 20244
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/audio/resolved-cues.json",
+      "bytes": 21932
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/director.js",
+      "bytes": 14671
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/bud-1.png",
+      "bytes": 471577
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/bud-2.png",
+      "bytes": 473226
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/case.png",
+      "bytes": 1417531
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/hero.png",
+      "bytes": 624177
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/macro.jpg",
+      "bytes": 387399
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/images/preparation.json",
+      "bytes": 616
+    },
+    {
+      "path": "src/projects/realme-buds-air8/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/architects-crop-earshot.json",
+      "bytes": 1122
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/architects-source-earshot.json",
+      "bytes": 1086
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/candidate-contours.json",
+      "bytes": 18519
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/candidates-earshot.json",
+      "bytes": 5830
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/coldest-beats.json",
+      "bytes": 4758
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/coldest-crop-earshot.json",
+      "bytes": 1091
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/coldest-source-earshot.json",
+      "bytes": 1060
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/CREDITS.md",
+      "bytes": 2622
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/critique-coldest-round1.md",
+      "bytes": 2397
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/critique-coldest-round2.md",
+      "bytes": 2287
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/critique-round1.md",
+      "bytes": 2427
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/critique-round2.md",
+      "bytes": 2329
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/critique.md",
+      "bytes": 2318
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/cue-report.md",
+      "bytes": 5186
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/cues.json",
+      "bytes": 12658
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/earshot-master.json",
+      "bytes": 1078
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/aperture-servo.wav",
+      "bytes": 374444
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/ascii-data.wav",
+      "bytes": 192914
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/bell_E5.wav",
+      "bytes": 126722
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/clay-contact.wav",
+      "bytes": 42440
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/deco-shimmer.wav",
+      "bytes": 1036844
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/glass-touch.wav",
+      "bytes": 43964
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/hit_1.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/holo-shimmer.wav",
+      "bytes": 561644
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/key_6.wav",
+      "bytes": 59918
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/neon-chirp.wav",
+      "bytes": 117356
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/pixel-rise.wav",
+      "bytes": 97574
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/pop_1.wav",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/pop_2.wav",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/shape-swish.wav",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/shutter.mp3",
+      "bytes": 20064
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/slices/keyboard_4_81.wav",
+      "bytes": 23430
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/slices/shutter_464_51.wav",
+      "bytes": 14790
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/slices/wood_0_180.wav",
+      "bytes": 51942
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/tape-burst.wav",
+      "bytes": 250160
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/whoosh-long_1.wav",
+      "bytes": 296684
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/wire-latch.wav",
+      "bytes": 46826
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/effects.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/master.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/measurement.json",
+      "bytes": 1583
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/music.wav",
+      "bytes": 34560102
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/point-beats.json",
+      "bytes": 8955
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/provenance.json",
+      "bytes": 41870
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/resolved-cues.json",
+      "bytes": 48635
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/audio/selected-crop-earshot.json",
+      "bytes": 1067
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/director.js",
+      "bytes": 33955
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/angled.png",
+      "bytes": 1150871
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/bud-1.png",
+      "bytes": 471577
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/bud-2.png",
+      "bytes": 473226
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/case.png",
+      "bytes": 1417531
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/hero.png",
+      "bytes": 624177
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/macro.jpg",
+      "bytes": 387399
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/preparation.json",
+      "bytes": 616
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/realme-wordmark-source.json",
+      "bytes": 1028
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/images/realme-wordmark.svg",
+      "bytes": 1626
+    },
+    {
+      "path": "src/projects/realme-buds-air8-extended/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_A4.wav",
+      "bytes": 132290
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_A5.wav",
+      "bytes": 127526
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_C5.wav",
+      "bytes": 130460
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_C6.wav",
+      "bytes": 120950
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_D5.wav",
+      "bytes": 138422
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_D6.wav",
+      "bytes": 119216
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_E5.wav",
+      "bytes": 126722
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_E6.wav",
+      "bytes": 121376
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_G4.wav",
+      "bytes": 133088
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/bell_G5.wav",
+      "bytes": 130112
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click-confirm_1.wav",
+      "bytes": 122444
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click_1.wav",
+      "bytes": 38066
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/click_2.wav",
+      "bytes": 38066
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/drop_1.wav",
+      "bytes": 93644
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/drop_2.wav",
+      "bytes": 92204
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_1.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_2.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/hit_3.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-return_1.wav",
+      "bytes": 60536
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-return_2.wav",
+      "bytes": 65396
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_1.wav",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_2.wav",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_3.wav",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key-space_4.wav",
+      "bytes": 112370
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_10.wav",
+      "bytes": 62426
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_11.wav",
+      "bytes": 61298
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_12.wav",
+      "bytes": 56786
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_6.wav",
+      "bytes": 59918
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_7.wav",
+      "bytes": 60926
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_8.wav",
+      "bytes": 61190
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/key_9.wav",
+      "bytes": 63620
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/kit.lock.json",
+      "bytes": 31679
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land-light_3.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_1.wav",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_2.wav",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_3.wav",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/land_4.wav",
+      "bytes": 49454
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_1.wav",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_2.wav",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_3.wav",
+      "bytes": 49724
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/pop_4.wav",
+      "bytes": 51776
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/riser_1.wav",
+      "bytes": 273968
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/riser_2.wav",
+      "bytes": 273968
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/snap_1.wav",
+      "bytes": 69674
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/snap_2.wav",
+      "bytes": 70832
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/swell_1.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/swell_2.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_A4.wav",
+      "bytes": 140054
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_C4.wav",
+      "bytes": 155354
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_D4.wav",
+      "bytes": 137552
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_E4.wav",
+      "bytes": 161180
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/text_G4.wav",
+      "bytes": 132776
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_1.wav",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_2.wav",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick-crisp_3.wav",
+      "bytes": 10784
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_1.wav",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_2.wav",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tick_3.wav",
+      "bytes": 11240
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-long_1.wav",
+      "bytes": 296684
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-long_2.wav",
+      "bytes": 303884
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/kit/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/music.wav",
+      "bytes": 17280044
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/procedural-effects.wav",
+      "bytes": 17280044
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/recordings/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/recordings/paper-turn.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/style-showreel/assets/audio/score.wav",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/style-showreel/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/style-showreel/assets/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/aperture-servo.wav",
+      "bytes": 374444
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/ascii-data.wav",
+      "bytes": 192914
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/bell_E5.wav",
+      "bytes": 126722
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/clay-contact.wav",
+      "bytes": 42440
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/deco-shimmer.wav",
+      "bytes": 1036844
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/glass-touch.wav",
+      "bytes": 43964
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/hit_1.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/holo-shimmer.wav",
+      "bytes": 561644
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_1.wav",
+      "bytes": 55820
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_2.wav",
+      "bytes": 54002
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_3.wav",
+      "bytes": 63218
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_4.wav",
+      "bytes": 61124
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_5.wav",
+      "bytes": 58538
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_6.wav",
+      "bytes": 59918
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/key_7.wav",
+      "bytes": 60926
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/neon-chirp.wav",
+      "bytes": 117356
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pixel-rise.wav",
+      "bytes": 97574
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pop_1.wav",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/pop_2.wav",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/shape-swish.wav",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/source-kit.lock.json",
+      "bytes": 31679
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tape-burst.wav",
+      "bytes": 250160
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-long_1.wav",
+      "bytes": 296684
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/wire-latch.wav",
+      "bytes": 46826
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/master.wav",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/audio/music-edit.wav",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/director.js",
+      "bytes": 629885
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/EBGaramond-OFL.txt",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/style-showreel-v2/assets/vendor/LICENSE-three.txt",
+      "bytes": 1081
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/block-punch.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/deco-shimmer.wav",
+      "bytes": 1036844
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/flap-curtain.wav",
+      "bytes": 81386
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/glass-touch.wav",
+      "bytes": 43964
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/hit_1.wav",
+      "bytes": 81344
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/holo-shimmer.wav",
+      "bytes": 561644
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/keyboard.mp3",
+      "bytes": 12048
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/land-light_1.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/land-light_2.wav",
+      "bytes": 34748
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/liquid-bubble.wav",
+      "bytes": 79874
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/mesh-swell.wav",
+      "bytes": 264698
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/neon-chirp.wav",
+      "bytes": 117356
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/paper.mp3",
+      "bytes": 24630
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/particle-breath.wav",
+      "bytes": 357164
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pixel-rise.wav",
+      "bytes": 97574
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pop_1.wav",
+      "bytes": 52016
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/pop_2.wav",
+      "bytes": 49676
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/shape-swish.wav",
+      "bytes": 226886
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/shutter.mp3",
+      "bytes": 20064
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/signature-swell.wav",
+      "bytes": 502604
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tape-burst.wav",
+      "bytes": 250160
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_1.wav",
+      "bytes": 44288
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_2.wav",
+      "bytes": 46988
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/tock_3.wav",
+      "bytes": 44864
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/type-flick.wav",
+      "bytes": 89324
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_1.wav",
+      "bytes": 304214
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_2.wav",
+      "bytes": 297014
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/whoosh-short_3.wav",
+      "bytes": 275414
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/wire-latch.wav",
+      "bytes": 46826
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/effects/wood.mp3",
+      "bytes": 24212
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/master.wav",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/audio/music-edit.wav",
+      "bytes": 17280102
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/director.js",
+      "bytes": 645812
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/EBGaramond-OFL.txt",
+      "bytes": 4398
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/EBGaramond.ttf",
+      "bytes": 851176
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/IBMPlexMono-OFL.txt",
+      "bytes": 4363
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/IBMPlexMono-Regular.ttf",
+      "bytes": 135580
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/SpaceGrotesk-OFL.txt",
+      "bytes": 4402
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/fonts/SpaceGrotesk.ttf",
+      "bytes": 136676
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/vendor/gsap.min.js",
+      "bytes": 72779
+    },
+    {
+      "path": "src/projects/twenty-worlds/assets/vendor/LICENSE-three.txt",
+      "bytes": 1081
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "duration": 120,
+  "fps": 60,
+  "scenes": [
+    {
+      "id": "origin",
+      "start": 0,
+      "end": 7,
+      "title": "Make it real — realme reveal",
+      "frame": 0,
+      "endFrame": 420
+    },
+    {
+      "id": "design",
+      "start": 7,
+      "end": 14,
+      "title": "Master design",
+      "kind": "scan",
+      "frame": 420,
+      "endFrame": 840
+    },
+    {
+      "id": "tune",
+      "start": 14,
+      "end": 19,
+      "title": "Tune in",
+      "kind": "kinetic",
+      "word": "TUNE IN",
+      "frame": 840,
+      "endFrame": 1140
+    },
+    {
+      "id": "drivers",
+      "start": 19,
+      "end": 29,
+      "title": "11mm + 6mm dual drivers",
+      "kind": "bauhaus",
+      "frame": 1140,
+      "endFrame": 1740
+    },
+    {
+      "id": "codec",
+      "start": 29,
+      "end": 37,
+      "title": "Hi-Res / LHDC 5.0",
+      "kind": "scan",
+      "accent": "#80E9FF",
+      "frame": 1740,
+      "endFrame": 2220
+    },
+    {
+      "id": "anc",
+      "start": 37,
+      "end": 46,
+      "title": "Up to 55dB ANC",
+      "kind": "liquid",
+      "frame": 2220,
+      "endFrame": 2760
+    },
+    {
+      "id": "calls",
+      "start": 46,
+      "end": 53,
+      "title": "Six microphones",
+      "kind": "comic",
+      "frame": 2760,
+      "endFrame": 3180
+    },
+    {
+      "id": "spatial",
+      "start": 53,
+      "end": 61,
+      "title": "3D Spatial & Dynamic Audio",
+      "kind": "particles",
+      "accent": "#80E9FF",
+      "frame": 3180,
+      "endFrame": 3660
+    },
+    {
+      "id": "gaming",
+      "start": 61,
+      "end": 69,
+      "title": "45ms Gaming Mode",
+      "kind": "brutal",
+      "words": [
+        "READY.",
+        "SET.",
+        "PLAY."
+      ],
+      "frame": 3660,
+      "endFrame": 4140
+    },
+    {
+      "id": "bluetooth",
+      "start": 69,
+      "end": 74,
+      "title": "Bluetooth 5.4",
+      "kind": "scan",
+      "accent": "#80E9FF",
+      "frame": 4140,
+      "endFrame": 4440
+    },
+    {
+      "id": "connection",
+      "start": 74,
+      "end": 83,
+      "title": "3-device connection",
+      "kind": "bauhaus",
+      "frame": 4440,
+      "endFrame": 4980
+    },
+    {
+      "id": "battery",
+      "start": 83,
+      "end": 94,
+      "title": "Up to 58 hours with case",
+      "kind": "kinetic",
+      "word": "KEEP GOING",
+      "frame": 4980,
+      "endFrame": 5640
+    },
+    {
+      "id": "resistance",
+      "start": 94,
+      "end": 101,
+      "title": "IP55 earbuds",
+      "kind": "liquid",
+      "frame": 5640,
+      "endFrame": 6060
+    },
+    {
+      "id": "translation",
+      "start": 101,
+      "end": 108,
+      "title": "AI translation",
+      "kind": "comic",
+      "frame": 6060,
+      "endFrame": 6480
+    },
+    {
+      "id": "remix",
+      "start": 108,
+      "end": 114,
+      "title": "Listen. Move. Repeat.",
+      "kind": "scan",
+      "frame": 6480,
+      "endFrame": 6840
+    },
+    {
+      "id": "signature",
+      "start": 114,
+      "end": 120,
+      "title": "Make it real",
+      "kind": "particles",
+      "frame": 6840,
+      "endFrame": 7200
+    }
+  ],
+  "handoffs": [
+    {
+      "id": "handoff-1",
+      "old": "origin",
+      "next": "design",
+      "kind": "scan",
+      "frame": 420,
+      "startFrame": 393,
+      "endFrame": 447,
+      "options": {}
+    },
+    {
+      "id": "handoff-2",
+      "old": "design",
+      "next": "tune",
+      "kind": "kinetic",
+      "frame": 840,
+      "startFrame": 819,
+      "endFrame": 861,
+      "options": {
+        "word": "TUNE IN"
+      }
+    },
+    {
+      "id": "handoff-3",
+      "old": "tune",
+      "next": "drivers",
+      "kind": "bauhaus",
+      "frame": 1140,
+      "startFrame": 1116,
+      "endFrame": 1164,
+      "options": {}
+    },
+    {
+      "id": "handoff-4",
+      "old": "drivers",
+      "next": "codec",
+      "kind": "scan",
+      "frame": 1740,
+      "startFrame": 1716,
+      "endFrame": 1764,
+      "options": {
+        "accent": "#80E9FF"
+      }
+    },
+    {
+      "id": "handoff-5",
+      "old": "codec",
+      "next": "anc",
+      "kind": "liquid",
+      "frame": 2220,
+      "startFrame": 2196,
+      "endFrame": 2244,
+      "options": {}
+    },
+    {
+      "id": "handoff-6",
+      "old": "anc",
+      "next": "calls",
+      "kind": "comic",
+      "frame": 2760,
+      "startFrame": 2739,
+      "endFrame": 2781,
+      "options": {}
+    },
+    {
+      "id": "handoff-7",
+      "old": "calls",
+      "next": "spatial",
+      "kind": "particles",
+      "frame": 3180,
+      "startFrame": 3153,
+      "endFrame": 3207,
+      "options": {
+        "accent": "#80E9FF"
+      }
+    },
+    {
+      "id": "handoff-8",
+      "old": "spatial",
+      "next": "gaming",
+      "kind": "brutal",
+      "frame": 3660,
+      "startFrame": 3639,
+      "endFrame": 3681,
+      "options": {
+        "words": [
+          "READY.",
+          "SET.",
+          "PLAY."
+        ]
+      }
+    },
+    {
+      "id": "handoff-9",
+      "old": "gaming",
+      "next": "bluetooth",
+      "kind": "scan",
+      "frame": 4140,
+      "startFrame": 4119,
+      "endFrame": 4161,
+      "options": {
+        "accent": "#80E9FF"
+      }
+    },
+    {
+      "id": "handoff-10",
+      "old": "bluetooth",
+      "next": "connection",
+      "kind": "bauhaus",
+      "frame": 4440,
+      "startFrame": 4416,
+      "endFrame": 4464,
+      "options": {}
+    },
+    {
+      "id": "handoff-11",
+      "old": "connection",
+      "next": "battery",
+      "kind": "kinetic",
+      "frame": 4980,
+      "startFrame": 4956,
+      "endFrame": 5004,
+      "options": {
+        "word": "KEEP GOING"
+      }
+    },
+    {
+      "id": "handoff-12",
+      "old": "battery",
+      "next": "resistance",
+      "kind": "liquid",
+      "frame": 5640,
+      "startFrame": 5616,
+      "endFrame": 5664,
+      "options": {}
+    },
+    {
+      "id": "handoff-13",
+      "old": "resistance",
+      "next": "translation",
+      "kind": "comic",
+      "frame": 6060,
+      "startFrame": 6039,
+      "endFrame": 6081,
+      "options": {}
+    },
+    {
+      "id": "handoff-14",
+      "old": "translation",
+      "next": "remix",
+      "kind": "scan",
+      "frame": 6480,
+      "startFrame": 6456,
+      "endFrame": 6504,
+      "options": {}
+    },
+    {
+      "id": "handoff-15",
+      "old": "remix",
+      "next": "signature",
+      "kind": "particles",
+      "frame": 6840,
+      "startFrame": 6813,
+      "endFrame": 6867,
+      "options": {}
+    }
+  ]
+}
